@@ -1,10 +1,32 @@
-# epiotrkow-rss (fixed v2)
+# 📰 RSS – Trybunalski.pl
 
-Statyczny kanał RSS generowany z list newsów epiotrkow.pl.
+Automatycznie generowany kanał RSS dla portalu [**Trybunalski.pl**](https://trybunalski.pl)  
+z kategorii **Wiadomości** (`/k/wiadomosci`).
 
-- Zbiera artykuły z `/news/` oraz `/news/wydarzenia-p2 … p20`.
-- Tytuły pobierane z `.tn-title`, `<h5.tn-title>`, alt obrazka itd.
-- Workflow w `.github/workflows/rss.yml` uruchamia `scraper.py` co godzinę (UTC).
-- Wynik to `feed.xml` gotowy do publikacji na GitHub Pages.
+---
 
-Adres RSS po włączeniu Pages:
+## 🔧 Działanie
+
+- Skrypt (`scraper.py`) pobiera artykuły z **pierwszych 20 stron** kategorii.
+- Dla każdego newsa zapisuje:
+  - tytuł  
+  - link  
+  - datę publikacji  
+  - miniaturę  
+  - lead (pierwszy akapit)
+- Wynik zapisywany jest do `feed.xml`.
+
+---
+
+## ⏰ Automatyczne aktualizacje
+
+GitHub Actions uruchamia scraper **co godzinę**  
+i automatycznie publikuje zaktualizowany plik RSS.
+
+---
+
+## 🌐 Gotowy kanał RSS
+
+Po włączeniu GitHub Pages (Settings → Pages → Branch `main` / `/root`):
+
+📎 **Adres RSS:**  
