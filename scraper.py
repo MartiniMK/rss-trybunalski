@@ -3,8 +3,12 @@
 Statyczny RSS dla https://trybunalski.pl/k/wiadomosci (paginacja ?page=1..20).
 Zachowuje: tytuł, link, pubDate, opis (miniatura + lead), enclosure/media.
 
-Kolejność pozyskania leadu/daty:
-  JSON-LD → klasyczne akapity → (fallback) trafilatura.
+Strategia:
+- Z list kategorii bierzemy po prostu WSZYSTKIE <a href>, filtrujemy regexem:
+  ^/wiadomosci/ ... lub ^https://trybunalski.pl/wiadomosci/
+- Miniatura: szukamy elementów z atrybutem `lazy-background` albo background-image w style
+  w obrębie kotwicy, rodzicach lub rodzeństwie.
+- Lead/data: JSON-LD → akapity → (fallback) trafilatura.
 """
 
 import re
@@ -32,14 +36,18 @@ FEED_LINK  = CATEGORY
 FEED_DESC  = "Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl."
 
 HEADERS: Dict[str, str] = {
-    "User-Agent": "Mozilla/5.0 (+https://github.com/) RSS static builder",
-    "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.8"
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": SITE,
+    "Cache-Control": "no-cache",
 }
 
 MAX_ITEMS = 500
-DETAIL_LIMIT = 500          # ile artykułów wzbogacamy o datę/lead
-LEAD_MAX_CHARS = 1000
-LEAD_MIN_GOOD = 250
+DETAIL_LIMIT = 300          # ile artykułów wzbogacamy o datę/lead
+LEAD_MAX_CHARS = 800
+LEAD_MIN_GOOD = 160
 
 # --- utils ---
 
@@ -58,7 +66,6 @@ def guess_mime(url: Optional[str]) -> str:
 def extract_bg_image_from_style(style: Optional[str]) -> Optional[str]:
     if not style:
         return None
-    # szukamy background-image:url(....)
     m = re.search(r'background-image\s*:\s*url\(([^)]+)\)', style, re.IGNORECASE)
     if not m:
         return None
@@ -70,17 +77,13 @@ def extract_bg_image_from_style(style: Optional[str]) -> Optional[str]:
 def find_image_url_for_card(anchor: BeautifulSoup) -> Optional[str]:
     """
     Na listach Trybunalski.pl obraz jest zwykle w elemencie z atrybutem `lazy-background`
-    i background-image w style. Szukamy w przodkach/rodzeństwie.
+    i background-image w style. Szukamy w przodkach/rodzeństwie/kontenerach.
     """
     # 1) w obrębie <a> poszukaj elementu z lazy-background
     for elem in anchor.select("[lazy-background]"):
-        # najpierw style
-        url = extract_bg_image_from_style(elem.get("style"))
-        if not url:
-            # czasem realny adres jest w samym lazy-background (pełny URL)
-            url = elem.get("lazy-background")
+        url = extract_bg_image_from_style(elem.get("style")) or elem.get("lazy-background")
         if url:
-            return url
+            return absolutize(url)
 
     # 2) w rodzicach kilka poziomów w górę
     parent = anchor
@@ -92,14 +95,14 @@ def find_image_url_for_card(anchor: BeautifulSoup) -> Optional[str]:
         if lazy:
             url = extract_bg_image_from_style(lazy.get("style")) or lazy.get("lazy-background")
             if url:
-                return url
+                return absolutize(url)
 
-    # 3) rodzeństwo
+    # 3) rodzeństwo blisko <a>
     sib = anchor.find_next(attrs={"lazy-background": True})
     if sib:
         url = extract_bg_image_from_style(sib.get("style")) or sib.get("lazy-background")
         if url:
-            return url
+            return absolutize(url)
 
     return None
 
@@ -111,6 +114,15 @@ def clean_text(s: str) -> str:
 
 def to_rfc2822(dt: datetime) -> str:
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+def absolutize(url: str) -> str:
+    if not url:
+        return url
+    if url.startswith("//"):
+        return "https:" + url
+    if url.startswith("/"):
+        return urljoin(SITE, url)
+    return url
 
 # --- LEAD z artykułu ---
 
@@ -140,7 +152,6 @@ def build_lead_from_paras(soup: BeautifulSoup, max_chars: int = LEAD_MAX_CHARS) 
     chunks: List[str] = []
     total = 0
     for p in paras:
-        # pomijaj akapity będące reklamami/nawigacją
         if p.find_parent(class_=re.compile(r"(adPlacement|ads|advert|promo)")):
             continue
         t = p.get_text(" ", strip=True)
@@ -186,7 +197,6 @@ def extract_from_jsonld(soup: BeautifulSoup) -> Tuple[Optional[str], Optional[st
             dp = obj.get("datePublished") or obj.get("dateCreated") or obj.get("uploadDate")
             if dp and not pub_rfc:
                 try:
-                    # ISO 8601 → RFC 2822
                     dt = datetime.fromisoformat(dp.replace("Z", "+00:00"))
                     pub_rfc = to_rfc2822(dt.replace(tzinfo=None))
                 except Exception:
@@ -284,18 +294,7 @@ def fetch_article_details(url: str) -> Tuple[Optional[str], Optional[str]]:
 
 # --- listy artykułów i RSS ---
 
-# Linki do artykułów – różne layouty kart na liście:
-ARTICLE_LINK_SELECTORS: List[str] = [
-    # kafle overlay (duże i mobile)
-    ".image-tile-overlay[href*='/wiadomosci/']",
-    ".image-tile-overlay-mobile a[href*='/wiadomosci/']",
-    # wiersze listy
-    ".news-listing-item a[href*='/wiadomosci/']",
-    # „Przeczytaj jeszcze”
-    ".latest-news__wrapper a[href*='/wiadomosci/']",
-    # bezpieczny fallback
-    "a[href^='https://trybunalski.pl/wiadomosci/']",
-]
+HREF_RE = re.compile(r"^(?:https?://trybunalski\.pl)?/wiadomosci/")
 
 def fetch_items():
     items = []
@@ -309,57 +308,54 @@ def fetch_items():
 
         soup = BeautifulSoup(r.text, "lxml")
 
-        anchors = []
-        for sel in ARTICLE_LINK_SELECTORS:
-            anchors.extend(soup.select(sel))
+        anchors = soup.find_all("a", href=True)
+        if not anchors:
+            print(f"[WARN] no anchors on {url} (len={len(r.text)})", file=sys.stderr)
 
-        # deduplikacja po href
-        seen_href = set()
         clean = []
+        seen_href = set()
         for a in anchors:
-            href = a.get("href")
-            if not href:
-                continue
-            # pełne/relatywne
+            href = a["href"].strip()
+            # absolutyzuj
             if href.startswith("/"):
-                href = urljoin(SITE, href)
-            if not href.startswith("http"):
-                href = urljoin(SITE, href)
-            if href in seen_href:
-                continue
-            # tylko artykuły z /wiadomosci/
-            if "/wiadomosci/" not in href:
-                continue
-            seen_href.add(href)
-            clean.append((a, href))
+                full = urljoin(SITE, href)
+            else:
+                full = href if href.startswith("http") else urljoin(SITE, href)
 
-        for a, link in clean:
+            # filtr: tylko artykuły w /wiadomosci/
+            if not (HREF_RE.match(href) or HREF_RE.match(full.replace(SITE, ""))):
+                continue
+
+            if full in seen_href:
+                continue
+            seen_href.add(full)
+
             # Tytuł
-            title_el = a.select_one(".image-tile-overlay__title") or a.select_one(".image-tile-overlay-mobile__title")
-            if not title_el:
-                # w wierszach listy tytuł jest w <p class="news-listing-item__text"><strong>...</strong>
-                strong = a.select_one(".news-listing-item__text strong")
-                if strong:
-                    title_el = strong
+            title_el = (
+                a.select_one(".image-tile-overlay__title")
+                or a.select_one(".image-tile-overlay-mobile__title")
+                or a.select_one(".news-listing-item__text strong")
+            )
             title = title_el.get_text(" ", strip=True) if title_el else a.get_text(" ", strip=True)
             title = clean_text(title) if title else "Bez tytułu"
 
             # Miniatura
             img_url = find_image_url_for_card(a)
-            if img_url and img_url.startswith("//"):
-                img_url = "https:" + img_url
-            if img_url and img_url.startswith("/"):
-                img_url = urljoin(SITE, img_url)
             mime = guess_mime(img_url) if img_url else None
 
-            guid = hashlib.sha1(link.encode("utf-8")).hexdigest()
-            items.append({
+            guid = hashlib.sha1(full.encode("utf-8")).hexdigest()
+            clean.append({
                 "title": html.unescape(title),
-                "link": link,
+                "link": full,
                 "guid": guid,
                 "image": img_url,
                 "mime": mime
             })
+
+        if not clean:
+            print(f"[WARN] no article links matched on {url}", file=sys.stderr)
+
+        items.extend(clean)
 
     # deduplikacja po linku + ograniczenie
     seen, unique = set(), []
@@ -423,7 +419,8 @@ def build_rss(items):
 
 if __name__ == "__main__":
     items = fetch_items()
+    print(f"[INFO] collected {len(items)} items before RSS build", file=sys.stderr)
     rss = build_rss(items)
     with open("feed.xml", "w", encoding="utf-8") as f:
         f.write(rss)
-    print(f"Generated feed.xml with {len(items)} items (images + miniatures + dates/leads for first {min(len(items), DETAIL_LIMIT)} items)")
+    print(f"Generated feed.xml with {len(items)} items (dates/leads for first {min(len(items), DETAIL_LIMIT)}).")
