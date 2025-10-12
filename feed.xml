@@ -2,10 +2,10 @@
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>Trybunalski.pl – Wiadomości (p1–p20)</title>
+<title>Trybunalski.pl – Wiadomości</title>
 <link>https://trybunalski.pl/k/wiadomosci</link>
-<description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl (p1–p20).</description>
-<lastBuildDate>Sun, 12 Oct 2025 14:40:49 +0000</lastBuildDate>
+<description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
+<lastBuildDate>Sun, 12 Oct 2025 14:46:59 +0000</lastBuildDate>
 <ttl>60</ttl>
 
 </channel>
