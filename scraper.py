@@ -27,9 +27,9 @@ CATEGORY = f"{SITE}/k/wiadomosci"
 # Strony listy: p1..p20
 SOURCE_URLS = [f"{CATEGORY}"] + [f"{CATEGORY}?page={i}" for i in range(2, 21)]
 
-FEED_TITLE = "Trybunalski.pl – Wiadomości (p1–p20)"
+FEED_TITLE = "Trybunalski.pl – Wiadomości"
 FEED_LINK  = CATEGORY
-FEED_DESC  = "Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl (p1–p20)."
+FEED_DESC  = "Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl."
 
 HEADERS: Dict[str, str] = {
     "User-Agent": "Mozilla/5.0 (+https://github.com/) RSS static builder",
@@ -37,9 +37,9 @@ HEADERS: Dict[str, str] = {
 }
 
 MAX_ITEMS = 500
-DETAIL_LIMIT = 300          # ile artykułów wzbogacamy o datę/lead
-LEAD_MAX_CHARS = 800
-LEAD_MIN_GOOD = 160
+DETAIL_LIMIT = 500          # ile artykułów wzbogacamy o datę/lead
+LEAD_MAX_CHARS = 1000
+LEAD_MIN_GOOD = 250
 
 # --- utils ---
 
