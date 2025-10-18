@@ -1,427 +1,343 @@
 # scraper.py
-"""
-Statyczny RSS dla https://trybunalski.pl/k/wiadomosci (paginacja ?page=1..20).
-Zachowuje: tytuł, link, pubDate, opis (miniatura + lead), enclosure/media.
+# RSS generator for https://trybunalski.pl/k/wiadomosci
+# Works on GitHub Actions (Python 3.8+). Dependencies: requests, beautifulsoup4, lxml, python-dateutil
 
-Strategia:
-- Z list kategorii bierzemy po prostu WSZYSTKIE <a href>, filtrujemy regexem:
-  ^/wiadomosci/ ... lub ^https://trybunalski.pl/wiadomosci/
-- Miniatura: szukamy elementów z atrybutem `lazy-background` albo background-image w style
-  w obrębie kotwicy, rodzicach lub rodzeństwie.
-- Lead/data: JSON-LD → akapity → (fallback) trafilatura.
-"""
-
+import os
 import re
 import sys
+import html
 import time
 import json
-import html
 import hashlib
-from datetime import datetime
-from typing import Optional, List, Tuple, Dict
-from urllib.parse import urljoin
+import logging
+from datetime import datetime, timezone
+from email.utils import format_datetime
 
 import requests
 from bs4 import BeautifulSoup
-import trafilatura
+from dateutil import parser as dateparser
 
-SITE = "https://trybunalski.pl"
-CATEGORY = f"{SITE}/k/wiadomosci"
+# -------------------- CONFIG --------------------
 
-# Strony listy: p1..p20
-SOURCE_URLS = [f"{CATEGORY}"] + [f"{CATEGORY}?page={i}" for i in range(2, 21)]
+BASE_URL = "https://trybunalski.pl"
+CATEGORY_URL = "https://trybunalski.pl/k/wiadomosci"
 
-FEED_TITLE = "Trybunalski.pl – Wiadomości"
-FEED_LINK  = CATEGORY
-FEED_DESC  = "Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl."
+MAX_PAGES = int(os.getenv("MAX_PAGES", "20"))          # ile stron kategorii zeskrobać
+MAX_ITEMS = int(os.getenv("MAX_ITEMS", "1000"))         # maks. elementów w RSS
+MAX_LEAD_LEN = int(os.getenv("MAX_LEAD_LEN", "500"))   # maks. długość leadu w opisie
 
-HEADERS: Dict[str, str] = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.8",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Referer": SITE,
-    "Cache-Control": "no-cache",
+OUTPUT_FILE = "feed.xml"
+
+# Wersjonowanie feedu (wymuszenie „odświeżenia” w czytnikach):
+FEED_GUID_SALT = os.getenv("FEED_GUID_SALT", "trybunalski-v4")
+FEED_SELF_URL = os.getenv(
+    "FEED_SELF_URL",
+    "https://martinimk.github.io/rss-trybunalski/feed.xml?v=4"
+)
+
+CHANNEL_TITLE = "Trybunalski.pl – Wiadomości"
+CHANNEL_LINK = CATEGORY_URL
+CHANNEL_DESC = "Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl."
+CHANNEL_LANG = "pl-PL"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; rss-trybunalski/1.0; +https://github.com/)",
+    "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-MAX_ITEMS = 500
-DETAIL_LIMIT = 300          # ile artykułów wzbogacamy o datę/lead
-LEAD_MAX_CHARS = 800
-LEAD_MIN_GOOD = 160
+REQ_TIMEOUT = (10, 20)  # (connect, read)
 
-# --- utils ---
+# -------------------- LOGGING --------------------
 
-def guess_mime(url: Optional[str]) -> str:
-    if not url:
-        return "image/*"
-    u = url.lower()
-    if u.endswith(".webp"):
-        return "image/webp"
-    if u.endswith(".png"):
-        return "image/png"
-    if u.endswith(".jpg") or u.endswith(".jpeg"):
-        return "image/jpeg"
-    return "image/*"
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    stream=sys.stdout,
+)
+log = logging.getLogger("rss-trybunalski")
 
-def extract_bg_image_from_style(style: Optional[str]) -> Optional[str]:
-    if not style:
-        return None
-    m = re.search(r'background-image\s*:\s*url\(([^)]+)\)', style, re.IGNORECASE)
-    if not m:
-        return None
-    url = m.group(1).strip().strip('"\'')
-    if url.startswith("data:"):
-        return None
-    return url
+# -------------------- HTTP --------------------
 
-def find_image_url_for_card(anchor: BeautifulSoup) -> Optional[str]:
-    """
-    Na listach Trybunalski.pl obraz jest zwykle w elemencie z atrybutem `lazy-background`
-    i background-image w style. Szukamy w przodkach/rodzeństwie/kontenerach.
-    """
-    # 1) w obrębie <a> poszukaj elementu z lazy-background
-    for elem in anchor.select("[lazy-background]"):
-        url = extract_bg_image_from_style(elem.get("style")) or elem.get("lazy-background")
-        if url:
-            return absolutize(url)
+session = requests.Session()
+session.headers.update(HEADERS)
 
-    # 2) w rodzicach kilka poziomów w górę
-    parent = anchor
-    for _ in range(4):
-        parent = getattr(parent, "parent", None)
-        if not parent:
-            break
-        lazy = parent.find(attrs={"lazy-background": True})
-        if lazy:
-            url = extract_bg_image_from_style(lazy.get("style")) or lazy.get("lazy-background")
-            if url:
-                return absolutize(url)
-
-    # 3) rodzeństwo blisko <a>
-    sib = anchor.find_next(attrs={"lazy-background": True})
-    if sib:
-        url = extract_bg_image_from_style(sib.get("style")) or sib.get("lazy-background")
-        if url:
-            return absolutize(url)
-
+def get(url):
+    for attempt in range(3):
+        try:
+            resp = session.get(url, timeout=REQ_TIMEOUT)
+            if resp.status_code == 200:
+                return resp
+            log.warning("GET %s -> %s", url, resp.status_code)
+        except requests.RequestException as e:
+            log.warning("GET %s failed (%s) attempt %d", url, e, attempt + 1)
+        time.sleep(0.8 + attempt * 0.5)
     return None
 
+# -------------------- HELPERS --------------------
+
+def absolutize(href: str) -> str:
+    if not href:
+        return ""
+    if href.startswith("http://") or href.startswith("https://"):
+        return href
+    if href.startswith("/"):
+        return BASE_URL + href
+    return BASE_URL + "/" + href.lstrip("./")
+
 def clean_text(s: str) -> str:
-    s = html.unescape(" ".join(s.split()))
-    # usuń „(...)” na końcu listingu, bo to teaser
-    s = re.sub(r"\s*\(\.\.\.\)\s*$", "", s)
-    return s.strip()
+    if not s:
+        return ""
+    s = html.unescape(s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
-def to_rfc2822(dt: datetime) -> str:
-    return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+def truncate(s: str, limit: int) -> str:
+    s = s.strip()
+    if len(s) <= limit:
+        return s
+    return s[:limit].rstrip() + "…"
 
-def absolutize(url: str) -> str:
-    if not url:
-        return url
-    if url.startswith("//"):
-        return "https:" + url
-    if url.startswith("/"):
-        return urljoin(SITE, url)
-    return url
+# -------------------- LISTING PARSE --------------------
 
-# --- LEAD z artykułu ---
+A_HREF_NEWS = re.compile(r"^https?://trybunalski\.pl/wiadomosci/|^/wiadomosci/")
 
-LEAD_SELECTORS: List[str] = [
-    "[itemprop='articleBody'] p",
-    "article .content p",
-    ".article-content p",
-    ".entry-content p",
-    ".post-content p",
-    ".post-text p",
-    ".news-body p",
-    ".news-content p",
-    "article p",
-    "main p",
+def parse_listing(page_html: str):
+    soup = BeautifulSoup(page_html, "lxml")
+    links = set()
+
+    # 1) Kafle typu image-tile-overlay / image-tile
+    for a in soup.select("a[href]"):
+        href = a.get("href", "")
+        if A_HREF_NEWS.search(href):
+            links.add(absolutize(href))
+
+    # 2) Z paginacji nic nie dodajemy – tylko artykuły
+    return list(links)
+
+# -------------------- ARTICLE PARSE --------------------
+
+DATE_META_SELECTORS = [
+    'meta[property="article:published_time"]',
+    'meta[name="article:published_time"]',
+    'meta[name="pubdate"]',
+    'meta[itemprop="datePublished"]',
+    'meta[name="date"]',
 ]
 
-def build_lead_from_paras(soup: BeautifulSoup, max_chars: int = LEAD_MAX_CHARS) -> Optional[str]:
-    paras = []
-    for sel in LEAD_SELECTORS:
-        found = soup.select(sel)
-        if found:
-            paras = found
+def extract_article(resp_text: str, url: str):
+    soup = BeautifulSoup(resp_text, "lxml")
+
+    # Tytuł (og:title albo H1)
+    title = None
+    ogt = soup.select_one('meta[property="og:title"]')
+    if ogt and ogt.get("content"):
+        title = ogt["content"].strip()
+    if not title:
+        h1 = soup.find("h1")
+        if h1:
+            title = clean_text(h1.get_text(" "))
+    if not title:
+        # fallback – ostatni segment URL
+        title = clean_text(url.rstrip("/").split("/")[-1].replace("-", " "))
+
+    # Miniatura (og:image)
+    image = None
+    ogimg = soup.select_one('meta[property="og:image"]')
+    if ogimg and ogimg.get("content"):
+        image = absolutize(ogimg["content"])
+
+    # Lead – spróbuj z treści artykułu: pierwszy akapit
+    lead = None
+
+    # typowe bloki artykułu
+    article_blocks = []
+    article_blocks += soup.select(".article__content")
+    article_blocks += soup.select(".article-content")
+    article_blocks += soup.select("article")
+
+    for blk in article_blocks:
+        p = blk.find("p")
+        if p:
+            lead = clean_text(p.get_text(" "))
             break
-    if not paras:
-        paras = soup.find_all("p")
 
-    chunks: List[str] = []
-    total = 0
-    for p in paras:
-        if p.find_parent(class_=re.compile(r"(adPlacement|ads|advert|promo)")):
-            continue
-        t = p.get_text(" ", strip=True)
-        t = html.unescape(t)
-        if not t or len(t) < 30:
-            continue
-        chunks.append(t)
-        total += len(t) + 1
-        if total >= max_chars:
-            break
+    # fallback: meta description
+    if not lead:
+        md = soup.select_one('meta[name="description"]')
+        if md and md.get("content"):
+            lead = clean_text(md["content"])
 
-    if not chunks:
-        return None
+    # fallback: fragment z lead-in na stronie (czasem renderują w treści)
+    if not lead:
+        # poszukaj dłuższego akapitu w całym dokumencie
+        for p in soup.find_all("p"):
+            txt = clean_text(p.get_text(" "))
+            if len(txt) >= 80:
+                lead = txt
+                break
 
-    lead = " ".join(chunks)
-    if len(lead) > max_chars:
-        cut = lead[:max_chars]
-        cut = cut.rsplit(" ", 1)[0] if " " in cut else cut
-        lead = cut.rstrip() + "…"
-    return lead
+    if not lead:
+        lead = title
 
-def extract_from_jsonld(soup: BeautifulSoup) -> Tuple[Optional[str], Optional[str]]:
-    pub_rfc: Optional[str] = None
-    lead: Optional[str] = None
-    for tag in soup.find_all("script", type="application/ld+json"):
-        raw = tag.string or (tag.contents[0] if tag.contents else "")
-        if not raw:
-            continue
-        try:
-            data = json.loads(raw)
-        except Exception:
-            continue
-        candidates = data if isinstance(data, list) else [data]
-        for obj in candidates:
-            if not isinstance(obj, dict):
-                continue
-            typ = obj.get("@type") or obj.get("type")
-            if isinstance(typ, list):
-                typ = next((t for t in typ if isinstance(t, str)), None)
-            if not (isinstance(typ, str) and ("Article" in typ or "NewsArticle" in typ)):
-                continue
-            # data publikacji
-            dp = obj.get("datePublished") or obj.get("dateCreated") or obj.get("uploadDate")
-            if dp and not pub_rfc:
-                try:
-                    dt = datetime.fromisoformat(dp.replace("Z", "+00:00"))
-                    pub_rfc = to_rfc2822(dt.replace(tzinfo=None))
-                except Exception:
-                    pass
-            # lead: articleBody/description
-            desc = obj.get("description")
-            body = obj.get("articleBody")
-            txt = (body or desc)
-            if txt and not lead:
-                clean = html.unescape(" ".join(str(txt).split()))
-                if len(clean) >= 40:
-                    lead = clean
-        if pub_rfc or lead:
-            break
-    return pub_rfc, lead
+    # Utnij nadmiar
+    lead = truncate(lead, MAX_LEAD_LEN)
 
-def trafilatura_lead(url: str, max_chars: int = LEAD_MAX_CHARS) -> Optional[str]:
-    try:
-        downloaded = trafilatura.fetch_url(url)
-        if not downloaded:
-            return None
-        text = trafilatura.extract(
-            downloaded,
-            include_comments=False,
-            favor_recall=True,
-            with_metadata=False
-        )
-        if not text:
-            return None
-        text = html.unescape(" ".join(text.split()))
-        if len(text) > max_chars:
-            cut = text[:max_chars]
-            cut = cut.rsplit(" ", 1)[0] if " " in cut else cut
-            text = cut.rstrip() + "…"
-        return text if len(text) >= 120 else None
-    except Exception as e:
-        print(f"[WARN] trafilatura failed for {url}: {e}", file=sys.stderr)
-        return None
-
-def fetch_article_details(url: str) -> Tuple[Optional[str], Optional[str]]:
-    """Zwraca (pubDate_rfc2822, lead_txt) z podstrony artykułu."""
-    def _get(url_: str) -> BeautifulSoup:
-        r = requests.get(url_, headers=HEADERS, timeout=25)
-        r.raise_for_status()
-        return BeautifulSoup(r.text, "lxml")
-
-    pub_rfc: Optional[str] = None
-    lead: Optional[str] = None
-
-    try:
-        soup = _get(url)
-    except Exception as e:
-        print(f"[WARN] article fetch failed {url}: {e}", file=sys.stderr)
-        return None, None
-
-    # 1) JSON-LD
-    j_pub, j_lead = extract_from_jsonld(soup)
-    if j_pub:
-        pub_rfc = j_pub
-    if j_lead:
-        lead = j_lead
-
-    # 2) Meta
-    if not pub_rfc:
-        meta = soup.find("meta", attrs={"property": "article:published_time"}) \
-            or soup.find("meta", attrs={"name": "article:published_time"}) \
-            or soup.find("meta", attrs={"itemprop": "datePublished"}) \
-            or soup.find("meta", attrs={"name": "date"})
-        if meta and meta.get("content"):
-            iso = meta["content"].strip()
+    # Data publikacji
+    pub_dt = None
+    # 1) metatagi
+    for sel in DATE_META_SELECTORS:
+        el = soup.select_one(sel)
+        if el and el.get("content"):
             try:
-                dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-                pub_rfc = to_rfc2822(dt.replace(tzinfo=None))
+                pub_dt = dateparser.parse(el["content"])
+                break
             except Exception:
                 pass
 
-    # 3) Akapity
-    if not lead or len(lead) < LEAD_MIN_GOOD:
-        built = build_lead_from_paras(soup, max_chars=LEAD_MAX_CHARS)
-        if built and len(built) >= LEAD_MIN_GOOD:
-            lead = built
+    # 2) ze struktury tekstu: „Opublikowano: ...” lub „Aktualizacja: ...”
+    if not pub_dt:
+        txt = soup.get_text(" ", strip=True)
+        m = re.search(r"Opublikowano:\s*([^|]+?)\s*(Aktualizacja:|Autor:|$)", txt, re.IGNORECASE)
+        if m:
+            date_fragment = m.group(1)
+            try:
+                pub_dt = dateparser.parse(date_fragment, dayfirst=True, fuzzy=True, languages=["pl"])
+            except Exception:
+                pub_dt = None
 
-    # 4) Trafialtura jako ostatni fallback
-    if not lead or len(lead) < LEAD_MIN_GOOD:
-        t_lead = trafilatura_lead(url, max_chars=LEAD_MAX_CHARS)
-        if t_lead and len(t_lead) >= LEAD_MIN_GOOD:
-            lead = t_lead
+    # 3) fallback: teraz
+    if not pub_dt:
+        pub_dt = datetime.now(timezone.utc)
+    else:
+        if pub_dt.tzinfo is None:
+            pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+        else:
+            pub_dt = pub_dt.astimezone(timezone.utc)
 
-    if lead:
-        lead = " ".join(lead.split())
-        if len(lead) < 80 and not re.search(r"[.!?…]$", lead):
-            lead = None
+    return {
+        "title": clean_text(title),
+        "link": url,
+        "image": image,
+        "lead": lead,
+        "pubdate": pub_dt,
+    }
 
-    return pub_rfc, lead
-
-# --- listy artykułów i RSS ---
-
-HREF_RE = re.compile(r"^(?:https?://trybunalski\.pl)?/wiadomosci/")
-
-def fetch_items():
-    items = []
-    for url in SOURCE_URLS:
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=25)
-            r.raise_for_status()
-        except Exception as e:
-            print(f"[WARN] list fetch failed {url}: {e}", file=sys.stderr)
-            continue
-
-        soup = BeautifulSoup(r.text, "lxml")
-
-        anchors = soup.find_all("a", href=True)
-        if not anchors:
-            print(f"[WARN] no anchors on {url} (len={len(r.text)})", file=sys.stderr)
-
-        clean = []
-        seen_href = set()
-        for a in anchors:
-            href = a["href"].strip()
-            # absolutyzuj
-            if href.startswith("/"):
-                full = urljoin(SITE, href)
-            else:
-                full = href if href.startswith("http") else urljoin(SITE, href)
-
-            # filtr: tylko artykuły w /wiadomosci/
-            if not (HREF_RE.match(href) or HREF_RE.match(full.replace(SITE, ""))):
-                continue
-
-            if full in seen_href:
-                continue
-            seen_href.add(full)
-
-            # Tytuł
-            title_el = (
-                a.select_one(".image-tile-overlay__title")
-                or a.select_one(".image-tile-overlay-mobile__title")
-                or a.select_one(".news-listing-item__text strong")
-            )
-            title = title_el.get_text(" ", strip=True) if title_el else a.get_text(" ", strip=True)
-            title = clean_text(title) if title else "Bez tytułu"
-
-            # Miniatura
-            img_url = find_image_url_for_card(a)
-            mime = guess_mime(img_url) if img_url else None
-
-            guid = hashlib.sha1(full.encode("utf-8")).hexdigest()
-            clean.append({
-                "title": html.unescape(title),
-                "link": full,
-                "guid": guid,
-                "image": img_url,
-                "mime": mime
-            })
-
-        if not clean:
-            print(f"[WARN] no article links matched on {url}", file=sys.stderr)
-
-        items.extend(clean)
-
-    # deduplikacja po linku + ograniczenie
-    seen, unique = set(), []
-    for it in items:
-        if it["link"] in seen:
-            continue
-        seen.add(it["link"])
-        unique.append(it)
-
-    # szczegóły
-    for idx, it in enumerate(unique):
-        if idx >= DETAIL_LIMIT:
-            break
-        pub, lead = fetch_article_details(it["link"])
-        if pub:
-            it["pubDate"] = pub
-        if lead:
-            it["lead"] = lead
-
-    return unique[:MAX_ITEMS]
-
-def rfc2822_now():
-    return time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.gmtime())
+# -------------------- BUILD RSS --------------------
 
 def build_rss(items):
-    build_date = rfc2822_now()
-    head = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
-<title>{FEED_TITLE}</title>
-<link>{FEED_LINK}</link>
-<description>{FEED_DESC}</description>
-<lastBuildDate>{build_date}</lastBuildDate>
-<ttl>60</ttl>
-"""
-    body = []
-    for it in items:
-        pubdate = it.get("pubDate", build_date)
-        lead_text = html.unescape(it.get("lead") or it["title"])
-        # opis bez HTML – czytniki (zwłaszcza Inoreader) lepiej to interpretują
-        safe_lead = lead_text.replace("\r", " ").replace("\n", " ").strip()
+    now_utc = datetime.now(timezone.utc)
+    last_build = format_datetime(now_utc)
 
+    # Nagłówek z atom + media + język
+    parts = []
+    parts.append(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0"\n'
+        '     xmlns:media="http://search.yahoo.com/mrss/"\n'
+        '     xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "<channel>\n"
+        f"<title>{html.escape(CHANNEL_TITLE)}</title>\n"
+        f"<link>{html.escape(CHANNEL_LINK)}</link>\n"
+        f"<description>{html.escape(CHANNEL_DESC)}</description>\n"
+        f'<atom:link rel="self" type="application/rss+xml" href="{html.escape(FEED_SELF_URL)}"/>\n'
+        f"<language>{CHANNEL_LANG}</language>\n"
+        f"<lastBuildDate>{last_build}</lastBuildDate>\n"
+        "<ttl>60</ttl>\n"
+    )
 
+    for it in items[:MAX_ITEMS]:
+        title = html.escape(it["title"])
+        link = html.escape(it["link"])
+
+        # GUID z solą (wymuszenie re-ingest u czytników)
+        guid = hashlib.sha1((it["link"] + "|" + FEED_GUID_SALT).encode("utf-8")).hexdigest()
+
+        pubdate = format_datetime(it["pubdate"])
+
+        # Opis BEZ HTML (przyjazny dla Inoreadera)
+        safe_lead = it.get("lead") or it["title"]
+        safe_lead = clean_text(html.unescape(safe_lead))
+        safe_lead = truncate(safe_lead, MAX_LEAD_LEN)
+        # trzymamy w CDATA, ale bez tagów HTML
+        description = f"<![CDATA[{safe_lead}]]>"
+
+        # Media (miniatury)
+        image = it.get("image")
         enclosure = media = media_thumb = ""
-        if it.get("image"):
-            enclosure   = f'\n  <enclosure url="{it["image"]}" type="{it.get("mime","image/*")}" />'
-            media       = f'\n  <media:content url="{it["image"]}" medium="image" />'
-            media_thumb = f'\n  <media:thumbnail url="{it["image"]}" />'
+        if image:
+            img_esc = html.escape(image)
+            enclosure = f'\n<enclosure url="{img_esc}" type="image/*"/>'
+            media = f'\n<media:content url="{img_esc}" medium="image"/>'
+            media_thumb = f'\n<media:thumbnail url="{img_esc}"/>'
 
-        body.append(f"""
-<item>
-  <title><![CDATA[{it['title']}]]></title>
-  <link>{it['link']}</link>
-  <guid isPermaLink="false">{it['guid']}</guid>
-  <pubDate>{pubdate}</pubDate>
-  <description><![CDATA[{safe_lead}]]></description>{enclosure}{media}{media_thumb}
-</item>""")
+        parts.append(
+            "<item>\n"
+            "<title>\n"
+            f"<![CDATA[ {it['title']} ]]>\n"
+            "</title>\n"
+            f"<link>{link}</link>\n"
+            f'<guid isPermaLink="false">{guid}</guid>\n'
+            f"<pubDate>{pubdate}</pubDate>\n"
+            f"<description>\n{description}\n</description>{enclosure}{media}{media_thumb}\n"
+            "</item>\n"
+        )
 
-    tail = "\n</channel>\n</rss>\n"
-    return head + "".join(body) + tail
+    parts.append("</channel>\n</rss>\n")
+    return "".join(parts)
+
+# -------------------- MAIN --------------------
+
+def main():
+    all_links = []
+    seen = set()
+
+    for page in range(1, MAX_PAGES + 1):
+        url = CATEGORY_URL if page == 1 else f"{CATEGORY_URL}?page={page}"
+        log.info("Listing page %d -> %s", page, url)
+        resp = get(url)
+        if not resp:
+            log.warning("Skipping page %d (no response)", page)
+            continue
+        links = parse_listing(resp.text)
+        new_links = [u for u in links if u not in seen]
+        if not new_links:
+            # jeśli strona nie ma linków, możliwe że to koniec
+            log.info("No new links on page %d", page)
+        for u in new_links:
+            seen.add(u)
+        all_links.extend(new_links)
+
+        # Przerwij wcześniej, jeśli mamy wystarczająco linków
+        if len(all_links) >= MAX_ITEMS:
+            break
+
+        # Delikatne tempo
+        time.sleep(0.4)
+
+    log.info("Collected %d article URLs", len(all_links))
+
+    items = []
+    for i, url in enumerate(all_links[:MAX_ITEMS], 1):
+        resp = get(url)
+        if not resp:
+            log.warning("Skip article (no response): %s", url)
+            continue
+        try:
+            item = extract_article(resp.text, url)
+            items.append(item)
+        except Exception as e:
+            log.exception("Parse failed for %s: %s", url, e)
+        time.sleep(0.3)
+
+    # Sortuj po dacie malejąco
+    items.sort(key=lambda x: x["pubdate"], reverse=True)
+
+    rss = build_rss(items)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(rss)
+
+    log.info("Wrote %s (%d items)", OUTPUT_FILE, len(items))
 
 if __name__ == "__main__":
-    items = fetch_items()
-    print(f"[INFO] collected {len(items)} items before RSS build", file=sys.stderr)
-    rss = build_rss(items)
-    with open("feed.xml", "w", encoding="utf-8") as f:
-        f.write(rss)
-    print(f"Generated feed.xml with {len(items)} items (dates/leads for first {min(len(items), DETAIL_LIMIT)}).")
+    main()
