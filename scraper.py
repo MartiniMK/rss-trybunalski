@@ -396,8 +396,9 @@ def build_rss(items):
     for it in items:
         pubdate = it.get("pubDate", build_date)
         lead_text = html.unescape(it.get("lead") or it["title"])
-        img_html = f'<p><img src="{it["image"]}" alt="miniatura"/></p>' if it.get("image") else ""
-        desc_html = f"{img_html}<p>{lead_text}</p>"
+        # opis bez HTML – czytniki (zwłaszcza Inoreader) lepiej to interpretują
+        safe_lead = lead_text.replace("\r", " ").replace("\n", " ").strip()
+
 
         enclosure = media = media_thumb = ""
         if it.get("image"):
@@ -411,7 +412,7 @@ def build_rss(items):
   <link>{it['link']}</link>
   <guid isPermaLink="false">{it['guid']}</guid>
   <pubDate>{pubdate}</pubDate>
-  <description><![CDATA[{desc_html}]]></description>{enclosure}{media}{media_thumb}
+  <description><![CDATA[{safe_lead}]]></description>{enclosure}{media}{media_thumb}
 </item>""")
 
     tail = "\n</channel>\n</rss>\n"
