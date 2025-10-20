@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 20 Oct 2025 09:44:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 10:41:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Niezwykłe odkrycie pod Piotrkowem. Leśne groby odsłoniły tajemnicę z czasów III Rzeszy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niezwykle-odkrycie-pod-piotrkowem-lesne-groby-odslonily-tajemnice-z-czasow-iii-rzeszy/n7hgZXW0acLdBwTk6r66</link>
+<guid isPermaLink="false">b6b3a261e6e6a9aeeaf88670d54d92349ceea47d</guid>
+<pubDate>Mon, 20 Oct 2025 12:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e2b63a1b-fe22-4487-9b70-573da9306152" alt="miniatura"/></p><p>Co jakiś czas w Piotrkowie i okolicach słyszy się o znaleziskach z czasów II wojny światowej. Często są to niewybuchy, ale nie raz zdarzyło się, że badacze odkryli zbiorową mogiłę. Jak się okazuje, do takiej sytuacji doszło w gminie Grabica. W przeprowadzone na miejscu działania włączyło się także Piotrkowskie Stowarzyszenie Eksploracyjne BUGAJ. Co dokładnie odkryli badacze?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2b63a1b-fe22-4487-9b70-573da9306152" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2b63a1b-fe22-4487-9b70-573da9306152" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2b63a1b-fe22-4487-9b70-573da9306152"/>
+</item>
 <item>
 <title><![CDATA[ Oszuści w Piotrkowie. Na co uważać? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/oszusci-w-piotrkowie-na-co-uwazac/Ax70hhUmGSF4YDhaeTTM</link>
@@ -2499,16 +2509,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -2517,6 +2517,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a0d572-663b-4c8f-b079-9dd5d71f1296" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a0d572-663b-4c8f-b079-9dd5d71f1296" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a0d572-663b-4c8f-b079-9dd5d71f1296"/>
-</item>
-<item>
-<title><![CDATA[ Niebezpieczne zajście w Piotrkowie Trybunalskim. Sprawę bada piotrkowska policja ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/niebezpieczne-zajscie-w-piotrkowie-trybunalskim-sprawe-bada-piotrkowska-policja/e6IGk4aC359jUFNc9Jxt</link>
-<guid isPermaLink="false">f2a6ca0c50e9374a72d0a9baa7a7ad5e951dbc72</guid>
-<pubDate>Thu, 28 Aug 2025 12:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743" alt="miniatura"/></p><p>Jeden z naszych czytelników podesłał nam link do nagrania, które na swoim facebookowym profilu udostępnili "Bandyci drogowi". Przedstawia on niebezpieczną sytuację, do której doszło w Piotrkowie Trybunalskim. Nagranie udostępnione zostało przez kobietę kierującą samochodem osobowym.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743"/>
 </item>
 </channel></rss>
