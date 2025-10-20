@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 20 Oct 2025 08:48:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 09:44:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Oszuści w Piotrkowie. Na co uważać? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oszusci-w-piotrkowie-na-co-uwazac/Ax70hhUmGSF4YDhaeTTM</link>
+<guid isPermaLink="false">161fbff742a5a2232d22694f794c015ed929b7a0</guid>
+<pubDate>Mon, 20 Oct 2025 11:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4dd84f0b-5d77-450f-a6ac-f6110e4c2f33" alt="miniatura"/></p><p>Po Piotrkowie w ostatnich dniach krążą oszuści, podszywający się pod konserwatorów Piotrkowskiej Spółdzielni Mieszkaniowej. Należy zachować czujność i w żadnym wypadku nie wpuszczać do domu podejrzanych osób.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4dd84f0b-5d77-450f-a6ac-f6110e4c2f33" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4dd84f0b-5d77-450f-a6ac-f6110e4c2f33" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4dd84f0b-5d77-450f-a6ac-f6110e4c2f33"/>
+</item>
+<item>
+<title><![CDATA[ Masowe szkolenia wojskowe ruszają już za chwilę. Kogo dotyczą? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/masowe-szkolenia-wojskowe-ruszaja-juz-za-chwile-kogo-dotycza/ZVCfwdSC4nc7rkyTEfvb</link>
+<guid isPermaLink="false">23c252cbfb35a6d5e76731e97b29684cb146133f</guid>
+<pubDate>Mon, 20 Oct 2025 10:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/174b7ac0-bea7-4fd9-8df6-2d16f0aa9ee8" alt="miniatura"/></p><p>Masowe szkolenia wojskowe ruszają za chwilę. Znamy terminy | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/174b7ac0-bea7-4fd9-8df6-2d16f0aa9ee8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/174b7ac0-bea7-4fd9-8df6-2d16f0aa9ee8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/174b7ac0-bea7-4fd9-8df6-2d16f0aa9ee8"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Wyjazdowy mecz Piotrkowianina ze Stalą Mielec rozstrzygnęły rzuty karne! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-wyjazdowy-mecz-piotrkowianina-ze-stala-mielec-rozstrzygnely-rzuty-karne/aKozmr8GxksZ67GamIcN</link>
@@ -1649,16 +1669,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -1667,6 +1677,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee2dcc65-fb8e-41e1-9b26-752b7f34a743"/>
-</item>
-<item>
-<title><![CDATA[ Szpital w Piotrkowie jest "przyjazny kangurom". Jakie są tego korzyści? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szpital-w-piotrkowie-jest-przyjazny-kangurom-jakie-sa-tego-korzysci/qyJLEUkuFGBDkcuC1NJG</link>
-<guid isPermaLink="false">21c0fb8a593af8a32ad8f3e034318859b56f5afc</guid>
-<pubDate>Thu, 28 Aug 2025 11:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b950101d-980a-449b-ba97-c2d338404340" alt="miniatura"/></p><p>O zaletach kangurowania i o tym, jak ważne jest, by umożliwić mamie lub tacie kontakt z noworodkiem "skóra do skóry" mówi się coraz głośniej. Do placówek, które propagują ten zwyczaj dołączył Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b950101d-980a-449b-ba97-c2d338404340" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b950101d-980a-449b-ba97-c2d338404340" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b950101d-980a-449b-ba97-c2d338404340"/>
-</item>
-<item>
-<title><![CDATA[ Utrudnienia dla pasażerów w Piotrkowie. Remont i zmiana trasy MZK ]]></title>
-<link>https://trybunalski.pl/wiadomosci/utrudnienia-dla-pasazerow-w-piotrkowie-remont-i-zmiana-trasy-mzk/h13lVEqClElGeeNAQKdI</link>
-<guid isPermaLink="false">9ff64166c1baab86f3e704cbcedd7a893206eef9</guid>
-<pubDate>Thu, 28 Aug 2025 11:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4563a40f-cbab-4477-a540-459c31206c53" alt="miniatura"/></p><p>Przed nami kolejny etap remontu ul. Wolborskiej i Rakowskiej. Jak się okazuje, rondo ks. Pecolta przejdzie modernizację . W związku z tym pasażerowie MZK powinni zwrócić uwagę na zmianę tras autobusów. Jak pojadą MZK-i?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4563a40f-cbab-4477-a540-459c31206c53" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4563a40f-cbab-4477-a540-459c31206c53" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4563a40f-cbab-4477-a540-459c31206c53"/>
 </item>
 </channel></rss>
