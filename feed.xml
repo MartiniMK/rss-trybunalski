@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Oct 2025 16:45:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 17:36:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Najpierw ścigały się tu konie. Od ponad stu lat latają samoloty [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/najpierw-scigaly-sie-tu-konie-od-ponad-stu-lat-lataja-samoloty-zdjecia/zeNxdDG0F6F9LbqRrPFv</link>
+<guid isPermaLink="false">afef6725b026515015f32da19308540a1cdd1664</guid>
+<pubDate>Tue, 21 Oct 2025 18:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/070d7269-d99f-48a6-9d05-1bd070cf9852" alt="miniatura"/></p><p>Lotnisko w Piotrkowie, na którym obecnie działa piotrkowski aeroklub, stworzono na terenie gdzie od początku XX wieku funkcjonował Tor Wyścigów Konnych. Te obywały się w Piotrkowie w latach 1903 - 1931. Lotnicy zawładnęli terenem nieco później, bo pierwszy lot odnotowano w 1913 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/070d7269-d99f-48a6-9d05-1bd070cf9852" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/070d7269-d99f-48a6-9d05-1bd070cf9852" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/070d7269-d99f-48a6-9d05-1bd070cf9852"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków w TOP 10 niechlubnego rankingu. Z roku na rok jest gorzej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-w-top-10-niechlubnego-rankingu-raport-potwierdza-wzrost-stezenia-trucizny/dIuzOvcqsr63vIYWyqJ7</link>
@@ -2749,16 +2759,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
-<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
-</item>
-<item>
 <title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
 <guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
@@ -2767,6 +2767,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
+</item>
+<item>
+<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
+<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ba9962b-71d6-46ed-947f-2de2909895bf" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ba9962b-71d6-46ed-947f-2de2909895bf" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ba9962b-71d6-46ed-947f-2de2909895bf"/>
-</item>
-<item>
-<title><![CDATA[ Kozy na piotrkowskich ulicach. Poszukiwany właściciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kozy-na-piotrkowskich-ulicach-poszukiwany-wlasciciel/fqOJBEjBfkci27nRZSJW</link>
-<guid isPermaLink="false">6941980341566d0dc14f692c8322298126579b6a</guid>
-<pubDate>Fri, 29 Aug 2025 10:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa" alt="miniatura"/></p><p>W czwartek 28 sierpnia w mediach społecznościowych pojawił się post informujący o nietypowym zdarzeniu na ulicach Piotrkowa. Okazało się, że na jednym z osiedli błąkają się… kozy. Co dalej ze zwierzętami?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa"/>
 </item>
 </channel></rss>
