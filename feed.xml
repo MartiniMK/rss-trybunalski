@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Oct 2025 09:41:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 10:40:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Będzie protest w Piotrkowie. O co chodzi? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/bedzie-protest-w-piotrkowie-o-co-chodzi/fCHWOwB0r5RybbC54jcr</link>
+<guid isPermaLink="false">b01fe7bec496f6392f92a070e93010520c99ae7b</guid>
+<pubDate>Tue, 21 Oct 2025 12:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/36cec533-5b49-40b7-9a3b-5a23728039a9" alt="miniatura"/></p><p>W Piotrkowie będą miały miejsce wydarzenia poświęcone sytuacji na Bliskim Wschodzie. Planowana jest pikieta, a także spotkanie z autorką reportaży z krajów objętych konfliktami.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/36cec533-5b49-40b7-9a3b-5a23728039a9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/36cec533-5b49-40b7-9a3b-5a23728039a9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/36cec533-5b49-40b7-9a3b-5a23728039a9"/>
+</item>
+<item>
+<title><![CDATA[ Urząd Miasta w Piotrkowie poszukuje nowego pracownika. Jakie ma wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzad-miasta-w-piotrkowie-poszukuje-nowego-pracownika-jakie-ma-wymagania/C6wFr6u8FBApQ9eY13eZ</link>
+<guid isPermaLink="false">882ac9bd591c966c19c9aaf5fc8a2a88b61a4810</guid>
+<pubDate>Tue, 21 Oct 2025 11:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" alt="miniatura"/></p><p>Piotkrowski urząd poszukuje pracownija na stanowisko Inspektora ds. umów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369"/>
+</item>
 <item>
 <title><![CDATA[ Uwaga kierowcy! Będą utrudnienia na drodze do Sulejowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-beda-utrudnienia-na-drodze-do-sulejowa/JpJli7QEMvoNVfGetkvK</link>
@@ -1739,16 +1759,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -1757,6 +1767,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -2699,16 +2719,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
-<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
-</item>
-<item>
 <title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
 <guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
@@ -2717,6 +2727,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
+</item>
+<item>
+<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
+<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowski marsz już wkrótce. Mieszkańcy upamiętnią bohaterów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowski-marsz-juz-wkrotce-mieszkancy-upamietnia-bohaterow/mTQkfKer8oCPPhncTlfy</link>
-<guid isPermaLink="false">3216f5d56a42d4dfd7a541b5fa5198de7e44369a</guid>
-<pubDate>Fri, 29 Aug 2025 09:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4d66bf12-2ef2-41c7-88d0-bd37e953e250" alt="miniatura"/></p><p>Jak informuje współorganizatorka marszu Beata Dróżdżmarsz, to oddolna inicjatywa mieszkańców, rodzin oraz środowisk patriotycznych, która wspierana jest przez Kluby Gazety Polskiej i Ruch Obrony Granic .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d66bf12-2ef2-41c7-88d0-bd37e953e250" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d66bf12-2ef2-41c7-88d0-bd37e953e250" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d66bf12-2ef2-41c7-88d0-bd37e953e250"/>
-</item>
-<item>
-<title><![CDATA[ Groźny wypadek w powiecie piotrkowskim. Dziecko trafiło do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-powiecie-piotrkowskim-dziecko-trafilo-do-szpitala/e7DI4jsg5MwQ85mal9rT</link>
-<guid isPermaLink="false">520712136e52f125455e2f1653064915a5c8a045</guid>
-<pubDate>Fri, 29 Aug 2025 09:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/206c8901-ebd5-423d-ba22-0a3420bff0f8" alt="miniatura"/></p><p>W czwartek, 28 sierpnia po godz. 20:00 na drodze gminnej pomiędzy Oprzężowem a Wolą Krzysztoporską doszło do groźnego zdarzenia z udziałem motocyklisty i dzikiego zwierzęcia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/206c8901-ebd5-423d-ba22-0a3420bff0f8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/206c8901-ebd5-423d-ba22-0a3420bff0f8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/206c8901-ebd5-423d-ba22-0a3420bff0f8"/>
 </item>
 </channel></rss>
