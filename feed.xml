@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Oct 2025 13:51:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 14:37:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrków w TOP 10 niechlubnego rankingu. Z roku na rok jest gorzej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkow-w-top-10-niechlubnego-rankingu-raport-potwierdza-wzrost-stezenia-trucizny/dIuzOvcqsr63vIYWyqJ7</link>
+<guid isPermaLink="false">e533070a7e9c044a8cf3e3e43626b683472ab9cd</guid>
+<pubDate>Tue, 21 Oct 2025 16:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c35d13bb-71f4-49cd-8d55-0fd03b3921d2" alt="miniatura"/></p><p>Coraz więcej smogu nad Piotrkowem W opublikowanym ostatnio rankingu polskich miast o najwyższym średniorocznym stężeniu pyłu PM10 Piotrków Trybunalski zajął 10 miejsce. Smogowych rekordzistów wytypowano na podstawie rocznych ocen jakości powietrza Głównego Inspektoratu Ochrony Środowiska za rok 2024.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c35d13bb-71f4-49cd-8d55-0fd03b3921d2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c35d13bb-71f4-49cd-8d55-0fd03b3921d2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c35d13bb-71f4-49cd-8d55-0fd03b3921d2"/>
+</item>
 <item>
 <title><![CDATA[ Te placówki wybrano na wypadek kryzysu. Na liście także Piotrków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/te-placowki-wybrano-na-wypadek-kryzysu-na-liscie-takze-piotrkow/BoaJ3ch9y3EAW1RUtGZP</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/780b8e37-161e-4dd8-ae69-e65c074b33fa"/>
-</item>
-<item>
-<title><![CDATA[ Wydano alert dla województwa łódzkiego. W naszym powiecie zacznie się już za chwilę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-wojewodztwa-lodzkiego-w-naszym-powiecie-zacznie-sie-juz-za-chwile/ilail9XSnuN6g2uMFkmX</link>
-<guid isPermaLink="false">e32832f7a956b575c6af809bd364f4c0859e847d</guid>
-<pubDate>Fri, 29 Aug 2025 10:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/74c04817-53c3-4f24-b027-a2ea646efeec" alt="miniatura"/></p><p>IMGW ostrzega województwo łódzkie Kto powinien szczególnie uważać na upały Jak chronić się przed wysokimi temperaturami Jakie są objawy przegrzania? Województwo łódzkie zostało objęte kolejnym alertem przed niebezpiecznym zjawiskiem. Ostrzeżenia pierwszego i drugiego stopnia dotyczą kilkunastu powiatów , w tym również naszego regionu. Wszystko zacznie się już za chwilę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/74c04817-53c3-4f24-b027-a2ea646efeec" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/74c04817-53c3-4f24-b027-a2ea646efeec" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/74c04817-53c3-4f24-b027-a2ea646efeec"/>
 </item>
 </channel></rss>
