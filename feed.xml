@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Oct 2025 10:40:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 11:33:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek niedaleko Piotrkowa. Zderzenie osobówki z ciężarówką [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-zderzenie-osobowki-z-ciezarowka-zdjecia/K1uTbEg9oCSoVa38HQsU</link>
+<guid isPermaLink="false">1a21f2cac6b4ef31b64a08afe67be9af4a4b1165</guid>
+<pubDate>Tue, 21 Oct 2025 13:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/49dc6c19-7cc3-46cf-8267-e754cf351d5d" alt="miniatura"/></p><p>We wtorek, 21 października przed godziną 11:00 doszło do wypadku w powiecie piotrkowskim. Zdarzenie miało miejsce w Siomkach w gminie Wola Krzysztoporska. Jak się okazuje, zderzyły się tam samochód osobowy oraz ciężarówka. Do akcji ruszyły służby, a po sprawdzeniu stanu trzeźwości kierowców wszystko stało się jasne.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/49dc6c19-7cc3-46cf-8267-e754cf351d5d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/49dc6c19-7cc3-46cf-8267-e754cf351d5d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/49dc6c19-7cc3-46cf-8267-e754cf351d5d"/>
+</item>
 <item>
 <title><![CDATA[ Będzie protest w Piotrkowie. O co chodzi? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/bedzie-protest-w-piotrkowie-o-co-chodzi/fCHWOwB0r5RybbC54jcr</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4a8d58-d863-4b58-a092-ff9a66d9d76d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4a8d58-d863-4b58-a092-ff9a66d9d76d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4a8d58-d863-4b58-a092-ff9a66d9d76d"/>
-</item>
-<item>
-<title><![CDATA[ Światowy sukces Bartosza Sokalskiego w Bangkoku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swiatowy-sukces-bartosza-sokalskiego-w-bangkoku/08kvtCRjz9B0qDMtOFQE</link>
-<guid isPermaLink="false">42f0ab149c5a8611c8e2145e759c4c4c5b41771d</guid>
-<pubDate>Fri, 29 Aug 2025 09:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d" alt="miniatura"/></p><p>Bartosz Sokalski z Piotrkowa Trybunalskiego ponownie udowodnił, że należy do czołówki pływaków z niepełnosprawnością. Podczas mistrzostw świata Virtus Global Games w Bangkoku zdobył dwa medale na 100 metrów stylem dowolnym – złoty w swojej kategorii wiekowej i brązowy w klasyfikacji generalnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c688ce9a-4c06-4cc1-98f5-bcb99037b98d"/>
 </item>
 </channel></rss>
