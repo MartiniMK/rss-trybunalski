@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Oct 2025 11:34:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 13:10:21 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dobra FORMA aktora z Piotrkowa nagrodzona na ogólnopolskim konkursie. Popisową rolę zaprezentuje na deskach MOK-u ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-forma-aktora-trupy-z-piotrkowa-nagrodzona-na-ogolnopolskim-konkursie-popisowa-role-zaprezentuje-na-deskach-mok-u/7BT9pBJiasywHAILNLiI</link>
+<guid isPermaLink="false">a0502f33ca1a2aa86088df8755f362a5f5caf766</guid>
+<pubDate>Wed, 22 Oct 2025 14:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f902c6-515f-4ac4-a4b0-dbea09b8807d" alt="miniatura"/></p><p>Teatr FORMA | foto Mamert Tomczyk</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f902c6-515f-4ac4-a4b0-dbea09b8807d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f902c6-515f-4ac4-a4b0-dbea09b8807d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f902c6-515f-4ac4-a4b0-dbea09b8807d"/>
+</item>
+<item>
+<title><![CDATA[ Zmiany w Piotrkowie w 2026 roku. Czego mogą spodziewać się mieszkańcy? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmiany-w-piotrkowie-w-2026-roku-czego-moga-spodziewac-sie-mieszkancy/pkBgBXd7fQtIgMXi5Z9X</link>
+<guid isPermaLink="false">f123bd93d58352bfb37be8f599461c8389d9578c</guid>
+<pubDate>Wed, 22 Oct 2025 14:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59bdee95-9f7d-423d-95b1-ae1b1400fe35" alt="miniatura"/></p><p>Uchwałę budżetową przyjmuje się zwykle do końca stycznia omawianego roku. Znajdują się w niej informacje o dochodach, wydatkach czy deficycie budżetowym. Jest to obszerny dokument opisujący płynność finansową samorządu na dany rok. Dopiero dowiemy się, jakie zadania będą ujęte w budżecie na 2026 r. w Piotrkowie. Pojawiają się jednak sugestie, a kilka takich inwestycji wymienił radny Jan Dziemdzior…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59bdee95-9f7d-423d-95b1-ae1b1400fe35" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59bdee95-9f7d-423d-95b1-ae1b1400fe35" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59bdee95-9f7d-423d-95b1-ae1b1400fe35"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowianie zapłacą więcej w tym sezonie. O ile wzrosną rachunki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowianie-zaplaca-wiecej-za-co-i-o-ile/OQQAx6a3DgdeGxWKORKd</link>
+<guid isPermaLink="false">92b854fa985f6680762f84548b73443f3a919a83</guid>
+<pubDate>Wed, 22 Oct 2025 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/882bd7be-a211-4fe0-8d60-5d4d52d98f09" alt="miniatura"/></p><p>foto Elektrociepłownia Piotrków</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/882bd7be-a211-4fe0-8d60-5d4d52d98f09" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/882bd7be-a211-4fe0-8d60-5d4d52d98f09" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/882bd7be-a211-4fe0-8d60-5d4d52d98f09"/>
+</item>
 <item>
 <title><![CDATA[ Chwila grozy w piotrkowskiej kamienicy. Strażacy postawieni na równe nogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/chwila-grozy-w-piotrkowskiej-kamienicy-strazacy-postawieni-na-rowne-nogi/IPneZDyqJYlgpK98enX8</link>
@@ -1829,16 +1859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -1847,6 +1867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -2659,16 +2689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -2677,6 +2697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3967,35 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3ee3f1c-8fb4-48a9-a298-7ff9c65847ae" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3ee3f1c-8fb4-48a9-a298-7ff9c65847ae" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3ee3f1c-8fb4-48a9-a298-7ff9c65847ae"/>
-</item>
-<item>
-<title><![CDATA[ Rol - Szansa  2025 w Piotrkowie. XXXIII edycja promocyjno-handlowej wystawy rolniczej: setki wystawców, tłumy odwiedzających ZDJĘCIA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rol-szansa-2025-w-piotrkowie-xxxiii-edycja-promocyjno-handlowej-wystawy-rolniczej-setki-wystawcow-tlumy-odwiedzajacych-zdjecia/llhWuG2Yg6x23zd7nIUs</link>
-<guid isPermaLink="false">5b6603a799a46f2e707d1a2629745641681ef524</guid>
-<pubDate>Sat, 30 Aug 2025 16:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/e301d8fd-167a-410d-89e3-68dd20cddd60" alt="miniatura"/></p><p>XXXIII edycja Promocyjno-Handlowej Wystawy Rolniczej ROL-SZANSA przyciągnęła do Piotrkowa Trybunalskiego tłumy odwiedzających. Targi zaplanowano na 30–31 sierpnia 2025 roku przy ul. Kasztelańskiej 9. Wstęp jest bezpłatny, a bramy otwarte są w godzinach 8:00–16:00. Na uczestników czeka szeroka gama prezentacji i atrakcji, w tym: nowoczesne maszyny i technologie rolnicze, kwiaty, drzewa i krzewy owo…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/e301d8fd-167a-410d-89e3-68dd20cddd60" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/e301d8fd-167a-410d-89e3-68dd20cddd60" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/e301d8fd-167a-410d-89e3-68dd20cddd60"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w powiecie piotrkowskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zdarzenie-drogowe-w-powiecie-piotrkowskim-sa-utrudnienia-na-drodze/N8ApMsxhSqA3qknbgc5e</link>
-<guid isPermaLink="false">62e669d912a517fac715eb77a8a22670ed112579</guid>
-<pubDate>Fri, 29 Aug 2025 17:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7a78a48e-8d9a-4fa2-829c-f8d332e3c65a" alt="miniatura"/></p><p>W piątkowe popołudnie (29 sierpnia) tuż przed godziną 17:00, w miejscowości Gazomia Nowa (gmina Moszczenica) doszło do zdarzenia drogowego z udziałem dwóch samochodów osobowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a78a48e-8d9a-4fa2-829c-f8d332e3c65a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a78a48e-8d9a-4fa2-829c-f8d332e3c65a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a78a48e-8d9a-4fa2-829c-f8d332e3c65a"/>
-</item>
-<item>
-<title><![CDATA[ Nowy rozkład jazdy ŁKA. Więcej kursów dla piotrkowian ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-rozklad-jazdy-lka-wiecej-kursow-dla-piotrkowian/9ueaUd7hEVb8ABpjKw48</link>
-<guid isPermaLink="false">7c0bb6b88183526bbe6ef48acf0fb1f1c05c3ddf</guid>
-<pubDate>Fri, 29 Aug 2025 15:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d1abb946-74c4-4142-a5b9-ceed60ec119c" alt="miniatura"/></p><p>Podróżni mogą spodziewać się zmian w kursowaniu pociągów ŁKA. Jest to korekta rozkładu , która będzie obowiązywać prawie do końca października.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1abb946-74c4-4142-a5b9-ceed60ec119c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1abb946-74c4-4142-a5b9-ceed60ec119c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1abb946-74c4-4142-a5b9-ceed60ec119c"/>
 </item>
 </channel></rss>
