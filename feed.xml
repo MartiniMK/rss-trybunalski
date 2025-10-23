@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Oct 2025 14:40:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 15:40:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zaginęła 15-letnia Amelia. Piotrkowska policja prosi o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-15-letnia-amelia-piotrkowska-policja-prosi-o-pomoc/NzkXmZ8OfMkeHUgU5ocu</link>
+<guid isPermaLink="false">dccf6b9839ada8970e8decc0e97ae61b81b3a693</guid>
+<pubDate>Thu, 23 Oct 2025 17:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/da498fed-4692-407d-a9c8-93e428e05831" alt="miniatura"/></p><p>Komenda Miejska Policji w Piotrkowie Trybunalskim poinformowała, że zaginęła 15-letnia dziewczyna. W sobotę, 11 października Amelia Łuszczyna w godzinach wieczornych wyszła z domu i do chwili obecnej do niego nie wróciła. Nie dotarła także do szkoły.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/da498fed-4692-407d-a9c8-93e428e05831" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/da498fed-4692-407d-a9c8-93e428e05831" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/da498fed-4692-407d-a9c8-93e428e05831"/>
+</item>
 <item>
 <title><![CDATA[ Kaplica z XVII wieku będzie jak nowa. To kawałek historii Sulejowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kaplica-z-xvii-wieku-bedzie-jak-nowa-to-kawalek-historii-sulejowa/KPu85cFmISRwxe5zEh1e</link>
@@ -1959,16 +1969,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -1977,6 +1977,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a78453e-e1eb-454b-8d8c-d6da5349fcc9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a78453e-e1eb-454b-8d8c-d6da5349fcc9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a78453e-e1eb-454b-8d8c-d6da5349fcc9"/>
-</item>
-<item>
-<title><![CDATA[ Uczniowie w Piotrkowie przekroczyli szkolne progi [FOTO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-rok-szkolny-nowe-wyzwania/ld7wVXAdS3FFKaBbTmrr</link>
-<guid isPermaLink="false">3af68f122d56e892a726c3867a9f89201e3930de</guid>
-<pubDate>Mon, 01 Sep 2025 14:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6be1cc77-7643-4de4-a7f2-838c6b408a6b" alt="miniatura"/></p><p>Odwiedziliśmy z aparatem Szkołę Podstawową nr 16 im. Polskich Olimpijczyków, gdzie nowy rok szkolny zainaugurowało 588 uczniów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6be1cc77-7643-4de4-a7f2-838c6b408a6b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6be1cc77-7643-4de4-a7f2-838c6b408a6b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6be1cc77-7643-4de4-a7f2-838c6b408a6b"/>
 </item>
 </channel></rss>
