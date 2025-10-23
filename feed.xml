@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Oct 2025 08:47:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 09:42:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie uczniowe nauczą się... strzelać. Skorzystają także inni mieszkańcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-uczniowe-naucza-sie-strzelac-skorzystaja-takze-inni-mieszkancy/6nwYF4OxQoRi1Wg3u6J3</link>
+<guid isPermaLink="false">91a923c93ed150e3a77bcc1c0da516752db38880</guid>
+<pubDate>Thu, 23 Oct 2025 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0b34070-d10f-4244-bd8b-200f864f9469" alt="miniatura"/></p><p>Do końca grudnia 2025 roku powstanie w Piotrkowie wirtualna strzelnica i będzie służyć szkoleniu młodzieży oraz organizacji proobronnych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0b34070-d10f-4244-bd8b-200f864f9469" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0b34070-d10f-4244-bd8b-200f864f9469" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0b34070-d10f-4244-bd8b-200f864f9469"/>
+</item>
 <item>
 <title><![CDATA[ Uważaj na oszustów. Urząd w Piotrkowie ostrzega ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwazaj-na-oszustow-urzad-w-piotrkowie-ostrzega/cw8NmBd1mZBmaSkBlXrM</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/66730fb2-0259-4da5-9227-63d98ce9014d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/66730fb2-0259-4da5-9227-63d98ce9014d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/66730fb2-0259-4da5-9227-63d98ce9014d"/>
-</item>
-<item>
-<title><![CDATA[ Koniec przygody piotrkowianina w US Open! Pech dopadł Kamila Majchrzaka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/koniec-przygody-piotrkowianina-w-us-open-pech-dopadl-kamila-majchrzaka/9Ux6l3E3hQIyTtLIVMZi</link>
-<guid isPermaLink="false">d3dfe208cdf6f515bdb51a7429e80acbdc859072</guid>
-<pubDate>Sun, 31 Aug 2025 10:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/406fad79-408e-46f6-99c0-bb4c276943ff" alt="miniatura"/></p><p>Kamil Majchrzak pokonał w Nowym Jorku 3:1 Boliwijczyka Hugo Delliena w pierwszej rundzie oraz 3:2 Karena Chaczanowa w 1/32 finału. O tym drugim spotkaniu mówił cały tenisowy świat, bo 29-letni piotrkowianin wyrzucił za burtę zawodnika rozstawionego z nr „9”, odwracając losy rywalizacji ze stanu 0:2 w setach oraz 2:5 w piątej partii, broniąc w sumie aż pięć piłek meczowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/406fad79-408e-46f6-99c0-bb4c276943ff" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/406fad79-408e-46f6-99c0-bb4c276943ff" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/406fad79-408e-46f6-99c0-bb4c276943ff"/>
 </item>
 </channel></rss>
