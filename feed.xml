@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Oct 2025 10:40:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 11:34:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Uwaga! Kolejne polowania w powiecie piotrkowskim. Sprawdź terminy i zachowaj ostrożność ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-kolejne-polowania-w-powiecie-piotrkowskim-sprawdz-terminy-i-zachowaj-ostroznosc/kYqkDeLQqM6ccFdvPHwe</link>
+<guid isPermaLink="false">31da1b299a914e300746144b9e48e06d8ff51e91</guid>
+<pubDate>Thu, 23 Oct 2025 13:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/45943539-3e44-4dfe-81f0-95a36595acb5" alt="miniatura"/></p><p>Polowania odbywają się na terenach leśnych, które są popularne wśród spacerowiczów, grzybiarzy oraz osób uprawiających turystykę rowerową i konną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/45943539-3e44-4dfe-81f0-95a36595acb5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/45943539-3e44-4dfe-81f0-95a36595acb5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/45943539-3e44-4dfe-81f0-95a36595acb5"/>
+</item>
+<item>
+<title><![CDATA[ Rekordowe powołania. Tylu piotrkowianek w reprezentacji Polski jeszcze nie było! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/tylu-piotrkowianek-w-reprezentacji-polski-jeszcze-nie-bylo/4RddVAIQn62DY0uqjGU5</link>
+<guid isPermaLink="false">50a0ec381f962a6d806d338a3abef7a35fe1dabc</guid>
+<pubDate>Thu, 23 Oct 2025 12:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d6f5e2f1-1721-4a5c-8b76-f91eb83122e6" alt="miniatura"/></p><p>Radość zawodniczek Piotrcovii po wygranym meczu ligowym | foto FB MKS Piotrcovia</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6f5e2f1-1721-4a5c-8b76-f91eb83122e6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6f5e2f1-1721-4a5c-8b76-f91eb83122e6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6f5e2f1-1721-4a5c-8b76-f91eb83122e6"/>
+</item>
 <item>
 <title><![CDATA[ Tysiące budynków w kraju błysną czerwienią. Na liście także Piotrków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tysiace-budynkow-w-kraju-blysna-czerwienia-na-liscie-takze-piotrkow/17IHU4NLNs7Ms9PtgmpY</link>
@@ -1919,16 +1939,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -1937,6 +1947,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1db8c6a-bff8-4506-8bb9-341397ffd99d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1db8c6a-bff8-4506-8bb9-341397ffd99d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1db8c6a-bff8-4506-8bb9-341397ffd99d"/>
-</item>
-<item>
-<title><![CDATA[ Weszły dopłaty do wynajm mieszkania. Kto się kwalifikuje w 2025 roku? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ten-zasilek-pomoze-ci-oszczedzic-na-wynajmie-mieszkania-kto-sie-kwalifikuje-w-2025-roku/nblZSPzLl24BRaDHvx17</link>
-<guid isPermaLink="false">63c7c5a17c5755e0c983a20317f069c226b24f3a</guid>
-<pubDate>Mon, 01 Sep 2025 13:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/78ac3463-43f9-4146-bbe3-db358560374e" alt="miniatura"/></p><p>Dodatek mieszkaniowy to świadczenie pieniężne przyznawane na okres sześciu miesięcy. Co miesiąc urząd wypłaca ustaloną kwotę, która może sięgnąć maksymalnie 380 zł. Nie jest to jednak suma jednakowa dla wszystkich. Ostateczna wartość świadczenia zależy od indywidualnej sytuacji wnioskującego – urzędnicy biorą pod uwagę zarówno jego dochody, jak i wysokość opłat ponoszonych za mieszkanie. Dzięki te…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/78ac3463-43f9-4146-bbe3-db358560374e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/78ac3463-43f9-4146-bbe3-db358560374e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/78ac3463-43f9-4146-bbe3-db358560374e"/>
-</item>
-<item>
-<title><![CDATA[ Przebudują rondo. Uwaga na utrudnienia w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/przebuduja-rondo-uwaga-na-utrudnienia-w-piotrkowie/iXeR9SpjvUMF3DNgtzjr</link>
-<guid isPermaLink="false">d9fdc7077e58e890b5dd85360116a0a13e37c9d6</guid>
-<pubDate>Mon, 01 Sep 2025 10:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/806dce31-dd95-47c1-9a83-0f9de14d4151" alt="miniatura"/></p><p>Od poniedziałku, 1 września rozpoczął się kolejny etap przebudowy ulicy Wolborskiej w Piotrkowie. W związku z tym na rondzie ks. Pecolta obowiązuje nowa organizacja ruchu . Zmiany nie ominęły też kursowania miejskich autobusów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/806dce31-dd95-47c1-9a83-0f9de14d4151" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/806dce31-dd95-47c1-9a83-0f9de14d4151" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/806dce31-dd95-47c1-9a83-0f9de14d4151"/>
 </item>
 </channel></rss>
