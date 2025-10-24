@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 24 Oct 2025 07:38:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 08:46:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek niedaleko Piotrkowa. Ranna została jedna osoba ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-ranna-zostala-jedna-osoba/EPXP7FE3fLAp8bf6o7pe</link>
+<guid isPermaLink="false">7624e715747541c011400cdbf00fbd23acbd818a</guid>
+<pubDate>Fri, 24 Oct 2025 10:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/92695069-5e05-4ab0-87e3-50368f0f7bba" alt="miniatura"/></p><p>Do wypadku doszło w czwartek, 23 października ok. godz. 20:00. Peugeot i Mitsubishi zderzyły się ze sobą w Rokszycach Druchich, w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/92695069-5e05-4ab0-87e3-50368f0f7bba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/92695069-5e05-4ab0-87e3-50368f0f7bba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/92695069-5e05-4ab0-87e3-50368f0f7bba"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek niedaleko Piotrkowa. Motocyklista trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-motocyklista-trafil-do-szpitala/wmevZWLJhLBAYkkifXcR</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/30a7b1b7-c8c6-4cca-96ca-9996d045698f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/30a7b1b7-c8c6-4cca-96ca-9996d045698f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/30a7b1b7-c8c6-4cca-96ca-9996d045698f"/>
-</item>
-<item>
-<title><![CDATA[ Nowe miejsce rekreacji w Piotrkowie. Jeszcze w tym roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-rekreacji-w-piotrkowie-jeszcze-w-tym-roku/6khE5PGGsaRB8kSZuKVQ</link>
-<guid isPermaLink="false">36d99f75f06e27aebf891a9436c4cf1280ef58fe</guid>
-<pubDate>Mon, 01 Sep 2025 15:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6d138fb5-2537-4e24-a7b5-c5952d72f7de" alt="miniatura"/></p><p>Jak poinformował piotrkowski urząd, niebawem mieszkańcy będą mogli korzystać z nowego boiska wielofunkcyjnego. Projekt zostanie zrealizowany w ramach Budżetu Obywatelskiego. Umowa z wykonawcą jest już podpisana.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d138fb5-2537-4e24-a7b5-c5952d72f7de" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d138fb5-2537-4e24-a7b5-c5952d72f7de" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d138fb5-2537-4e24-a7b5-c5952d72f7de"/>
 </item>
 </channel></rss>
