@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Oct 2025 23:33:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 02:06:45 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wypadek niedaleko Piotrkowa. Motocyklista trafił do szpitala ]]></title>
@@ -2719,14 +2719,11 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e621a8e-aacf-4a88-964e-05bbe9fc74b6"/>
 </item>
 <item>
-<title><![CDATA[ Znana aktorka i wokalistka wystąpi w Piotrkowie. Sprawdź datę i cenę biletów ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/znana-aktorka-i-wokalistka-wystapi-w-piotrkowie-sprawdz-date-i-cene-biletow/CpXJ5GCclUOlGuBe4mJB ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-aktorka-i-wokalistka-wystapi-w-piotrkowie-sprawdz-date-i-cene-biletow/CpXJ5GCclUOlGuBe4mJB</link>
 <guid isPermaLink="false">fa7c2f8b4f7a6802c747bc11d732097278f09ae7</guid>
 <pubDate>Wed, 17 Sep 2025 13:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/373c8af8-32f2-452a-b628-8c4d1c8b5e67" alt="miniatura"/></p><p>foto Stanisława Celińska, Facebook</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/373c8af8-32f2-452a-b628-8c4d1c8b5e67" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/373c8af8-32f2-452a-b628-8c4d1c8b5e67" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/373c8af8-32f2-452a-b628-8c4d1c8b5e67"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta poszukuje nowych pracowników. Zobacz, jakie stanowiska są wolne ]]></title>
