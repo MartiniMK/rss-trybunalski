@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 24 Oct 2025 13:49:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 14:41:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Oferty pracy w Piotrkowie Trybunalskim. Tyle można aktualnie zarobić ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oferty-pracy-w-piotrkowie-trybunalskim-tyle-mozna-aktualnie-zarobic/ZDuBe4F4dluNtYK0RqZr</link>
+<guid isPermaLink="false">1f3516f681b3ee97e97c4add9e5394b25be289c5</guid>
+<pubDate>Fri, 24 Oct 2025 16:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/202c8d53-b829-453e-b873-08a0164070fa" alt="miniatura"/></p><p>Fizjoterapeuta Wynagrodzenie brutto:od 70,00 PLN</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/202c8d53-b829-453e-b873-08a0164070fa" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/202c8d53-b829-453e-b873-08a0164070fa" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/202c8d53-b829-453e-b873-08a0164070fa"/>
+</item>
 <item>
 <title><![CDATA[ Wielkie szczęście w grze Lotto. Padła duża wygrana w naszym mieście ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkie-szczescie-w-grze-lotto-padla-wygrana-w-naszym-miescie/5uNQyprOAfwLDJSrRWD6</link>
@@ -209,7 +219,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f902c6-515f-4ac4-a4b0-dbea09b8807d"/>
 </item>
 <item>
-<title><![CDATA[ Zmiany w Piotrkowie w 2026 roku. Czego mogą spodziewać się mieszkańcy? ]]></title>
+<title><![CDATA[ Co powstanie w Piotrkowie w 2026 roku? A co, mimo oczekiwań, nie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmiany-w-piotrkowie-w-2026-roku-czego-moga-spodziewac-sie-mieszkancy/pkBgBXd7fQtIgMXi5Z9X</link>
 <guid isPermaLink="false">f123bd93d58352bfb37be8f599461c8389d9578c</guid>
 <pubDate>Wed, 22 Oct 2025 14:03:00 +0000</pubDate>
@@ -349,7 +359,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/578a9d88-b65a-4d85-a6f4-cb1ede78bece"/>
 </item>
 <item>
-<title><![CDATA[ Czy Piotrków robi dobre pierwsze wrażenie? Utrzymanie porządku kosztuje miliony ]]></title>
+<title><![CDATA[ Piotrków wydaje miliony, żeby było czysto. Czy to się udaje? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czy-piotrkow-robi-dobre-pierwsze-wrazenie-utrzymanie-porzadku-kosztuje-miliony/OebZgHi1367iJx8a9KET</link>
 <guid isPermaLink="false">780bea8674ac4077b24f60c286530a927ad02fda</guid>
 <pubDate>Mon, 20 Oct 2025 15:46:00 +0000</pubDate>
@@ -519,7 +529,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3471591e-3e96-4501-9738-4af300f3d7d6"/>
 </item>
 <item>
-<title><![CDATA[ Wchodzi 4-dniowy tydzień pracy. W naszym mieście zacznie się już od 2026 roku ]]></title>
+<title><![CDATA[ Mniej pracy, a kasa taka sama. Kontrowersyjny program wchodzi do Piotrkowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wchodzi-4-dniowy-tydzien-pracy-w-naszym-miescie-zacznie-sie-juz-od-2026-roku/YU57hX82OBpUW1hRkNOb</link>
 <guid isPermaLink="false">2d4f7751cad22e702486a95d05b59cb208075879</guid>
 <pubDate>Fri, 17 Oct 2025 11:29:00 +0000</pubDate>
@@ -799,7 +809,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8c64d01-935e-46ca-a0e4-c18e55915afc"/>
 </item>
 <item>
-<title><![CDATA[ Te projekty wciąż czekają na swoją kolej. Problem z budżetem obywatelskim w Piotrkowie? ]]></title>
+<title><![CDATA[ Piotrkowianie wybrali i... czekają. Dlaczego to długo trwa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/te-projekty-wciaz-czekaja-na-swoja-kolej-problem-z-budzetem-obywatelskim-w-piotrkowie/XIFQNXCNCSro2XSCP2wc</link>
 <guid isPermaLink="false">a3dc4bec43153a235e345a9497fa5a7b58b9ac67</guid>
 <pubDate>Tue, 14 Oct 2025 13:40:00 +0000</pubDate>
@@ -2049,16 +2059,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2067,6 +2067,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -2879,16 +2889,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -2897,6 +2897,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3009,16 +3019,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3027,6 +3027,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczna sytuacja w Piotrkowie. Ktoś porzucił kocięta w zaklejonym pudle ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramatyczna-sytuacja-w-piotrkowie-ktos-porzucil-kocieta-w-zaklejonym-pudle/DRFaXTbCqYO2in4HSjra</link>
-<guid isPermaLink="false">c40345721131153030bfbb62d86cba8322c1c54a</guid>
-<pubDate>Tue, 02 Sep 2025 11:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/251fa028-0a1c-474d-8780-7e9803539140" alt="miniatura"/></p><p>foto FB/Schronisko dla zwierząt w Piotrkowie Trybunalskim</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/251fa028-0a1c-474d-8780-7e9803539140" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/251fa028-0a1c-474d-8780-7e9803539140" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/251fa028-0a1c-474d-8780-7e9803539140"/>
 </item>
 </channel></rss>
