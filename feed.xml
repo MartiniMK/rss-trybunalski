@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 24 Oct 2025 15:39:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 16:45:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nekropolia kryje szczątki znanych piotrkowian. Najcenniejsze nagrobki starego cmentarza w Piotrkowie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/nekropolia-kryje-szczatki-znanych-piotrkowian-najcenniejsze-nagrobki-starego-cmentarza-w-piotrkowie-zdjecia/xEeOr46I5WTHSoR5G141</link>
+<guid isPermaLink="false">2fea1f44d7e0165e540726f24f02797abf2979c3</guid>
+<pubDate>Fri, 24 Oct 2025 18:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ad447e01-2f02-4f9e-9a95-fd2723de5f92" alt="miniatura"/></p><p>Tak zwany stary cmentarz katolicki w Piotrkowie przy ul. Cmentarnej założono w 1830 r. A tak zwany nowy jest niewiele tylko późniejszy bo powstał w roku 1890. Piotrkowska nekropolia znalazła się na obrzeżach miasta zgodnie z przepisami prawa napoleońskiego, jakie zaczęto stosować w Europie w XIX wieku. Wcześniej w Piotrkowie istniało kilka miejsc pochówku głównie przy klasztorach i kościołach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad447e01-2f02-4f9e-9a95-fd2723de5f92" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad447e01-2f02-4f9e-9a95-fd2723de5f92" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad447e01-2f02-4f9e-9a95-fd2723de5f92"/>
+</item>
 <item>
 <title><![CDATA[ Oferty pracy w Piotrkowie Trybunalskim. Tyle można aktualnie zarobić ]]></title>
 <link>https://trybunalski.pl/wiadomosci/oferty-pracy-w-piotrkowie-trybunalskim-tyle-mozna-aktualnie-zarobic/ZDuBe4F4dluNtYK0RqZr</link>
@@ -2059,16 +2069,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2077,6 +2077,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/69c2b499-06c1-4527-a1ac-52811378b1a8" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/69c2b499-06c1-4527-a1ac-52811378b1a8" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/69c2b499-06c1-4527-a1ac-52811378b1a8"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianka pod wpływem i jej towarzysz z dużym zapasem narkotyków zatrzymani przez policję. Grozi im odsiadka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkowianka-pod-wplywem-i-jej-towarzysz-z-duzym-zapasem-narkotykow-zatrzymani-przez-policje-grozi-im-odsiadka/SnUBID1hDvZVJv8fWRfj</link>
-<guid isPermaLink="false">9ad0f32718812e98415062f0ce38cd432f860629</guid>
-<pubDate>Tue, 02 Sep 2025 13:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74" alt="miniatura"/></p><p>Do ich zatrzymania doszło w miniony weekend w porze nocnej w Piotrkowie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/681aa47e-5b4f-47b0-bed2-bba896d46b74"/>
 </item>
 </channel></rss>
