@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 26 Oct 2025 19:30:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 20:40:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Piotrkowianin rozbity przez zespól z Kalisza! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-rozbity-przez-zespol-z-kalisza/IM6YRqPxEybCaTY40VvI</link>
+<guid isPermaLink="false">5d0baeec49ed5630dffbfa72ab4d2da554b5767e</guid>
+<pubDate>Sun, 26 Oct 2025 21:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcb3b03-0ea3-4dbf-ae9e-2d84b82d4c21" alt="miniatura"/></p><p>foto ORLEN Superliga/Piotrkowianin (Michał Ostafijczuk)</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcb3b03-0ea3-4dbf-ae9e-2d84b82d4c21" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcb3b03-0ea3-4dbf-ae9e-2d84b82d4c21" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcb3b03-0ea3-4dbf-ae9e-2d84b82d4c21"/>
+</item>
 <item>
 <title><![CDATA[ Nowe przepisy odbiorą prawo jazdy na całe życie. Szokujące zmiany dla kierowców w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-przepisy-odbiora-prawo-jazdy-na-cale-zycie-szokujace-zmiany-dla-kierowcow/pNB2Mo3xU0Y6yhH92B4J</link>
@@ -2959,16 +2969,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -2977,6 +2977,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1c43f079-1db8-44b9-8e4a-3c9da178b1e1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1c43f079-1db8-44b9-8e4a-3c9da178b1e1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1c43f079-1db8-44b9-8e4a-3c9da178b1e1"/>
-</item>
-<item>
-<title><![CDATA[ Co dalej z pracami domowymi? Czy wolno je zadawać? MEN odpowiada zdecydowanie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-dalej-z-pracami-domowymi-czy-wolno-je-zadawac-men-odpowiada-zdecydowanie/TOeXyAo5rFXI6x5CyiY8</link>
-<guid isPermaLink="false">86180696eeb50a950b8df1721f47882a8816ee9a</guid>
-<pubDate>Wed, 03 Sep 2025 10:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2efe2bf-3025-4d6a-8d26-7da98df94195" alt="miniatura"/></p><p>Czy prace domowe wracają do szkół? Jest mocna odpowiedź ze strony rządu | foto Archiwum</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2efe2bf-3025-4d6a-8d26-7da98df94195" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2efe2bf-3025-4d6a-8d26-7da98df94195" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2efe2bf-3025-4d6a-8d26-7da98df94195"/>
 </item>
 </channel></rss>
