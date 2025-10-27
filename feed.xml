@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 27 Oct 2025 15:42:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 16:48:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar kontenera i próba ucieczki. Interwencja służb w Areszcie Śledczym w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-kontenera-i-proba-ucieczki-interwencja-sluzb-w-areszcie-sledczym-w-piotrkowie/dETizIrh4w6GQFzwD12m</link>
+<guid isPermaLink="false">f17e56dca8cbdaba395ba5ae27c9b4e7ff9778a1</guid>
+<pubDate>Mon, 27 Oct 2025 17:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9e3b9055-8fe5-4e5f-b141-54a63c47a10c" alt="miniatura"/></p><p>Ogień został celowo wzniecony przez osadzonego pracującego w kuchni, który następnie usiłował sforsować ogrodzenie i przedostać się na pas ochronny. Po zewnętrznej stronie czekały osoby, które miały pomóc mu w ucieczce. Sytuacja wyglądała bardzo realistycznie, jednak była to część zaplanowanych ćwiczeń służb.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e3b9055-8fe5-4e5f-b141-54a63c47a10c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e3b9055-8fe5-4e5f-b141-54a63c47a10c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e3b9055-8fe5-4e5f-b141-54a63c47a10c"/>
+</item>
+<item>
+<title><![CDATA[ Akcja służb powiecie piotrkowskim. Pomógł pies Ares ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pies-sluzbowy-ares-w-akcji-na-terenie-powiatu-piotrkowskiego/rGhafYMPhMWCtK4kHG35</link>
+<guid isPermaLink="false">41c3b89fd43a9f47ea327e9e9a434e7f679c8c00</guid>
+<pubDate>Mon, 27 Oct 2025 16:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62cc2826-b008-41f7-97c4-8c17216b01b4" alt="miniatura"/></p><p>Akcja KAS w woj. łódzkim Funkcjonariusze Służby Celno-Skarbowej z łódzkiej Krajowej Administracji Skarbowej przeprowadzili działania kontrolne w dwóch punktach obsługi przesyłek kurierskich na terenie województwa łódzkiego. Podczas rutynowych kontroli, przy wsparciu specjalnie wyszkolonego psa służbowego, ujawniono znaczną ilość gotówki, ukrytej w paczkach nadanych do odbiorców w Polsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62cc2826-b008-41f7-97c4-8c17216b01b4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62cc2826-b008-41f7-97c4-8c17216b01b4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62cc2826-b008-41f7-97c4-8c17216b01b4"/>
+</item>
+<item>
+<title><![CDATA[ Trzech pijanych kierowców zatrzymanych w Piotrkowie i powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/trzech-pijanych-kierowcow-zatrzymanych-w-piotrkowie-i-powiecie/EU2HF8M59aAKOhEoDeNF</link>
+<guid isPermaLink="false">ca3ac31a6dd0a1e649d9d6e5b88e44909ad9831b</guid>
+<pubDate>Mon, 27 Oct 2025 16:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/65de9e7f-6046-4396-baed-d6d6bf01963e" alt="miniatura"/></p><p>Kontrole drogowe w Piotrkowie i powiecie W sobotę, 25 października 2025 roku kilka minut po północy funkcjonariusze piotrkowskiej komendy zatrzymali na ul. Wojska Polskiego 47-letniego kierowcę, który jechał chaotycznie, gwałtownie przyśpieszał i hamował. Badanie wykazało ponad promil alkoholu w organizmie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/65de9e7f-6046-4396-baed-d6d6bf01963e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/65de9e7f-6046-4396-baed-d6d6bf01963e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/65de9e7f-6046-4396-baed-d6d6bf01963e"/>
+</item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Wiadomo, o jakiej kwocie mowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/podwyzka-dla-prezydenta-piotrkowawiadomo-o-jakiej-kwocie-mowa/daOfedDKeOXauCK8wa65</link>
@@ -2189,16 +2219,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -2207,6 +2227,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3019,16 +3049,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -3037,6 +3057,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3967,35 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad76388d-dcf1-4ef3-aacc-1051ce496bf9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad76388d-dcf1-4ef3-aacc-1051ce496bf9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad76388d-dcf1-4ef3-aacc-1051ce496bf9"/>
-</item>
-<item>
-<title><![CDATA[ Niebezpiecznie niedaleko Piotrkowa. Dwie kraksy w tym samym miejscu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/niebezpiecznie-niedaleko-piotrkowa-dwie-kraksy-w-tym-samym-miejscu/xlIrCc7GkwPno53tEtwb</link>
-<guid isPermaLink="false">7fa5ec3017f619439b0bdd232f1ee1a851d5733d</guid>
-<pubDate>Wed, 03 Sep 2025 17:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/000fb2bc-5a79-42b1-b20c-229ef37658de" alt="miniatura"/></p><p>W środę, 3 września około godziny 16:00 na autostradzie A1 doszło do dwóch zdarzeń z udziałem samochodów osobowych. Wypadki miały miejsce na wysokości Sierosławia, w gminie Moszczenica. Do akcji ruszyły służby. Jak się okazuje, w pierwszym przypadku kierujący nissanem nie zachował należytej ostrożności i uderzył w tył seata.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/000fb2bc-5a79-42b1-b20c-229ef37658de" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/000fb2bc-5a79-42b1-b20c-229ef37658de" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/000fb2bc-5a79-42b1-b20c-229ef37658de"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w centrum Piotrkowa. Nie uwierzycie, ile wydmuchał kierowca [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-centrum-piotrkowa-nie-uwierzycie-ile-wydmuchal-kierowca-zdjecia/QrEobyhUaLxUxz3VvPDr</link>
-<guid isPermaLink="false">387cbb30d8c3432b1d0d223315b2254961817837</guid>
-<pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/af98fd30-3112-4c41-a4b7-b10dae8ce670" alt="miniatura"/></p><p>W środę, 3 września po godz. 14:00 w Piotrkowie doszło do wypadku. Na miejsce ruszyły służby, w tym policjanci oraz ratownicy medyczni. Wszystko stało się jasne, kiedy sprawdzono stan trzeźwości sprawcy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/af98fd30-3112-4c41-a4b7-b10dae8ce670" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/af98fd30-3112-4c41-a4b7-b10dae8ce670" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/af98fd30-3112-4c41-a4b7-b10dae8ce670"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w Piotrkowie. Motocyklista trafił do szpitala [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-motocyklista-trafil-do-szpitala-zdjecia/AqKpiADl1r9CxBLQBmGN</link>
-<guid isPermaLink="false">010e778f22786722df7ead654aca59c1559b50c4</guid>
-<pubDate>Wed, 03 Sep 2025 15:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2" alt="miniatura"/></p><p>W środę, 3 września około godziny 14:00 w Piotrkowie doszło do wypadku. Na ul. Haeringa zderzyły się samochód osobowy i motocykl. Na miejsce ruszyli policjanci, konieczna była też pomoc ratowników medycznych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2"/>
 </item>
 </channel></rss>
