@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 27 Oct 2025 14:40:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 15:42:09 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Wiadomo, o jakiej kwocie mowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/podwyzka-dla-prezydenta-piotrkowawiadomo-o-jakiej-kwocie-mowa/daOfedDKeOXauCK8wa65</link>
+<guid isPermaLink="false">57798500a92bcfda57ccdbd73bd70e8183ab4266</guid>
+<pubDate>Mon, 27 Oct 2025 15:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0150d8c2-4cd6-446d-8a24-6ccf5008a05e" alt="miniatura"/></p><p>Pojawił się projekt uchwały w sprawie ustalenia wynagrodzenia dla Prezydenta Miasta Piotrkowa Trybunalskiego. Przypomnijmy, że do tej pory włodarz miasta otrzymuje wynagrodzenie zasadnicze w kwocie 10 770 zł, dodatek funkcyjny w kwocie 3 450 zł oraz dodatek specjalny, w wysokości 30% sumy wynagrodzenia zasadniczego i dodatku funkcyjnego. W sumie to 18 486 zł. Zaproponowano jednak, by prezydent dos…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0150d8c2-4cd6-446d-8a24-6ccf5008a05e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0150d8c2-4cd6-446d-8a24-6ccf5008a05e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0150d8c2-4cd6-446d-8a24-6ccf5008a05e"/>
+</item>
 <item>
 <title><![CDATA[ Wszystkich Świętych w Piotrkowie. Utrudnienia w ruchu i zmiany w kursowaniu MZK ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wszystkich-swietych-w-piotrkowie-utrudnienia-w-ruchu-i-zmiany-w-kursowaniu-mzk/x8LdtrhpH4wfDBklkjij</link>
@@ -3139,16 +3149,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3157,6 +3157,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/08689a10-1302-4e92-a58c-a1c95b42fca2"/>
-</item>
-<item>
-<title><![CDATA[ Koniec problemów mieszkańców „Ryneczku”? Pytamy o plany ]]></title>
-<link>https://trybunalski.pl/wiadomosci/koniec-problemow-mieszkancow-ryneczku-pytamy-o-plany/ePKNirhWPAl1DuEbZTLS</link>
-<guid isPermaLink="false">569791e9e02dde340171981d9cebf16c14adebca</guid>
-<pubDate>Wed, 03 Sep 2025 15:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/200b3c70-2979-4b41-9e50-2db7787a7d83" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto FB/Gdzie stoją w Piotrkowie Trybunalskim?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/200b3c70-2979-4b41-9e50-2db7787a7d83" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/200b3c70-2979-4b41-9e50-2db7787a7d83" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/200b3c70-2979-4b41-9e50-2db7787a7d83"/>
 </item>
 </channel></rss>
