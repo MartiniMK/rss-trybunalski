@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Oct 2025 14:41:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 15:42:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tancerki z Piotrkowa mistrzyniami świata. Do miasta wróciły z medalami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-mistrzyniami-swiata-do-miasta-wrocily-z-medalami/YQQuJdVo1zAyNeMkDpOr</link>
+<guid isPermaLink="false">6228520285e86bbe5a2d9a2d82df3f64a5ad8410</guid>
+<pubDate>Tue, 28 Oct 2025 15:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/db895a07-6ea8-459f-b3c6-da819255a73b" alt="miniatura"/></p><p>Od 22 do 26 października w Grodzisku Mazowieckim odbywały się 23. Mistrzostwa Świata International Dance Federation IDF World Dance Championships in Modern Dance Sport. Tancerze zaprezentowali się w najróżniejszych kategoriach. Konkurowało ze sobą ponad 1500 tancerzy z 15 krajów świata: Hiszpanii, Wielkiej Brytanii, Ukrainy, Włoch, Mołdawii, Rumunii, Macedonii, Południowej Afryki, Serbii, Estonii,…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db895a07-6ea8-459f-b3c6-da819255a73b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db895a07-6ea8-459f-b3c6-da819255a73b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db895a07-6ea8-459f-b3c6-da819255a73b"/>
+</item>
 <item>
 <title><![CDATA[ Marzysz o wysokiej emeryturze? Sprawdź, ile musi zarabiać, by dostać 8 tys. zł miesięcznie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/40-latek-marzy-o-wysokiej-emeryturze-sprawdz-ile-musi-zarabiac-by-dostac-8-tys-zl-miesiecznie/eb9kfYOZopF9WIyzFboV</link>
@@ -2269,16 +2279,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -2287,6 +2287,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3229,16 +3239,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
-<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
-</item>
-<item>
 <title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
 <guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
@@ -3247,6 +3247,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
+</item>
+<item>
+<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
+<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06"/>
-</item>
-<item>
-<title><![CDATA[ Policyjne kontrole cudzoziemców w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/policyjne-kontrole-cudzoziemcow-w-piotrkowie/iZB1ODUICT6svz44SM3U</link>
-<guid isPermaLink="false">c793b416fc0a3ae4ab98c2aa6298bb06c01a80d4</guid>
-<pubDate>Thu, 04 Sep 2025 13:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4a056f3a-becc-4a97-8cd8-b53780946c16" alt="miniatura"/></p><p>foto KMP w Piotrkowie Trybunalskim</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a056f3a-becc-4a97-8cd8-b53780946c16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a056f3a-becc-4a97-8cd8-b53780946c16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a056f3a-becc-4a97-8cd8-b53780946c16"/>
 </item>
 </channel></rss>
