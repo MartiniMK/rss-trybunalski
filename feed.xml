@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Oct 2025 10:43:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 11:35:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Siostry Kafar w wyjątkowej akcji. Poruszające nagranie z piotrkowiankami pojawiło się w sieci ]]></title>
+<link>https://trybunalski.pl/wiadomosci/siostry-kafar-w-wyjatkowej-akcji-poruszajace-nagranie-z-piotrkowiankami-pojawilo-sie-w-sieci/NWfSy15i8SEvONoEA2Qx</link>
+<guid isPermaLink="false">1dab19b4aeb623761c9aef5720d003eb0e0ca24a</guid>
+<pubDate>Tue, 28 Oct 2025 11:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7bf42a7-9ae1-462d-a723-a6f8138cfb3f" alt="miniatura"/></p><p>Siostry Kafar z Piotrkowa promują pilną zbiórkę Julia i Zuzia Kafar z Piotrkowa złożyły wizytę w Klinice Onkologii i Chirurgii Onkologicznej Dzieci i Młodzieży w Warszawie. Wspólnie zagrały i zaśpiewały z 12-letnią Łucją, która choruje na złośliwy nowotwór. Dziewczyny łączy pasja do muzyki i chęć pomagania innym, dlatego to trio to połączenie wyjątkowe.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7bf42a7-9ae1-462d-a723-a6f8138cfb3f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7bf42a7-9ae1-462d-a723-a6f8138cfb3f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7bf42a7-9ae1-462d-a723-a6f8138cfb3f"/>
+</item>
 <item>
 <title><![CDATA[ Cmentarz ewangelicki w Piotrkowie. Luteranie są tam chowani od 1877 roku [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia/cmentarz-ewangelicki-w-piotrkowie-luteranie-sa-tam-chowani-od-1877-roku-zdjecia/NlABsiXkbR0TMEhaMnOs</link>
@@ -2229,16 +2239,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2247,6 +2247,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia z przytupem zainaugurowała nowy sezon! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-z-przytupem-zainaugurowala-nowy-sezon/gHq1XxAOQX8TunrtSpyF</link>
-<guid isPermaLink="false">99a8b48a0321973c0bd87db95a42bd026ef0c7c9</guid>
-<pubDate>Wed, 03 Sep 2025 20:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4f67c759-d92d-427f-ac73-227744d8b94d" alt="miniatura"/></p><p>foto ORLEN Superliga Kobiet/MKS Piotrcovia</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4f67c759-d92d-427f-ac73-227744d8b94d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4f67c759-d92d-427f-ac73-227744d8b94d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4f67c759-d92d-427f-ac73-227744d8b94d"/>
 </item>
 </channel></rss>
