@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Oct 2025 13:08:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 13:50:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowianki najlepsze w województwie. Zagrają na Stadionie Narodowym w Warszawie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowianki-najlepsze-w-wojewodztwie-zagraja-na-stadionie-narodowym-w-warszawie/adeN5I9wdmQYaYL5WpOs</link>
+<guid isPermaLink="false">314f64f22c17423496f1382f9d8c4c2024097350</guid>
+<pubDate>Tue, 28 Oct 2025 14:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bc7d4d76-4add-4554-8d82-5ba444e2fe35" alt="miniatura"/></p><p>W czwartek, 23 października na boisku "Orlik" w Zduńskiej Woli przy ul. Okrzei 5 rozegrały się zawody wojewódzkie "Z Orlika na stadion" w piłce nożnej dziewcząt U -14. W zawodach finałowych uczestniczyły uczennice ze Szkoły Podstawowej w Lutomiersku, SP 2 w Koluszkach, SP w Budzieszowicach, a także z SP 2 w Piotrkowie Trybunalskim. Jak się okazuje, zawodniczki z naszego miasta zyskały awans do tur…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc7d4d76-4add-4554-8d82-5ba444e2fe35" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc7d4d76-4add-4554-8d82-5ba444e2fe35" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc7d4d76-4add-4554-8d82-5ba444e2fe35"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków na podium w... piciu „małpek”. W województwie wyprzedza nas tylko... ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-na-podium-w-piciu-malpek-w-wojewodztwie-wyprzedza-nas-tylko/g6lGZUaVtnixWaUeboe1</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6152c0d-72bf-4956-9a69-fbbeab97a833" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6152c0d-72bf-4956-9a69-fbbeab97a833" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6152c0d-72bf-4956-9a69-fbbeab97a833"/>
-</item>
-<item>
-<title><![CDATA[ Będzie ekologiczny PSZOK w Piotrkowie? Takie są plany ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bedzie-ekologiczny-pszok-w-piotrkowie-takie-sa-plany/AHigVh01OTGuL71kMbSr</link>
-<guid isPermaLink="false">e86f03536863659dc0ca26b91d54f1e7c9251c74</guid>
-<pubDate>Thu, 04 Sep 2025 11:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0" alt="miniatura"/></p><p>Obecnie to tylko rozważanie różnych pomysłów, sprawdzonych wcześniej w miastach, które próbują poradzić sobie z górami śmieci na mniej konwencjonalne sposoby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0"/>
 </item>
 </channel></rss>
