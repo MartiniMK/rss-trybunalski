@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Oct 2025 11:35:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 13:08:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrków na podium w... piciu „małpek”. W województwie wyprzedza nas tylko... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkow-na-podium-w-piciu-malpek-w-wojewodztwie-wyprzedza-nas-tylko/g6lGZUaVtnixWaUeboe1</link>
+<guid isPermaLink="false">4257ce77f856b14652b5b82aa6d4f69e119e66f0</guid>
+<pubDate>Tue, 28 Oct 2025 13:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/05f15dbf-3e04-40fe-a98a-67b18ea4dd9f" alt="miniatura"/></p><p>Pomimo wprowadzenia w 2021 r. dodatkowego podatku, tzw. małpki wciąż są chętnie kupowane. Tak wynika z danych Ministerstwa Finansów, które informują o wpływie ze sprzedaży napojów alkoholowych w opakowaniach o pojemności nieprzekraczającej 300 ml . Rozpiska dotyczy okresu od 1 stycznia do 30 czerwca 2025 r. w poszczególnych gminach w Polsce. Jak wypadł Piotrków i powiat?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/05f15dbf-3e04-40fe-a98a-67b18ea4dd9f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/05f15dbf-3e04-40fe-a98a-67b18ea4dd9f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/05f15dbf-3e04-40fe-a98a-67b18ea4dd9f"/>
+</item>
 <item>
 <title><![CDATA[ Siostry Kafar w wyjątkowej akcji. Poruszające nagranie z piotrkowiankami pojawiło się w sieci ]]></title>
 <link>https://trybunalski.pl/wiadomosci/siostry-kafar-w-wyjatkowej-akcji-poruszajace-nagranie-z-piotrkowiankami-pojawilo-sie-w-sieci/NWfSy15i8SEvONoEA2Qx</link>
@@ -3069,16 +3079,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -3087,6 +3087,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3199,16 +3209,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
-<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
-</item>
-<item>
 <title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
 <guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
@@ -3217,6 +3217,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
+</item>
+<item>
+<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
+<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5b818b3-0e6a-4e3d-a6fc-350b8614dfd0"/>
-</item>
-<item>
-<title><![CDATA[ Większe dopłaty do żłobków i opieki nad dziećmi. Nawet 1900 zł miesięcznie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wieksze-doplaty-do-zlobkow-i-opieki-nad-dziecmi-nawet-1900-zl-miesiecznie/fXdKFcTaNMjtygWhd1A1</link>
-<guid isPermaLink="false">9b4e663879a96ede75d6cbc9411567882255ed44</guid>
-<pubDate>Thu, 04 Sep 2025 09:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a" alt="miniatura"/></p><p>Program nie tylko utrzymał wcześniejsze prawa nabyte, ale również je rozszerzył. Dotychczasowe rozwiązania, takie jak rodzinny kapitał opiekuńczy i dofinansowanie żłobkowe w wysokości 400 zł, zostały zastąpione przez nowe, wyższe świadczenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1c0dddb-4829-4347-afc9-9657db367a2a"/>
 </item>
 </channel></rss>
