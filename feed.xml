@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Oct 2025 15:42:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 16:48:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Spore emocje na koniec piłkarskiej jesieni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/spore-emocje-na-koniec-pilkarskiej-jesieni/honNQk686OPWOkDCCuw4</link>
+<guid isPermaLink="false">5ecd4e33b549e7272c3c56bc533436459bb2553f</guid>
+<pubDate>Tue, 28 Oct 2025 16:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef5d5a37-03d9-4c64-a67d-3c9817361cb4" alt="miniatura"/></p><p>Te drużyny to odwieczni i najbardziej utytułowani rywale. Ich spotkania z reguły kończą daną rundę. Nie inaczej było w miniony weekend. Mecz Barwil – Omega – Prym – Galeria Wnętrz przyniósł dwie czerwone kartki (obie dla BO ), trzy gole (2 dla BO , 1 dla PGW ) i sporo kontrowersji. Ostatecznie lepszy okazał się lider, który z dorobkiem 25 punktów przewodzi stawce drużyn w I lidze.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef5d5a37-03d9-4c64-a67d-3c9817361cb4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef5d5a37-03d9-4c64-a67d-3c9817361cb4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef5d5a37-03d9-4c64-a67d-3c9817361cb4"/>
+</item>
 <item>
 <title><![CDATA[ Tancerki z Piotrkowa mistrzyniami świata. Do miasta wróciły z medalami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-mistrzyniami-swiata-do-miasta-wrocily-z-medalami/YQQuJdVo1zAyNeMkDpOr</link>
@@ -2279,16 +2289,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2297,6 +2297,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea9f0d0-f8c3-42f7-8ae7-14dd3c785562" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea9f0d0-f8c3-42f7-8ae7-14dd3c785562" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea9f0d0-f8c3-42f7-8ae7-14dd3c785562"/>
-</item>
-<item>
-<title><![CDATA[ Odcinkowy pomiar prędkości w Piotrkowie? Chodzi o bezpieczeństwo ]]></title>
-<link>https://trybunalski.pl/wiadomosci/odcinkowy-pomiar-predkosci-w-piotrkowie-chodzi-o-bezpieczenstwo/yk7yL6Vz2RHLDfwpYr9G</link>
-<guid isPermaLink="false">70ee45d01ee068f49848ad5185c42537cee8b572</guid>
-<pubDate>Thu, 04 Sep 2025 14:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06" alt="miniatura"/></p><p>Pomimo licznych apeli nadmierna prędkość wciąż jest jedną z głównych przyczyn wypadków. Również w Piotrkowie niektórzy kierowcy ignorują znaki i pędzą przez ulice miasta. Takim miejscem ma być ul. Zalesicka, której mieszkańcy martwią się o bezpieczeństwo pieszych. Rozwiązaniem tego problemu miałby być odcinkowy pomiar prędkości. Z takim pomysłem zwróciła się w swojej interpelacji radna Małgorzata…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/963340a3-9cab-4bed-8c6e-f5bbece3eb06"/>
 </item>
 </channel></rss>
