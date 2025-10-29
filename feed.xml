@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Oct 2025 15:43:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 16:50:17 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zaginął 40-letni piotrkowianin! Policja apeluje o wsparcie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginal-40-letni-piotrkowianin-policja-apeluje-o-wsparcie/DP2esseCcA1jUhcGMz9Z</link>
+<guid isPermaLink="false">4a31bf6e134e434a6cfe1f8a71d5a4b7ae597293</guid>
+<pubDate>Wed, 29 Oct 2025 17:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3e589058-ad31-4ce8-9abc-42804159300c" alt="miniatura"/></p><p>Zaniepokojona rodzina apeluje o pomoc w odnalezieniu zaginionego Tomasza Kubik.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e589058-ad31-4ce8-9abc-42804159300c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e589058-ad31-4ce8-9abc-42804159300c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e589058-ad31-4ce8-9abc-42804159300c"/>
+</item>
 <item>
 <title><![CDATA[ Przed nami Wszystkich Świętych 2025. Ile kosztują znicze i kwiaty w Piotrkowie? [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/przed-nami-wszystkich-swietych-2025-trwaja-ile-kosztuja-znicze-i-kwiaty-w-piotrkowie/5UmK4TNDXGcyr6eFCToK</link>
@@ -3219,16 +3229,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -3237,6 +3237,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/d9dfdf85-0b0e-442d-9946-2a6f660d0a2d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/d9dfdf85-0b0e-442d-9946-2a6f660d0a2d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/d9dfdf85-0b0e-442d-9946-2a6f660d0a2d"/>
-</item>
-<item>
-<title><![CDATA[ Co się dzieje w ten weekend w Piotrkowie i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-sie-dzieje-w-ten-weekend-w-piotrkowie-i-powiecie/FIa0DSAJrZ93kqrSzpvn</link>
-<guid isPermaLink="false">3d356a65271a9d3fff9b8e21329ecb9d9524a406</guid>
-<pubDate>Fri, 05 Sep 2025 18:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6478137d-e838-4c75-a33b-4dc0f2a81966" alt="miniatura"/></p><p>Wernisaż, pikniki, koncert, plenerowa impreza techno, dożynki, zawody strażackie, narodowe czytanie, festiwal modelarzy czy spacer z historią w tle - sporo się będzie działo w naszych stronach. Warto sprawdzić, by nie przegapić czegoś interesującego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6478137d-e838-4c75-a33b-4dc0f2a81966" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6478137d-e838-4c75-a33b-4dc0f2a81966" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6478137d-e838-4c75-a33b-4dc0f2a81966"/>
 </item>
 </channel></rss>
