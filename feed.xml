@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Oct 2025 09:41:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 10:43:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pijany kierowca BMW straci swój samochód? Ktoś kupi go w okazyjnej cenie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pijany-kierowca-bmw-straci-swoj-samochod-ktos-kupi-go-w-okazyjnej-cenie/5RdqEtrrd6emzmpvG9GI</link>
+<guid isPermaLink="false">12a9ebb4e0eec5f5fd9fab2e608427bcc92202b0</guid>
+<pubDate>Wed, 29 Oct 2025 11:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/026abca2-50d1-47f5-9f01-85a9cb8e7ab1" alt="miniatura"/></p><p>W poniedziałek, 6 października br. w powiecie piotrkowskim doszło do niebezpiecznie wyglądającego zdarzenia. W miejscowości Bujny, w gminie Wola Krzysztoporska mężczyzna kierujący samochód marki BMW X6 utracił kontrolę nad pojazdem i wjechał do przydrożnego rowu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/026abca2-50d1-47f5-9f01-85a9cb8e7ab1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/026abca2-50d1-47f5-9f01-85a9cb8e7ab1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/026abca2-50d1-47f5-9f01-85a9cb8e7ab1"/>
+</item>
+<item>
+<title><![CDATA[ Szczęśliwa seria w Lotto w naszym regionie. Ile zgarnęli gracze? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szczesliwa-seria-w-lotto-w-naszym-regionie-ile-zgarneli-gracze/HhJAmsdbj1YEH336zyjj</link>
+<guid isPermaLink="false">7b91d94cf8811fed4fa8b0d03d513894243d4db6</guid>
+<pubDate>Wed, 29 Oct 2025 10:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto lotto.pl</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055"/>
+</item>
 <item>
 <title><![CDATA[ Niesamowity przybysz ze Szwecji. Można go spotkać na parapetach naszych okien ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niesamowity-przybysz-ze-szwecji-mozna-go-spotkac-na-parapetach-naszych-okien/Z0ZWwMSfLBuAcCIx5ek5</link>
@@ -2309,16 +2329,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
-<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
-</item>
-<item>
 <title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
 <guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
@@ -2327,6 +2337,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
+</item>
+<item>
+<title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
+<guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3269,16 +3289,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3287,6 +3297,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/55272a7c-d3f6-4955-b241-16b4c756d3a7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/55272a7c-d3f6-4955-b241-16b4c756d3a7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/55272a7c-d3f6-4955-b241-16b4c756d3a7"/>
-</item>
-<item>
-<title><![CDATA[ Uważaj na łosia Zbycha!!! Możesz go spotkać w Piotrkowie! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwazaj-na-losia-zbycha-mozesz-go-spotkac-w-piotrkowie/Ke4WiVqmFmIO9KTEgVxq</link>
-<guid isPermaLink="false">a50adc659a507c354873cc9df3a3d4886e255d98</guid>
-<pubDate>Fri, 05 Sep 2025 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6cd7392a-52e7-41f1-955a-ca80eeb140db" alt="miniatura"/></p><p>Internautka ostrzegła wczoraj na swoim profilu w mediach społecznościowych przed spacerującym w okolicach ulic Uprawnej, Karolinowskiej i Żółtej w Piotrkowie łosiem Zbyszkiem. Łoś widywany jest tam od tygodnia. Żywi się rosnącą w tamtych stronach kukurydzą i jabłkami z tamtejszych sadów. Podobno bez pardonu potrafi wychodzić na jezdnię i nie bardzo przejmuje się jeżdżącymi pojazdami.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cd7392a-52e7-41f1-955a-ca80eeb140db" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cd7392a-52e7-41f1-955a-ca80eeb140db" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cd7392a-52e7-41f1-955a-ca80eeb140db"/>
-</item>
-<item>
-<title><![CDATA[ Wydano alert dla województwa łódzkiego. W naszym powiecie zacznie się już za chwilę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-wojewodztwa-lodzkiego-w-naszym-powiecie-zacznie-sie-juz-wkrotce/vfJBPY2SEA8k8sY7bgRC</link>
-<guid isPermaLink="false">d8b76d531fdebd41f76eb313837d29972e63c9bf</guid>
-<pubDate>Fri, 05 Sep 2025 09:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/833d3e6e-12e7-4f77-83d9-e4601e1d1ce3" alt="miniatura"/></p><p>Ostrzeżenie obejmuje szeroki obszar województwa Ostrzeżenie obowiązuje w piątek, 5 września, od godziny 15:00 do 22:00. Synoptycy objęli nim aż 18 powiatów. Na liście znalazły się m.in.: bełchatowski, piotrkowski, radomszczański, opoczyński, rawski, łowicki, pabianicki, skierniewicki, tomaszowski, a także miasta na prawach powiatu – Łódź i Skierniewice.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/833d3e6e-12e7-4f77-83d9-e4601e1d1ce3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/833d3e6e-12e7-4f77-83d9-e4601e1d1ce3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/833d3e6e-12e7-4f77-83d9-e4601e1d1ce3"/>
 </item>
 </channel></rss>
