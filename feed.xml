@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Oct 2025 11:34:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 13:10:17 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Alert GIS. Skażone mięso mogło trafić do sklepów w Polsce. Sprawdź, czy nie kupiłeś ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-bije-na-alarm-grozna-bakteria-w-popularnym-produkcie-miesnym-sprawdz-czy-masz-to-w-lodowce/01734RoGgmYWn32G3HfF</link>
+<guid isPermaLink="false">eacd7f388c736a61ddd589269610b6b00228d04d</guid>
+<pubDate>Wed, 29 Oct 2025 13:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/0bf9d46c-e6c2-4aac-9436-56244c62de3a" alt="miniatura"/></p><p>Państwowa Inspekcja Sanitarna poinformowała, że w jednej z partii surowego produktu mięsnego wykryto obecność Escherichia coli wytwarzającej toksynę Shiga (STEC) . To szczególnie niebezpieczny szczep, który może prowadzić do zatrucia pokarmowego, a w ciężkich przypadkach – do niewydolności nerek i układu nerwowego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/0bf9d46c-e6c2-4aac-9436-56244c62de3a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/0bf9d46c-e6c2-4aac-9436-56244c62de3a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/0bf9d46c-e6c2-4aac-9436-56244c62de3a"/>
+</item>
 <item>
 <title><![CDATA[ Puchar Polski nie dla Piotrkowianina! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-nie-dla-piotrkowianina/OPYtN9IBcZyvpez3iIKr</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6"/>
-</item>
-<item>
-<title><![CDATA[ Mała Milenka potrzebuje pomocy. Będzie zbiórka w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mala-milenka-potrzebuje-pomocy-bedzie-zbiorka-w-piotrkowie/eruDlmpdGIjSlwVQkcwB</link>
-<guid isPermaLink="false">2147ff27c2b531ff5c6558532d10cccfa1079aec</guid>
-<pubDate>Fri, 05 Sep 2025 12:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6d6ff7a3-79a7-47dc-b0db-3ca44be0cf41" alt="miniatura"/></p><p>W sobotę, 6 września mieszkańcy Piotrkowa będą mieli okazję bawić się wspólnie podczas pikniku. Na wydarzenie, które odbędzie się przy Domu Handlowym Merkury, zaprasza Rada Osiedla Belzacka. Na jakie atrakcje mogą liczyć przybyli?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d6ff7a3-79a7-47dc-b0db-3ca44be0cf41" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d6ff7a3-79a7-47dc-b0db-3ca44be0cf41" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d6ff7a3-79a7-47dc-b0db-3ca44be0cf41"/>
 </item>
 </channel></rss>
