@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Oct 2025 13:53:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 14:42:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Koniec L4 na starych zasadach. Kontrole ZUS na potęgę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koniec-l4-na-starych-zasadach-kontrole-zus-na-potege/ug2C7LlPmqsoiSs7IDgi</link>
+<guid isPermaLink="false">d44aabc15dae2c92e2d86207071919dae0ed10a4</guid>
+<pubDate>Wed, 29 Oct 2025 15:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/d9118f98-1da0-4803-ad6f-2fde6b0e17ac" alt="miniatura"/></p><p>Koniec urlopu na zwoleniu. ZUS zapowiada kontrole | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/d9118f98-1da0-4803-ad6f-2fde6b0e17ac" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/d9118f98-1da0-4803-ad6f-2fde6b0e17ac" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/d9118f98-1da0-4803-ad6f-2fde6b0e17ac"/>
+</item>
+<item>
+<title><![CDATA[ Dziewczynka z wycinanką. Zobacz nowy mural w Piotrkowie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziewczynka-z-wycinanka-zobacz-nowy-mural-w-piotrkowie-zdjecia/dtWafD5MCQrDeFldKDk3</link>
+<guid isPermaLink="false">3535877f8c6bf21e1d3545ccc99c9a22d8ee2f0f</guid>
+<pubDate>Wed, 29 Oct 2025 14:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6653e860-857c-4e9f-9a49-c5c684e5b5a5" alt="miniatura"/></p><p>Ścianę jednego z budynków w Piotrkowie Trybunalskim zdobi nowy mural. Malunek jest inspirowany sztuką ludową regionu łódzkiego i wita wjeżdżających do miasta. Nosi tytuł „Dziewczynka z wycinanką”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6653e860-857c-4e9f-9a49-c5c684e5b5a5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6653e860-857c-4e9f-9a49-c5c684e5b5a5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6653e860-857c-4e9f-9a49-c5c684e5b5a5"/>
+</item>
 <item>
 <title><![CDATA[ Alert GIS. Skażone mięso mogło trafić do sklepów w Polsce. Sprawdź, czy nie kupiłeś ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gis-bije-na-alarm-grozna-bakteria-w-popularnym-produkcie-miesnym-sprawdz-czy-masz-to-w-lodowce/01734RoGgmYWn32G3HfF</link>
@@ -3189,16 +3209,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -3207,6 +3217,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/14f739ce-8781-4b32-81eb-abb44384edc4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/14f739ce-8781-4b32-81eb-abb44384edc4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/14f739ce-8781-4b32-81eb-abb44384edc4"/>
-</item>
-<item>
-<title><![CDATA[ Jak dojechać na piotrkowski SOR? Zmiana drogi dojazdowej z powodu remontu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jak-dojechac-na-piotrkowski-sor-zmiana-drogi-dojazdowej-z-powodu-remontu/lSEwXnZ9ElTG0q5jAtfH</link>
-<guid isPermaLink="false">5ba58996416529b2f0409f81a1930fbf39722baf</guid>
-<pubDate>Fri, 05 Sep 2025 14:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d57d76ad-8319-4cea-9d06-872fa1b6c0dd" alt="miniatura"/></p><p>foto Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d57d76ad-8319-4cea-9d06-872fa1b6c0dd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d57d76ad-8319-4cea-9d06-872fa1b6c0dd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d57d76ad-8319-4cea-9d06-872fa1b6c0dd"/>
-</item>
-<item>
-<title><![CDATA[ Skład opału poszedł z dymem. Aż 11 zastępów straży walczyło z ogniem [FOTO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sklad-opalu-poszedl-z-dymem-az-11-zastepow-wlaczylo-sie-do-akcji-gasniczej-w-tychowie/lHIk5BX16drQ2XIv6Eiu</link>
-<guid isPermaLink="false">b665f2734b32ea9aa7ecc83869e487d859f0fd42</guid>
-<pubDate>Fri, 05 Sep 2025 13:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6" alt="miniatura"/></p><p>W czwartek po 22:00 wezwano strażaków z OSP Tychów i OSP Czarnocin do pożaru, który wybuchł w składzie opału w Tychowie. Ze względu na stopień rozprzestrzenienia ognia do pomocy przybyły kolejne zastępy, tworzące zaopatrzenie w wodę. Łącznie w działaniach brały udział 2 zastępy Państwowej Straży Pożarnej w Piotrkowie oraz 9 Zastępów Ochotniczej Straży Pożarnej. Poza ochotnikami z Tychowa i Czarnoc…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db23fdea-e392-486f-a865-bd64c3373fb6"/>
 </item>
 </channel></rss>
