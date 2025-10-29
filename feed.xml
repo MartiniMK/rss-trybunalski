@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Oct 2025 04:02:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 04:44:45 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Niesamowity przybysz ze Szwecji. Można go spotkać na parapetach naszych okien ]]></title>
