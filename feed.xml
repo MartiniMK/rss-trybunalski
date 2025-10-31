@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 31 Oct 2025 19:31:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 20:42:07 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia rozbiła kolejnego rywala! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-rozbila-kolejnego-rywala/nsqRShQNc6gk6vaaatwm</link>
+<guid isPermaLink="false">db04438f3697cd82b87327b4cfac0768a20af2ad</guid>
+<pubDate>Fri, 31 Oct 2025 20:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/528b1e5d-a555-4ad8-be3a-a572c8aa0b48" alt="miniatura"/></p><p>foto ORLEN Superliga Kobiet/MKS Piotrcovia</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/528b1e5d-a555-4ad8-be3a-a572c8aa0b48" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/528b1e5d-a555-4ad8-be3a-a572c8aa0b48" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/528b1e5d-a555-4ad8-be3a-a572c8aa0b48"/>
+</item>
 <item>
 <title><![CDATA[ Msze online na Wszystkich Świętych. Gdzie obejrzysz transmisję na żywo z Jasnej Góry i Łagiewnik? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/msze-online-na-wszystkich-swietych-gdzie-obejrzysz-transmisje-na-zywo-z-jasnej-gory-i-lagiewnik/mpIbXM7tID4zSERJ6V7Z</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d"/>
-</item>
-<item>
-<title><![CDATA[ Taki widok zastali w Moszczenicy. Strażacy apelują do mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/taki-widok-zastali-w-moszczenicy-strazacy-apeluja-do-mieszkancow/7yCUpZhlbPfuphHsFCpw</link>
-<guid isPermaLink="false">af4b85ed79518734e29cf97f0e3356a7edd823ed</guid>
-<pubDate>Tue, 09 Sep 2025 15:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" alt="miniatura"/></p><p>Nie tak dawno pisaliśmy zniszczeniach, które zastali mieszkańcy Moszczenicy na jednym z placów zabaw. Sprawcy uszkodzili ławki, krawężniki, kosz na śmieci, a nawet tablicę z regulaminem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce"/>
 </item>
 </channel></rss>
