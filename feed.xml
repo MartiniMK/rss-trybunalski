@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 01 Nov 2025 13:39:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 14:34:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Utrudnienia na S8 – doszło do wypadku. Dwie osoby ranne! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/utrudnienia-na-s8-doszlo-do-wypadku-dwie-osoby-ranne/iuScYGdJczylIFiVzS1z</link>
+<guid isPermaLink="false">549846b485a73f169d60e9a4209cc8f3ea1edf68</guid>
+<pubDate>Sat, 01 Nov 2025 15:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/807324b2-bcab-47c3-b9d8-3296d6d1bd08" alt="miniatura"/></p><p>Około godz. 14:00 na S8 (330 kilometr trasy) na pasie w kierunku Katowic, za węzłem Piotrków Wschód doszło do zdarzenia drogowego z udziałem dwóch pojazdów osobowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/807324b2-bcab-47c3-b9d8-3296d6d1bd08" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/807324b2-bcab-47c3-b9d8-3296d6d1bd08" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/807324b2-bcab-47c3-b9d8-3296d6d1bd08"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia rozbiła kolejnego rywala! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-rozbila-kolejnego-rywala/nsqRShQNc6gk6vaaatwm</link>
@@ -3599,16 +3609,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3617,6 +3617,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9fe5c1-84d5-43a0-8f92-693a8ed33e6d"/>
-</item>
-<item>
-<title><![CDATA[ Taki widok zastali w Moszczenicy. Strażacy apelują do mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/taki-widok-zastali-w-moszczenicy-strazacy-apeluja-do-mieszkancow/7yCUpZhlbPfuphHsFCpw</link>
-<guid isPermaLink="false">af4b85ed79518734e29cf97f0e3356a7edd823ed</guid>
-<pubDate>Tue, 09 Sep 2025 15:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" alt="miniatura"/></p><p>Nie tak dawno pisaliśmy zniszczeniach, które zastali mieszkańcy Moszczenicy na jednym z placów zabaw. Sprawcy uszkodzili ławki, krawężniki, kosz na śmieci, a nawet tablicę z regulaminem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63ac8d-a822-4768-9bf8-fb11a446c0ce"/>
 </item>
 </channel></rss>
