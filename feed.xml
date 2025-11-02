@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 02 Nov 2025 21:33:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 22:35:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar domu w powiecie piotrkowskim. Na miejscu liczne zastępy straży ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-w-powiecie-piotrkowskim-na-miejscu-liczne-zastepy-strazy/qhH8YaTpAgYoke5dPQRw</link>
+<guid isPermaLink="false">61ffe91da2a688888e68dcd330dc3285c9a88815</guid>
+<pubDate>Sun, 02 Nov 2025 22:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5e82e9e2-2a8f-4a60-a666-73b7b5d96a47" alt="miniatura"/></p><p>Do pożaru doszło 2 listopada, około godziny 7:30, w miejscowości Baby (powiat piotrkowski).</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e82e9e2-2a8f-4a60-a666-73b7b5d96a47" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e82e9e2-2a8f-4a60-a666-73b7b5d96a47" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e82e9e2-2a8f-4a60-a666-73b7b5d96a47"/>
+</item>
 <item>
 <title><![CDATA[ Jeśli masz ponad 60 lat, możesz korzystać z tego za darmo. Mało kto o tym wie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jesli-masz-ponad-60-lat-mozesz-korzystac-z-tego-za-darmo-malo-kto-o-tym-wie/9r1fxhReEMK6wzpSiQBR</link>
@@ -2679,16 +2689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2697,6 +2697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce"/>
-</item>
-<item>
-<title><![CDATA[ Koniec pierwszego sezonu. Czy piotrkowianie pokochali miejskie baseny? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ile-osob-odwiedzilo-odkryte-baseny-w-piotrkowie/X05oAkPQxs7uV8XRgeXj</link>
-<guid isPermaLink="false">1b626456700bd5e0a122413e1199d8b895270589</guid>
-<pubDate>Wed, 10 Sep 2025 12:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dda57d4f-28f7-4349-88f9-10f9fe161e44" alt="miniatura"/></p><p>Przez ponad 20 lat piotrkowscy internauci narzekali: „ Co to za władze, które nawet basenu nie potrafią wybudować ”, „ Upały, a w tym mieście nawet nie ma się gdzie schłodzić ”, „ Kiedyś to było! Baseny przy stadionie XXXV-lecia – to było coś, dzisiaj nie ma nic… ”. Problem stał się na tyle politycznie istotny, że…trafił do programu wyborczego kandydatów na prezydenta. Jego realizację rozpoczął Kr…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dda57d4f-28f7-4349-88f9-10f9fe161e44" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dda57d4f-28f7-4349-88f9-10f9fe161e44" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dda57d4f-28f7-4349-88f9-10f9fe161e44"/>
 </item>
 </channel></rss>
