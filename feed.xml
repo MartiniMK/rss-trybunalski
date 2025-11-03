@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 03 Nov 2025 17:36:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 18:46:58 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Żołnierskie mogiły z trzech wojen w Piotrkowie. Chowano tam poległych od 1914 do 1939 roku [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/zolnierskie-mogily-z-trzech-wojen-w-piotrkowie-chowano-tam-poleglych-od-1914-do-1939-roku-zdjecia/UtxEKkaynCCEiRNkCXS7</link>
+<guid isPermaLink="false">1ddd73155cd9be03ed35042670bc23da81c57e97</guid>
+<pubDate>Mon, 03 Nov 2025 18:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/9f5f8199-4141-4a2a-a76a-22efdaec4881" alt="miniatura"/></p><p>Na cmentarzu wojennym przy ulicy Partyzantów w Piotrkowie spoczywają żołnierze trzech wojen. Założono go dla stacjonujących w mieście Legionów Polskich Józefa Piłsudskiego. Potem chowano tu legionistów podczas wojny polsko - bolszewickiej, a następnie poległych w walkach z Niemcami we wrześniu 1939 roku.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/9f5f8199-4141-4a2a-a76a-22efdaec4881" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/9f5f8199-4141-4a2a-a76a-22efdaec4881" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/9f5f8199-4141-4a2a-a76a-22efdaec4881"/>
+</item>
 <item>
 <title><![CDATA[ Iga Świątek wsparła szpital w Piotrkowie. Przekazała sporą sumę na konkretny cel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/iga-swiatek-wsparla-szpital-w-piotrkowie-przekazala-spora-sume-na-konkretny-cel/POgmFV6YaLMcCDmPLsdW</link>
@@ -2769,16 +2779,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2787,6 +2787,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0aaf9fe4-9330-4f98-9643-e827373b864a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0aaf9fe4-9330-4f98-9643-e827373b864a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0aaf9fe4-9330-4f98-9643-e827373b864a"/>
-</item>
-<item>
-<title><![CDATA[ Osobówka wbiła się w tira na S8. Interweniowali druhowie z OSP w Wolborzu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osobowka-wbila-sie-w-tira-na-s8-interweniowali-druhowie-z-osp-w-wolborzu/4EnooJ6N6rH8tHa3A8tk</link>
-<guid isPermaLink="false">23a2f6f6b53cb9066520f2d5adcbcd90a8a5830f</guid>
-<pubDate>Thu, 11 Sep 2025 14:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b9e2b6b4-fe04-483f-a483-b2a6baf4b9ef" alt="miniatura"/></p><p>Za incydent odpowiedzialny jest kierowca osobówki. To przez jego brak ostrożności doszło do niebezpiecznej sytuacji na drodze.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9e2b6b4-fe04-483f-a483-b2a6baf4b9ef" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9e2b6b4-fe04-483f-a483-b2a6baf4b9ef" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9e2b6b4-fe04-483f-a483-b2a6baf4b9ef"/>
 </item>
 </channel></rss>
