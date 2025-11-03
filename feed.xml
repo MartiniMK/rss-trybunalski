@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 03 Nov 2025 07:37:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 08:48:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Miliony dla piotrkowskiego szpitala. Duże zmiany dla pacjentów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miliony-dla-piotrkowskiego-szpitala-duze-zmiany-dla-pacjentow/IF0NpI1vpJZn8XFOsYbf</link>
+<guid isPermaLink="false">596aabcdb151394e947bc2379c6589e1b5e1390b</guid>
+<pubDate>Mon, 03 Nov 2025 09:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a26e336-782c-42e4-8e69-7ddc7b38e771" alt="miniatura"/></p><p>Remont w Samodzielny Szpital Wojewódzki im. M. Kopernika w Piotrkowie Trybunalskim Projekt zakłada kompleksową termomodernizację dwóch pawilonów – C i D. W pierwszym z nich mieści się Oddział Kardiologiczny z Pododdziałem Intensywnej Opieki Kardiologicznej, w drugim do niedawna funkcjonowała Stacja Dializ. W planach jest m.in. docieplenie ścian i dachów, wymiana okien i drzwi, montaż nowej instala…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a26e336-782c-42e4-8e69-7ddc7b38e771" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a26e336-782c-42e4-8e69-7ddc7b38e771" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a26e336-782c-42e4-8e69-7ddc7b38e771"/>
+</item>
+<item>
+<title><![CDATA[ Wyłączenia prądu w woj. łódzkim. PGE ostrzega mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wylaczenia-pradu-w-woj-lodzkim-pge-ostrzega-mieszkancow/MynAeHKQEHh8HUPQMwhH</link>
+<guid isPermaLink="false">b494e4051b7e30a49585480f1483dd781a1cbafd</guid>
+<pubDate>Mon, 03 Nov 2025 09:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/32070cb6-667e-4ed6-8739-6eb095b93807" alt="miniatura"/></p><p>Wtorek, 4 listopada Piotrków Trybunalski</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/32070cb6-667e-4ed6-8739-6eb095b93807" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/32070cb6-667e-4ed6-8739-6eb095b93807" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/32070cb6-667e-4ed6-8739-6eb095b93807"/>
+</item>
 <item>
 <title><![CDATA[ Pożar domu w powiecie piotrkowskim. Na miejscu liczne zastępy straży ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-w-powiecie-piotrkowskim-na-miejscu-liczne-zastepy-strazy/qhH8YaTpAgYoke5dPQRw</link>
@@ -2689,16 +2709,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2707,6 +2717,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3519,16 +3539,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -3537,6 +3547,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3977,25 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd"/>
-</item>
-<item>
-<title><![CDATA[ Groźny wypadek w Piotrkowie. 14-latek potrącony na pasach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-piotrkowie-14-latek-potracony-na-pasach/ccjqAbFlohNi0rhcEKc7</link>
-<guid isPermaLink="false">6a30c74c40be15770ca51d17c92f01dc15585274</guid>
-<pubDate>Wed, 10 Sep 2025 16:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cf8b53e0-8547-4a90-9645-40cf2400d5ab" alt="miniatura"/></p><p>We wtorek, 9 września przed godziną 18:30 w Piotrkowie doszło do potrącenia. Zdarzenie miało miejsce na Alejach Piłsudskiego, na oznakowanym przejściu na pieszych. Do akcji ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf8b53e0-8547-4a90-9645-40cf2400d5ab" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf8b53e0-8547-4a90-9645-40cf2400d5ab" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf8b53e0-8547-4a90-9645-40cf2400d5ab"/>
-</item>
-<item>
-<title><![CDATA[ Czy dron, który spadł w Łódzkiem na pewno przyleciał z Rosji? Czy stanowił większe zagrożenie? Mamy komentarz eksperta ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-dron-ktory-spadl-w-lodzkiem-na-pewno-przylecial-z-rosji-czy-stanowil-wieksze-zagrozenie-ekspert-wyjasnia/Apijmi0s9DsR5ICPEQYh</link>
-<guid isPermaLink="false">856e3adc619b37067c98ccd91b12d9a69bfe0ed2</guid>
-<pubDate>Wed, 10 Sep 2025 15:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce" alt="miniatura"/></p><p>W nocy, z 9 na 10 września 2025 r. w trakcie ataku Federacji Rosyjskiej na Ukrainę doszło do wielokrotnego naruszenia przestrzeni powietrznej Polski. Informacje te potwierdza Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Mieszkańcy województw: mazowieckiego, łódzkiego, świętokrzyskiego, małopolskiego odebrali sms od Rządowego Centrum Bezpieczeństwa, w których proszeni są o niezbliżanie się do obiek…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/66c8d5ee-6080-4236-85af-c31cff6858ce"/>
 </item>
 </channel></rss>
