@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 03 Nov 2025 08:48:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 09:43:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Na piotrkowskim osiedlu wycięli drzewa. Oburzona mieszkanka: „Nie sposób pojąć” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-piotrkowskim-osiedlu-wycieli-drzewa-oburzona-mieszkanka-nie-sposob-pojac/CJpBRCM69NM05dbPNTqC</link>
+<guid isPermaLink="false">9eeb66e2cfc7b1ea6018c8fbae3b14b528933279</guid>
+<pubDate>Mon, 03 Nov 2025 09:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" alt="miniatura"/></p><p>Bez wątpienia sprawy zieleni są dla piotrkowian ważne i za każdym razem wywołują duży odzew. Jak się okazuje, w październiku na jednym z osiedli wycięto kilka drzew. Katastrofa – takim słowem określiła tę sytuację mieszkanka, która zgłosiła się do naszej redakcji. Z jakiego powodu doszło do wycinki?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb"/>
+</item>
 <item>
 <title><![CDATA[ Miliony dla piotrkowskiego szpitala. Duże zmiany dla pacjentów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miliony-dla-piotrkowskiego-szpitala-duze-zmiany-dla-pacjentow/IF0NpI1vpJZn8XFOsYbf</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f"/>
-</item>
-<item>
-<title><![CDATA[ Zaskakujące wieści w sprawie referendum w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kwestia-referendum-w-sprawie-centrum-integracji-cudzoziemcow-rozstrzygnieta/0ubNjoz6vurSCOuyHFAA</link>
-<guid isPermaLink="false">024d997dd8d19c205622a0c0b3160b3138c68ba6</guid>
-<pubDate>Wed, 10 Sep 2025 17:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd" alt="miniatura"/></p><p>Radny Mariusz Staszek poprosił o spotkanie przedstawicieli lokalnych mediów oraz członków Komisji Referendalnej, aby przedstawić otrzymane dziś rozstrzygnięcie wojewody w sprawie referendum.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161e076c-b8c3-436d-a627-6b6341628bfd"/>
 </item>
 </channel></rss>
