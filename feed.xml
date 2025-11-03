@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 03 Nov 2025 10:43:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 11:35:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie. Szykuje się muzyczne widowisko ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-szykuje-sie-muzyczne-widowisko/jsTGNUzjIE9wHRBUJAcG</link>
+<guid isPermaLink="false">e850389317f55dfe8f40227769f8125bd2737ea0</guid>
+<pubDate>Mon, 03 Nov 2025 12:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1e63b8e6-9526-4e24-bb7f-ff55e8b62772" alt="miniatura"/></p><p>11 listopada w Polsce obchodzimy Narodowe Święto Niepodległości. Z tej okazji w całym kraju organizowane są przeróżne uroczystości mające na celu uczczenie tego wydarzenia. Tegoroczne obchody w naszym mieście wiążą się zarówno z oficjalnymi ceremoniałami, jak i artystycznymi widowiskami. Poznaliśmy program 107. rocznicy odzyskania niepodległości w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e63b8e6-9526-4e24-bb7f-ff55e8b62772" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e63b8e6-9526-4e24-bb7f-ff55e8b62772" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e63b8e6-9526-4e24-bb7f-ff55e8b62772"/>
+</item>
 <item>
 <title><![CDATA[ Na piotrkowskim osiedlu wycięli drzewa. Oburzona mieszkanka: „Nie sposób pojąć” ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-piotrkowskim-osiedlu-wycieli-drzewa-oburzona-mieszkanka-nie-sposob-pojac/CJpBRCM69NM05dbPNTqC</link>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/e7cd09a1-5e96-498d-aa5b-0c75ec2ba3de" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/e7cd09a1-5e96-498d-aa5b-0c75ec2ba3de" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/e7cd09a1-5e96-498d-aa5b-0c75ec2ba3de"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Mistrzynie Polski udzieliły lekcji Piotrcovii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-mistrzynie-polski-udzielily-lekcji-piotrcovii/KZtzGEHQAlpo0d6Ic42X</link>
-<guid isPermaLink="false">dd1e99b58f1849a5a188f709833fb6d4cb60eb33</guid>
-<pubDate>Wed, 10 Sep 2025 22:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f" alt="miniatura"/></p><p>foto ORLEN Superliga Kobiet/MKS Piotrcovia</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cb9f46c-0d4f-4dbb-a506-e968dba45d4f"/>
 </item>
 </channel></rss>
