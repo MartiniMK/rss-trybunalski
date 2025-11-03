@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 03 Nov 2025 14:39:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 15:41:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowy gmach w centrum Piotrkowa? Tak może wyglądać [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-gmach-w-centrum-piotrkowa-tak-moze-wygladac-zdjecia/eYAXGPaHNw7Zoihdp3ol</link>
+<guid isPermaLink="false">8753c40c7a1dbf623ad6022f1507d0404f6f44d3</guid>
+<pubDate>Mon, 03 Nov 2025 15:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81288257-640e-4d3f-87a5-df20b6527e69" alt="miniatura"/></p><p>Archiwum Państwowe w Piotrkowie Trybunalskim ogłosiło konkurs na opracowanie koncepcji architektonicznej wraz z zagospodarowaniem terenu dla inwestycji polegającej na budowie nowego obiektu archiwum w naszym mieście. Ma być to obiekt łączący funkcje: magazynową z zapleczem, udostępniania zasobu, biurową i ekspozycyjno-edukacyjną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81288257-640e-4d3f-87a5-df20b6527e69" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81288257-640e-4d3f-87a5-df20b6527e69" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81288257-640e-4d3f-87a5-df20b6527e69"/>
+</item>
 <item>
 <title><![CDATA[ Ulica się rozpada - mówią piotrkowianie. Jakie są szanse na przebudowę? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ulica-sie-rozpada-mowia-piotrkowianie-jakie-sa-szanse-na-przebudowe/50bWEMic2BlMZfRvyBql</link>
@@ -3709,16 +3719,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3727,6 +3727,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2362c58-e862-42f2-bdeb-333bb730246a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2362c58-e862-42f2-bdeb-333bb730246a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2362c58-e862-42f2-bdeb-333bb730246a"/>
-</item>
-<item>
-<title><![CDATA[ Elektrownia Bełchatów postawiona w stan gotowości. PGE GiEK reaguje ]]></title>
-<link>https://trybunalski.pl/wiadomosci/elektrownia-belchatow-postawiona-w-stan-gotowosci-pge-giek-reaguje/WhpahPsmjmupS53OqXbd</link>
-<guid isPermaLink="false">7f82285db0c5dc7057c3e34994dc5080e78fa935</guid>
-<pubDate>Thu, 11 Sep 2025 11:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/630cb65e-e219-48e4-8c4f-638e83af031e" alt="miniatura"/></p><p>Przypomnijmy. W nocy z wtorku na środę (10 września) podczas ataku Federacji Rosyjskiej na Ukrainę doszło do wielokrotnego naruszenia przestrzeni powietrznej Polski. Jak przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych, natychmiast uruchomiono procedury obronne.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/630cb65e-e219-48e4-8c4f-638e83af031e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/630cb65e-e219-48e4-8c4f-638e83af031e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/630cb65e-e219-48e4-8c4f-638e83af031e"/>
 </item>
 </channel></rss>
