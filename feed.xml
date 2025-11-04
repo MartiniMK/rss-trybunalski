@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 04 Nov 2025 13:11:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 13:52:35 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Piotrkowska policja ostrzega przed oszustami. Nowa metoda coraz bardziej "popularna" ]]></title>
@@ -19,9 +19,9 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3eaef020-78a7-49cc-90d3-811d9320379e"/>
 </item>
 <item>
-<title><![CDATA[ Rekordowa wygrana w Lotto w naszym powiecie. Szczęśliwiec trafił do TOP 3 ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rekordowa-wygrana-w-lotto-w-naszym-powiecie-szczesliwiec-trafil-do-top-3/VV0H2eTicvKLTgoLs1oK</link>
-<guid isPermaLink="false">2bb5e64c4fb1ff79519e7ebf6f263b3d7318e8c7</guid>
+<title><![CDATA[ Rekordowa wygrana w Lotto w naszym powiecie. To TOP 3 w historii Polski ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekordowa-wygrana-w-lotto-w-naszym-powiecie-to-top-3-w-historii-polski/VV0H2eTicvKLTgoLs1oK</link>
+<guid isPermaLink="false">e48937e8ada4303c50c91885869cb2b4fcd941cd</guid>
 <pubDate>Tue, 04 Nov 2025 13:27:00 +0000</pubDate>
 <description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77" alt="miniatura"/></p><p>Zdjęcie ilustracyjne | foto totalizator.pl</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77" type="image/*"/>
@@ -2859,16 +2859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2877,6 +2867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3689,16 +3689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
-<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
-</item>
-<item>
 <title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
 <guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
@@ -3707,6 +3697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
+</item>
+<item>
+<title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
+<guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" alt="miniatura"/></p><p>Niebezpieczeństwa mogą pojawić się nagle i bez ostrzeżenia, dlatego kluczowe jest szybkie dotarcie do ludzi z informacją o zagrożeniu. W Polsce funkcjonuje kilka systemów ostrzegawczych, które wykorzystują różne kanały. Funkcjonują one również w województwie łódzkim. Mieszkańcy powinni wiedzieć, czego się spodziewać.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
