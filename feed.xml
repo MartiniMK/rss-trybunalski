@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 04 Nov 2025 11:36:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 13:11:52 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowska policja ostrzega przed oszustami. Nowa metoda coraz bardziej "popularna" ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-policja-ostrzega-przed-oszustami-nowa-metoda-coraz-bardziej-popularna/9ELme0fC5Zpzok0yNmwm</link>
+<guid isPermaLink="false">9ff5dec50cfdd1d7e523b46de82627ad8b91ffe7</guid>
+<pubDate>Tue, 04 Nov 2025 13:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3eaef020-78a7-49cc-90d3-811d9320379e" alt="miniatura"/></p><p>Oszustwa internetowe – jak działają przestępcy? Ostatnio pojawił się nowy sposób działania cyberoszustów , którzy wykorzystują zaufane systemy, takie jak Profil Zaufany, do wprowadzenia użytkowników w błąd i wyłudzenia pieniędzy. Przestępcy wysyłają fałszywe e-maile, które wyglądają jak powiadomienia z Profilu Zaufanego. Informują one, że konto użytkownika zostało zalogowane z nowego urządzenia, a…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3eaef020-78a7-49cc-90d3-811d9320379e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3eaef020-78a7-49cc-90d3-811d9320379e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3eaef020-78a7-49cc-90d3-811d9320379e"/>
+</item>
+<item>
+<title><![CDATA[ Rekordowa wygrana w Lotto w naszym powiecie. Szczęśliwiec trafił do TOP 3 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekordowa-wygrana-w-lotto-w-naszym-powiecie-szczesliwiec-trafil-do-top-3/VV0H2eTicvKLTgoLs1oK</link>
+<guid isPermaLink="false">2bb5e64c4fb1ff79519e7ebf6f263b3d7318e8c7</guid>
+<pubDate>Tue, 04 Nov 2025 13:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77" alt="miniatura"/></p><p>Zdjęcie ilustracyjne | foto totalizator.pl</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b541bda-18e2-4c26-b742-a538a0b8fd77"/>
+</item>
+<item>
+<title><![CDATA[ Ile trzeba zapłacić za mieszkanie w Piotrkowie? W której części jest taniej, a w której drożej? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ile-trzeba-zaplacic-za-mieszkanie-w-piotrkowie/HKt1MXBYWAVwFwNUwKPe</link>
+<guid isPermaLink="false">e8a0d032fca2b53d4f68ccbc45c19720a5dff0fb</guid>
+<pubDate>Tue, 04 Nov 2025 13:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9dd9d420-ce7f-48e1-9225-59baf1574945" alt="miniatura"/></p><p>Ceny mieszkań w Polsce w 2025 roku osiągnęły poziom stabilizacji po czterech latach wzrostów. Średnia cena ofertowa w październiku wynosiła 13 700 zł/m², co oznacza że ciągu roku wzrosła o 0,5 %. W tym samym czasie inflacja utrzymywała się w granicach 3 %, co oznacza realny spadek wartości nieruchomości. Na rynek wpływają koszty materiałów budowlanych, zmniejszona podaż nowych inwestycji i utrzyma…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9dd9d420-ce7f-48e1-9225-59baf1574945" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9dd9d420-ce7f-48e1-9225-59baf1574945" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9dd9d420-ce7f-48e1-9225-59baf1574945"/>
+</item>
 <item>
 <title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Można zarobić nawet 12 tysięcy! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-mozna-zarobic-nawet-12-tysiecy/smaa6WHPgPP9P4IVLF3J</link>
@@ -3659,16 +3689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -3677,6 +3697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3967,35 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b7a02b8f-3cac-4adf-8446-71a52493adf1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b7a02b8f-3cac-4adf-8446-71a52493adf1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b7a02b8f-3cac-4adf-8446-71a52493adf1"/>
-</item>
-<item>
-<title><![CDATA[ Zaskakujący finał zbiórki dla pana Piotra. Nie tego się spodziewał ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zaskakujacy-final-zbiorki-dla-pana-piotra-nie-tego-sie-spodziewal/uMpNT6xf1Zr9fCimS0Xy</link>
-<guid isPermaLink="false">14a9893c493e5870f46db63d51bf2fca2380a6f8</guid>
-<pubDate>Fri, 12 Sep 2025 10:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/60add3a8-6668-4c3b-9a52-2b2123d9f91d" alt="miniatura"/></p><p>Miał być nowy piec, a będzie dużo więcej. Dzięki ogromnym sercom darczyńców na zbiórce dla pana Piotra udało się zebrać 24 571 zł, czyli ponad trzykrotnie więcej niż zakładany cel – 7 000 zł na zakup pieca gazowego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/60add3a8-6668-4c3b-9a52-2b2123d9f91d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/60add3a8-6668-4c3b-9a52-2b2123d9f91d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/60add3a8-6668-4c3b-9a52-2b2123d9f91d"/>
-</item>
-<item>
-<title><![CDATA[ Cen prądu w Polsce mocno w górę. Kogo ominą podwyżki, a kto musi płacić więcej od 2025 [LISTA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wreszcie-ulga-dla-portfeli-polakow-ceny-pradu-zostana-obnizone/gcJpSr0gB28T6crsSU5o</link>
-<guid isPermaLink="false">cc7d23b9e4cbc8aa702426fb137c702010353f96</guid>
-<pubDate>Fri, 12 Sep 2025 09:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/5706e42f-1c9c-46ed-8b45-8fc48bc655d2" alt="miniatura"/></p><p>Wreszcie ulga dla portfeli Polaków. Ceny prądu zostaną obniżone | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/5706e42f-1c9c-46ed-8b45-8fc48bc655d2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/5706e42f-1c9c-46ed-8b45-8fc48bc655d2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/5706e42f-1c9c-46ed-8b45-8fc48bc655d2"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków: Małe dziecko ranne po zderzeniu z osobówką ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/male-dziecko-ranne-po-zderzeniu-z-osobowka/IkL9BEi7GWSsiNmlaEQu</link>
-<guid isPermaLink="false">c88d5eb2a87575e1e11223a3d095efa62bc8266e</guid>
-<pubDate>Thu, 11 Sep 2025 18:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/72bf10bd-2c7b-4a3a-b95d-26baf17cdcc6" alt="miniatura"/></p><p>Przed godziną 16:00 na parkingu przy ulicy Broniewskiego doszło do zdarzenia drogowego z udziałem 9-letniego rowerzysty oraz 41-letniej kierującej toyotą.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/72bf10bd-2c7b-4a3a-b95d-26baf17cdcc6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/72bf10bd-2c7b-4a3a-b95d-26baf17cdcc6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/72bf10bd-2c7b-4a3a-b95d-26baf17cdcc6"/>
 </item>
 </channel></rss>
