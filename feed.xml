@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 05 Nov 2025 14:41:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 15:39:50 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ „Parkograty" zalegają na osiedlach w Piotrkowie. Znaleziono rozwiązanie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/parkograty-zalegaja-na-osiedlach-w-piotrkowie-znaleziono-rozwiazanie/sAFAL1qmK9csjpdoeADb</link>
+<guid isPermaLink="false">9f105d5bee353bc570a5b861c3298aa1736c052a</guid>
+<pubDate>Wed, 05 Nov 2025 15:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" alt="miniatura"/></p><p>29 października piotrkowscy radni pochylili się nad budżetem miasta, sprzedażą nieruchomości miejskich czy pensją prezydenta. Pod koniec obrad rajcy mogli także dyskutować o innych tematach w tzw. sprawach różnych. Jednym z poruszonych problemów były zalegające w Piotrkowie wraki samochodów, które nazwano „parkogratami”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543"/>
+</item>
 <item>
 <title><![CDATA[ Oni nie muszą czekać w kolejce! Sprawdź, kto może dostać się do lekarza od razu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/oni-nie-musza-czekac-w-kolejce-sprawdz-kto-moze-dostac-sie-do-lekarza-od-razu/j8zJ0rRAingWyEvs8cc7</link>
@@ -2929,16 +2939,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
 </item>
 <item>
-<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
-<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
-<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
-</item>
-<item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
@@ -2947,6 +2947,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+</item>
+<item>
+<title><![CDATA[ Pensja minimalna aż 14 070 zł. Od kiedy i dla kogo w naszym mieście i powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/14-070-zl-jako-nowe-najnizsze-wynagrodzenie-dla-tej-grupy/GfZX6DrYeWW7PbEnLjAq</link>
+<guid isPermaLink="false">5fe8f90e06d3c6d9b86740cb819b47c006df38f3</guid>
+<pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" alt="miniatura"/></p><p>Nowe przepisy gwarantują im 14 070 zł minimalnego uposażenia | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/b3245a57-b53f-420b-8332-f8944af40988"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
@@ -3759,16 +3769,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -3777,6 +3777,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3889,16 +3899,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
-<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
-</item>
-<item>
 <title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
 <guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
@@ -3907,6 +3907,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
+</item>
+<item>
+<title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
+<guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" alt="miniatura"/></p><p>Michał Rżanek | foto Monitor Rynkowy</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c"/>
-</item>
-<item>
-<title><![CDATA[ Rewolucja na ulicach Piotrkowa. Czym będzie Inteligentny System Transportowy? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-na-ulicach-piotrkowa-czym-bedzie-inteligentny-system-transportowy/bdD2Efea0de424RgZpyV</link>
-<guid isPermaLink="false">44618857fedacab39bccee83f4dd17fc6bad2ca8</guid>
-<pubDate>Fri, 12 Sep 2025 15:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99" alt="miniatura"/></p><p>Modernizacja sygnalizacji, monitoring, detekcja zajętości miejsc parkingowych czy system zapamiętywania tablic – to tylko niektóre z unowocześnień, które mają pojawić się w Piotrkowie. Całość to Inteligentny System Transportowy, a informacja o monitoringu, a także systemie zapamiętywania tablic wzbudziła spore zainteresowanie wśród piotrkowian. Z pytaniem o planowane zmiany, czyli wspomniany syste…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99"/>
 </item>
 </channel></rss>
