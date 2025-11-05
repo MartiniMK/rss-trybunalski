@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 05 Nov 2025 09:41:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 10:44:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja policji w Piotrkowie i powiecie. Dwie osoby staną przed sądem, a to nie wszystko ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-policji-w-piotrkowie-i-powiecie-dwie-osoby-stana-przed-sadem-a-to-nie-wszystko/q7dwloKDxhvlr0o1SLQL</link>
+<guid isPermaLink="false">3d30eec8e5aa381821b8c19c25cd254930d9c532</guid>
+<pubDate>Wed, 05 Nov 2025 11:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc81c72b-09d3-4d48-adde-8b2ebb61bd6d" alt="miniatura"/></p><p>Jak co roku, Wszystkich Świętych wiąże się ze wzmożonym ruchem na drogach, bowiem całe rodziny wyruszają, by odwiedzić groby bliskich. Nie inaczej było w miniony weekend. Tym samym, prowadzona była ogólnopolska akcja, która miała na celu zwiększyć bezpieczeństwo na w ruchu drogowym i w rejonach nekropolii. Nad porządkiem w Piotrkowie i powiecie także czuwali policjanci. Jak się okazuje, po świątec…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc81c72b-09d3-4d48-adde-8b2ebb61bd6d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc81c72b-09d3-4d48-adde-8b2ebb61bd6d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc81c72b-09d3-4d48-adde-8b2ebb61bd6d"/>
+</item>
 <item>
 <title><![CDATA[ Mężczyzna leżał bez życia na poboczu. Policjanci z powiatu piotrkowskiego ruszyli na pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/mezczyzna-lezal-bez-zycia-na-poboczu-policjanci-z-powiatu-piotrkowskiego-ruszyli-na-pomoc/08GoDSBHbi0MII0fAZxQ</link>
@@ -3729,16 +3739,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -3747,6 +3747,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e789a42d-49cf-47cc-b543-b88846273885" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e789a42d-49cf-47cc-b543-b88846273885" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e789a42d-49cf-47cc-b543-b88846273885"/>
-</item>
-<item>
-<title><![CDATA[ Nowe fakty w sprawie śmierci piotrkowianki. Prokuratura o wynikach sekcji zwłok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-fakty-w-sprawie-smierci-piotrkowianki-prokuratura-o-wynikach-sekcji-zwlok/YizBBTznTN1OKI7D7aZ1</link>
-<guid isPermaLink="false">44a70f3ec77a2acd162aeca9a8e70e8eaf2a173b</guid>
-<pubDate>Fri, 12 Sep 2025 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7ad0dcbf-25ed-4942-8f5f-0730729d57f6" alt="miniatura"/></p><p>W dniu 1 lipca 2025 roku w Piotrkowie Trybunalskim w budynku po dawnej hucie szkła "Hortensja" odnaleziono ciało Anny O. 32-latka poszukiwana była przez trzy dni przez rodzinę i policję. Niestety, finał okazał się tragiczny. Na miejscu pracowała policja, prokurator, lekarz, który stwierdził zgon piotrkowianki oraz strażacy, których zadaniem było oświetlenie miejsca zdarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ad0dcbf-25ed-4942-8f5f-0730729d57f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ad0dcbf-25ed-4942-8f5f-0730729d57f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ad0dcbf-25ed-4942-8f5f-0730729d57f6"/>
 </item>
 </channel></rss>
