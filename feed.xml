@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 05 Nov 2025 13:08:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 13:52:09 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Oni nie muszą czekać w kolejce! Sprawdź, kto może dostać się do lekarza od razu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oni-nie-musza-czekac-w-kolejce-sprawdz-kto-moze-dostac-sie-do-lekarza-od-razu/j8zJ0rRAingWyEvs8cc7</link>
+<guid isPermaLink="false">148c06e400b298d1339e4e45881ed8dceaaa9c56</guid>
+<pubDate>Wed, 05 Nov 2025 14:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/5c3b1f13-4f22-4fb3-b8a8-384c346f94dc" alt="miniatura"/></p><p>Oni nie muszą czekać w kolejce! Sprawdź, kto może dostać się do lekarza od razu | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/5c3b1f13-4f22-4fb3-b8a8-384c346f94dc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/5c3b1f13-4f22-4fb3-b8a8-384c346f94dc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/5c3b1f13-4f22-4fb3-b8a8-384c346f94dc"/>
+</item>
 <item>
 <title><![CDATA[ Sukces piotrkowianina na mistrzostwach w Portugalii. Zdobył medale we wszystkich startach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianina-na-mistrzostwach-w-portugalii-zdobyl-medale-we-wszystkich-startach/szkrxjEwsPMyV3aFnCg2</link>
@@ -3879,16 +3889,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3897,6 +3897,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35153d53-baf6-4c6d-86e3-dd0582af8a99"/>
-</item>
-<item>
-<title><![CDATA[ Nightskating, spływ na byle czym, dożynkowe koncerty i wiele innych weekendowych atrakcji w Piotrkowie i regionie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nightskating-splyw-na-byle-czym-dozynkowe-koncerty-i-wiele-innych-weekendowych-atrakcji-w-piotrkowie-i-regionie/ceK6zhCs7JXGiC7f7APP</link>
-<guid isPermaLink="false">101f75e0c60866048076ac8f3906b23201695ace</guid>
-<pubDate>Fri, 12 Sep 2025 15:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/564117fa-599b-412b-815f-72a806cc73e6" alt="miniatura"/></p><p>PIĄTEK Prelekcja o bitwie piotrkowskiej „Bitwa Piotrkowska 3-7 września 1939 roku – historia prawdziwa”- w ykład, który poprowadzi kustosz muzeum, Piotr Gajda. Wstęp bezpłatny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/564117fa-599b-412b-815f-72a806cc73e6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/564117fa-599b-412b-815f-72a806cc73e6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/564117fa-599b-412b-815f-72a806cc73e6"/>
 </item>
 </channel></rss>
