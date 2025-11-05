@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 05 Nov 2025 16:49:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 17:37:07 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Śmigłowce z całego świata latały nad Piotrkowem. Ponad 40 lat temu rozegrano tu mistrzostwa świata [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/smiglowce-z-calego-swiata-lataly-nad-piotrkowem-ponad-40-lat-temu-rozegrano-tu-mistrzostwa-swiata-zdjecia/5g3qp4LpNYPCevsakdgq</link>
+<guid isPermaLink="false">9acec3a7ab8dfe036d76ff5e5cf57aa3efc7d304</guid>
+<pubDate>Wed, 05 Nov 2025 17:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" alt="miniatura"/></p><p>Piotrków żył tym wydarzeniem przez kilka dni sierpnia 1981 roku. W kraju trwał festiwal Solidarności, a w nad Piotrkowem kołowały helikoptery najróżniejszych marek z wielu krajów świata. IV Śmigłowcowe Mistrzostwa Świata zorganizowano na lotnisku w Piotrkowie, a uroczystość otwarcia zorganizowano na stadionie, który nosił wtedy nazwę XXXV-lecia PRL.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae"/>
+</item>
 <item>
 <title><![CDATA[ „Parkograty" zalegają na osiedlach w Piotrkowie. Znaleziono rozwiązanie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/parkograty-zalegaja-na-osiedlach-w-piotrkowie-znaleziono-rozwiazanie/sAFAL1qmK9csjpdoeADb</link>
@@ -3769,16 +3779,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bdaae4e-e14b-4558-a0fb-3b1a1c96a59f"/>
 </item>
 <item>
-<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
-<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
-<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
-</item>
-<item>
 <title><![CDATA[ Syreny alarmowe w województwie łódzkim. Ważny komunikat dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/syreny-alarmowe-w-wojewodztwie-lodzkim-wazny-komunikat-dla-mieszkancow/OdZiulzVBAGWdEcCvkOD</link>
 <guid isPermaLink="false">85b84c7f0dd6dc6881dcc217f0ba4afc61a8f3e6</guid>
@@ -3787,6 +3787,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/dbd74cac-91af-4f12-84c9-a0c7e196592d"/>
+</item>
+<item>
+<title><![CDATA[ Z Piotrkowa do Warszawy. Młodzi z naszego miasta wyróżnieni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-do-warszawy-mlodzi-z-naszego-miasta-wyroznieni-zdjecia/VnEzb3I6R6lXGnivASfb</link>
+<guid isPermaLink="false">9622de0f1369679761ab1cc9ac2da38079658597</guid>
+<pubDate>Tue, 16 Sep 2025 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" alt="miniatura"/></p><p>Od 2 lipca w Galerii „Wena” przy ul. Bobrowieckiej 8 w Warszawie można było zobaczyć prace piotrkowskiej młodzieży. Dzieła powstały w ramach konkursu. W piątek, 12 września odbył się finał wystawy. Na miejscu zebrali się nauczyciele, włodarz Piotrkowa, a przede wszystkim artyści z naszego miasta. Zobacz, jak wyglądał finisaż.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e218fcc0-1a7a-4d91-b3b2-46bfc314bf8e"/>
 </item>
 <item>
 <title><![CDATA[ Kosmiczne Centrum Piotrkowa kusi dźwiękami nie z tej planety ]]></title>
@@ -3899,16 +3909,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3917,6 +3917,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
+</item>
+<item>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 <item>
 <title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/2b6daaa0-2cf1-487a-8f73-08ba9e8d2af4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/2b6daaa0-2cf1-487a-8f73-08ba9e8d2af4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/2b6daaa0-2cf1-487a-8f73-08ba9e8d2af4"/>
-</item>
-<item>
-<title><![CDATA[ Tłumy na rolkach przejęły piotrkowskie ulice. Nightskating 2025 przeszedł do historii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tlumy-na-rolkach-przejely-piotrkowskie-ulice/Uj3S5Bf4GVGPQ14PZVWN</link>
-<guid isPermaLink="false">7c8117c54f886eed309668ecf6c2553b21f46ef5</guid>
-<pubDate>Sat, 13 Sep 2025 01:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c" alt="miniatura"/></p><p>Ludzie dopisali, humory i pogoda również. Imponujący korowód rolkarzy i towarzyszących im zwolenników bardziej stabilnych wrotek i hulajnóg, rowerzystów oraz biegaczy zrobił spore zamieszanie w naszym mieście i ruchu ulicznym.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/705c5cc7-fd2f-45c3-b02b-7203e614e61c"/>
 </item>
 </channel></rss>
