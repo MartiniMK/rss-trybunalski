@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 06 Nov 2025 11:34:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Nov 2025 13:07:47 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowe fotoradary i odcinkowe pomiary prędkości w Łódzkiem. Jeden stanie tuż pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-fotoradary-i-odcinkowe-pomiary-predkosci-w-naszym-regionie-jeden-stanie-tuz-pod-piotrkowem/5aDAqc5iNAYiA8Wh15ne</link>
+<guid isPermaLink="false">a596839d3c01b8ab98b1302734bad1439cf25fc4</guid>
+<pubDate>Thu, 06 Nov 2025 13:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/74b1ab57-5dd2-474e-aa1c-99f15be15b79" alt="miniatura"/></p><p>W najbliższych kilku miesiącach możemy liczyć na pojawienie się 70 nowych fotoradarów. Urządzenia mają stać w miejscach, gdzie wyjątkowo często dochodzi do wypadków i zdarzeń drogowych. Będą montowane wyłącznie przy drogach krajowych (a nie gminnych czy powiatowych). W naszym województwie możemy się spodziewać dwóch nowych fotoradarów: przy Strzelcach i Żurawieńcu . To przy DK 60 . Do tej pory w P…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b1ab57-5dd2-474e-aa1c-99f15be15b79" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b1ab57-5dd2-474e-aa1c-99f15be15b79" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b1ab57-5dd2-474e-aa1c-99f15be15b79"/>
+</item>
 <item>
 <title><![CDATA[ Zmiany w kursowaniu MZK Piotrków. Utrudnienia także dla kierowców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmiany-w-kursowaniu-mzk-piotrkow-utrudnienia-takze-dla-kierowcow/W1nfZLmLahuVVgFM0DOB</link>
@@ -29,7 +39,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/460d0c25-4886-4767-a7a9-f6a7cec385ab"/>
 </item>
 <item>
-<title><![CDATA[ Ponad sto nowych mieszkań do kupienia w Piotrkowie. Kiedy koniec dużej inwestycji? ]]></title>
+<title><![CDATA[ Ponad sto nowych mieszkań w Piotrkowie. Kiedy koniec dużej inwestycji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ponad-sto-nowych-mieszkan-do-kupienia-w-piotrkowie-kiedy-koniec-duzej-inwestycji/DRZVZoRq6ndgGMKCihV7</link>
 <guid isPermaLink="false">a8d5a43c7599f0ec57e544c0143f6ecda4309eee</guid>
 <pubDate>Thu, 06 Nov 2025 10:31:00 +0000</pubDate>
@@ -3969,16 +3979,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c852e62-ae27-4216-91fe-3fd22c4a582c"/>
 </item>
 <item>
-<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
-<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
-<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
-</item>
-<item>
 <title><![CDATA[ Kto zostanie nowym prezesem Piotrkowskich Wodociągów i Kanalizacji? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-zostanie-nowym-prezesem-piotrkowskich-wodociagow-i-kanalizacji/BLUT7uHe9oZZeY19oCGj</link>
 <guid isPermaLink="false">5869f49f2d904ef8a26f24f61cd8fa4702dcc794</guid>
@@ -3989,13 +3989,13 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9970fb82-870a-48db-b126-e43b75e4958d"/>
 </item>
 <item>
-<title><![CDATA[ Nowa konstrukcja w Piotrkowie ma... zastąpić krzaki. Urząd szuka wykonawcy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowa-konstrukcja-w-piotrkowie-ma-zastapic-krzaki-urzad-szuka-wykonawcy/yzyHJSZRoYZCvTBALxRn</link>
-<guid isPermaLink="false">e95a7aa33f4498d1cd71af0f38c570739a394560</guid>
-<pubDate>Mon, 15 Sep 2025 13:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/279d8a23-bdd8-445a-ab37-cc9bf94df574" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto Google Street View</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/279d8a23-bdd8-445a-ab37-cc9bf94df574" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/279d8a23-bdd8-445a-ab37-cc9bf94df574" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/279d8a23-bdd8-445a-ab37-cc9bf94df574"/>
+<title><![CDATA[ Szkolna rewolucja finansowa. Odprawy większe niż w innych branżach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkolna-rewolucja-finansowa-odprawy-wieksze-niz-w-innych-branzach/Oiw1fUj8i8Af346x0hj1</link>
+<guid isPermaLink="false">81af418456fd1bec4cbc99587ccea1f412287ebc</guid>
+<pubDate>Mon, 15 Sep 2025 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" alt="miniatura"/></p><p>Nauczyciele w szoku po wrześniowych zmianach w Karcie Nauczyciela. Tyle dostaną odprawy! | foto Pixabay</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bcc7a53-d277-4aee-b022-82c365ff2362"/>
 </item>
 </channel></rss>
