@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 07 Nov 2025 19:30:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 20:36:14 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Do Sulejowa przyjedzie pociąg z niezwykłym gościem. Gminę odwiedzi Marszałek Piłsudski ]]></title>
@@ -37,16 +37,6 @@
 <enclosure url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64"/>
-</item>
-<item>
-<title><![CDATA[ Turystyczna rewolucja w Piotrkowie? Powstanie nowoczesne centrum ]]></title>
-<link>https://trybunalski.pl/wiadomosci/turystyczna-rewolucja-w-piotrkowie-powstanie-nowoczesne-centrum/qW9AZ8YyhIw3naa1q5kc</link>
-<guid isPermaLink="false">7d7d1bdb9b20e0b62bda0b15022b28169dc7d1ee</guid>
-<pubDate>Fri, 07 Nov 2025 13:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8aeba064-8c90-4846-a642-43bc0fb64cf5" alt="miniatura"/></p><p>Zarząd Województwa Łódzkiego zdecydował o dofinansowaniu jednej z największych inwestycji turystyczno-rekreacyjnych w regionie. Jak się okazuje, Piotrków otrzyma wsparcie z Europejskiego Funduszu Rozwoju Regionalnego w wysokości ponad 31,3 mln zł. Wokół zbiornika Bugaj ma powstać nowoczesna przestrzeń wypoczynkowa . Wiadomo już, jaki będzie zakres prac. Urząd zdradza także, ile wstępnie potrwa rea…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aeba064-8c90-4846-a642-43bc0fb64cf5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aeba064-8c90-4846-a642-43bc0fb64cf5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aeba064-8c90-4846-a642-43bc0fb64cf5"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianin przyłapany z mefedronem. W domu miał tego jeszcze więcej ]]></title>
