@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 08 Nov 2025 02:06:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 03:19:45 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Do Sulejowa przyjedzie pociąg z niezwykłym gościem. Gminę odwiedzi Marszałek Piłsudski ]]></title>
