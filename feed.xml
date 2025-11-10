@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 10 Nov 2025 14:37:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 15:38:58 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ To on zapoczątkował tę formę sztuki w Polsce. Namalował Piotrków… kawą ]]></title>
@@ -39,16 +39,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad1e25db-1b2f-4c56-87a4-41e5303589c6"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -57,6 +47,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -263,10 +263,10 @@
 <link>https://trybunalski.pl/wiadomosci/parkograty-zalegaja-na-osiedlach-w-piotrkowie-znaleziono-rozwiazanie/sAFAL1qmK9csjpdoeADb</link>
 <guid isPermaLink="false">9f105d5bee353bc570a5b861c3298aa1736c052a</guid>
 <pubDate>Wed, 05 Nov 2025 15:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e21d806c-e5bf-410c-b66b-b0bb97d9becc" alt="miniatura"/></p><p>29 października piotrkowscy radni pochylili się nad budżetem miasta, sprzedażą nieruchomości miejskich czy pensją prezydenta. Pod koniec obrad rajcy mogli także dyskutować o innych tematach w tzw. sprawach różnych. Jednym z poruszonych problemów były zalegające w Piotrkowie wraki samochodów, które nazwano „parkogratami”.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e21d806c-e5bf-410c-b66b-b0bb97d9becc" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e21d806c-e5bf-410c-b66b-b0bb97d9becc" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e21d806c-e5bf-410c-b66b-b0bb97d9becc"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" alt="miniatura"/></p><p>29 października piotrkowscy radni pochylili się nad budżetem miasta, sprzedażą nieruchomości miejskich czy pensją prezydenta. Pod koniec obrad rajcy mogli także dyskutować o innych tematach w tzw. sprawach różnych. Jednym z poruszonych problemów były zalegające w Piotrkowie wraki samochodów, które nazwano „parkogratami”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3082170d-9024-411c-9adf-1b27584b1543"/>
 </item>
 <item>
 <title><![CDATA[ Sukces piotrkowianina na mistrzostwach w Portugalii. Zdobył medale we wszystkich startach ]]></title>
@@ -2313,10 +2313,10 @@
 <link>https://trybunalski.pl/wiadomosci/goscil-w-piotrkowie-trybunalskim-zanim-zostal-janem-pawlem-potem-zostal-honorowym-obywatelem-miasta-zdjeica/p4bIK8TkDq85jb96sQPQ</link>
 <guid isPermaLink="false">ec0b1500871662bb319d8f84eb33c18087ae750b</guid>
 <pubDate>Mon, 29 Sep 2025 19:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74468e1c-4031-4f07-a26f-2d80439dc29e" alt="miniatura"/></p><p>Karol Wojtyła w Piotrkowie Trybunalskim jako hierarcha kościoła Katolickiego gościł 7 lipca 1974 roku. Wówczas będąc kardynałem towarzyszył prymasowi Stefanowi Wyszyńskiemu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74468e1c-4031-4f07-a26f-2d80439dc29e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74468e1c-4031-4f07-a26f-2d80439dc29e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74468e1c-4031-4f07-a26f-2d80439dc29e"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/722fd6ac-07b2-4d8c-bf58-e828c4f7329f" alt="miniatura"/></p><p>Karol Wojtyła w Piotrkowie Trybunalskim jako hierarcha kościoła Katolickiego gościł 7 lipca 1974 roku. Wówczas będąc kardynałem towarzyszył prymasowi Stefanowi Wyszyńskiemu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/722fd6ac-07b2-4d8c-bf58-e828c4f7329f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/722fd6ac-07b2-4d8c-bf58-e828c4f7329f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/722fd6ac-07b2-4d8c-bf58-e828c4f7329f"/>
 </item>
 <item>
 <title><![CDATA[ Niezwykły jubileusz w Piotrkowie. Odebrali medale Prezydenta RP [ZDJĘCIA] ]]></title>
@@ -2383,10 +2383,10 @@
 <link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-mieszkaja-tu-tylko-dwie-osoby/kvDk1k2VcDVZ7ZgD8D0a</link>
 <guid isPermaLink="false">2cd5e8de8f1905552611afc59bc3d0056d2c9b5e</guid>
 <pubDate>Sun, 28 Sep 2025 19:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5480dd2-beb2-4f1a-aed7-6fa14c61b1b9" alt="miniatura"/></p><p>Główny Urząd Statystyczny podsumował dane liczbowe z 2024 roku. Wyróżniono cztery miejscowości w Łódzkiem pod względem liczby zameldowanych mieszkańców. Jak można się domyślić, Łódź ma ich najwięcej, bo prawie 650 tysięcy. Najmniejsza pod tym względem zaś jest wieś położona w powiecie piotrkowskim.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5480dd2-beb2-4f1a-aed7-6fa14c61b1b9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5480dd2-beb2-4f1a-aed7-6fa14c61b1b9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5480dd2-beb2-4f1a-aed7-6fa14c61b1b9"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" alt="miniatura"/></p><p>Główny Urząd Statystyczny podsumował dane liczbowe z 2024 roku. Wyróżniono cztery miejscowości w Łódzkiem pod względem liczby zameldowanych mieszkańców. Jak można się domyślić, Łódź ma ich najwięcej, bo prawie 650 tysięcy. Najmniejsza pod tym względem zaś jest wieś położona w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Dobry mecz Piotrkowianina, ale punkty zostały w Kielcach! ]]></title>
