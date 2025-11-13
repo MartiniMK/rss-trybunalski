@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 13 Nov 2025 08:45:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 09:40:35 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tak rodziła się niepodległość w Piotrkowie Trybunalskim. 11 listopada skończyła się austriacka okupacja [ZDJĘCIA] ]]></title>
@@ -1319,14 +1319,11 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1aedba9f-190f-43a4-96b8-6ce784dd3702"/>
 </item>
 <item>
-<title><![CDATA[ Nie żyje mistrz Europy i trener MMA z Piotrkowa. Nagła śmierć zabrała 22-latka ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/nie-zyje-mistrz-europy-z-piotrkowa-mial-22-lata/qj6GFXwNfW2jNsYfWej9 ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nie-zyje-mistrz-europy-z-piotrkowa-mial-22-lata/qj6GFXwNfW2jNsYfWej9</link>
 <guid isPermaLink="false">6718830ef9d5ac1321009fb46ad33ad840bee532</guid>
 <pubDate>Mon, 20 Oct 2025 15:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2897b6d7-e8b8-4b39-ae27-7b8ebf19e887" alt="miniatura"/></p><p>Adam Rutowicz | foto FB Adam Rutowicz</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2897b6d7-e8b8-4b39-ae27-7b8ebf19e887" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2897b6d7-e8b8-4b39-ae27-7b8ebf19e887" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2897b6d7-e8b8-4b39-ae27-7b8ebf19e887"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Siostry Kafar i ich “Piotrków na TAK!” w ogólnopolskiej akcji. ZOBACZ FILM ]]></title>
