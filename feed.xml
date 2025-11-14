@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 14 Nov 2025 06:49:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 07:36:13 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Kościółek pod wezwaniem Św. Marcina. Drewniany zabytek z patronem najstarszej parafii [ZDJECIA] ]]></title>
@@ -37,16 +37,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczny pożar w Babach. Mieszkańcy gminy Moszczenica połączyli siły ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramatyczny-pozar-w-babach-mieszkancy-gminy-moszczenica-polaczyli-sily/V7mvJrZuoxD2XgEds3M1</link>
-<guid isPermaLink="false">699827831a18a2ce901e2296c68c605735785629</guid>
-<pubDate>Thu, 13 Nov 2025 12:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef538468-6e76-41e0-811b-92c90b9e13eb" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica pokazali, jaka jest siła lokalnych społeczności. Po pożarze domu jednorodzinnego, do którego doszło w Babach, zorganizowali akcję wsparcia, która zakończyła się dużym sukcesem. Zebrane środki zostały przekazane na zakup materiałów budowlanych niezbędnych do remontu budynku dotkniętego pożarem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef538468-6e76-41e0-811b-92c90b9e13eb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef538468-6e76-41e0-811b-92c90b9e13eb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef538468-6e76-41e0-811b-92c90b9e13eb"/>
 </item>
 <item>
 <title><![CDATA[ Grożono radnemu z powiatu piotrkowskiego. Zrezygnował z funkcji ]]></title>
