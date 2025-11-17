@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 17 Nov 2025 21:35:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 22:35:59 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin wygrywa w debiucie nowego trenera! ]]></title>
