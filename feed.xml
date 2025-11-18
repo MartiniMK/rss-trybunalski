@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 18 Nov 2025 02:15:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 03:56:29 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin wygrywa w debiucie nowego trenera! ]]></title>
@@ -379,16 +379,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e3908ee0-e4e2-4bb0-91d8-37909a19e4a6"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -397,6 +387,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/591503d5-0606-4275-9342-726e53b972e6"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea2311c7-853a-4b60-b536-5cf8587e2a7f"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
