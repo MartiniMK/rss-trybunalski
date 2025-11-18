@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 18 Nov 2025 10:41:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 11:33:02 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Śmiertelne pobicie w Piotrkowie Trybunalskim. Sprawcy grozi dożywocie ]]></title>
@@ -37,6 +37,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/841e5166-8134-4fb4-af64-983716818f32" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/841e5166-8134-4fb4-af64-983716818f32" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/841e5166-8134-4fb4-af64-983716818f32"/>
+</item>
+<item>
+<title><![CDATA[ Nowa inwestycja w Piotrkowie. Przeprowadzą konkurs za 125 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-w-piotrkowie-przeprowadza-konkurs-za-125-tysiecy-zlotych/6QgDDusgA5bnGUFZydF9</link>
+<guid isPermaLink="false">c0e154852cb8d3821aa2b9ade6c364a04c470d31</guid>
+<pubDate>Mon, 17 Nov 2025 13:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cd7cfd90-ca86-437a-8ace-83ada9651888" alt="miniatura"/></p><p>Nowy obiekt sportowy w Piotrkowie Nowy obiekt ma stanąć na około 12-hektarowym terenie pomiędzy ulicą Miast Partnerskich a przedłużoną ulicą Regana, w rejonie ul. Wierzejskiej. Jak podkreśla Katarzyna Szokalska, dyrektor Biura Rozwoju Miasta i Inwestycji, miasto posiadało większość gruntów, a dokupione działki pozwoliły stworzyć spójny teren pod inwestycję. Przeprowadzone badania geologiczne potwi…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd7cfd90-ca86-437a-8ace-83ada9651888" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd7cfd90-ca86-437a-8ace-83ada9651888" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd7cfd90-ca86-437a-8ace-83ada9651888"/>
 </item>
 <item>
 <title><![CDATA[ Liczne wyłączenia prądu w Piotrkowie i powiecie piotrkowskim. PGE ostrzega mieszkańców ]]></title>
@@ -157,16 +167,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ea91642-d4ea-4b9f-a537-632dc17ea441" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ea91642-d4ea-4b9f-a537-632dc17ea441" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ea91642-d4ea-4b9f-a537-632dc17ea441"/>
-</item>
-<item>
-<title><![CDATA[ Zapowiadali nowe lodowisko w Piotrkowie. ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zapowiadali-nowe-lodowisko-w-piotrkowie-czy-to-sie-udalo/94UPnclGeXY27JSW5AM6</link>
-<guid isPermaLink="false">8f73e184904b2a5bcc0b3d0795d07d463e47896a</guid>
-<pubDate>Thu, 13 Nov 2025 13:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35" alt="miniatura"/></p><p>Piotrkow.pl | foto UM Piotrków</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0ffdb15-9cae-4ab9-9787-5d727798ed35"/>
 </item>
 <item>
 <title><![CDATA[ Grożono radnemu z powiatu piotrkowskiego. Zrezygnował z funkcji ]]></title>
@@ -319,16 +319,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/galleries/8b0f3172-7a82-4809-9719-8a2d10c4c278"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości 2025 w Piotrkowie – uroczysta atmosfera, żołnierskie ślubowanie i tłumy mieszkańców ZDJĘCIA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-2025-w-piotrkowie-uroczysta-atmosfera-zolnierskie-slubowanie-i-tlumy-mieszkancow-zdjecia/SlGZPKEI9zJl6ImXvLTf</link>
-<guid isPermaLink="false">4ff3473246da49a9913ffa7e9ffbe0592ab869af</guid>
-<pubDate>Tue, 11 Nov 2025 15:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/62cd73dd-e5c4-4c74-9b9a-7fd551d26a01" alt="miniatura"/></p><p>Obchody rozpoczęła msza święta w Sanktuarium Matki Bożej Piotrkowskiej, odprawiona w intencji Ojczyzny. Po nabożeństwie uczestnicy przeszli pod pomnik Nieznanego Żołnierza na pl. Kościuszki, gdzie odbyła się ceremonia wojskowa z asystą Kompanii Honorowej 25. Brygady Kawalerii Powietrznej z Tomaszowa Mazowieckiego. W programie znalazło się również uroczyste przyrzeczenie strzeleckie Jednostki Strze…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/62cd73dd-e5c4-4c74-9b9a-7fd551d26a01" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/62cd73dd-e5c4-4c74-9b9a-7fd551d26a01" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/62cd73dd-e5c4-4c74-9b9a-7fd551d26a01"/>
-</item>
-<item>
 <title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Ile zarobisz na pełen etat, a ile na pół? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-ile-zarobisz-na-pelen-etat-a-ile-na-pol/H15MSbHMBj4WeR4TL4dH</link>
 <guid isPermaLink="false">d4477704d5fca994f36a71b8032ccf3217b5127f</guid>
@@ -459,14 +449,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15c417e9-0d4f-44f0-bd8a-017a5be9d38a"/>
 </item>
 <item>
-<title><![CDATA[ Niesamowite odkrycie grzybiarza z naszych stron. Piszą o nim w Polsce i za granicą ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niesamowite-odkrycie-grzybiarza-z-naszych-stron-pisza-o-nim-w-polsce-i-za-granica/92zCdeYydx3VIbqgFS7Z</link>
-<guid isPermaLink="false">938325b65b694f8bc17a12b117e798469eea722b</guid>
-<pubDate>Sat, 08 Nov 2025 11:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b54d58f-520e-413a-9eef-6199735bdde9" alt="miniatura"/></p><p>W leśnej gęstwinie pod Kamieńskiem, podczas jednego z jesiennych wypadów na grzyby, pan Adam natknął się na coś, co z miejsca przykuło jego uwagę: niewielką szklaną butelkę, a w niej – prawdziwy, samowystarczalny ekosystem. W środku butelki rozwinął się mech, drobne rośliny, liście, a nawet grzyb przypominający borowika.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b54d58f-520e-413a-9eef-6199735bdde9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b54d58f-520e-413a-9eef-6199735bdde9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b54d58f-520e-413a-9eef-6199735bdde9"/>
+<title><![CDATA[ Na ratunek kocim istnieniom – pomóż Fundacji Miasto Kotów w Piotrkowie wygrać 100 000 zł dla bezdomnych kotów! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-ratunek-kocim-istnieniom-pomoz-fundacji-miasto-kotow-w-piotrkowie-wygrac-100-000-zl-dla-bezdomnych-kotow/Hx12VYFSut7SbPkwCdHN</link>
+<guid isPermaLink="false">76a4b4ac2d1d6a8140f3440ab68a5ad8053c448c</guid>
+<pubDate>Fri, 07 Nov 2025 14:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" alt="miniatura"/></p><p>Każdego dnia Fundacja Miasto Kotów ratuje bezdomne, chore i porzucone koty. Już ponad 1600 zwierząt znalazło tu opiekę, 555 trafiło do nowych domów, a dzięki 510 kastracjom udało się zapobiec wielu niechcianym narodzinom. Za tymi liczbami stoją realne historie, łzy, nadzieja i codzienna, cicha praca ludzi, którzy nie potrafią przejść obojętnie wobec cierpienia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64"/>
 </item>
 <item>
 <title><![CDATA[ Turystyczna rewolucja w Piotrkowie? Powstanie nowoczesne centrum ]]></title>
@@ -599,14 +589,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ef104da-d541-4c4d-a8ec-cb4395a3fbbe"/>
 </item>
 <item>
-<title><![CDATA[ Śmigłowce z całego świata latały nad Piotrkowem. Ponad 40 lat temu rozegrano tu mistrzostwa świata [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/smiglowce-z-calego-swiata-lataly-nad-piotrkowem-ponad-40-lat-temu-rozegrano-tu-mistrzostwa-swiata-zdjecia/5g3qp4LpNYPCevsakdgq</link>
-<guid isPermaLink="false">45796c117d2c3ee6b12d92712b3d32a6ee375af8</guid>
-<pubDate>Wed, 05 Nov 2025 17:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" alt="miniatura"/></p><p>Piotrków żył tym wydarzeniem przez kilka dni sierpnia 1981 roku. W kraju trwał festiwal Solidarności, a w nad Piotrkowem kołowały helikoptery najróżniejszych marek z wielu krajów świata. IV Śmigłowcowe Mistrzostwa Świata zorganizowano na lotnisku w Piotrkowie, a uroczystość otwarcia zorganizowano na stadionie, który nosił wtedy nazwę XXXV-lecia PRL.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/09840a13-7573-48df-9cfa-3701c926c9ae"/>
+<title><![CDATA[ Sukces piotrkowianina na mistrzostwach w Portugalii. Zdobył medale we wszystkich startach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianina-na-mistrzostwach-w-portugalii-zdobyl-medale-we-wszystkich-startach/szkrxjEwsPMyV3aFnCg2</link>
+<guid isPermaLink="false">3e2b0e1a39e4f76fd424efb957446a2e67b83dd5</guid>
+<pubDate>Wed, 05 Nov 2025 12:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6de77ddb-cf18-4e64-ab39-37b3b9ab94ed" alt="miniatura"/></p><p>foto FB/Bartosz Sokalski - official fanpage</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6de77ddb-cf18-4e64-ab39-37b3b9ab94ed" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6de77ddb-cf18-4e64-ab39-37b3b9ab94ed" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6de77ddb-cf18-4e64-ab39-37b3b9ab94ed"/>
 </item>
 <item>
 <title><![CDATA[ Akcja policji w Piotrkowie i powiecie. Dwie osoby staną przed sądem, a to nie wszystko ]]></title>
@@ -749,14 +739,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81288257-640e-4d3f-87a5-df20b6527e69"/>
 </item>
 <item>
-<title><![CDATA[ Ulica się rozpada - mówią piotrkowianie. Jakie są szanse na przebudowę? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ulica-sie-rozpada-mowia-piotrkowianie-jakie-sa-szanse-na-przebudowe/50bWEMic2BlMZfRvyBql</link>
-<guid isPermaLink="false">9c5554b2f6aad4db62ff7067d7c1ed9e8b78269c</guid>
-<pubDate>Mon, 03 Nov 2025 15:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/07c4253b-10b7-493b-926e-3e83df73d73d" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa wskazują na wiele spraw w mieście, które wymagają działań. Czy to modernizacja oświetlenia, a tym samym poprawa bezpieczeństwa czy też liczne remonty i zmiany w infrastrukturze drogowej. Jedną z bolączek jest stan ulicy Wschodniej, która jest częścią objazdu, w wyniku remontu ul. Rakowskiej i Wolborskiej. Czy piotrkowianie mogą liczyć na przebudowę?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/07c4253b-10b7-493b-926e-3e83df73d73d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/07c4253b-10b7-493b-926e-3e83df73d73d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07c4253b-10b7-493b-926e-3e83df73d73d"/>
+<title><![CDATA[ Na piotrkowskim osiedlu wycięli drzewa. Oburzona mieszkanka: „Nie sposób pojąć” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-piotrkowskim-osiedlu-wycieli-drzewa-oburzona-mieszkanka-nie-sposob-pojac/CJpBRCM69NM05dbPNTqC</link>
+<guid isPermaLink="false">9eeb66e2cfc7b1ea6018c8fbae3b14b528933279</guid>
+<pubDate>Mon, 03 Nov 2025 09:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" alt="miniatura"/></p><p>Bez wątpienia sprawy zieleni są dla piotrkowian ważne i za każdym razem wywołują duży odzew. Jak się okazuje, w październiku na jednym z osiedli wycięto kilka drzew. Katastrofa – takim słowem określiła tę sytuację mieszkanka, która zgłosiła się do naszej redakcji. Z jakiego powodu doszło do wycinki?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a76b13d5-05a4-4205-84f5-4765cccea3eb"/>
 </item>
 <item>
 <title><![CDATA[ Miliony dla piotrkowskiego szpitala. Duże zmiany dla pacjentów ]]></title>
@@ -899,14 +889,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/97566829-5463-4418-95e7-eedad47669ce"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek w centrum Piotrkowa. Jedna osoba trafiła do szpitala [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-centrum-piotrkowa-jedna-osoba-trafila-do-szpitala-zdjecia/5MQW6sPgzYorjs6P4IOR</link>
-<guid isPermaLink="false">0ec22586b693383cd9d23f10427fd902fe37a9a7</guid>
-<pubDate>Fri, 31 Oct 2025 12:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b55beba8-0e49-4294-a61a-1936f02c96c2" alt="miniatura"/></p><p>W piątek, 31 października po godz. 10:00 w Piotrkowie doszło do wypadku z udziałem trzech pojazdów. Na miejsce ruszyły służby. Wiadomo już, jaki był przebieg zdarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b55beba8-0e49-4294-a61a-1936f02c96c2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b55beba8-0e49-4294-a61a-1936f02c96c2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b55beba8-0e49-4294-a61a-1936f02c96c2"/>
+<title><![CDATA[ Zbudowano ją jako kaplicę rodzinną. To klasycystyczna budowla na cmentarzu w Sulejowie.  [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/zbudowano-ja-jako-kaplice-rodzinna-to-klasycystyczna-budowla-na-cmentarzu-w-sulejowie-zdjecia/dQvUACCq3gvv6tREPzJq</link>
+<guid isPermaLink="false">4699d2fabdec9f76dedabb558f782e72e7f1de4b</guid>
+<pubDate>Thu, 30 Oct 2025 17:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" alt="miniatura"/></p><p>Rodzinną kaplicę grobową na cmentarzu w Sulejowie ufundował na początku XIX wieku Franciszek Więckowski. Kaplica wybudowana została w stylu klasycystycznym. Jej patronami zostali święci apostołowie Piotr i Paweł.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677"/>
 </item>
 <item>
 <title><![CDATA[ Skażone smakołyki mogły trafić do sklepów w naszym mieście. Sprawdź, czy nie kupiłeś ]]></title>
@@ -1039,14 +1029,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6653e860-857c-4e9f-9a49-c5c684e5b5a5"/>
 </item>
 <item>
-<title><![CDATA[ Puchar Polski nie dla Piotrkowianina! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-nie-dla-piotrkowianina/OPYtN9IBcZyvpez3iIKr</link>
-<guid isPermaLink="false">6966feb44c96b6512d18f4e227e8f48b2909267d</guid>
-<pubDate>Wed, 29 Oct 2025 11:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/57b4f1ba-1456-4ef2-927c-ede6a40f8dd2" alt="miniatura"/></p><p>Trzeci zespół Ligi Centralnej, czyli zaplecza elity, okazał się za mocny dla Piotrkowianina Piotrków Trybunalski, a to oznacza, że drużyna Michała Matyjasika kończy przygodę z Pucharem Polski już na etapie drugiej rundy eliminacyjnej. Drużyna gospodarza okazała się lepsza od piotrkowian po bardzo zaciętym i emocjonującym boju.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/57b4f1ba-1456-4ef2-927c-ede6a40f8dd2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/57b4f1ba-1456-4ef2-927c-ede6a40f8dd2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/57b4f1ba-1456-4ef2-927c-ede6a40f8dd2"/>
+<title><![CDATA[ Szczęśliwa seria w Lotto w naszym regionie. Ile zgarnęli gracze? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szczesliwa-seria-w-lotto-w-naszym-regionie-ile-zgarneli-gracze/HhJAmsdbj1YEH336zyjj</link>
+<guid isPermaLink="false">7b91d94cf8811fed4fa8b0d03d513894243d4db6</guid>
+<pubDate>Wed, 29 Oct 2025 10:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto lotto.pl</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/039f9e08-06e6-4f7c-a934-eae9ae237055"/>
 </item>
 <item>
 <title><![CDATA[ Niesamowity przybysz ze Szwecji. Można go spotkać na parapetach naszych okien ]]></title>
@@ -1199,14 +1189,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa5c554e-c476-4d82-a53c-d25092e42cdc"/>
 </item>
 <item>
-<title><![CDATA[ Poszukują sprzątaczki na pełen etat. Ile płacą? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/poszukuja-sprzataczki-na-pelen-etat-ile-placa/TtIhkPYTb4MaLfEwnAto</link>
-<guid isPermaLink="false">6c88bdc97082c763060a3fbfa3a5a92f9fe32a01</guid>
-<pubDate>Mon, 27 Oct 2025 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/60830c4c-7e88-4132-8eb0-ebf24fafe7fd" alt="miniatura"/></p><p>Na portalu epraca.pl pojawiły się ogłoszenia o pracę jako sprzątaczka. Przedsiębiorstwo Produkcyjno-Usługowe "CZA-TA" Niciak Spółka Jawna oferuje pracę na pół etatu i pełen etat. Praca: Sprzątaczka na pół etatu w Piotrkowie Trybunalskim To oferta pracy na 1/2 zmiany z umową o pracę na okres próbny. Wynagrodzenie brutto wynosi minimum 2 333 zł. Do obowiązków pracownika należeć będzie sprzątanie pom…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/60830c4c-7e88-4132-8eb0-ebf24fafe7fd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/60830c4c-7e88-4132-8eb0-ebf24fafe7fd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/60830c4c-7e88-4132-8eb0-ebf24fafe7fd"/>
+<title><![CDATA[ Piotrkowskie Morsy rozpoczęły sezon. Impreza w klimacie Halloween [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowskie-morsy-rozpoczely-sezon-impreza-w-klimacie-halloween-zdjecia/HUAvYpRGa8gYRVIM2r6Z</link>
+<guid isPermaLink="false">c5d5dc0dc82211ca34d597b25b545d8304f986c7</guid>
+<pubDate>Sat, 25 Oct 2025 23:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/10408442-3c6d-4c50-ad53-74deb48a8069" alt="miniatura"/></p><p>W sobotę, 25 października Piotrkowskie Morsy zainaugurowały kolejny sezon. Wydarzenie odbyło się na „Słoneczku”. Cała impreza przybrała klimat zbliżającego się Halloween. Morsy kreatywnie podeszły do tematu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/10408442-3c6d-4c50-ad53-74deb48a8069" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/10408442-3c6d-4c50-ad53-74deb48a8069" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/10408442-3c6d-4c50-ad53-74deb48a8069"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia z piątym zwycięstwem w sezonie! ]]></title>
@@ -1349,14 +1339,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ac90bf9-ac2d-4726-ba4a-a22b775b0aa7"/>
 </item>
 <item>
-<title><![CDATA[ Areszt Śledczy w Piotrkowie poszukuje pracownika. Na start ponad 5 tysięcy złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/areszt-sledczy-w-piotrkowie-poszukuje-pracownika-na-start-ponad-5-tysiecy-zlotych/mkgnmvBCzdoOQS0Vr0aB</link>
-<guid isPermaLink="false">8ed4bc2b9461a278574cb460630b5d041bd79641</guid>
-<pubDate>Thu, 23 Oct 2025 14:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5cfd86b1-9190-4146-a371-0efc2c723da6" alt="miniatura"/></p><p>foto FB/Areszt Śledczy w Piotrkowie Trybunalskim</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cfd86b1-9190-4146-a371-0efc2c723da6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cfd86b1-9190-4146-a371-0efc2c723da6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5cfd86b1-9190-4146-a371-0efc2c723da6"/>
+<title><![CDATA[ Tysiące budynków w kraju błysną czerwienią. Na liście także Piotrków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tysiace-budynkow-w-kraju-blysna-czerwienia-na-liscie-takze-piotrkow/17IHU4NLNs7Ms9PtgmpY</link>
+<guid isPermaLink="false">2cfbafde03c78378acfe5be37410b61b35e0d6ee</guid>
+<pubDate>Thu, 23 Oct 2025 12:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/535b50af-af35-4499-8a77-287a485a6827" alt="miniatura"/></p><p>W środę, 19 listopada niektóre z budynków w naszym mieście zostaną rozświetlone na czerwono. Akcja ma związek z finałem ogólnopolskiej kampanii „Dzieciństwo bez Przemocy” , organizowanej przez Fundację Dajemy Dzieciom Siłę oraz Krajową Koalicję na rzecz Ochrony Dzieci. W przedsięwzięciu biorą także udział instytucje z terenu powiatu piotrkowskiego. Które budynki przybiorą odcienie czerwieni i dlac…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/535b50af-af35-4499-8a77-287a485a6827" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/535b50af-af35-4499-8a77-287a485a6827" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/535b50af-af35-4499-8a77-287a485a6827"/>
 </item>
 <item>
 <title><![CDATA[ W Piotrkowie uczniowe nauczą się... strzelać. Skorzystają także inni mieszkańcy ]]></title>
@@ -1509,14 +1499,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/36cec533-5b49-40b7-9a3b-5a23728039a9"/>
 </item>
 <item>
-<title><![CDATA[ Urząd Miasta w Piotrkowie poszukuje nowego pracownika. Jakie ma wymagania? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-miasta-w-piotrkowie-poszukuje-nowego-pracownika-jakie-ma-wymagania/C6wFr6u8FBApQ9eY13eZ</link>
-<guid isPermaLink="false">882ac9bd591c966c19c9aaf5fc8a2a88b61a4810</guid>
-<pubDate>Tue, 21 Oct 2025 11:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" alt="miniatura"/></p><p>Piotkrowski urząd poszukuje pracownija na stanowisko Inspektora ds. umów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f092bb5-fdc8-4144-9cb5-2e2f2b221369"/>
+<title><![CDATA[ Chowano tu cadyków i piotrkowskich rabinów. W Piotrkowie były aż dwa cmentarza żydowskie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/chowano-tu-cadykow-i-piotrkowskich-rabinow-w-piotrkowie-byly-az-dwa-cmentarza-zydowskie-zdjecia/ZiD8Q3dYoCdAtg99nHb1</link>
+<guid isPermaLink="false">e6cac5974012ef8dd52990b0a389651c3544855e</guid>
+<pubDate>Mon, 20 Oct 2025 18:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/578a9d88-b65a-4d85-a6f4-cb1ede78bece" alt="miniatura"/></p><p>Można tu zobaczyć blisko dwa tysiące zachowanych macew. To jeden z najlepiej zachowanych cmentarzy żydowskich w województwie łódzkim. Najstarsze nagrobki pochodzą z XVIII wieku. Znajdują się tu także ohele piotrkowskich cadyków. To nowy cmentarz żydowski założony na ówczesnych obrzeżach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/578a9d88-b65a-4d85-a6f4-cb1ede78bece" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/578a9d88-b65a-4d85-a6f4-cb1ede78bece" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/578a9d88-b65a-4d85-a6f4-cb1ede78bece"/>
 </item>
 <item>
 <title><![CDATA[ Piotrków wydaje miliony, żeby było czysto. Czy to się udaje? ]]></title>
@@ -1649,14 +1639,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d773ad7-7602-40e7-bddf-85245b6d6f38"/>
 </item>
 <item>
-<title><![CDATA[ Rekordowy weekend w Piotrkowie? Wydarzy się naprawdę dużo! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rekordowy-weekend-w-piotrkowie-wydarzy-sie-naprawde-duzo/uHceRYVANqazsKahuPBF</link>
-<guid isPermaLink="false">026e7c4deacb1364a76eb2c6798abeab0380f7c6</guid>
-<pubDate>Fri, 17 Oct 2025 11:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3471591e-3e96-4501-9738-4af300f3d7d6" alt="miniatura"/></p><p>foto Anna Seniuk fot. Maciej Czerski</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3471591e-3e96-4501-9738-4af300f3d7d6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3471591e-3e96-4501-9738-4af300f3d7d6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3471591e-3e96-4501-9738-4af300f3d7d6"/>
+<title><![CDATA[ Pół tysiąca drzew w Piotrkowie. Gdzie dokonano nasadzeń? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pol-tysiaca-drzew-w-piotrkowie-gdzie-dokonano-nasadzen/pW9rIfTkFzeb5MNt5LWX</link>
+<guid isPermaLink="false">c076b9095217f87b43acc537fb0a3b635ee09fad</guid>
+<pubDate>Fri, 17 Oct 2025 10:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aef7dc85-75eb-4ddb-828a-b479e9b07309" alt="miniatura"/></p><p>Nowe nasadzenia w Piotrkowie W czwartek, 16 października w Piotrkowie posadzono 500 nowych drzewek. Okolicę kąpieliska Słoneczko i ul. Morsów zdobią teraz takie gatunki drzew jak jarząb, olchy czarne, wiązy i czereśnia ptasia. Nasadzenia wykonano w ramach akcji "Novy las".</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aef7dc85-75eb-4ddb-828a-b479e9b07309" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aef7dc85-75eb-4ddb-828a-b479e9b07309" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aef7dc85-75eb-4ddb-828a-b479e9b07309"/>
 </item>
 <item>
 <title><![CDATA[ Najpierw hodowano tu konie dla wojska. Ponad sto lat temu założono stado ogierów w Bogusławicach [ZDJĘCIA] ]]></title>
@@ -1799,14 +1789,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db77ef75-3c15-4ff4-9c92-9f5a4a58bc2f"/>
 </item>
 <item>
-<title><![CDATA[ Technologiczna rewolucja w naszym mieście. To będzie wielkie kino ]]></title>
-<link>https://trybunalski.pl/wiadomosci/technologiczna-rewolucja-w-naszym-miescie-to-bedzie-wielkie-kino/yw8zzqm3xyeHZj8w7eYi</link>
-<guid isPermaLink="false">a39ffac34f72c3e93fd394119233c4f815a6c530</guid>
-<pubDate>Wed, 15 Oct 2025 11:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/daff47bf-dc4a-4fd7-9a01-b580f9d5d2ac" alt="miniatura"/></p><p>Jak informowaliśmy w listopadzie ubiegłego roku, Mediatekę 800-lecia czeka technologiczna rewolucja. Według zapowiedzi na zachodniej i południowej fasadzie budynku pojawi się folia ciekłokrystaliczna, dzięki której piotrkowianie będą mogli oglądać filmy w kinie plenerowym wyświetlane na ścianie mediateki. Jak się okazuje, prace już się rozpoczęły. Co obejmuje projekt?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/daff47bf-dc4a-4fd7-9a01-b580f9d5d2ac" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/daff47bf-dc4a-4fd7-9a01-b580f9d5d2ac" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/daff47bf-dc4a-4fd7-9a01-b580f9d5d2ac"/>
+<title><![CDATA[ Auchan ostrzega swoich klientów: Jeśli to u nas kupiłeś wyrzuć lub oddaj do sklepu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/auchan-ostrzega-swoich-klientow-jesli-to-u-nas-kupiles-wyrzuc-lub-oddaj-do-sklepu/qnWGWhfwLgjB8snaGk6G</link>
+<guid isPermaLink="false">f5ac936ddd6b1c890fe3bbf7135ebcb33e7561dc</guid>
+<pubDate>Wed, 15 Oct 2025 09:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9feda2f0-ba5f-4be5-b0fb-cfae0990622c" alt="miniatura"/></p><p>Sieć sklepów Auchan poinformowała o wycofaniu ze sprzedaży jednego z produktów.W oficjalnym stanowisku podkreślono, że decyzja została podjęta „z uwagi na niewłaściwe wyniki mikrobiologiczne”. Tego rodzaju sformułowanie zawsze oznacza, że w produkcie mogły znaleźć się drobnoustroje lub bakterie w ilości przekraczającej dopuszczalne wartości.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9feda2f0-ba5f-4be5-b0fb-cfae0990622c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9feda2f0-ba5f-4be5-b0fb-cfae0990622c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9feda2f0-ba5f-4be5-b0fb-cfae0990622c"/>
 </item>
 <item>
 <title><![CDATA[ Baśniowe zwierzę widziane w Piotrkowie. Jeden z mieszkańców uchwycił je w obiektywie ]]></title>
@@ -1949,14 +1939,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d000b06-829f-4620-9521-c1cc2d2eebb6"/>
 </item>
 <item>
-<title><![CDATA[ 140 kobiet z Polski walczy o finał. Wśród nich mieszkanki naszego miasta i powiatu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/140-kobiet-z-polski-walczy-o-final-wsrod-nich-mieszkanki-naszego-miasta-i-powiatu/G4qIZIAr6BfmAERBMffZ</link>
-<guid isPermaLink="false">e2a905af1cba0f56e74d49875b4632df12910f9a</guid>
-<pubDate>Mon, 13 Oct 2025 11:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e8905b3c-251d-4842-837c-3534a641d5ea" alt="miniatura"/></p><p>Konkurs Polska Miss jest coraz bliżej rozstrzygnięcia. Poznaliśmy nazwiska kobiet, które zawalczą o swoje miejsce w finale. Wśród nich znalazła się piotrkowianka, a także mieszkanki powiatu piotrkowskiego. Oto półfinalistki z naszego regionu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8905b3c-251d-4842-837c-3534a641d5ea" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8905b3c-251d-4842-837c-3534a641d5ea" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8905b3c-251d-4842-837c-3534a641d5ea"/>
+<title><![CDATA[ Hubertus 2025 w Bogusławicach – tradycja, emocje i końska pasja. Skolim na zakończenie rozgrzał publiczność ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/hubertus-2025-w-boguslawicach-tradycja-emocje-i-konska-pasja-skolim-na-zakonczenie-rozgrzal-publicznosc-zdjecia/praGtNa3ma2ipw6uY99N</link>
+<guid isPermaLink="false">738c0573672a448180d1966eaa9eb6d3cde8595f</guid>
+<pubDate>Sun, 12 Oct 2025 07:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/7f5418be-dff0-4c51-ae40-3b4dcb76039a" alt="miniatura"/></p><p>Tradycyjnie, kulminacyjnym punktem programu była „Gonitwa za Lisem” , czyli symboliczne zakończenie sezonu jeździeckiego. Tegorocznym „lisem” był Piotr , który – jak przystało na doświadczonego jeźdźca – stawił czoła niełatwym warunkom pogodowym. Mokry teren i śliska nawierzchnia sprawiły, że rywalizacja wymagała od uczestników szczególnej ostrożności i precyzji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/galleries/7f5418be-dff0-4c51-ae40-3b4dcb76039a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/galleries/7f5418be-dff0-4c51-ae40-3b4dcb76039a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/galleries/7f5418be-dff0-4c51-ae40-3b4dcb76039a"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowska szkoła pogrążona w żałobie. Zmarła ceniona nauczycielka ]]></title>
@@ -2109,16 +2099,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d81d033a-5b09-4e73-bfb3-2e6cfccd47a8"/>
 </item>
 <item>
-<title><![CDATA[ Czy „stara Belzacka” doczeka się remontu? Sprawa jest nietypowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-stara-belzacka-doczeka-sie-remontu-sprawa-jest-nietypowa/oqhx47DSp0O29GnUytBW</link>
-<guid isPermaLink="false">3e8f4ff7c2c9fcfb20defa4b91d48edc10ae0fa1</guid>
-<pubDate>Thu, 09 Oct 2025 15:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1e6261b3-cade-496f-91f7-c1df3821de56" alt="miniatura"/></p><p>Mieszkańcy proszą o remont „starej Belzackiej” w Piotrkowie. Taką informację przekazała na drodze interpelacji radna Agnieszka Chojnacka. Chodzi o odcinek od ul. Zjazdowej do Armii Krajowej. Uliczka ta według mieszkańców ma zabytkowy charakter ze względu na brukowaną nawierzchnię nazywaną „kocimi łbami”. Jaką odpowiedź uzyskała radna?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e6261b3-cade-496f-91f7-c1df3821de56" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e6261b3-cade-496f-91f7-c1df3821de56" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1e6261b3-cade-496f-91f7-c1df3821de56"/>
-</item>
-<item>
 <title><![CDATA[ Hubertus 2025 w Bogusławicach. W programie zawody, pokazy i koncert Skolima ]]></title>
 <link>https://trybunalski.pl/wiadomosci/hubertus-2025-w-boguslawicach-w-programie-zawody-pokazy-i-koncert-skolima/sdUQqf9FbnKhNvjC4hSE</link>
 <guid isPermaLink="false">de933757fe2ea8a6a4449cf928c439b5a5e47286</guid>
@@ -2239,14 +2219,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1737a7b3-5fb2-43aa-897c-93257cb7e805"/>
 </item>
 <item>
-<title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Zarobki nawet 10 tysięcy złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-zarobki-nawet-10-tysiecy-zlotych/05SGPRMUl0jhG6IA9K2G</link>
-<guid isPermaLink="false">13a97d02a93ed676ab6ea6919f5819ab44c21acc</guid>
-<pubDate>Tue, 07 Oct 2025 16:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff9fe2ac-c7f6-425d-b18e-559f13ac9230" alt="miniatura"/></p><p>Robotnik torowy, czyściciel wagonów Wynagrodzenie brutto: od 4 666 PLN</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff9fe2ac-c7f6-425d-b18e-559f13ac9230" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff9fe2ac-c7f6-425d-b18e-559f13ac9230" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff9fe2ac-c7f6-425d-b18e-559f13ac9230"/>
+<title><![CDATA[ Concordia Piotrków awansuje do kolejnej rundy Pucharu Polski. Bez potrzeby rozegrania meczu! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/concordia-piotrkow-awansuje-do-kolejnej-rundy-pucharu-polski-bez-potrzeby-rozegrania-meczu/qdLY498yCv2WH28y8MFZ</link>
+<guid isPermaLink="false">b09563a86ba14720cf9ffa00f9d79a9dec03f0cf</guid>
+<pubDate>Tue, 07 Oct 2025 14:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/29df5b68-adcd-4069-af66-fd93699f8552" alt="miniatura"/></p><p>Przeciwnikiem drużyny trenera Ireneusza Komara w czwartej rundzie Pucharu Polski edycji 2026/27 na szczeblu okręgowym miał być zespół Polonii Gorzędów . Spotkanie miało się odbyć w środę 8 października na stadionie miejskim w Piotrkowie . Dzień przed meczem działacze Concordii zostali oficjalnie poinformowani, że zawodnicy z Gorzędowa jednak się nie pojawią. Oznacza to, że PZPN przyzna piotrkowia…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/29df5b68-adcd-4069-af66-fd93699f8552" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/29df5b68-adcd-4069-af66-fd93699f8552" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/29df5b68-adcd-4069-af66-fd93699f8552"/>
 </item>
 <item>
 <title><![CDATA[ Konkurs na dyrektora piotrkowskiego MOK-u. Mamy pierwsze informacje ]]></title>
@@ -2399,6 +2379,16 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/71d09fbe-28af-4a4e-b7a2-3819ab10d662"/>
 </item>
 <item>
+<title><![CDATA[ Dwór w Bogusławicach najpierw należał do biskupów. Stał się nagrodą od cara za tłumienie powstań [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dwor-w-boguslawicach-najpierw-nalezal-do-biskupow-stal-sie-nagroda-od-cara-za-tlumienie-powstan-zdjecia/Q4auq7BdrRA2GEDwPx13</link>
+<guid isPermaLink="false">4b68ebca34c2904123637a987414f4ef2f4aa456</guid>
+<pubDate>Fri, 03 Oct 2025 17:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aaba8a0a-1886-470b-b18d-e7ba7ec79d3d" alt="miniatura"/></p><p>Zabytkowy dwór w Bogusławicach w powiecie piotrkowskim to obecnie własność prywatna, podobnie jak stado ogierów. Budynek ma jednak ciekawą historię wpisującą się w dzieje okolicy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aaba8a0a-1886-470b-b18d-e7ba7ec79d3d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aaba8a0a-1886-470b-b18d-e7ba7ec79d3d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aaba8a0a-1886-470b-b18d-e7ba7ec79d3d"/>
+</item>
+<item>
 <title><![CDATA[ Celebryci noszą dresy z Moszczenicy. To sukces niespełna 18-letniego Antka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/celebryci-nosza-dresy-z-moszczenicy-to-sukces-niespelna-18-letniego-antka/PHby8dRa0w19FJidpHnh</link>
 <guid isPermaLink="false">0914eb733ea263dce4a44a9cef6dca0baa2926b5</guid>
@@ -2513,10 +2503,10 @@
 <link>https://trybunalski.pl/wiadomosci/czy-w-razie-w-jest-sie-w-piotrkowie-gdzie-schronic-opowiesc-o-podziemnych-ruinach/PbCIMaKSY0TuUzFxra9V</link>
 <guid isPermaLink="false">ae18b4d819e572bed3cb03e44da088488d0c8ea1</guid>
 <pubDate>Thu, 02 Oct 2025 11:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/565562fa-531d-4b8e-b528-e505efc57988" alt="miniatura"/></p><p>Ostatnia inwentaryzacja piotrkowskich schronów przeprowadzona została w 2023 roku. Płynące z niej wnioski nie są optymistyczne. Mimo że miasto posiada kilkanaście takich obiektów, nie spełniają one standardów bezpieczeństwa. Są w fatalnym stanie i wymagają gruntownych remontów. Prezydent miasta potwierdził ostatnio, że w Piotrkowie Trybunalskim nie ma obecnie realnie działających schronów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/565562fa-531d-4b8e-b528-e505efc57988" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/565562fa-531d-4b8e-b528-e505efc57988" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/565562fa-531d-4b8e-b528-e505efc57988"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Ostatnia inwentaryzacja piotrkowskich schronów przeprowadzona została w 2023 roku. Płynące z niej wnioski nie są optymistyczne. Mimo że miasto posiada kilkanaście takich obiektów, nie spełniają one standardów bezpieczeństwa. Są w fatalnym stanie i wymagają gruntownych remontów. Prezydent miasta potwierdził ostatnio, że w Piotrkowie Trybunalskim nie ma obecnie realnie działających schronów.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Podszywają się pod pracowników gminy. Oszuści grasują w powiecie piotrkowskim ]]></title>
@@ -2533,20 +2523,20 @@
 <link>https://trybunalski.pl/wiadomosci/piotrkowskie-osiedle-ktore-powstalo-w-socjalistycznym-czynie-mialo-sluzyc-robotnikom-z-sigmateksu-zdjecia/DlLrSP4hvqaYFQ6sEOdc</link>
 <guid isPermaLink="false">92d4f23ccb41376926a39159d34970ed59c64ae8</guid>
 <pubDate>Wed, 01 Oct 2025 17:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59b36ba5-2524-43d1-b5b0-feb59757b097" alt="miniatura"/></p><p>Osiedle Wyzwolenia zaczęto wznosić niedługo po wojnie. Rozplanowano je we wschodniej części Piotrkowa, w niedalekiej odległości od fabrycznej zabudowy Sigmateksu, czyli piotrkowskiej Manufaktury . Nowe bloki miały dać mieszkania właśnie pracownikom kombinatu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59b36ba5-2524-43d1-b5b0-feb59757b097" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59b36ba5-2524-43d1-b5b0-feb59757b097" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59b36ba5-2524-43d1-b5b0-feb59757b097"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Osiedle Wyzwolenia zaczęto wznosić niedługo po wojnie. Rozplanowano je we wschodniej części Piotrkowa, w niedalekiej odległości od fabrycznej zabudowy Sigmateksu, czyli piotrkowskiej Manufaktury . Nowe bloki miały dać mieszkania właśnie pracownikom kombinatu.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkańcy powiatu piotrkowskiego doczekają się ścieżki. Połączy Piotrków i Sulejów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-powiatu-piotrkowskiego-doczekaja-sie-sciezki-polaczy-piotrkow-i-sulejow/vDBNmYMlA2S9dcytZes5</link>
-<guid isPermaLink="false">5f1a227e01fee34f8e43f928c92a0c19730f6d30</guid>
-<pubDate>Wed, 01 Oct 2025 15:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e6261d55-9179-4523-98f6-87d2d815d900" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto GDDKiA Łódź</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6261d55-9179-4523-98f6-87d2d815d900" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6261d55-9179-4523-98f6-87d2d815d900" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6261d55-9179-4523-98f6-87d2d815d900"/>
+<title><![CDATA[ Ta ściana już niebawem będzie przykuwać uwagę i upamiętniać ważne w dziejach Piotrkowa postaci. Kto to będzie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ta-sciana-juz-niebawem-bedzie-przykuwac-uwage-i-upamietniac-wazne-w-dziejach-piotrkowa-postaci-kto-to-bedzie/scsEu7iGV7GTMfd97qjc</link>
+<guid isPermaLink="false">6049b9459b28ef30c39a7a16284c08c45509a81b</guid>
+<pubDate>Wed, 01 Oct 2025 14:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>“Murale sportowe mogą stać się wizytówką dzielnicy i ważnym elementem dziedzictwa lokalnego, sprawiając, że historia piotrkowskiego sportu pozostanie wiecznie żywa” - podkreśla Marcin “Sacza” Saciński.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Będzie konkurs na dyrektora w Piotrkowie. Kto pokieruje placówką? ]]></title>
@@ -2573,30 +2563,30 @@
 <link>https://trybunalski.pl/wiadomosci/tvp-bedzie-krecic-serial-w-naszym-miescie-ile-mozna-zarobic/hrvgBw5C5NQNjvYrZROr</link>
 <guid isPermaLink="false">cabdc1fda0159c0565b764a96c0eff16b5496f81</guid>
 <pubDate>Wed, 01 Oct 2025 09:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4789fca0-8797-453a-954a-cb4aa22ccc58" alt="miniatura"/></p><p>W naszym mieście nakręcono sceny do wielu produkcji. To właśnie ulice Piotrkowa można dostrzec w takich tytułach jak „Ewa chce spać”, „Uprowadzenie Agaty” czy „Bitwa Warszawska”. Jak się okazuje, po raz kolejny w naszym mieście pojawi się ekipa filmowa. Ponadto agencja statystów i epizodystów SkyFilm poszukuje chętnych piotrkowian, którzy wezmą udział w tworzeniu nowej produkcji. Jakie są wymagani…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4789fca0-8797-453a-954a-cb4aa22ccc58" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4789fca0-8797-453a-954a-cb4aa22ccc58" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4789fca0-8797-453a-954a-cb4aa22ccc58"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W naszym mieście nakręcono sceny do wielu produkcji. To właśnie ulice Piotrkowa można dostrzec w takich tytułach jak „Ewa chce spać”, „Uprowadzenie Agaty” czy „Bitwa Warszawska”. Jak się okazuje, po raz kolejny w naszym mieście pojawi się ekipa filmowa. Ponadto agencja statystów i epizodystów SkyFilm poszukuje chętnych piotrkowian, którzy wezmą udział w tworzeniu nowej produkcji. Jakie są wymagani…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Na spalskich dożynkach bawiła się elita państwa. Prezydenckie święto plonów było rozrywką nie tylko mas [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia/na-spalskich-dozynkach-bawila-sie-elita-panstwa-prezydenckie-swieto-plonow-bylo-rozrywka-wcale-nie-dla-mas-zdjecia/AZU13eDFZeA6W3dd8AKO</link>
 <guid isPermaLink="false">b8000d0f57a2236da35f2df119514391f8be9616</guid>
 <pubDate>Tue, 30 Sep 2025 19:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/63fecea0-1ab0-4718-ab1f-34572d8342bc" alt="miniatura"/></p><p>Pierwsze dożynki prezydenckie w Spale świętowało około 40 tysięcy ludzi. Tylu gości pojawiło się w ciągu trzech dni świętowania w 1928 roku, kiedy oficjalnie ogólnopolskie święto plonów uznano za prezydenckie. Rok wcześniej dożynki odbyły się tylko z udziałem prezydenta. Tym razem to Ignacy Mościcki na nie zapraszał.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/63fecea0-1ab0-4718-ab1f-34572d8342bc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/63fecea0-1ab0-4718-ab1f-34572d8342bc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/63fecea0-1ab0-4718-ab1f-34572d8342bc"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Pierwsze dożynki prezydenckie w Spale świętowało około 40 tysięcy ludzi. Tylu gości pojawiło się w ciągu trzech dni świętowania w 1928 roku, kiedy oficjalnie ogólnopolskie święto plonów uznano za prezydenckie. Rok wcześniej dożynki odbyły się tylko z udziałem prezydenta. Tym razem to Ignacy Mościcki na nie zapraszał.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Awantura w Piotrkowie. Zarzuty o knucie i rozdawnictwo ]]></title>
 <link>https://trybunalski.pl/wiadomosci/awantura-w-piotrkowie-zarzuty-o-knucie-i-rozdawnictwo/vVGHFLxObA0eUPMHpKyg</link>
 <guid isPermaLink="false">a1a5b55667ecf3e8485824f8839981c9b6c6ae3d</guid>
 <pubDate>Tue, 30 Sep 2025 15:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d825c957-d4f1-496b-ae67-3bdf1e7b56a6" alt="miniatura"/></p><p>W poniedziałek, 29 września odbyła się XXIV Sesja Rady Miasta Piotrkowa Trybunalskiego. Obrady przyniosły zmiany w składzie prezydium. Zmniejszyła się również liczba komisji, a także ich przewodniczący. Decyzje te spotkały się z dezaprobatą części rajców. Padły takie określenia jak „kpina, knucie, rozdawnictwo”. Sesja trwała około 11 godzin, do późnych godzin wieczornych. Jak doszło do zmian w rad…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d825c957-d4f1-496b-ae67-3bdf1e7b56a6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d825c957-d4f1-496b-ae67-3bdf1e7b56a6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d825c957-d4f1-496b-ae67-3bdf1e7b56a6"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W poniedziałek, 29 września odbyła się XXIV Sesja Rady Miasta Piotrkowa Trybunalskiego. Obrady przyniosły zmiany w składzie prezydium. Zmniejszyła się również liczba komisji, a także ich przewodniczący. Decyzje te spotkały się z dezaprobatą części rajców. Padły takie określenia jak „kpina, knucie, rozdawnictwo”. Sesja trwała około 11 godzin, do późnych godzin wieczornych. Jak doszło do zmian w rad…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Dym i akcja służb na lotnisku w Piotrkowie. Co tam się działo? ]]></title>
@@ -2623,20 +2613,20 @@
 <link>https://trybunalski.pl/wiadomosci/piotrkowianka-wyspiewala-pierwsze-miejsce-na-ogolnopolskim-konkursie-jej-znajomi-wrocili-z-wyroznieniami-specjalnymi/EOq38h4Or3sZFC1f3P0f</link>
 <guid isPermaLink="false">a440ac9bd19c71fd4995806b6c001e2cb8777700</guid>
 <pubDate>Tue, 30 Sep 2025 10:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/64dfff3b-d448-4bb3-ac7d-3ae74909337a" alt="miniatura"/></p><p>W minioną niedzielę odbył się V Ogólnopolski Młodzieżowy Konkurs Interpretacji Piosenki Aktorskiej. Podczas wydarzenia młodzi artyści: aktorki i aktorzy amatorzy zaprezentowali umiejętności wokalne w przygotowanych własnych interpretacjach wybranych utworów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/64dfff3b-d448-4bb3-ac7d-3ae74909337a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/64dfff3b-d448-4bb3-ac7d-3ae74909337a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/64dfff3b-d448-4bb3-ac7d-3ae74909337a"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W minioną niedzielę odbył się V Ogólnopolski Młodzieżowy Konkurs Interpretacji Piosenki Aktorskiej. Podczas wydarzenia młodzi artyści: aktorki i aktorzy amatorzy zaprezentowali umiejętności wokalne w przygotowanych własnych interpretacjach wybranych utworów.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Koncert "Króla Latino w naszym powiecie. Kiedy występ Skolima? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/koncert-krola-latino-w-naszym-powiecie-kiedy-wystep-skolima/LIfRDhKwgincN3VEFz2t</link>
 <guid isPermaLink="false">9574e262ca84c1d90470669844c4d4ac5c6b52ad</guid>
 <pubDate>Mon, 29 Sep 2025 20:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7484b4f4-d76c-4248-a13c-1c019415af4b" alt="miniatura"/></p><p>W Bogusławicach szykuje się wyjątkowe święto, które co roku gromadzi tłumy pasjonatów jeździectwa, łowiectwa i dobrej zabawy. W sobotę, 11 października 2025 roku, odbędą się Obchody Dnia św. Huberta – Hubertus 2025. Impreza ma charakter otwarty i bezpłatny, a na uczestników czeka wiele atrakcji od południa aż do późnych godzin wieczornych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7484b4f4-d76c-4248-a13c-1c019415af4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7484b4f4-d76c-4248-a13c-1c019415af4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7484b4f4-d76c-4248-a13c-1c019415af4b"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W Bogusławicach szykuje się wyjątkowe święto, które co roku gromadzi tłumy pasjonatów jeździectwa, łowiectwa i dobrej zabawy. W sobotę, 11 października 2025 roku, odbędą się Obchody Dnia św. Huberta – Hubertus 2025. Impreza ma charakter otwarty i bezpłatny, a na uczestników czeka wiele atrakcji od południa aż do późnych godzin wieczornych.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Gościł w Piotrkowie Trybunalskim zanim został Janem Pawłem. Potem został honorowym obywatelem miasta [ZDJĘICA] ]]></title>
@@ -2673,309 +2663,289 @@
 <link>https://trybunalski.pl/wiadomosci/sport/mistrz-daje-lekcje/l4KPjFLyJabU7DA1awIW</link>
 <guid isPermaLink="false">e51610a2886765529f70f9c396a1ad17b41340be</guid>
 <pubDate>Mon, 29 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8d612ebd-c8d5-49c6-b5a9-40b07184176d" alt="miniatura"/></p><p>Najwyżej wygrał zespół Szczypomedia , który meczem ze Starówką (5:0) udowodnił medalowe aspiracje. Wysokie zwycięstwo zanotował też obrońca tytułu Barwil – Omega , wygrywając z ubiegłorocznym medalistą Trybunałem Piotrków 5:1. Na czele tabeli I ligi właśnie Barwil i Szczypomedia (odpowiednio 13 i 11 punktów). W II lidze z kompletem punktów na prowadzeniu spadkowicz Met – Stal i FC Carrefour .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d612ebd-c8d5-49c6-b5a9-40b07184176d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d612ebd-c8d5-49c6-b5a9-40b07184176d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d612ebd-c8d5-49c6-b5a9-40b07184176d"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Najwyżej wygrał zespół Szczypomedia , który meczem ze Starówką (5:0) udowodnił medalowe aspiracje. Wysokie zwycięstwo zanotował też obrońca tytułu Barwil – Omega , wygrywając z ubiegłorocznym medalistą Trybunałem Piotrków 5:1. Na czele tabeli I ligi właśnie Barwil i Szczypomedia (odpowiednio 13 i 11 punktów). W II lidze z kompletem punktów na prowadzeniu spadkowicz Met – Stal i FC Carrefour .</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ W Piotrkowie będą kręcić serial. Szukają statystów do nowej produkcji TVP ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-beda-krecic-serial-szukaja-statystow-do-nowej-produkcji-tvp/Cd0qgFxVecP3cgRNGgXM</link>
 <guid isPermaLink="false">823abb12c6d019d7052f556c3c7ad08cdaf5ea2f</guid>
 <pubDate>Mon, 29 Sep 2025 12:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c98cb4f0-e989-4e39-9319-7d472a09773e" alt="miniatura"/></p><p>Piotrków niejednokrotnie stawał się planem filmowym. To właśnie ulice naszego miasta można dostrzec w takich produkcjach jak „Ewa chce spać”, „Uprowadzenie Agaty” czy „Bitwa Warszawska”. Jak się okazuje, po raz kolejny w Piotrkowie pojawi się ekipa filmowa. Ponadto agencja statystów i epizodystów SkyFilm poszukuje chętnych piotrkowian, którzy wezmą udział w tworzeniu nowej produkcji. Jakie są wyma…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c98cb4f0-e989-4e39-9319-7d472a09773e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c98cb4f0-e989-4e39-9319-7d472a09773e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c98cb4f0-e989-4e39-9319-7d472a09773e"/>
-</item>
-<item>
-<title><![CDATA[ Seria podpaleń w Piotrkowie. W kamienicy znaleziono zwłoki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/seria-podpalen-w-piotrkowie-w-kamienicy-znaleziono-zwloki/ViySg1l0RWHUHgn4p8Ob</link>
-<guid isPermaLink="false">28a3ef9c12adf0fb2a6d75749d83dd1903e14ea6</guid>
-<pubDate>Mon, 29 Sep 2025 10:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/69edd7af-e3d1-41e1-b0eb-77e6aede8440" alt="miniatura"/></p><p>Paweł Kardas | foto Spotted: Piotrków Trybunalski</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/69edd7af-e3d1-41e1-b0eb-77e6aede8440" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/69edd7af-e3d1-41e1-b0eb-77e6aede8440" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/69edd7af-e3d1-41e1-b0eb-77e6aede8440"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Piotrków niejednokrotnie stawał się planem filmowym. To właśnie ulice naszego miasta można dostrzec w takich produkcjach jak „Ewa chce spać”, „Uprowadzenie Agaty” czy „Bitwa Warszawska”. Jak się okazuje, po raz kolejny w Piotrkowie pojawi się ekipa filmowa. Ponadto agencja statystów i epizodystów SkyFilm poszukuje chętnych piotrkowian, którzy wezmą udział w tworzeniu nowej produkcji. Jakie są wyma…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Dobry mecz Piotrkowianina, ale punkty zostały w Kielcach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-dobry-mecz-piotrkowianina-ale-punkty-zostaly-w-kielcach/aFHnnfYwI8LgoPh9AP7c</link>
 <guid isPermaLink="false">96d0f22dc947eecb21ef6bd59a196ae9a8839a4b</guid>
 <pubDate>Sat, 27 Sep 2025 20:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7f2d8a2f-405b-4bd7-9aa5-bd5229015e37" alt="miniatura"/></p><p>foto ORLEN Superliga/Piotrkowianin (Michał Ostafijczuk)</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f2d8a2f-405b-4bd7-9aa5-bd5229015e37" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f2d8a2f-405b-4bd7-9aa5-bd5229015e37" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f2d8a2f-405b-4bd7-9aa5-bd5229015e37"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>foto ORLEN Superliga/Piotrkowianin (Michał Ostafijczuk)</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Gaming Kings 2.0 Powered by Orange w Focus Mall w Piotrkowie: emocje, rywalizacja i spotkanie z Michałem „Michu” Müllerem ZDJĘCIA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gaming-kings-20-powered-by-orange-w-focus-mall-w-piotrkowie-emocje-rywalizacja-i-spotkanie-z-michalem-michu-mullerem-zdjecia/shDwiZ2iHZGQu96BlUZN</link>
 <guid isPermaLink="false">1dbbc58b5b2c90169cce4626d4c1223857fbf8c1</guid>
 <pubDate>Sat, 27 Sep 2025 15:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/d4a8a1bb-78bf-4d6f-9229-12ba6449186b" alt="miniatura"/></p><p>W turnieju rywalizowano w dwóch najgorętszych tytułach: Counter-Strike 2 oraz EA Sports FC 25 . W CS2 zawodnicy walczyli w formacie 1 na 1, a wirtualne pojedynki były niezwykle dynamiczne i pełne napięcia. Z kolei w FC 25 na konsolach emocje sięgały zenitu przy każdym golu. Zwycięzcy lokalnego etapu nie tylko sięgnęli po atrakcyjne nagrody, ale także wywalczyli awans do ogólnopolskiego finału, któ…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/d4a8a1bb-78bf-4d6f-9229-12ba6449186b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/d4a8a1bb-78bf-4d6f-9229-12ba6449186b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/d4a8a1bb-78bf-4d6f-9229-12ba6449186b"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W turnieju rywalizowano w dwóch najgorętszych tytułach: Counter-Strike 2 oraz EA Sports FC 25 . W CS2 zawodnicy walczyli w formacie 1 na 1, a wirtualne pojedynki były niezwykle dynamiczne i pełne napięcia. Z kolei w FC 25 na konsolach emocje sięgały zenitu przy każdym golu. Zwycięzcy lokalnego etapu nie tylko sięgnęli po atrakcyjne nagrody, ale także wywalczyli awans do ogólnopolskiego finału, któ…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Jezioro Bugaj wciąż czeka na swoją ogromną szansę. Pomogą unijne miliony? [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jezioro-bugaj-wciaz-czeka-na-swoja-szanse-pomoga-unijne-miliony-zdjecia/90KxyxGCxyQ7Zxf6MYD1</link>
 <guid isPermaLink="false">ca79157ee3d96f1402482f9ee1fb144b9ca738ed</guid>
 <pubDate>Sat, 27 Sep 2025 11:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a11adf4f-2f3f-4e02-9384-9160177d29b1" alt="miniatura"/></p><p>W 2025 roku Piotrków Trybunalski ma zielone światło do składania wniosku i pozyskania ponad 31 mln zł na projekt turystyczny. To pieniądze niejako zagwarantowane dla miasta w ramach Miejskiego Obszaru Funkcjonalnego Radomsko-Piotrków Trybunalski-Bełchatów. Do 2030 roku ma być zrealizowana strategia , która zakłada między innymi rozbudowę infrastruktury rekreacyjnej nad Bugajem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a11adf4f-2f3f-4e02-9384-9160177d29b1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a11adf4f-2f3f-4e02-9384-9160177d29b1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a11adf4f-2f3f-4e02-9384-9160177d29b1"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W 2025 roku Piotrków Trybunalski ma zielone światło do składania wniosku i pozyskania ponad 31 mln zł na projekt turystyczny. To pieniądze niejako zagwarantowane dla miasta w ramach Miejskiego Obszaru Funkcjonalnego Radomsko-Piotrków Trybunalski-Bełchatów. Do 2030 roku ma być zrealizowana strategia , która zakłada między innymi rozbudowę infrastruktury rekreacyjnej nad Bugajem.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ To ostatni dzwonek dla piotrkowian. Wyboru można dokonać przed końcem września ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-ostatni-dzwonek-dla-piotrkowian-wyboru-mozna-dokonac-tylko-do-konca-wrzesnia/5WLKVZooBYXU3dHbtQAQ</link>
 <guid isPermaLink="false">8da9f01c37cc4cff45a276a8a6d5256cd15eba02</guid>
 <pubDate>Sat, 27 Sep 2025 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/01c43f98-6264-482f-b65e-37861d150dfc" alt="miniatura"/></p><p>Na realizację zadań w ramach Budżetu Obywatelskiego 2026 przeznaczono 3 mln 679 tys. złotych. Głosować można na 19 projektów w pięciu różnych kategoriach: projekty ogólnomiejskie, rejonowe, oświatowe szkolne, oświatowe przedszkolne oraz projekty związane z Rodzinnymi Ogrodami Działkowymi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/01c43f98-6264-482f-b65e-37861d150dfc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/01c43f98-6264-482f-b65e-37861d150dfc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/01c43f98-6264-482f-b65e-37861d150dfc"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Na realizację zadań w ramach Budżetu Obywatelskiego 2026 przeznaczono 3 mln 679 tys. złotych. Głosować można na 19 projektów w pięciu różnych kategoriach: projekty ogólnomiejskie, rejonowe, oświatowe szkolne, oświatowe przedszkolne oraz projekty związane z Rodzinnymi Ogrodami Działkowymi.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Wypadek na S8 niedaleko Piotrkowa. Droga jest całkowicie zablokowana! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-s8-niedaleko-piotrkowa-droga-jest-calkowicie-zablokowana/DdCIONpknJyKwkBKlUdB</link>
 <guid isPermaLink="false">1dcf1b1c64fbff876f70f46bbad75f27fc4f2c2a</guid>
 <pubDate>Fri, 26 Sep 2025 18:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0d2d092-60fc-4467-9006-3e239d14fd58" alt="miniatura"/></p><p>W piątek, 26 września wieczorem w Polichnie, na S8 miał miejsce groźny wypadek z udziałem trzech samochodów (Fiata Dukato, Opla i Skody). Do zdarzenia doszło na remontowanym odcinku trasy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0d2d092-60fc-4467-9006-3e239d14fd58" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0d2d092-60fc-4467-9006-3e239d14fd58" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0d2d092-60fc-4467-9006-3e239d14fd58"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W piątek, 26 września wieczorem w Polichnie, na S8 miał miejsce groźny wypadek z udziałem trzech samochodów (Fiata Dukato, Opla i Skody). Do zdarzenia doszło na remontowanym odcinku trasy.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Coraz mniej ludzi chce mieszkać w miastach? Piotrków i Bełchatów w elitarnej szóstce [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-mniej-ludzi-chce-mieszkac-w-miastach-piotrkow-i-belchatow-w-elitarnej-szostce-zdjecia/CSBPQ742WXI63i6b2ct0</link>
 <guid isPermaLink="false">cb03bb59aa7f5b2d43ec91c3f577c95b8f07c640</guid>
 <pubDate>Fri, 26 Sep 2025 17:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d0408431-cbb2-42ec-a274-ec9260d38874" alt="miniatura"/></p><p>Województwo łódzkie jest jednym z najszybciej wyludniających się w Polsce . Tylko w sześciu miastach mieszka więcej niż 50 tys. osób. W tej grupie jest jeszcze Piotrków Trybunalski i Bełchatów . Ale dotyka je procentowo największy spadek liczby mieszkańców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0408431-cbb2-42ec-a274-ec9260d38874" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0408431-cbb2-42ec-a274-ec9260d38874" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0408431-cbb2-42ec-a274-ec9260d38874"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Województwo łódzkie jest jednym z najszybciej wyludniających się w Polsce . Tylko w sześciu miastach mieszka więcej niż 50 tys. osób. W tej grupie jest jeszcze Piotrków Trybunalski i Bełchatów . Ale dotyka je procentowo największy spadek liczby mieszkańców.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Tajemnicza śmierć 21-latka w Piotrkowie. Jest pierwszy komentarz prokuratora ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tragiczna-smierc-21-latka-w-piotrkowie-sprawa-zajal-sie-prokurator/2hWFBmAnsE2BPngtpzbl</link>
 <guid isPermaLink="false">d03ed571a02d4b9db976ea7676afc3fbe4491279</guid>
 <pubDate>Fri, 26 Sep 2025 15:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5489a16b-9a7d-4ef1-8d77-1194f3f4e458" alt="miniatura"/></p><p>W czwartek, 25 września Piotrków obiegła informacja o odkrytych zwłokach młodego mężczyzny. Pytamy prokuraturę o podjęte w tej sprawie działania.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5489a16b-9a7d-4ef1-8d77-1194f3f4e458" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5489a16b-9a7d-4ef1-8d77-1194f3f4e458" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5489a16b-9a7d-4ef1-8d77-1194f3f4e458"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W czwartek, 25 września Piotrków obiegła informacja o odkrytych zwłokach młodego mężczyzny. Pytamy prokuraturę o podjęte w tej sprawie działania.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Turboodrzutowy dron z prestiżową nagrodą DEFENDER 2025. Piotrkowianin maczał palce w tej przełomowej technologii ]]></title>
 <link>https://trybunalski.pl/wiadomosci/turboodrzutowy-dron-z-prestizowa-nagroda-defender-2025-piotrkowianin-maczal-palce-w-tej-przelomowej-technologii/zdqYHHs4tEebpxr4QSTO</link>
 <guid isPermaLink="false">89e196073f862617a3a6e57f9f10ef6a63d865c0</guid>
 <pubDate>Fri, 26 Sep 2025 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf6ddcb-f428-415a-87cf-b7e8a927480d" alt="miniatura"/></p><p>foto źródło: www.tkhtechnology.eu</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf6ddcb-f428-415a-87cf-b7e8a927480d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf6ddcb-f428-415a-87cf-b7e8a927480d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf6ddcb-f428-415a-87cf-b7e8a927480d"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>foto źródło: www.tkhtechnology.eu</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Muzyczne widowiska, turnieje sportowe, maraton zumby i nie tylko. Czyli weekendowe wydarzenia w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/muzyczne-widowiska-turnieje-sportowe-maraton-zumby-i-nie-tylko-czyli-weekendowe-wydarzenia-w-piotrkowie/hkjPDiWwVAY0CPksJnHO</link>
 <guid isPermaLink="false">1fe517afbe69a26c0ddab1f89d1dfc69e0cff6af</guid>
 <pubDate>Fri, 26 Sep 2025 13:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca" alt="miniatura"/></p><p>V Memoriał Grzegorza Ludwiga i Henryka Grabowieckiego, Wesele Maniusi, monodram Ewy Tarnowskiej, spotkanie z podróżnikiem Jaśkiem Melą, piknik z Radą Osiedla Wierzeje, charytatywny maraton taneczny i nie tylko. Co będzie się działo w ostatni weekend września w naszym mieście i regionie? Szczegóły dotyczące zaplanowanych w naszych stronach wydarzeń znajdziecie w opisach poniżej i na plakatach w gal…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2ee7af68-1ac8-4d13-a3c4-f0a6b5b130ca"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>V Memoriał Grzegorza Ludwiga i Henryka Grabowieckiego, Wesele Maniusi, monodram Ewy Tarnowskiej, spotkanie z podróżnikiem Jaśkiem Melą, piknik z Radą Osiedla Wierzeje, charytatywny maraton taneczny i nie tylko. Co będzie się działo w ostatni weekend września w naszym mieście i regionie? Szczegóły dotyczące zaplanowanych w naszych stronach wydarzeń znajdziecie w opisach poniżej i na plakatach w gal…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Pani Kamila znalazła wielkie prawdziwki. Gdzie na grzyby w okolicach Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pani-kamila-znalazla-wielkie-prawdziwki-gdzie-na-grzyby-w-okolicach-piotrkowa/wllnMZdBWIbPct2kwaQz</link>
 <guid isPermaLink="false">5e08b33f8b3c46e0212e1a5b3ae87260ddc763f2</guid>
 <pubDate>Fri, 26 Sep 2025 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2c02443-5e30-4bbc-827b-dd7fe8a14bf3"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Grupa: Grzyby, Grzybiarze - województwo łódzkie | foto FB/Kamila Famulska</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Nauczycielka i dyrygentka z Piotrkowa z nagrodą. 50. Złota Wieża Trybunalska wręczona ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nauczycielka-i-dyrygentka-z-piotrkowa-z-nagroda-50-zlota-wieza-trybunalska-wreczona/jHJPwBowFxxZVVOrlLmN</link>
 <guid isPermaLink="false">397e310a0df5beb9a0158ba1b1f2ea0f78cc8c0b</guid>
 <pubDate>Fri, 26 Sep 2025 11:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/07dc5223-1f64-496d-8eaa-b33e249b2462" alt="miniatura"/></p><p>Renata Toma to nauczycielka i dyrygentka chóru z II Liceum Ogólnokształcącego w Piotrkowie Trybunalskim. Za swoje zasługi dla lokalnej kultury pani Renata została wyróżniona Złotą Wieżą Trybunalską. To jubileuszowa, 50. statuetka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/07dc5223-1f64-496d-8eaa-b33e249b2462" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/07dc5223-1f64-496d-8eaa-b33e249b2462" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07dc5223-1f64-496d-8eaa-b33e249b2462"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Renata Toma to nauczycielka i dyrygentka chóru z II Liceum Ogólnokształcącego w Piotrkowie Trybunalskim. Za swoje zasługi dla lokalnej kultury pani Renata została wyróżniona Złotą Wieżą Trybunalską. To jubileuszowa, 50. statuetka.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Dramatyczny wypadek w powiecie piotrkowskim. Jeleń wtargnął przed maskę, nie przeżył ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczny-wypadek-w-powiecie-piotrkowskim-jelen-wtargnal-przed-maske-nie-przezyl/YzHtBRK7L5b5orcCHm7e</link>
 <guid isPermaLink="false">8a3c13fe4dcfafd47c072d2fe77fd745583373eb</guid>
 <pubDate>Fri, 26 Sep 2025 11:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7f89d6df-482e-4001-a94d-1de80f91aa09" alt="miniatura"/></p><p>W czwartek, 25 września w godz. porannych doszło do wypadku z udziałem samochodu osobowego i jelenia. Zwierzę wbiegło na drogę, wprost pod pojazd na drodze między Kołem a Lubiaszowem, w powiecie piotrkowskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f89d6df-482e-4001-a94d-1de80f91aa09" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f89d6df-482e-4001-a94d-1de80f91aa09" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f89d6df-482e-4001-a94d-1de80f91aa09"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W czwartek, 25 września w godz. porannych doszło do wypadku z udziałem samochodu osobowego i jelenia. Zwierzę wbiegło na drogę, wprost pod pojazd na drodze między Kołem a Lubiaszowem, w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Rozbite auta między kapliczką pod Piotrkowem. Służby na miejscu [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/rozbite-auta-miedzy-kapliczka-pod-piotrkowem-sluzby-na-miejscu-zdjecia/R52g2hXFFlHSPZiF7oSq</link>
 <guid isPermaLink="false">1db805fd52fc3f207a90cc2df48e4439999ae29b</guid>
 <pubDate>Fri, 26 Sep 2025 10:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6059cac3-2ce8-4541-a7be-1c36494a8e85" alt="miniatura"/></p><p>W piątek, 26 września po godz. 7:00 doszło do zderzenia trzech samochodów osobowych. Wypadek miał miejsce na DK91 na wysokości Milejowa. Jak się okazuje, nikomu nic się nie stało, ale wszystkie pojazdy uległy zniszczeniom. Na miejscu wystąpiły poważne utrudnienia w ruchu drogowym. Do akcji wkroczyły służby, w tym 2 zastępy straży pożarnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6059cac3-2ce8-4541-a7be-1c36494a8e85" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6059cac3-2ce8-4541-a7be-1c36494a8e85" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6059cac3-2ce8-4541-a7be-1c36494a8e85"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W piątek, 26 września po godz. 7:00 doszło do zderzenia trzech samochodów osobowych. Wypadek miał miejsce na DK91 na wysokości Milejowa. Jak się okazuje, nikomu nic się nie stało, ale wszystkie pojazdy uległy zniszczeniom. Na miejscu wystąpiły poważne utrudnienia w ruchu drogowym. Do akcji wkroczyły służby, w tym 2 zastępy straży pożarnej.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
-<title><![CDATA[ Piotrków: Senior spacerował w piżamie ulicami miasta. Mogło dojść do tragedii! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkow-senior-spacerowal-w-pizamie-ulicami-miasta-moglo-dojsc-do-tragedii/italCq5Dr6tBZrvo7cFw</link>
-<guid isPermaLink="false">25fc4240d0ed9ca72332fb1e3fbbdeea5b830485</guid>
-<pubDate>Fri, 26 Sep 2025 10:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6c26560-811f-4288-9071-a5d7e2503246" alt="miniatura"/></p><p>O krok od tragedii w Piotrkowie. Policjanci podczas patrolu zauważyli w piątkowy poranek, 26 września starszego mężczyznę, który zdezorientowany porusza się ulicami miasta. S enior miał na sobie tylko i wyłącznie piżamę , co przykuło uwagę funkcjonariuszy. O tej porze w mieście były zaledwie 4 stopnie Celsjusza!</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6c26560-811f-4288-9071-a5d7e2503246" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6c26560-811f-4288-9071-a5d7e2503246" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6c26560-811f-4288-9071-a5d7e2503246"/>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia zdeklasowała wicemistrza Polski! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-zdeklasowala-wicemistrza-polski/KQWri2Hr8Pl34hChepm9</link>
+<guid isPermaLink="false">8c07265467f71043653bd29139f0b70c3f745f1e</guid>
+<pubDate>Thu, 25 Sep 2025 20:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>foto ORLEN Superliga Kobiet/MKS Piotrcovia</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Czy będzie zmiana na stanowisku dyrektora piotrkowskiego MOK-u? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czy-bedzie-zmiana-na-stanowisku-dyrektora-piotrkowskiego-mok-u/kQj6kTCrVadDFeZLrtyw</link>
 <guid isPermaLink="false">d257e81bc1e4c6fbceb48f34afc77f2b43a1dfe5</guid>
 <pubDate>Thu, 25 Sep 2025 17:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9c70dc47-445d-4357-919f-b6dddf4d37fb" alt="miniatura"/></p><p>Kamil Dubilas | foto www.piotrkow.pl</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c70dc47-445d-4357-919f-b6dddf4d37fb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c70dc47-445d-4357-919f-b6dddf4d37fb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c70dc47-445d-4357-919f-b6dddf4d37fb"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Kamil Dubilas | foto www.piotrkow.pl</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Tragedia w Piotrkowie. Znaleziono ciało zaginionego Igora ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/tragedia-w-piotrkowie-znaleziono-cialo-zaginionego-igora/tOAcZ2u6ytvmJxQHTXBd</link>
 <guid isPermaLink="false">11dabbd5611fd59e4d5f8f16873318f77f26f2bf</guid>
 <pubDate>Thu, 25 Sep 2025 15:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e0abfb20-9e1b-44d0-a41c-fd8fcd29d1a4" alt="miniatura"/></p><p>W środę, 24 września Piotrków obiegła wieść o zaginięciu młodego mężczyzny. Igor miał opuścić miejsce zamieszkania we wtorek, 23 września około godziny 13:00. Od godziny 14:00 kontakt z nim się urwał. O pomoc w poszukiwaniach prosiła rodzina Igora, a także policja. Niestety potwierdził się najtragiczniejszy ze scenariuszy. Ciało Igora znaleziono w czwartek, 25 września w okolicach ulicy 1 Maja w P…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0abfb20-9e1b-44d0-a41c-fd8fcd29d1a4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0abfb20-9e1b-44d0-a41c-fd8fcd29d1a4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e0abfb20-9e1b-44d0-a41c-fd8fcd29d1a4"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W środę, 24 września Piotrków obiegła wieść o zaginięciu młodego mężczyzny. Igor miał opuścić miejsce zamieszkania we wtorek, 23 września około godziny 13:00. Od godziny 14:00 kontakt z nim się urwał. O pomoc w poszukiwaniach prosiła rodzina Igora, a także policja. Niestety potwierdził się najtragiczniejszy ze scenariuszy. Ciało Igora znaleziono w czwartek, 25 września w okolicach ulicy 1 Maja w P…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Kościół pw. świętego Tomasza Becketa to prawdziwa perełka. Łączy surową gotycką bryłę z bogatym barokowym wnętrzem [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kosciol-pw-swietego-tomasza-becketa-to-prawdziwa-perelka-laczy-surowa-gotycka-bryle-z-bogatym-barokowym-wnetrzem-zdjecia/nvXZbBKdfxHGbCgSY0rh</link>
 <guid isPermaLink="false">d4f5c5306be80ea55788a694f38e439c2e27b17d</guid>
 <pubDate>Thu, 25 Sep 2025 15:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/c51a4fd3-ecd7-4c93-bfa7-ade05a1b699a" alt="miniatura"/></p><p><p>Kości&oacute;ł św. Tomasza Kantuaryjskiego to perełka, jaką można obejrzeć w pobliskim Sulejowie. To jeden z najcenniejszych zabytk&oacute;w w Polsce. Jest częścią klasztoru obronnego opactwa cysters&oacute;w.</p></p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/c51a4fd3-ecd7-4c93-bfa7-ade05a1b699a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/c51a4fd3-ecd7-4c93-bfa7-ade05a1b699a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/c51a4fd3-ecd7-4c93-bfa7-ade05a1b699a"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p><p>Kości&oacute;ł św. Tomasza Kantuaryjskiego to perełka, jaką można obejrzeć w pobliskim Sulejowie. To jeden z najcenniejszych zabytk&oacute;w w Polsce. Jest częścią klasztoru obronnego opactwa cysters&oacute;w.</p></p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Dramatyczny wypadek zmienił życie piotrkowianina. „Przywróćmy Adrianowi sprawność” ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dramatyczny-wypadek-zmienil-zycie-piotrkowianina-przywrocmy-adrianowi-sprawnosc/ZUfUzgs1XMyWgitBfCdb</link>
 <guid isPermaLink="false">60f892c992c029fc66ca73d423ae94ec57f3d940</guid>
 <pubDate>Thu, 25 Sep 2025 13:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/77c01cb5-c7b2-4b9d-99b6-0ff9cb10b394" alt="miniatura"/></p><p>Mieszkaniec naszego miasta potrzebuje pomocy. Jak się okazuje, mężczyzna uległ poważnemu wypadkowi. Konieczna jest operacja i intensywna rehabilitacja. Założono internetową zbiórkę, aby pomóc 35-latkowi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/77c01cb5-c7b2-4b9d-99b6-0ff9cb10b394" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/77c01cb5-c7b2-4b9d-99b6-0ff9cb10b394" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/77c01cb5-c7b2-4b9d-99b6-0ff9cb10b394"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Mieszkaniec naszego miasta potrzebuje pomocy. Jak się okazuje, mężczyzna uległ poważnemu wypadkowi. Konieczna jest operacja i intensywna rehabilitacja. Założono internetową zbiórkę, aby pomóc 35-latkowi.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Policjanci z Piotrkowa mają nowe auto. Ile ma "pod maską"? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/policjanci-z-piotrkowa-maja-nowe-auto-ile-ma-pod-maska/EjJ1SJlqnGdZrtP8pNGf</link>
 <guid isPermaLink="false">a7c749ebff530e3bbea68f5338dcc47f744a49b9</guid>
 <pubDate>Thu, 25 Sep 2025 12:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/512c9932-5cba-4780-a529-5a50506b9dc8" alt="miniatura"/></p><p>Piotrkowska jednostka policji oficjalnie otrzymała nowy pojazd . Nowoczesne auto marki Land Rover . Radiowóz wyposażony jest w automatyczną skrzynię biegów i silnik o mocy 204 KM .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/512c9932-5cba-4780-a529-5a50506b9dc8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/512c9932-5cba-4780-a529-5a50506b9dc8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/512c9932-5cba-4780-a529-5a50506b9dc8"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Piotrkowska jednostka policji oficjalnie otrzymała nowy pojazd . Nowoczesne auto marki Land Rover . Radiowóz wyposażony jest w automatyczną skrzynię biegów i silnik o mocy 204 KM .</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Urząd w Piotrkowie planuje remont. To ma być obiekt na miarę XXI wieku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-planuje-remont-to-ma-byc-obiekt-na-miare-xxi-wieku/lAKzQHt4IkEQcXCd6CKJ</link>
 <guid isPermaLink="false">5cb15d09d725c4e9429c7ac8748d65bf88ee464c</guid>
 <pubDate>Thu, 25 Sep 2025 12:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b3cb1d90-e90d-4c37-81c5-3dd2594e0dec" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto Google Street View</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3cb1d90-e90d-4c37-81c5-3dd2594e0dec" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3cb1d90-e90d-4c37-81c5-3dd2594e0dec" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3cb1d90-e90d-4c37-81c5-3dd2594e0dec"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Zdjęcie poglądowe | foto Google Street View</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Kraksa trzech pojazdów na S8. Kierowcy uważajcie! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kraksa-trzech-pojazdow-na-s8-kierowcy-uwazajcie/HAbpkv1Dqr2d9nCoCjtl</link>
 <guid isPermaLink="false">635ef091878d7d4c5b1150fbd27e43a895efa9a5</guid>
 <pubDate>Thu, 25 Sep 2025 12:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/05887929-bdab-44eb-aab3-c361e875df78" alt="miniatura"/></p><p>W czwartkowy poranek, 25 września na drodze ekspresowej S8 zderzyły się ze sobą trzy pojazdy . Do zdarzenia doszło na 336 km. na pasie w kierunku Warszawy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/05887929-bdab-44eb-aab3-c361e875df78" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/05887929-bdab-44eb-aab3-c361e875df78" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/05887929-bdab-44eb-aab3-c361e875df78"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W czwartkowy poranek, 25 września na drodze ekspresowej S8 zderzyły się ze sobą trzy pojazdy . Do zdarzenia doszło na 336 km. na pasie w kierunku Warszawy.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Jest oferta pracy w piotrkowskim urzędzie. Sprawdź, jakie wymagania trzeba spełnić ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jest-oferta-pracy-w-piotrkowskim-urzedzie-sprawdz-jakie-wymagania-trzeba-spelnic/qDyGPbIzpeDGQKQM6FRb</link>
 <guid isPermaLink="false">e48db86c92ae0852ad9f5620a05faa08a0986c4d</guid>
 <pubDate>Thu, 25 Sep 2025 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/28a1698e-ece6-4299-9942-f07521a40333" alt="miniatura"/></p><p>W piotrkowskim urzędzie pojawiła się nowa oferta pracy. Prezydent Piotrkowa ogłosił nabór na wolne stanowisko urzędnicze, a kandydaci mogą składać dokumenty do 6 października . Sprawdzamy, jakie wymagania trzeba spełnić.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/28a1698e-ece6-4299-9942-f07521a40333" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/28a1698e-ece6-4299-9942-f07521a40333" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/28a1698e-ece6-4299-9942-f07521a40333"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>W piotrkowskim urzędzie pojawiła się nowa oferta pracy. Prezydent Piotrkowa ogłosił nabór na wolne stanowisko urzędnicze, a kandydaci mogą składać dokumenty do 6 października . Sprawdzamy, jakie wymagania trzeba spełnić.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Najwyższe wygrane w Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-najwyzsze-wygrane-w-lotto/PT9BvFEIUFMAmJivn8j0</link>
 <guid isPermaLink="false">d04c19588422cfe2af4b9c75438b81ea1b8be28d</guid>
 <pubDate>Thu, 25 Sep 2025 09:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/671a2e7d-a75e-4781-9f47-1e3892bd88e3" alt="miniatura"/></p><p>O wielkich wygranych w grach liczbowych słyszał każdy – raz padają w dużych miastach, innym razem w niewielkich miejscowościach, zawsze rozpalając wyobraźnię graczy i osób, które z ciekawością śledzą losowania. Najczęściej emocje wzbudza klasyczne Lotto, od lat nazywane „grą milionerów”. To tam kumulacje potrafią sięgać kilkunastu, a nawet kilkudziesięciu milionów złotych, a zdobycie „szóstki” sta…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/671a2e7d-a75e-4781-9f47-1e3892bd88e3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/671a2e7d-a75e-4781-9f47-1e3892bd88e3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/671a2e7d-a75e-4781-9f47-1e3892bd88e3"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>O wielkich wygranych w grach liczbowych słyszał każdy – raz padają w dużych miastach, innym razem w niewielkich miejscowościach, zawsze rozpalając wyobraźnię graczy i osób, które z ciekawością śledzą losowania. Najczęściej emocje wzbudza klasyczne Lotto, od lat nazywane „grą milionerów”. To tam kumulacje potrafią sięgać kilkunastu, a nawet kilkudziesięciu milionów złotych, a zdobycie „szóstki” sta…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Zamek królewski strzegł szlaku handlowego. Warownię wzniósł Kazimierz Wielki, następcy zastawili za długi [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zamek-krolewski-strzegl-szlaku-handlowego-warownie-wzniosl-kazimierz-wielki-nastepcy-zastawili-za-dlugi-zdjecia/BH041lJLrnQs31vZ3jkM</link>
 <guid isPermaLink="false">71bd9751084205170003a4514556e82587b3e632</guid>
 <pubDate>Wed, 24 Sep 2025 19:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/52be9d14-8990-4e55-918c-2dfd63cd9833" alt="miniatura"/></p><p><p>Zamek wybudował kr&oacute;l Kazimierz Wielki. Rozpoczęcie budowy nastąpiło prawdopodobnie między 1352 a 1370 r. W latach 90. XIV w. zamek znalazł się wraz z miastem Inowł&oacute;dz i przyległościami w rękach Nowodworskich herbu Nałęcz za pożyczenie pewnych sum pieniędzy kr&oacute;lowi Ludwikowi Węgierskiemu, Elżbiecie Łokietk&oacute;wnie, kr&oacute;lowej Jadwidze i Władysławowi Jagielle.</p></p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/52be9d14-8990-4e55-918c-2dfd63cd9833" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/52be9d14-8990-4e55-918c-2dfd63cd9833" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/52be9d14-8990-4e55-918c-2dfd63cd9833"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p><p>Zamek wybudował kr&oacute;l Kazimierz Wielki. Rozpoczęcie budowy nastąpiło prawdopodobnie między 1352 a 1370 r. W latach 90. XIV w. zamek znalazł się wraz z miastem Inowł&oacute;dz i przyległościami w rękach Nowodworskich herbu Nałęcz za pożyczenie pewnych sum pieniędzy kr&oacute;lowi Ludwikowi Węgierskiemu, Elżbiecie Łokietk&oacute;wnie, kr&oacute;lowej Jadwidze i Władysławowi Jagielle.</p></p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Uczniowie w Piotrkowie masowo rezygnują z zajęć. Kontrowersje wokół edukacji zdrowotnej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uczniowie-w-piotrkowie-masowo-rezygnuja-z-zajec-kontrowersje-wokol-edukacji-zdrowotnej/AUFgMXGkAHvNhJUmwQUL</link>
 <guid isPermaLink="false">07cbc64f0ea8adc7b98b824884a4f44a23cb77e0</guid>
 <pubDate>Wed, 24 Sep 2025 17:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dd982fdd-8799-443e-9b75-e8c1f835b8d2" alt="miniatura"/></p><p>Edukacja zdrowotna, jak przekonują jej pomysłodawcy, ma łączyć zagadnienia związane ze zdrowiem w wielu wymiarach: psychicznym , fizycznym , społecznym , środowiskowym i cyfrowym. Ma być nauczana w szkołach podstawowych i ponadpodstawowych. Celem nowego przedmiotu jest wychowanie człowieka świadomego, który zna zasady zdrowego odżywiania, dobrze porusza się w kwestiach dotyczących zdrowia psychicz…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dd982fdd-8799-443e-9b75-e8c1f835b8d2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dd982fdd-8799-443e-9b75-e8c1f835b8d2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dd982fdd-8799-443e-9b75-e8c1f835b8d2"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Edukacja zdrowotna, jak przekonują jej pomysłodawcy, ma łączyć zagadnienia związane ze zdrowiem w wielu wymiarach: psychicznym , fizycznym , społecznym , środowiskowym i cyfrowym. Ma być nauczana w szkołach podstawowych i ponadpodstawowych. Celem nowego przedmiotu jest wychowanie człowieka świadomego, który zna zasady zdrowego odżywiania, dobrze porusza się w kwestiach dotyczących zdrowia psychicz…</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ Mogło się skończyć dramatem, sąsiedzi wezwali pomoc. Akcja służb na osiedlu w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/akcja-toz-w-piotrkowie-wyglodniale-zwierzeta-zamkniete-w-mieszkaniu/KZFgE1GvLK2u7AHhC6Bq</link>
 <guid isPermaLink="false">8d6b95fe21098c128ca016d7bd3479591fbbd8d4</guid>
 <pubDate>Wed, 24 Sep 2025 15:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e109207-1561-4777-8169-b4ad9dc305bf" alt="miniatura"/></p><p>foto FB/Schronisko dla zwierząt w Piotrkowie Trybunalskim</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e109207-1561-4777-8169-b4ad9dc305bf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e109207-1561-4777-8169-b4ad9dc305bf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e109207-1561-4777-8169-b4ad9dc305bf"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>foto FB/Schronisko dla zwierząt w Piotrkowie Trybunalskim</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 <item>
 <title><![CDATA[ W Piotrkowie powstanie nowy mural. Mieszkańcy będą go współtworzyć ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-powstanie-nowy-mural-mieszkancy-beda-go-wspoltworzyc/64wx99zMOxllpZqwaGsH</link>
 <guid isPermaLink="false">bbc471598e4a131d13522b97acb451a7954a8f65</guid>
 <pubDate>Wed, 24 Sep 2025 15:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f4c08a11-dd8e-4132-869d-cc696d4f6fe5" alt="miniatura"/></p><p>Jak informowaliśmy w ubiegłym tygodniu w Piotrkowie Trybunalskim powstanie nowy mural. Wiadomo już, gdzie powstanie malunek. Ponadto mieszkańcy będą go współtworzyć. Sprawdź, co zrobić, by wziąć udział w tym przedsięwzięciu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4c08a11-dd8e-4132-869d-cc696d4f6fe5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4c08a11-dd8e-4132-869d-cc696d4f6fe5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4c08a11-dd8e-4132-869d-cc696d4f6fe5"/>
-</item>
-<item>
-<title><![CDATA[ Akcja policji na ulicach Piotrkowa. Prawie setka zatrzymanych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/przekroczyl-predkosc-dwukrotnie-w-piotrkowie-posypaly-sie-mandaty/99igGvaIy3iXDA5Mv2ib</link>
-<guid isPermaLink="false">5898095aa5a116880a8836363354a765f0cc7dfe</guid>
-<pubDate>Wed, 24 Sep 2025 13:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0245bc73-0b8b-4b1d-bbf0-aee1f58bbfe0" alt="miniatura"/></p><p>W poniedziałek, 22 września funkcjonariusze z piotrkowskiej drogówki prowadzili wzmożone kontrole w ramach wojewódzkich działań „Prędkość”. Podczas akcji policjanci wylegitymowali 99 uczestników ruchu drogowego. Dwóch kierowców pędziło w obszarze zabudowanym o ponad 50 km/h za szybko.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0245bc73-0b8b-4b1d-bbf0-aee1f58bbfe0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0245bc73-0b8b-4b1d-bbf0-aee1f58bbfe0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0245bc73-0b8b-4b1d-bbf0-aee1f58bbfe0"/>
+<description><![CDATA[ <p><img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="miniatura"/></p><p>Jak informowaliśmy w ubiegłym tygodniu w Piotrkowie Trybunalskim powstanie nowy mural. Wiadomo już, gdzie powstanie malunek. Ponadto mieszkańcy będą go współtworzyć. Sprawdź, co zrobić, by wziąć udział w tym przedsięwzięciu.</p> ]]></description>
+<enclosure url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" type="image/*"/>
+<media:content url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e" medium="image"/>
+<media:thumbnail url="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033.65%2023.48'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;stroke:%23000;stroke-width:3.63px;}%3c/style%3e%3c/defs%3e%3cg%20id='Layer_2'%20data-name='Layer%202'%3e%3cg%20id='Warstwa_1'%20data-name='Warstwa%201'%3e%3cpath%20class='cls-1'%20d='M31.83,14.33A7.3,7.3,0,0,0,24.57,7c-.21,0-.41,0-.61,0A8.21,8.21,0,0,0,8.19,9H8.1a6.36,6.36,0,0,0,0,12.71H24.57A7.3,7.3,0,0,0,31.83,14.33Z'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"/>
 </item>
 </channel></rss>
