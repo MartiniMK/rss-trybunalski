@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 20 Nov 2025 17:29:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 18:47:11 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Piotrkowscy piwowarzy choć liczni, to bez cechu. Przywilej dał im dopiero król August II Mocny [ZDJĘCIA] ]]></title>
