@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 22 Nov 2025 08:40:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 09:33:07 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Budynek kultowej restauracji "Europa" w Piotrkowie. Powstał w XIX wieku, w XXI doprowadzony do ruiny [ZDJĘCIA] ]]></title>
