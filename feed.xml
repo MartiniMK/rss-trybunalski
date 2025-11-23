@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 23 Nov 2025 19:29:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 20:38:38 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wypadek na DK12 w Sulejowie. Zderzyło się kilka pojazdów ]]></title>
