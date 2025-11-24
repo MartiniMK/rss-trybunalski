@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 24 Nov 2025 16:38:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 17:35:04 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Innowacja w Piotrkowie. Użyją technologii AR i trójwymiarowych modeli ]]></title>
