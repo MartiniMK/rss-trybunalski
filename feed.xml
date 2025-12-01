@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 01 Dec 2025 07:37:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 08:48:40 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Kierowca uderzył w słup i... uciekł. Spowodował spore utrudnienia w ruchu ]]></title>
@@ -27,16 +27,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/51941f7c-ce3c-422f-be7d-ce0018e37684" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/51941f7c-ce3c-422f-be7d-ce0018e37684" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/51941f7c-ce3c-422f-be7d-ce0018e37684"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin postawił się faworytowi, ale punktów nie zdobył ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-postawil-sie-faworytowi-ale-punktow-nie-zdobyl/BjVtKQIKd72RjcATchGh</link>
-<guid isPermaLink="false">5431be0c9bffabdf30afdc5233be0fb18b8bf93c</guid>
-<pubDate>Sat, 29 Nov 2025 19:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28" alt="miniatura"/></p><p>Szczypiorniści Piotrkowianina, pomimo arcyważnego zwycięstwa z COROTOP Gwardią Opole, nie byli faworytem sobotniej potyczki, a bukmacherzy dawali im zaledwie 20% szans na sprawienie niespodzianki. Takie prognozy nie mogły jednak dziwić, bo rywale z Dolnego Śląska wywalczyli dotychczas dwa razy więcej punktów od piłkarzy ręcznych z naszego miast.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28"/>
 </item>
 <item>
 <title><![CDATA[ Czy jutro 30.11.2025 jest niedziela handlowa? Czy i jak pracują Lidl, Biedronka, Kaufland i inne sklepy ]]></title>
