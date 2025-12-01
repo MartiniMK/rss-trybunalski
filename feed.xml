@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 01 Dec 2025 18:53:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 19:37:36 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Jak wydobywano węgiel w Bełchatowie? Pierwsze lata odkrywki na historycznych kadrach [ZDJĘCIA] ]]></title>
@@ -37,16 +37,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/97e56f8f-a292-4ee2-ab70-5c1abcfe3ab4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/97e56f8f-a292-4ee2-ab70-5c1abcfe3ab4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/97e56f8f-a292-4ee2-ab70-5c1abcfe3ab4"/>
-</item>
-<item>
-<title><![CDATA[ Planetobus podróżuje po Polsce. Kiedy zawita do naszego miasta? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/planetobus-podrozuje-po-polsce-kiedy-zawita-do-naszego-miasta/EkEEjrsDfRGzNTok7iEf</link>
-<guid isPermaLink="false">9600ac20a058ecfdad5cb41627c2ea6177cdd03e</guid>
-<pubDate>Mon, 01 Dec 2025 13:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee" alt="miniatura"/></p><p>Niebo pełne gwiazd i najciekawsze konstelacje można zobaczyć w środku dnia. Wszystko za sprawą mobilnego planetarium z Centrum Nauki Kopernik. Ekipa Planetobusa odwiedza szkoły w całej Polsce i prowadzi warsztaty na temat tajników kosmosu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee"/>
 </item>
 <item>
 <title><![CDATA[ Pijany kierowca wjechał słup i uciekł. Jest już w rękach policji i odpowie za kilka wykroczeń ]]></title>
