@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 02 Dec 2025 08:48:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 09:43:03 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Jak wydobywano węgiel w Bełchatowie? Pierwsze lata odkrywki na historycznych kadrach [ZDJĘCIA] ]]></title>
@@ -49,7 +49,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/44b0b25f-efea-49c1-955d-a00fc0c7a77b"/>
 </item>
 <item>
-<title><![CDATA[ Do drzwi piotrkowianina zapukali policjanci. Znaleźli to w mieszkaniu i w piwnicy ]]></title>
+<title><![CDATA[ Nalot na mieszkanie w Piotrkowie. Piwnica pełna narkotyków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-drzwi-piotrkowianina-zapukali-policjanci-znalezli-to-w-mieszkaniu-i-w-piwnicy/p0LQc1GrVkcxLlSEshxb</link>
 <guid isPermaLink="false">71d98cefbb9b4b1c566f87bde2bbca762e10f1d7</guid>
 <pubDate>Mon, 01 Dec 2025 11:32:00 +0000</pubDate>
