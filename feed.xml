@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 04 Dec 2025 10:41:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 11:36:06 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Rusza sezon na lodowisku w Piotrkowie. Po ile bilety? ]]></title>
@@ -27,16 +27,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e015b750-a784-46fa-90ce-3cbb691323c3" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e015b750-a784-46fa-90ce-3cbb691323c3" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e015b750-a784-46fa-90ce-3cbb691323c3"/>
-</item>
-<item>
-<title><![CDATA[ Wielki gest Igi Świątek dla Piotrkowa. Magistrat zrobi podobny krok? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielki-gest-igi-swiatek-dla-piotrkowa-magistrat-zrobi-podobny-krok/39CghAZvDdbRi8hRDDjW</link>
-<guid isPermaLink="false">1c9e3a4f9f2cba35bf5bacbfc3039453d02f858d</guid>
-<pubDate>Wed, 03 Dec 2025 15:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" alt="miniatura"/></p><p>Przypomnijmy, że z końcem października pojawiła się informacja o szczytnym geście polskiej tenisistki Igi Świątek. Zawodniczka przekazała 200 tysięcy złotych szpitalowi w naszym mieście.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed"/>
 </item>
 <item>
 <title><![CDATA[ Mikołajkowa zbiórka krwi w powiecie piotrkowskim. Aż trzy grupy w stanie alarmowym ]]></title>
@@ -179,6 +169,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee"/>
 </item>
 <item>
+<title><![CDATA[ Nalot na mieszkanie w Piotrkowie. Piwnica pełna narkotyków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/do-drzwi-piotrkowianina-zapukali-policjanci-znalezli-to-w-mieszkaniu-i-w-piwnicy/p0LQc1GrVkcxLlSEshxb</link>
+<guid isPermaLink="false">71d98cefbb9b4b1c566f87bde2bbca762e10f1d7</guid>
+<pubDate>Mon, 01 Dec 2025 11:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500" alt="miniatura"/></p><p>Piotrkowscy policjanci ustalili, że mieszkaniec naszego miasta może mieć narkotyki. W czwartek, 27 listopada pojechali do jednego z mieszkań na terenie Piotrkowa. Wszystko stało się jasne, kiedy zapukali do drzwi 47-latka.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500"/>
+</item>
+<item>
 <title><![CDATA[ Mikołajkowa akcja w naszym mieście. Potrzebna pomoc dla młodego piotrkowianina ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mikolajkowa-akcja-w-piotrkowie-potrzebna-pomoc-dla-mlodego-piotrkowianina/FpaMCzORQgt2xxNdFrt3</link>
 <guid isPermaLink="false">027ef3c2ff5733f776cca495cc87a6f9816f99c8</guid>
@@ -299,14 +299,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3329b9d-416d-47ec-bc74-808a4969a2bd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowianin zadał koledze śmiertelne ciosy. Sekcja zwłok nie pozostawia złudzeń ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkowianin-zadal-koledze-smiertelne-ciosy-sekcja-zwlok-nie-pozostawia-zludzen/JjATMB3Tq8dvrBFJtpza</link>
-<guid isPermaLink="false">74b4eebd1aaac859d1403b26069e805705fd2db3</guid>
-<pubDate>Fri, 28 Nov 2025 11:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63fc3a32-4cec-4de0-89c8-b113a06c49ac" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim prowadzone są czynności wyjaśniające dotyczące tragicznego zdarzenia, do którego doszło w połowie listopada w Piotrkowie Trybunalskim. Sprawą zajmuje się Prokuratura Rejonowa, a sąd podjął już decyzję w sprawie podejrzanego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63fc3a32-4cec-4de0-89c8-b113a06c49ac" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63fc3a32-4cec-4de0-89c8-b113a06c49ac" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63fc3a32-4cec-4de0-89c8-b113a06c49ac"/>
+<title><![CDATA[ Majątek pod Piotrkowem był własnością poszukiwacza złota. A dwór wybudował właściciel fabryki mebli [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dwor-pod-piotrkowem-byl-wlasnoscia-przemyslowca-wybudowal-go-wlasciciel-fabryki-mebli-zdjecia/FLHdCzy5SreISsXthuAN</link>
+<guid isPermaLink="false">46672ca78817b6968f0b737ae08ebc67ae297b42</guid>
+<pubDate>Thu, 27 Nov 2025 18:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5f40bb11-3344-4702-8327-d155ff65aebb" alt="miniatura"/></p><p>Dwór w Bujnach pod Piotrkowem wybudowano około 1910 roku. Budynek powstał na terenie majątku, który pod koniec XIX wieku stał się własnością rodziny Wünsche. Po 1872 roku wśród właścicieli Wünsche wymienieni są m.in. Pius Wünsche (1834-1906), który w młodości wyjechał do Ameryki gdzie był poszukiwaczem złota. Po powrocie zajął się rolnictwem w Pławnie. Z czasem kupował lub dzierżawił majątki: Zber…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5f40bb11-3344-4702-8327-d155ff65aebb" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5f40bb11-3344-4702-8327-d155ff65aebb" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5f40bb11-3344-4702-8327-d155ff65aebb"/>
 </item>
 <item>
 <title><![CDATA[ Wielkie sprzątanie w Piotrkowie. Tyle zapłacą właściciele samochodów ]]></title>
@@ -449,14 +449,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92a342e1-eac3-42ab-a756-e1b3d44d25e1"/>
 </item>
 <item>
-<title><![CDATA[ Prowadził ciągnik na potrójnym zakazie i po pijaku. Postawiono mu zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/prowadzil-ciagnik-na-potrojnym-zakazie-i-po-pijaku-postawiono-mu-zarzuty/IJ6rB7xYCBXg8Kjw6FWi</link>
-<guid isPermaLink="false">b0276477f97743f88b8c9b0f17d0c4176e2204cf</guid>
-<pubDate>Wed, 26 Nov 2025 13:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" alt="miniatura"/></p><p>Jak informuje piotrkowska policja, 22 listopada około godz. 16:00 dyżurny przyjął zgłoszenie, że w doszło do niebezpiecznego zdarzenia z udziałem nietrzeźwego kierowcy.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7"/>
+<title><![CDATA[ Czy duży sklep zniknie z Piotrkowa? Znamy odpowiedź ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-duzy-sklep-zniknie-z-piotrkowa-znamy-odpowiedz/vKXKjlFbaPvr8DAt2b64</link>
+<guid isPermaLink="false">42f9246a5064311e27f5ac7fa1a8d59b3904ecba</guid>
+<pubDate>Wed, 26 Nov 2025 09:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/99bd4adf-42af-41e4-973a-882df0e70f70" alt="miniatura"/></p><p>W sierpniu swoją działalność w Piotrkowie Trybunalskim zakończył sklep MediaMarkt. Mieścił się on w galerii Focus Mall. W listopadzie zaś klienci otrzymali SMS-y informujące o likwidacji salonu CCC i związanej z tym wyprzedaży. Piotrkowianie zaczęli więc dopytywać czy rzeczywiście sklep ten zniknie z mapy miasta. Wiadomo już, co dalej z CCC w Piotrkowie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/99bd4adf-42af-41e4-973a-882df0e70f70" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/99bd4adf-42af-41e4-973a-882df0e70f70" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/99bd4adf-42af-41e4-973a-882df0e70f70"/>
 </item>
 <item>
 <title><![CDATA[ Nowe wyniki losowania Lotto z 25.11.2025. Jakie liczby padły dzisiaj w Dużym Lotku, Lotto Plus, MiniLotto, MultiMulti, Kaskada ]]></title>
@@ -609,6 +609,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5141c9ab-989d-450d-8203-81ab361213b2"/>
 </item>
 <item>
+<title><![CDATA[ Na śmietnikach można znaleźć skarby. Mieszkańcy ścigają się ze śmieciarką, żeby je zdobyć ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-smietnikach-mozna-znalezc-skarby-mieszkancy-scigaja-sie-ze-smieciarka-zeby-je-zdobyc/THqehOgNDuRmcu3pzWqF</link>
+<guid isPermaLink="false">550edc3fe3a4ef13f30f216212e835b4691b51e4</guid>
+<pubDate>Mon, 24 Nov 2025 12:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/39571f8e-80ea-4d4e-860e-35bf90de8c5f" alt="miniatura"/></p><p>Uwaga, śmieciarka jedzie to inicjatywa społeczna na rzecz klimatu, której pomysłodawcą jest Dominika Szaciłło , z zawodu projektantka wzornictwa przemysłowego. Stworzyła grupę, bo jak sama podkreślała, nienawidzi wyrzucać rzeczy. Szybko okazało się, że jest wiele osób, które chętnie oddadzą niepotrzebne im już przedmioty, jak i tych, którzy przyjmą te niechciane przez poprzednich właścicieli. Obec…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/39571f8e-80ea-4d4e-860e-35bf90de8c5f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/39571f8e-80ea-4d4e-860e-35bf90de8c5f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/39571f8e-80ea-4d4e-860e-35bf90de8c5f"/>
+</item>
+<item>
 <title><![CDATA[ Uwaga kierowcy. Remont pod Piotrkowem się przedłuży ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-remont-pod-piotrkowem-sie-przedluzy/PF9i8u2hIINcgaN8WInq</link>
 <guid isPermaLink="false">825c2e699f33b70418d1aa3f568468736f20a5fd</guid>
@@ -749,16 +759,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/df592dcb-5cf2-4fce-af3a-e17ac69a5cf1"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowski urząd miasta dołożył pieniądze na zakup samochodu. Kto skorzysta? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowski-urzad-miasta-dolozyl-pieniadze-na-zakup-samochodu-kto-skorzysta/k1MJUG7ZqHTd6DWIvp6B</link>
-<guid isPermaLink="false">9596ecd40ef7fc2155a892b5f22433871fcb0ef7</guid>
-<pubDate>Thu, 20 Nov 2025 12:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af31690f-57a0-4e7c-96f8-10184e20df1f" alt="miniatura"/></p><p>DPS w Piorkowie ma nowy samochód Nowy pojazd dostosowany jest do przewozu osób poruszających się na wózkach inwalidzkich. Samochód ma specjalną platformę najazdową, demontowane fotele oraz pasy bezpieczeństw, które umożliwiają bezpieczny transport wózków.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af31690f-57a0-4e7c-96f8-10184e20df1f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af31690f-57a0-4e7c-96f8-10184e20df1f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af31690f-57a0-4e7c-96f8-10184e20df1f"/>
-</item>
-<item>
 <title><![CDATA[ Kierowca doprowadził do zderzenia, po czym uciekł. Policja poszukuje świadków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kierowca-doprowadzil-do-zderzenia-po-czym-uciekl-policja-poszukuje-swiadkow/fDo1OyKT2pJEHk8NTwnH</link>
 <guid isPermaLink="false">ae5d67a9bfecb420a44a02a10d766218ac4ae8c5</guid>
@@ -867,16 +867,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska arteria dostała swoją nazwę po pogrzebie wieszcza. Ulicą upamiętniono przejazd przez miasto prochów poety [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-arteria-dostala-swoja-nazwe-po-pogrzebie-wieszcza-ulica-upamietniono-przejazd-przez-miasto-prochow-poety-zdjecia/WtBExnBenoeP0H3YalCZ</link>
-<guid isPermaLink="false">05366bce5958b33b42165a387ad0da567a51b83c</guid>
-<pubDate>Mon, 17 Nov 2025 19:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" alt="miniatura"/></p><p>Dzisiejsza ulica Juliusza Słowackiego w Piotrkowie nazwę otrzymała na pamiątkę przejazdu przez Piotrków specjalnego pociągu wiozącego do Krakowa urnę z prochami narodowego wieszcza. Wydarzenia te miały miejsce w czerwcu 1927 roku. Nowa nazwa głównej ulicy miasta zaczęła być używana pod koniec 1927 roku .</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00"/>
 </item>
 <item>
 <title><![CDATA[ Liczne wyłączenia prądu w Piotrkowie i powiecie piotrkowskim. PGE ostrzega mieszkańców ]]></title>
@@ -1009,14 +999,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0578b0b6-1b21-4cc4-90eb-74c24d0bcb7c"/>
 </item>
 <item>
-<title><![CDATA[ Dramatyczny pożar w Babach. Mieszkańcy gminy Moszczenica połączyli siły ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramatyczny-pozar-w-babach-mieszkancy-gminy-moszczenica-polaczyli-sily/V7mvJrZuoxD2XgEds3M1</link>
-<guid isPermaLink="false">699827831a18a2ce901e2296c68c605735785629</guid>
-<pubDate>Thu, 13 Nov 2025 12:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/641296ff-1a3f-4dad-8982-edd00eadcad8" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica pokazali, jaka jest siła lokalnych społeczności. Po pożarze domu jednorodzinnego, do którego doszło w Babach, zorganizowali akcję wsparcia, która zakończyła się dużym sukcesem. Zebrane środki zostały przekazane na zakup materiałów budowlanych niezbędnych do remontu budynku dotkniętego pożarem.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/641296ff-1a3f-4dad-8982-edd00eadcad8" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/641296ff-1a3f-4dad-8982-edd00eadcad8" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/641296ff-1a3f-4dad-8982-edd00eadcad8"/>
+<title><![CDATA[ Grożono radnemu z powiatu piotrkowskiego. Zrezygnował z funkcji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/grozono-radnemu-z-powiatu-piotrkowskiego-zrezygnowal-z-funkcji/j9EN9k8rE84UTW8i8cUx</link>
+<guid isPermaLink="false">cfa04168aeff6f82d525dabc56dc2abe333335b5</guid>
+<pubDate>Thu, 13 Nov 2025 11:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" alt="miniatura"/></p><p>W oświadczeniu radny Arkadiusz Smuga podziękował mieszkańcom Kosowa za zaufanie, które mu okazali oraz za współpracę, jaką udało mu się nawiązać w ciągu ostatnich półtora roku. Jak zaznaczył:</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771"/>
 </item>
 <item>
 <title><![CDATA[ Rolnicy z powiatu wyjadą na drogi. Ruszą do Piotrkowa ]]></title>
@@ -1169,14 +1159,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/62cd73dd-e5c4-4c74-9b9a-7fd551d26a01"/>
 </item>
 <item>
-<title><![CDATA[ Biało-czerwone „Słoneczko”. Piotrkowskie Morsy uczciły Święto Niepodległości [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bialo-czerwone-sloneczko-piotrkowskie-morsy-uczcily-swieto-niepodleglosci-zdjecia/puMuaiNW06aA3jNMNIoz</link>
-<guid isPermaLink="false">a297acb6fd761d7a4e9f5d1d9cd484b95f99f6a8</guid>
-<pubDate>Tue, 11 Nov 2025 12:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9" alt="miniatura"/></p><p>We wtorek, 11 listopada Piotrkowskie Morsy zebrały się na „Słoneczku”. Spotkanie przybrało nazwę „Niepodległościowe Morsowanie”, a to ze względu na 107. rocznicę odzyskania przez Polskę Niepodległości. Jak można się domyślić, morsy uczciły ten dzień w charakterystyczny dla siebie sposób – w wodzie!</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9"/>
+<title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Ile zarobisz na pełen etat, a ile na pół? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-ile-zarobisz-na-pelen-etat-a-ile-na-pol/H15MSbHMBj4WeR4TL4dH</link>
+<guid isPermaLink="false">d4477704d5fca994f36a71b8032ccf3217b5127f</guid>
+<pubDate>Mon, 10 Nov 2025 18:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" alt="miniatura"/></p><p>Pracownik do dociepleń Wynagrodzenie brutto: od 6 800 do 7 000 PLN</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14"/>
 </item>
 <item>
 <title><![CDATA[ To on zapoczątkował tę formę sztuki w Polsce. Namalował Piotrków… kawą ]]></title>
@@ -1229,16 +1219,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -1247,6 +1227,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -1307,16 +1297,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b5d7c79d-1c2a-4ce5-a5a1-2c9b8536c067" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b5d7c79d-1c2a-4ce5-a5a1-2c9b8536c067" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b5d7c79d-1c2a-4ce5-a5a1-2c9b8536c067"/>
-</item>
-<item>
-<title><![CDATA[ Do Sulejowa przyjedzie pociąg z niezwykłym gościem. Gminę odwiedzi Marszałek Piłsudski ]]></title>
-<link>https://trybunalski.pl/wiadomosci/do-sulejowa-przyjedzie-pociag-z-niezwyklym-gosciem-gmine-odwiedzi-marszalek-pilsudski/1hfyJXmuMTrCR3f8jCSa</link>
-<guid isPermaLink="false">5d69c075ad817676513ea810e2b13876efce0e35</guid>
-<pubDate>Fri, 07 Nov 2025 17:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba11ed0d-ca2a-4b18-8023-6ee16cfb6acb" alt="miniatura"/></p><p>11 listopada w Polsce obchodzimy Narodowe Święto Niepodległości. Z tej okazji w całym kraju organizowane są przeróżne uroczystości mające na celu uczczenie tego wydarzenia. Tegoroczne obchody w gminie Sulejów wiążą się z przyjazdem niezwykłego gościa i przyjęły nazwę „Pociągiem do Niepodległości”. Na pamiątkę powrotu marszałka Piłsudskiego do Warszawy w 1918 roku, w gminie odbędzie się inscenizacj…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba11ed0d-ca2a-4b18-8023-6ee16cfb6acb" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba11ed0d-ca2a-4b18-8023-6ee16cfb6acb" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba11ed0d-ca2a-4b18-8023-6ee16cfb6acb"/>
 </item>
 <item>
 <title><![CDATA[ Turystyczna rewolucja w Piotrkowie? Powstanie nowoczesne centrum ]]></title>
@@ -1459,14 +1439,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/09e8f2ad-fadf-45c6-9475-0128308e2238"/>
 </item>
 <item>
-<title><![CDATA[ „Parkograty" zalegają na osiedlach w Piotrkowie. Znaleziono rozwiązanie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/parkograty-zalegaja-na-osiedlach-w-piotrkowie-znaleziono-rozwiazanie/sAFAL1qmK9csjpdoeADb</link>
-<guid isPermaLink="false">9f105d5bee353bc570a5b861c3298aa1736c052a</guid>
-<pubDate>Wed, 05 Nov 2025 15:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" alt="miniatura"/></p><p>29 października piotrkowscy radni pochylili się nad budżetem miasta, sprzedażą nieruchomości miejskich czy pensją prezydenta. Pod koniec obrad rajcy mogli także dyskutować o innych tematach w tzw. sprawach różnych. Jednym z poruszonych problemów były zalegające w Piotrkowie wraki samochodów, które nazwano „parkogratami”.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44"/>
+<title><![CDATA[ Akcja policji w Piotrkowie i powiecie. Dwie osoby staną przed sądem, a to nie wszystko ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-policji-w-piotrkowie-i-powiecie-dwie-osoby-stana-przed-sadem-a-to-nie-wszystko/q7dwloKDxhvlr0o1SLQL</link>
+<guid isPermaLink="false">3d30eec8e5aa381821b8c19c25cd254930d9c532</guid>
+<pubDate>Wed, 05 Nov 2025 11:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" alt="miniatura"/></p><p>Jak co roku, Wszystkich Świętych wiąże się ze wzmożonym ruchem na drogach, bowiem całe rodziny wyruszają, by odwiedzić groby bliskich. Nie inaczej było w miniony weekend. Tym samym, prowadzona była ogólnopolska akcja, która miała na celu zwiększyć bezpieczeństwo na w ruchu drogowym i w rejonach nekropolii. Nad porządkiem w Piotrkowie i powiecie także czuwali policjanci. Jak się okazuje, po świątec…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741"/>
 </item>
 <item>
 <title><![CDATA[ Dramatyczne sceny w powiecie piotrkowskim. Musieli walczyć o życie mężczyzny ]]></title>
@@ -1609,14 +1589,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0cf5269-3451-46ec-8cfd-e12606626520"/>
 </item>
 <item>
-<title><![CDATA[ Kto i dlaczego hejtuje prezydenta Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-i-dlaczego-hejtuje-prezydenta-piotrkowa/YnBcEyp2rNECAC0usbDb</link>
-<guid isPermaLink="false">9c7517c23f65d6e15317d830f2840e4c3d8ba171</guid>
-<pubDate>Mon, 03 Nov 2025 14:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" alt="miniatura"/></p><p>Czerwiec 2024 roku. Na imprezach z okazji Dni Miasta Juliusza Wiernickiego , nowego prezydenta Piotrkowa witają oklaski, a on sam jest sympatycznie zaczepiany przez mieszkańców, którzy gratulują mu zwycięstwa w wyborach. Robią sobie z nim wspólne zdjęcia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63"/>
+<title><![CDATA[ Miliony dla piotrkowskiego szpitala. Duże zmiany dla pacjentów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miliony-dla-piotrkowskiego-szpitala-duze-zmiany-dla-pacjentow/IF0NpI1vpJZn8XFOsYbf</link>
+<guid isPermaLink="false">596aabcdb151394e947bc2379c6589e1b5e1390b</guid>
+<pubDate>Mon, 03 Nov 2025 09:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" alt="miniatura"/></p><p>Remont w Samodzielny Szpital Wojewódzki im. M. Kopernika w Piotrkowie Trybunalskim Projekt zakłada kompleksową termomodernizację dwóch pawilonów – C i D. W pierwszym z nich mieści się Oddział Kardiologiczny z Pododdziałem Intensywnej Opieki Kardiologicznej, w drugim do niedawna funkcjonowała Stacja Dializ. W planach jest m.in. docieplenie ścian i dachów, wymiana okien i drzwi, montaż nowej instala…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f"/>
 </item>
 <item>
 <title><![CDATA[ Wyłączenia prądu w woj. łódzkim. PGE ostrzega mieszkańców ]]></title>
@@ -1759,6 +1739,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a078f454-5336-452b-b351-7880d3cbaa80"/>
 </item>
 <item>
+<title><![CDATA[ Skażone smakołyki mogły trafić do sklepów w naszym mieście. Sprawdź, czy nie kupiłeś ]]></title>
+<link>https://trybunalski.pl/wiadomosci/skazone-smakolyki-mogly-trafic-do-sklepow-w-naszym-miescie-sprawdz-czy-nie-kupiles/5QgHQMzdNxopmC69gSno</link>
+<guid isPermaLink="false">8c46d17d86480ead2fe7d7bd9feefa25b043c542</guid>
+<pubDate>Thu, 30 Oct 2025 17:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d6944b2d-ebc4-44fa-9d42-97705a21f8ab" alt="miniatura"/></p><p>GIS alarmuje: produkt może zawierać ciała obce Według komunikatu Głównego Inspektoratu Sanitarnego, firma odpowiedzialna za dystrybucję zgłosiła możliwość wystąpienia metalicznych ciał obcych w produkcie o masie 560 gramów . Dotyczy to partii Wafli Sodney oznaczonej numerem I25233A , z datą minimalnej trwałości 4 grudnia 2025 roku .</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d6944b2d-ebc4-44fa-9d42-97705a21f8ab" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d6944b2d-ebc4-44fa-9d42-97705a21f8ab" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d6944b2d-ebc4-44fa-9d42-97705a21f8ab"/>
+</item>
+<item>
 <title><![CDATA[ Inspektorat w Piotrkowie poszukuje pracownika. To ostatnie dni na zgłoszenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/inspektorat-w-piotrkowie-poszukuje-pracownika-to-ostatnie-dni-na-zgloszenia/UcdoDmeTz0rNOXI0CD3x</link>
 <guid isPermaLink="false">f57fdc892e392dcc04bd506172c5275696ececed</guid>
@@ -1889,14 +1879,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c"/>
 </item>
 <item>
-<title><![CDATA[ Napadli na market w Piotrkowie. Ochroniarz dostał... butelką ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaatakowal-ochroniarza-butelka-kradziez-rozbojnicza-w-piotrkowie-trybunalskim/H788KetPI7vVKLOThnKK</link>
-<guid isPermaLink="false">fe52ef9f3a8b6d2c8073d9b8f8e681a633ce3d2f</guid>
-<pubDate>Wed, 29 Oct 2025 11:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" alt="miniatura"/></p><p>Kradzież rozbójnicza w Piotrkowie Trybunalskim W Piotrkowie Trybunalskim doszło do kradzieży rozbójniczej w jednym z dyskontów na terenie miasta. Sprawcy, tj. 25-letni mężczyzna i 19-letnia kobieta , zostali zatrzymani przez policję po tym, jak w trakcie kradzieży doszło do agresywnego incydentu z ochroniarzem.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50"/>
+<title><![CDATA[ Niesamowity przybysz ze Szwecji. Można go spotkać na parapetach naszych okien ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowity-przybysz-ze-szwecji-mozna-go-spotkac-na-parapetach-naszych-okien/Z0ZWwMSfLBuAcCIx5ek5</link>
+<guid isPermaLink="false">abefc0a007d5cf229f35c430744cfebe228cd4b7</guid>
+<pubDate>Tue, 28 Oct 2025 21:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2fb9cbc-6532-402d-b554-c7f713325c7d" alt="miniatura"/></p><p>Mysikróliki – Mali mistrzowie długodystansowego lotu Mysikróliki (Regulus regulus) to najmniejsze ptaki w Polsce i Europie, które potrafią zaskoczyć nie tylko swoją wielkością, ale także niezwykłymi zdolnościami przetrwania. Choć ich waga wynosi zaledwie 4–7 gramów, a długość ciała nie przekracza 9 cm, mysikróliki potrafią wykonać zadziwiający wyczyn, który wzbudza podziw ornitologów i miłośników…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2fb9cbc-6532-402d-b554-c7f713325c7d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2fb9cbc-6532-402d-b554-c7f713325c7d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2fb9cbc-6532-402d-b554-c7f713325c7d"/>
 </item>
 <item>
 <title><![CDATA[ Cmentarz prawosławny w Piotrkowie. Miejsce pochówku gubernialnych oficjeli [ZDJĘCIA] ]]></title>
@@ -2049,16 +2039,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5"/>
 </item>
 <item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin rozbity przez zespól z Kalisza! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-rozbity-przez-zespol-z-kalisza/IM6YRqPxEybCaTY40VvI</link>
-<guid isPermaLink="false">5d0baeec49ed5630dffbfa72ab4d2da554b5767e</guid>
-<pubDate>Sun, 26 Oct 2025 21:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" alt="miniatura"/></p><p>Po ośmiu seriach Piotrkowianin zajmował dopiero dwunaste, czyli przedostatnie miejsce w tabeli, ale terminarz dawał nadzieję na kolejne zdobycze punktowe i awans na wyższą pozycję. Zwłaszcza, że w poprzedniej serii gier podopieczni Michała Matyjasika pokonali po serii rzutów karnych drużynę Handball Stali Mielec i to na wyjeździe.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934"/>
-</item>
-<item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia z piątym zwycięstwem w sezonie! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-z-piatym-zwyciestwem-w-sezonie/jRU0rfDCycO7oGBqfrpR</link>
 <guid isPermaLink="false">14dc4a57d9af12f57444a59cc04cfaa8e94e6d09</guid>
@@ -2209,14 +2189,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/15ae932d-e216-489c-aba1-8af1a866dadc"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga! Kolejne polowania w powiecie piotrkowskim. Sprawdź terminy i zachowaj ostrożność ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-kolejne-polowania-w-powiecie-piotrkowskim-sprawdz-terminy-i-zachowaj-ostroznosc/kYqkDeLQqM6ccFdvPHwe</link>
-<guid isPermaLink="false">31da1b299a914e300746144b9e48e06d8ff51e91</guid>
-<pubDate>Thu, 23 Oct 2025 13:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9394a00-46c0-4b7f-acce-1801c58aa395" alt="miniatura"/></p><p>Polowania odbywają się na terenach leśnych, które są popularne wśród spacerowiczów, grzybiarzy oraz osób uprawiających turystykę rowerową i konną.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9394a00-46c0-4b7f-acce-1801c58aa395" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9394a00-46c0-4b7f-acce-1801c58aa395" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9394a00-46c0-4b7f-acce-1801c58aa395"/>
+<title><![CDATA[ W Piotrkowie uczniowe nauczą się... strzelać. Skorzystają także inni mieszkańcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-uczniowe-naucza-sie-strzelac-skorzystaja-takze-inni-mieszkancy/6nwYF4OxQoRi1Wg3u6J3</link>
+<guid isPermaLink="false">91a923c93ed150e3a77bcc1c0da516752db38880</guid>
+<pubDate>Thu, 23 Oct 2025 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bd0a32f-0dbc-4190-80a3-91d25a175e43" alt="miniatura"/></p><p>Do końca grudnia 2025 roku powstanie w Piotrkowie wirtualna strzelnica i będzie służyć szkoleniu młodzieży oraz organizacji proobronnych.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bd0a32f-0dbc-4190-80a3-91d25a175e43" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bd0a32f-0dbc-4190-80a3-91d25a175e43" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bd0a32f-0dbc-4190-80a3-91d25a175e43"/>
 </item>
 <item>
 <title><![CDATA[ Uważaj na oszustów. Urząd w Piotrkowie ostrzega ]]></title>
@@ -2369,14 +2349,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/490f6604-5fdc-4bef-907f-d851180ea5e5"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga kierowcy! Będą utrudnienia na drodze do Sulejowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-beda-utrudnienia-na-drodze-do-sulejowa/JpJli7QEMvoNVfGetkvK</link>
-<guid isPermaLink="false">85aa90599bed96d7a7f0e2d33b477c9aa9eb1b60</guid>
-<pubDate>Tue, 21 Oct 2025 10:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/568177d5-60c4-4f21-beae-f3e2367988f2" alt="miniatura"/></p><p>Zmotoryzowani powinni przygotować się na utrudnienia w ruchu w okolicach Sulejowa i Opoczna. Jak się okazuje, będą tam prowadzone prace naprawcze. Sprawdź harmonogram robót drogowych.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/568177d5-60c4-4f21-beae-f3e2367988f2" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/568177d5-60c4-4f21-beae-f3e2367988f2" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/568177d5-60c4-4f21-beae-f3e2367988f2"/>
+<title><![CDATA[ Piotrków wydaje miliony, żeby było czysto. Czy to się udaje? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-piotrkow-robi-dobre-pierwsze-wrazenie-utrzymanie-porzadku-kosztuje-miliony/OebZgHi1367iJx8a9KET</link>
+<guid isPermaLink="false">780bea8674ac4077b24f60c286530a927ad02fda</guid>
+<pubDate>Mon, 20 Oct 2025 15:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aedf49be-5e43-4d4b-b4e0-16751c45b318" alt="miniatura"/></p><p>Na atrakcyjność danego miasta wpływa wiele elementów. Mogą to być walory turystyczne, ale też oferta kulturalna, edukacyjna, a ponadto infrastruktura czy możliwości zatrudnienia. Pierwsze wrażenie jednak zwykle opiera się na kwestiach wizualnych, takich jak estetyka przestrzeni i miejska zieleń. Jak jest w przypadku Piotrkowa? Czy na ulicach miasta panuje czystość? Pytamy, ile kosztuje utrzymanie…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aedf49be-5e43-4d4b-b4e0-16751c45b318" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aedf49be-5e43-4d4b-b4e0-16751c45b318" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aedf49be-5e43-4d4b-b4e0-16751c45b318"/>
 </item>
 <item>
 <title><![CDATA[ Nie żyje mistrz Europy i trener MMA z Piotrkowa. Nagła śmierć zabrała 22-latka ]]></title>
@@ -2509,14 +2489,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7ce7a556-2d11-4a40-a3c3-cafc378f265a"/>
 </item>
 <item>
-<title><![CDATA[ Mniej pracy, a kasa taka sama. Kontrowersyjny program wchodzi do Piotrkowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wchodzi-4-dniowy-tydzien-pracy-w-naszym-miescie-zacznie-sie-juz-od-2026-roku/YU57hX82OBpUW1hRkNOb</link>
-<guid isPermaLink="false">2d4f7751cad22e702486a95d05b59cb208075879</guid>
-<pubDate>Fri, 17 Oct 2025 11:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6837d560-659a-4a32-a51b-6a8009fa92c0" alt="miniatura"/></p><p>W środę, 15 października Ministerstwo Rodziny, Pracy i Polityki Społecznej opublikowało listę pracodawców, którzy zgłosili się do udziału w pilotażu skróconego czasu pracy. Wnioski złożyły 1994 przedsiębiorstwa i instytucje. 90 z nich będzie mogło przetestować różne formy skrócenia czasu pracy. Obejmą one ponad 5 tys. pracowników . Na liście znalazł się także Powiat Piotrkowski i Urząd Miasta Piot…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6837d560-659a-4a32-a51b-6a8009fa92c0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6837d560-659a-4a32-a51b-6a8009fa92c0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6837d560-659a-4a32-a51b-6a8009fa92c0"/>
+<title><![CDATA[ Najpierw hodowano tu konie dla wojska. Ponad sto lat temu założono stado ogierów w Bogusławicach [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najpierw-hodowano-tu-konie-dla-wojska-ponad-sto-lat-temu-zalozono-stado-ogierow-w-boguslawicach-zdjecia/wzdht3px6yFed4abGdzy</link>
+<guid isPermaLink="false">bee1c2e882f7e12cea54be09235c339cd9f178a3</guid>
+<pubDate>Thu, 16 Oct 2025 18:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/14a9d155-8588-4f98-8ba4-b3b3b1020df4" alt="miniatura"/></p><p>Bogusławice to wieś w gminie Wolbórz w powiecie piotrkowskim, która zasłynęła z tego, że prowadzone jest tu stado ogierów . Od ponad stu lat w dawnym majątku biskupów kujawskich prowadzona jest hodowla rozrodowych koni różnych ras.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/14a9d155-8588-4f98-8ba4-b3b3b1020df4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/14a9d155-8588-4f98-8ba4-b3b3b1020df4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/14a9d155-8588-4f98-8ba4-b3b3b1020df4"/>
 </item>
 <item>
 <title><![CDATA[ Symfonia smaków, muzyki i spotkań – miejsce, do którego chcesz wracać ]]></title>
@@ -2659,14 +2639,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7ac7194a-516b-4478-abbb-d31e75782f26"/>
 </item>
 <item>
-<title><![CDATA[ Kilkudziesięciu piotrkowskich nauczycieli z nagrodami. Oto pełna lista wyróżnionych [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kilkudziesieciu-piotrkowskich-nauczycieli-z-nagrodami-oto-pelna-lista-wyroznionych-zdjecia/UjbMEIgoFLbxOkwEUvuj</link>
-<guid isPermaLink="false">da1971cf84972fc932949b4c012570a1fb542a79</guid>
-<pubDate>Wed, 15 Oct 2025 10:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9999a025-f568-42d9-9a1b-e3b70412412b" alt="miniatura"/></p><p>Uroczystość wręczenia nagród odbyła się 14 października w Miejskim Ośrodku Kultury.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9999a025-f568-42d9-9a1b-e3b70412412b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9999a025-f568-42d9-9a1b-e3b70412412b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9999a025-f568-42d9-9a1b-e3b70412412b"/>
+<title><![CDATA[ Baśniowe zwierzę widziane w Piotrkowie. Jeden z mieszkańców uchwycił je w obiektywie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/basniowe-zwierze-widziane-w-piotrkowie-jeden-z-mieszkancow-uchwycil-je-w-obiektywie/tR0Ckxe2vZ5TU0usVMhS</link>
+<guid isPermaLink="false">bb0070a0d0fa49fdbbb5cfbf746dcac0636b872a</guid>
+<pubDate>Tue, 14 Oct 2025 18:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/753c7da4-c9d4-4915-b95d-81b8a7310dd1" alt="miniatura"/></p><p>Kolejny raz udało się uchwycić w obiektywie baśniowe zwierzę, które od czasu do czasu daje się dostrzec w piotrkowskich lasach. Na facebookowej grupie „Piotrków i Okolice w Obiektywie” jeden z mieszkańców opublikował zdjęcia przedstawiające białego daniela – niezwykle efektownego mieszkańca naszych lasów.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/753c7da4-c9d4-4915-b95d-81b8a7310dd1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/753c7da4-c9d4-4915-b95d-81b8a7310dd1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/753c7da4-c9d4-4915-b95d-81b8a7310dd1"/>
 </item>
 <item>
 <title><![CDATA[ Świnki podrzucone pod sklep w Piotrkowie. W sieci krąży nagranie ]]></title>
@@ -2809,14 +2789,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b9983631-6324-413c-a29d-3090b3cad6e1"/>
 </item>
 <item>
-<title><![CDATA[ Utrudnienia drogowe w całym woj. łódzkim. Sprawdź, gdzie trwają remonty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/utrudnienia-drogowe-w-calym-woj-lodzkim-sprawdz-gdzie-trwaja-remonty/4GT0BaqBqxUWTtGUCky0</link>
-<guid isPermaLink="false">9f2d30f653d7a79dd1b486278dc8c198b8e256f7</guid>
-<pubDate>Mon, 13 Oct 2025 10:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/65afc372-ac8a-40f8-b81e-938e65984eb9" alt="miniatura"/></p><p>Roboty drogowe w Piotrkowie i okolicy. Gdzie występują utrudnienia w ruchu? Od poniedziałku, 13 października rozpoczął się remont na DK12 . Prace prowadzone są na 800-metrowym odcinku między Piotrkowem Trybunalskim a Sulejowem. Jak przekazuje GDDKiA od godz. 9:00 do 15:00, układana jest na jezdni warstwa wiążąca. Roboty te potrwają do wtorku, 14 października. Następnie drogowcy przystąpią do ukła…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/65afc372-ac8a-40f8-b81e-938e65984eb9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/65afc372-ac8a-40f8-b81e-938e65984eb9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/65afc372-ac8a-40f8-b81e-938e65984eb9"/>
+<title><![CDATA[ Piotrkowska szkoła pogrążona w żałobie. Zmarła ceniona nauczycielka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-pograzona-w-zalobie-zmarla-ceniona-nauczycielka/ExlTzZmRs5cLPXG538XF</link>
+<guid isPermaLink="false">e7c6d716dfa7d50816271df7ede73ceca9c51e5d</guid>
+<pubDate>Sat, 11 Oct 2025 13:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/22816778-dbda-440a-a55e-793db0de63be" alt="miniatura"/></p><p>W piątek, 10 października Zespół Szkół Ponadpodstawowych numer 1 w Piotrkowie przekazał smutne wieści. Zmarła pani Urszula Nagórska, nauczycielka chemii.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/22816778-dbda-440a-a55e-793db0de63be" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/22816778-dbda-440a-a55e-793db0de63be" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/22816778-dbda-440a-a55e-793db0de63be"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia stoczyła zwycięską bitwę ze Startem Elbląg! ]]></title>
@@ -2937,15 +2917,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f8132979-a3ef-4b01-9c34-968e1aa1981c" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f8132979-a3ef-4b01-9c34-968e1aa1981c" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f8132979-a3ef-4b01-9c34-968e1aa1981c"/>
-</item>
-<item>
-<title><![CDATA[ TOP 5 miejsc na grzybobranie w woj. łódzkim. Mieszkańcy pokazali swoje zbiory! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/top-5-miejsc-na-grzybobranie-w-woj-lodzkim-mieszkancy-pokazali-swoje-zbiory/4tsF1xUQ1G7lBYXq0lCf</link>
-<guid isPermaLink="false">08f571c608d1ac60d042e78cccb0095aab42ac08</guid>
-<pubDate>Fri, 10 Oct 2025 10:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3adb506c-bd0f-4d10-a23e-f0e2b4005a92" alt="miniatura"/></p><p>Wrzesień i październik to szczyt sezonu grzybowego w Polsce. Najlepiej rosną, gdy temperatura wynosi między 10-20 stopni Celsjusza i kiedy jest ciepło, ale nie upalnie. To, co nas denerwuje, czyli naprzemiennie deszcz i słońce - dla grzybów jest nieocenione i sprawia, że rosną szybciej i liczniej. Ciepłe powietrze i wilgotna ziemia to idealny moment na wysyp grzybów.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3adb506c-bd0f-4d10-a23e-f0e2b4005a92" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3adb506c-bd0f-4d10-a23e-f0e2b4005a92" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3adb506c-bd0f-4d10-a23e-f0e2b4005a92"/>
 </item>
 </channel></rss>
