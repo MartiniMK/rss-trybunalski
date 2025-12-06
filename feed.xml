@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 05 Dec 2025 23:34:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 02:09:41 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ ASF w powiecie piotrkowskim. Wyznaczono strefy ]]></title>
