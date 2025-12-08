@@ -6,10 +6,10 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 08 Dec 2025 16:45:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 17:35:50 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ W powiecie piotrkowskim ruszają kontrole. Kara to nawet 5000 zł ]]></title>
+<title><![CDATA[ Ruszają kontrole w naszym powiecie. Kara to nawet 5000 zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-powiecie-piotrkowskim-ruszaja-kontrole-kara-to-nawet-5000-zl/s00GHxiGp15UqmCyFNDk</link>
 <guid isPermaLink="false">68c176e5d87552332fd3fabac91fb38e003633d7</guid>
 <pubDate>Mon, 08 Dec 2025 15:27:00 +0000</pubDate>
