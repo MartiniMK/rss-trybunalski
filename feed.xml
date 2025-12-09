@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 08 Dec 2025 23:34:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 02:18:22 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Od stu lat jest obecna w panoramie Piotrkowa. To charakterystyczny punkt w mieście [ZDJĘCIA] ]]></title>
