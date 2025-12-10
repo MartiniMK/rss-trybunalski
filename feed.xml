@@ -6,15 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 10 Dec 2025 15:42:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 16:46:13 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/wszystkich-swietych-w-piotrkowie-sprawdz-o-ktorej-msze-swiete-i-procesja-na-cmentarzu/WaLuvA2OPyEvV0NhHSLO ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wszystkich-swietych-w-piotrkowie-sprawdz-o-ktorej-msze-swiete-i-procesja-na-cmentarzu/WaLuvA2OPyEvV0NhHSLO</link>
-<guid isPermaLink="false">187bb2ad1e4c851f4bc3f9b3ff59e64384b6fab9</guid>
-<pubDate>Wed, 10 Dec 2025 15:42:37 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
 <item>
 <title><![CDATA[ Choinka w Piotrkowie za darmo, ale… Poleje się krew ]]></title>
 <link>https://trybunalski.pl/wiadomosci/choinka-w-piotrkowie-za-darmo-ale-poleje-sie-krew/ErTmU0iDNMy3ytrlw45a</link>
@@ -1964,6 +1957,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/da02c0ac-7a76-458b-9328-e2baca4faac9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/da02c0ac-7a76-458b-9328-e2baca4faac9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/da02c0ac-7a76-458b-9328-e2baca4faac9"/>
+</item>
+<item>
+<title><![CDATA[ Wszystkich Świętych w Piotrkowie. Sprawdź, o której msze święte i procesja na cmentarzu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wszystkich-swietych-w-piotrkowie-sprawdz-o-ktorej-msze-swiete-i-procesja-na-cmentarzu/WaLuvA2OPyEvV0NhHSLO</link>
+<guid isPermaLink="false">187bb2ad1e4c851f4bc3f9b3ff59e64384b6fab9</guid>
+<pubDate>Fri, 31 Oct 2025 16:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6595e6cc-d67d-46ae-97c3-c76694d162d2" alt="miniatura"/></p><p>W sobotę, 1 listopada w całej Polsce wierni ruszą na cmentarze. Wszystko za sprawą Dnia Wszystkich Świętych. To uroczystość ku czci wszystkich świętych Kościoła, zarówno tych oficjalnie kanonizowanych, jak i nieznanych. Także przypadający 2 listopada Dzień Zaduszny jest wydarzeniem głęboko refleksyjnym, kiedy to wspominamy bliskich zmarłych. W związku z tym świętem na nekropoliach w całej Polsce o…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6595e6cc-d67d-46ae-97c3-c76694d162d2" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6595e6cc-d67d-46ae-97c3-c76694d162d2" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6595e6cc-d67d-46ae-97c3-c76694d162d2"/>
 </item>
 <item>
 <title><![CDATA[ Mogło dojść do tragedii. 65-latek był zakleszczony w samochodzie ]]></title>
