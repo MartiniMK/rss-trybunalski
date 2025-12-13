@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 13 Dec 2025 20:37:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 21:33:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ogromne szczeście w naszym mieście. Padła główna wygrana w loterii Lotto. Ile wygrali? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-szczescie-w-naszym-miescie-padla-glowna-wygrana-w-loterii-lotto-ile-wygrali/zyZ9yabiGTTx4ZRAWTGm</link>
+<guid isPermaLink="false">6380e38e03c0e66a94ce1510252b046abfcaa036</guid>
+<pubDate>Sat, 13 Dec 2025 22:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" alt="miniatura"/></p><p>Mieszkańcy naszego miasta i powiatu niejednokrotnie pokazali, że mają szczęście w grach liczbowych. Wygrane wizualizowane są na „mapie szczęścia” na stronie Lotto. Przybywa na niej żółtych pinezek, a każda z nich to los, który przyniósł zastrzyk gotówki. W ostatnim czasie pojawił się kolejny punkt na mapie i to w naszym mieście. W której kolekturze padła wygrana?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin podjął walkę, ale mistrzowi nie zagroził ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-podjal-walke-ale-mistrzowi-nie-zagrozil/NClnWWrkCmcXFumFkivV</link>
@@ -37,16 +47,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/69871c21-ad8d-4f91-91f0-10835c8a8a01" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/69871c21-ad8d-4f91-91f0-10835c8a8a01" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/69871c21-ad8d-4f91-91f0-10835c8a8a01"/>
-</item>
-<item>
-<title><![CDATA[ Nie tylko internowania, ale i partyjne czystki. Stan wojenny w województwie piotrkowskim [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nie-tylko-internowania-ale-i-partyjne-czystki-stan-wojenny-w-wojewodztwie-piotrkowskim-zdjecia/IWoMs4B00jm9CBplps6t</link>
-<guid isPermaLink="false">831d97bfbefb104dd656015b92349d3ec2db8b18</guid>
-<pubDate>Fri, 12 Dec 2025 18:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/924c50be-e5db-4aee-932f-cab0aa3a44ec" alt="miniatura"/></p><p>Gdy 13 grudnia 1981 roku wprowadzony został stan wojenny, w regionie piotrkowskim internowano 45 osób spośród przywódców lokalnych struktur „Solidarności”. Do końca stycznia 1982 r. w odosobnieniu pozostawało 30 osób, ostatnie zwolnienia z więzień miały miejsce dopiero 15 listopada 1982 r.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/924c50be-e5db-4aee-932f-cab0aa3a44ec" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/924c50be-e5db-4aee-932f-cab0aa3a44ec" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/924c50be-e5db-4aee-932f-cab0aa3a44ec"/>
 </item>
 <item>
 <title><![CDATA[ Pijany Gruzin zatrzymany w Piotrkowie. Przyjechał po niego rodak, który teraz też ma kłopoty ]]></title>
@@ -179,14 +179,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2274c1b1-bffe-4c39-8355-4cb940a9aebd"/>
 </item>
 <item>
-<title><![CDATA[ ORLEN Superliga: Podział punktów w Piotrkowie Trybunalskim! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-podzial-punktow-w-piotrkowie-trybunalskim/JHwoCcxFMRuK47NHz7dz</link>
-<guid isPermaLink="false">75802d3a7045da8ecaf5dffbc8a9202e8121b1e3</guid>
-<pubDate>Wed, 10 Dec 2025 20:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/950ad90e-86b9-4fe1-b471-7080189e06b7" alt="miniatura"/></p><p>Przed środową konfrontacją Piotrkowianin zajmował jedenastce miejsce w tabeli i mógł „pochwalić się” dorobkiem 9 punktów, czyli o sześć oczek większym od rywala z Zagłębia Miedziowego. Trzeba jednak pamiętać, że jedenaste miejsce w tabeli na koniec rozgrywek oznaczać będzie konieczność gry w barażach z wicemistrzem Ligi Centralnej o pozostanie w krajowej elicie szczypiornistów. W związku z tym cel…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/950ad90e-86b9-4fe1-b471-7080189e06b7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/950ad90e-86b9-4fe1-b471-7080189e06b7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/950ad90e-86b9-4fe1-b471-7080189e06b7"/>
+<title><![CDATA[ Rekord kolejowy w województwie łódzkim. Mówią o fenomenalnym wzroście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekord-kolejowy-w-wojewodztwie-lodzkim-mowia-o-fenomenalnym-wzroscie/mV4FPdmeb8jWg02P6zCc</link>
+<guid isPermaLink="false">00e70f2cb602b7ae7e26394bc643077a64dc594a</guid>
+<pubDate>Wed, 10 Dec 2025 12:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ffbbc0e9-63d4-41e5-b317-783ef7f5e55f" alt="miniatura"/></p><p>W grudniu Urząd Transportu Kolejowego opublikował podsumowanie przewozów pasażerskich w województwach w III kwartale 2025 roku. Z przejazdów skorzystało 112,2 mln osób, a liczba pasażerów rok do roku wzrosła w 15 województwach. Największy skok, bo aż o 18,6% odnotowało województwo łódzkie. Co ciekawe, według raportów udostępnianych przez UTK kolej to coraz częściej wybierany środek transportu. Spr…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ffbbc0e9-63d4-41e5-b317-783ef7f5e55f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ffbbc0e9-63d4-41e5-b317-783ef7f5e55f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ffbbc0e9-63d4-41e5-b317-783ef7f5e55f"/>
 </item>
 <item>
 <title><![CDATA[ AFS w powiecie piotrkowskim. Czy ta śmiertelna choroba zagraża też ludziom? ]]></title>
@@ -299,14 +299,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9a929e47-adec-4177-8b32-fd633b27912d"/>
 </item>
 <item>
-<title><![CDATA[ PKP zapowiada remonty na linii kolejowej numer 1. Rusza nowy kurs przez nasze miasto ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pkp-zapowiada-remonty-na-linii-kolejowej-numer-1-rusza-nowy-kurs-przez-nasze-miasto/NXs6zWDYZTbeFH16kqu9</link>
-<guid isPermaLink="false">a23cdadd6d091f27a0b9adfc5aea020220efdf26</guid>
-<pubDate>Mon, 08 Dec 2025 14:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b" alt="miniatura"/></p><p>Nowy roczny rozkład jazdy na kolei zacznie obowiązywać już w niedzielę, 14 grudnia. PKP zapowiada zarówno krótsze czasy przejazdu, ze względu na podnoszenie parametrów technicznych wielu linii, jak i zmiany w organizacji ruchu – m.in. trasy okrężne, wydłużone czasy jazdy oraz komunikację zastępczą. Dotyczy to także województwa łódzkiego i linii kolejowej numer 1, która wiedzie przez nasze miasto.…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b"/>
+<title><![CDATA[ W Piotrkowie rozdadzą choinki za darmo! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-rozdadza-choinki-za-darmo/ICbF3UEhkqTJ41FNWPlV</link>
+<guid isPermaLink="false">76de29818070ea6bb8abebc97b31eca9792e6f94</guid>
+<pubDate>Mon, 08 Dec 2025 12:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" alt="miniatura"/></p><p>Darmowe choinki od RMF FM w Piotrkowie Trybunalskim W poniedziałek, 8 grudnia na Rynek Starego Miasta w Piotrkowie Trybunalskim zawita świąteczny konwój RMF FM. Charakterystyczne żółto-niebieskie wozy pojawią się w mieście o godzinie 16:00, a wraz z nimi Mikołaj, mobilne studio oraz mnóstwo świątecznych atrakcji.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177"/>
 </item>
 <item>
 <title><![CDATA[ Mistrzowskie tancerki z Piotrkowa. Wróciły z medalami ]]></title>
@@ -449,14 +449,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce4f99c9-8df7-496c-8caf-df3bff5e0b85"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkańcy Piotrkowa ostrzegają. Wandalizm, przekraczanie prędkości i alkohol ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ostrzegaja-wandalizm-przekraczanie-predkosci-i-alkohol/mHofVpk3dDCrF0j66OgJ</link>
-<guid isPermaLink="false">1df4100364880179efc115d75c3552631dccc75c</guid>
-<pubDate>Fri, 05 Dec 2025 12:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa korzystają z Krajowej Mapy Zagrożeń Bezpieczeństwa i oznaczają na niej nieprawidłowości, jakie napotykają w mieście. Ten system pozwala na łatwiejszy kontakt ze służbami odpowiedzialnymi za bezpieczeństwo. Swoim zasięgiem obejmuje całą Polskę i dostępny jest na stronie internetowej policji. Dzięki tej mapie obywatele mogą łatwo i anonimowo zgłaszać sytuacje, które uznają za ni…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc"/>
+<title><![CDATA[ Piotrków: Wymusiła pierwszeństwo, doszło do wypadku i kolizji. Ranna jedna osoba ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkow-wymusila-pierwszenstwo-doszlo-do-wypadku-i-kolizji-ranna-jedna-osoba/MbJIc4XyroCt8AeF8m5T</link>
+<guid isPermaLink="false">42f8e3e0ee7ed82c467f47fa3e9655e5a2ba14be</guid>
+<pubDate>Fri, 05 Dec 2025 11:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" alt="miniatura"/></p><p>Do wypadku doszło w czwartek, 4 grudnia około godz. 17:00. na ul. Wojska Polskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af"/>
 </item>
 <item>
 <title><![CDATA[ Weekend w Piotrkowie pełen atrakcji. Mikołaj, zabawy, sportowa rywalizacja, warsztaty... ]]></title>
@@ -557,16 +557,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed"/>
-</item>
-<item>
-<title><![CDATA[ Nasze miasto na mapie szczęścia Lotto. Tutaj padła główna wygrana na loterii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nasze-miasto-na-mapie-szczescia-lotto-tutaj-padla-glowna-wygrana-na-loterii/zyZ9yabiGTTx4ZRAWTGm</link>
-<guid isPermaLink="false">7bae8c654871b33c7bac03f29983d78390c5cdf1</guid>
-<pubDate>Wed, 03 Dec 2025 13:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" alt="miniatura"/></p><p>Mieszkańcy naszego miasta i powiatu niejednokrotnie pokazali, że mają szczęście w grach liczbowych. Wygrane wizualizowane są na „mapie szczęścia” na stronie Lotto. Przybywa na niej żółtych pinezek, a każda z nich to los, który przyniósł zastrzyk gotówki. W ostatnim czasie pojawił się kolejny punkt na mapie i to w naszym mieście. W której kolekturze padła wygrana?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d1760b53-5f87-4e02-9573-bfbfa1405fd6"/>
 </item>
 <item>
 <title><![CDATA[ Mikołajkowa zbiórka krwi w powiecie piotrkowskim. Aż trzy grupy w stanie alarmowym ]]></title>
