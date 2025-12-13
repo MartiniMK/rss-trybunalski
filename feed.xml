@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 13 Dec 2025 13:41:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 14:32:24 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Służby rozpoczęły działania poszukiwawcze. Gdzie w powiecie piotrkowskim trwa akcja? ]]></title>
