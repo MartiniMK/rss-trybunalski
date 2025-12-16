@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Dec 2025 15:40:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 16:47:44 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Starostwo w Piotrkowie szuka pracownika. Sprawdź, ile można zarobić ]]></title>
@@ -39,16 +39,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6acf6be-8add-43ad-91df-b74804eddc36"/>
 </item>
 <item>
-<title><![CDATA[ Szlachetna Paczka w akcji. Tak wyglądał Weekend Cudów w Piotrkowie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szlachetna-paczka-w-akcji-tak-wygladal-weekend-cudow-w-piotrkowie-zdjecia/Ku6TGib9D0bMMDXaAh2L</link>
-<guid isPermaLink="false">8578154b4bee7aeda190d6ec42446954c3063ce7</guid>
-<pubDate>Mon, 15 Dec 2025 12:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" alt="miniatura"/></p><p>Kolejny Weekend Cudów za nami. Szlachetna Paczka działa od 2001 roku, a jej celem jest materialna i mentalna pomoc rodzinom i osobom znajdującym się w trudnej sytuacji życiowej. Akcja ta ma miejsce także w Piotrkowie, a wolontariusze co roku niosą pomoc mieszkańcom naszego miasta i regionu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d"/>
-</item>
-<item>
 <title><![CDATA[ "Dziadek" Leonarda DiCaprio mieszkał niedaleko Zduńskiej Woli ]]></title>
 <link>https://ezdunska.pl/wiadomosci/dziadek-leonarda-dicaprio-mieszkal-niedaleko-zdunskiej-woli/mjuFBN5PzgqQ6ZlNYqD6</link>
 <guid isPermaLink="false">dbe66c01ced67b38bbab927ed1b5aca687bcace9</guid>
@@ -57,6 +47,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/ezdunska/articles/image/1f826f86-7a58-4dda-bee5-5c2622bda653" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/ezdunska/articles/image/1f826f86-7a58-4dda-bee5-5c2622bda653" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/ezdunska/articles/image/1f826f86-7a58-4dda-bee5-5c2622bda653"/>
+</item>
+<item>
+<title><![CDATA[ Szlachetna Paczka w akcji. Tak wyglądał Weekend Cudów w Piotrkowie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szlachetna-paczka-w-akcji-tak-wygladal-weekend-cudow-w-piotrkowie-zdjecia/Ku6TGib9D0bMMDXaAh2L</link>
+<guid isPermaLink="false">8578154b4bee7aeda190d6ec42446954c3063ce7</guid>
+<pubDate>Mon, 15 Dec 2025 12:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" alt="miniatura"/></p><p>Kolejny Weekend Cudów za nami. Szlachetna Paczka działa od 2001 roku, a jej celem jest materialna i mentalna pomoc rodzinom i osobom znajdującym się w trudnej sytuacji życiowej. Akcja ta ma miejsce także w Piotrkowie, a wolontariusze co roku niosą pomoc mieszkańcom naszego miasta i regionu.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b22f0cc-b0b3-4964-b0a2-669ba59a4e3d"/>
 </item>
 <item>
 <title><![CDATA[ Oferty pracy w Piotrkowie Trybunalskim. Pracodawca proponuje ponad 8 tys. brutto ]]></title>
@@ -1839,16 +1839,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -1857,6 +1847,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia nowym wiceliderem! ]]></title>
