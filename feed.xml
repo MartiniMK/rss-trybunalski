@@ -6,29 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Dec 2025 06:55:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 07:38:08 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/48-letnia-kobieta-zginela-po-upadku-z-okna-prokuratura-o-postepach-w-sledztwie/UQXIqCSDWoUjMQdyBAur ]]></title>
-<link>https://trybunalski.pl/wiadomosci/48-letnia-kobieta-zginela-po-upadku-z-okna-prokuratura-o-postepach-w-sledztwie/UQXIqCSDWoUjMQdyBAur</link>
-<guid isPermaLink="false">9c5e51bdca9ddeb26153a6b283f8ea895c48b747</guid>
-<pubDate>Tue, 16 Dec 2025 06:55:06 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/samochod-przejechal-labedzia-dramatyczne-nagranie-obiega-internet-video/FM9VY9HYA8BpmYnftDzF ]]></title>
-<link>https://trybunalski.pl/wiadomosci/samochod-przejechal-labedzia-dramatyczne-nagranie-obiega-internet-video/FM9VY9HYA8BpmYnftDzF</link>
-<guid isPermaLink="false">ab7b3234044aab42942bcb6f873800eb52fe46af</guid>
-<pubDate>Tue, 16 Dec 2025 06:55:06 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-trzech-pojazdow-w-piotrkowie-co-sie-stalo/JUVChTgEQJ9aBCMsJZir ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-trzech-pojazdow-w-piotrkowie-co-sie-stalo/JUVChTgEQJ9aBCMsJZir</link>
-<guid isPermaLink="false">ed01dbfdb10c6550a21636c7a75ce335cda49bb1</guid>
-<pubDate>Tue, 16 Dec 2025 06:55:06 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
 <item>
 <title><![CDATA[ Gdzie była ulica Słowiańska, albo Krzywe Koło? Ulice Piotrkowa o najczęściej zmienianych nazwach [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-byla-ulica-slowianska-albo-krzywe-kolo-ulice-piotrkowa-o-najczesciej-zmienianych-nazwach-zdjecia/LtJFNeZuQKVyjvXj6juo</link>
@@ -1370,6 +1349,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/52ec741d-d5e3-4812-af75-aed034266e95"/>
 </item>
 <item>
+<title><![CDATA[ 48-letnia kobieta wypadła z okna bloku w Piotrkowie, zginęła. Prokuratura o postępach w śledztwie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/48-letnia-kobieta-zginela-po-upadku-z-okna-prokuratura-o-postepach-w-sledztwie/UQXIqCSDWoUjMQdyBAur</link>
+<guid isPermaLink="false">9c5e51bdca9ddeb26153a6b283f8ea895c48b747</guid>
+<pubDate>Thu, 20 Nov 2025 11:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8beca90e-6691-48e4-9a25-9453a878bea0" alt="miniatura"/></p><p>W środę, 15 października 2025 roku na ulicy Słowackiego w Piotrkowie doszło do tragicznego wypadku, w wyniku którego życie straciła 48-latka. Z okna jednego z bloków mieszkalnych wypadła kobieta, a służby ratunkowe, które przybyły na miejsce, nie były w stanie jej uratować.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8beca90e-6691-48e4-9a25-9453a878bea0" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8beca90e-6691-48e4-9a25-9453a878bea0" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8beca90e-6691-48e4-9a25-9453a878bea0"/>
+</item>
+<item>
 <title><![CDATA[ Kierowca doprowadził do zderzenia, po czym uciekł. Policja poszukuje świadków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kierowca-doprowadzil-do-zderzenia-po-czym-uciekl-policja-poszukuje-swiadkow/fDo1OyKT2pJEHk8NTwnH</link>
 <guid isPermaLink="false">ae5d67a9bfecb420a44a02a10d766218ac4ae8c5</guid>
@@ -1380,11 +1369,24 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2deddd94-b01b-4ed5-bee8-a319265b3e78"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/gruzin-pchnal-nozem-ochroniarza-w-piotrkowie-i-uciekl-sledztwo-zawieszono-dlaczego/0HalRm61oZvoWtDl5i1s ]]></title>
+<title><![CDATA[ Samochód przejechał łabędzia. Dramatyczne nagranie obiega Internet [VIDEO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/samochod-przejechal-labedzia-dramatyczne-nagranie-obiega-internet-video/FM9VY9HYA8BpmYnftDzF</link>
+<guid isPermaLink="false">ab7b3234044aab42942bcb6f873800eb52fe46af</guid>
+<pubDate>Wed, 19 Nov 2025 14:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" alt="miniatura"/></p><p>Łabędź spadł na ruchliwa drogę, pod koła samochodu Do zdarzenia doszło 29 października 2025 roku w m. Krzeczów, w gminie Wierzchlas (około godzinę drogi od Piotrkowa Trybunalskiego).</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34"/>
+</item>
+<item>
+<title><![CDATA[ Gruzin pchnął nożem ochroniarza w Piotrkowie i uciekł. Śledztwo zawieszono. Dlaczego? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/gruzin-pchnal-nozem-ochroniarza-w-piotrkowie-i-uciekl-sledztwo-zawieszono-dlaczego/0HalRm61oZvoWtDl5i1s</link>
 <guid isPermaLink="false">15e95f193a0f09d75183bfc146b76d5599164efe</guid>
 <pubDate>Wed, 19 Nov 2025 12:11:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" alt="miniatura"/></p><p>Atak nożownika w Piotrkowie Przypomnijmy. W nocy z soboty na niedzielę (7/8 września 2024 roku) w Piotrkowie doszło do ataku nożownika . Jeden z gości klubu nocnego awanturował się i mimo prób uspokojenia go przez ochroniarzy, mężczyzna nie dostosował się do poleceń. Ostatecznie Gruzina wyproszono z obiektu, a za nim wyszło jeszcze jego dwóch kolegów.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowscy policjanci po służbie zatrzymali pijanego kierowcę. W samochodzie było małe dziecko ]]></title>
@@ -1395,6 +1397,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d"/>
+</item>
+<item>
+<title><![CDATA[ Zderzenie trzech pojazdów w Piotrkowie. Co się stało? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-trzech-pojazdow-w-piotrkowie-co-sie-stalo/JUVChTgEQJ9aBCMsJZir</link>
+<guid isPermaLink="false">ed01dbfdb10c6550a21636c7a75ce335cda49bb1</guid>
+<pubDate>Wed, 19 Nov 2025 11:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0" alt="miniatura"/></p><p>Na skrzyżowaniu ulic Słowackiego, Młynarskiej i Staszica w Piotrkowie doszło do zderzenia się ze sobą trzech samochodów osobowych.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0"/>
 </item>
 <item>
 <title><![CDATA[ Tak obchodzono 400-lecie Trybunału Koronnego w Piotrkowie. Po pamiętnym jubileuszu zostało sporo pamiątek [ZDJĘCIA] ]]></title>
