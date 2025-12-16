@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Dec 2025 09:43:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 10:42:18 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Barber Shop Warsztat – precyzja, styl i męska energia w Piotrkowie Trybunalskim ]]></title>
@@ -39,14 +39,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/662de090-1a89-4f2e-a48c-5618935274a1"/>
 </item>
 <item>
-<title><![CDATA[ Zderzenie osobówki z ciągnikiem w powiecie piotrkowskim. Szukają świadków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-osobowki-z-ciagnikiem-w-powiecie-piotrkowskim-szukaja-swiadkow/ZxDmGmDSYxGtXZluURbQ</link>
-<guid isPermaLink="false">1d8671b3a12fb1d7d9237240fa01d11f72f32bac</guid>
-<pubDate>Mon, 15 Dec 2025 15:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ccb87bd7-d99c-4fde-9f10-8420cd8a4a8b" alt="miniatura"/></p><p>W środę, 3 grudnia na A1 w pobliżu miejscowości Wygoda-Wola Krzysztoporska doszło do zderzenia samochodu osobowego i ciągnika. Policjanci poszukują świadków tej sytuacji.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ccb87bd7-d99c-4fde-9f10-8420cd8a4a8b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ccb87bd7-d99c-4fde-9f10-8420cd8a4a8b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ccb87bd7-d99c-4fde-9f10-8420cd8a4a8b"/>
+<title><![CDATA[ Oferty pracy w Piotrkowie Trybunalskim. Pracodawca proponuje ponad 8 tys. brutto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oferty-pracy-w-piotrkowie-trybunalskim-pracodawca-proponuje-ponad-8-tys-brutto/Xp6cTi25ewjZRYv2RhfY</link>
+<guid isPermaLink="false">a293126b055dbcffcf28a9156c192f1681d0f6ae</guid>
+<pubDate>Mon, 15 Dec 2025 12:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61098756-686d-42d1-b914-d12c7f1e1421" alt="miniatura"/></p><p>Pomoc administracyjna Wynagrodzenie brutto: od 8 350 PLN</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61098756-686d-42d1-b914-d12c7f1e1421" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61098756-686d-42d1-b914-d12c7f1e1421" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61098756-686d-42d1-b914-d12c7f1e1421"/>
 </item>
 <item>
 <title><![CDATA[ PGE ostrzega mieszkańców Piotrkowa i powiatu piotrkowskiego. Tu nie będzie prądu w tym tygodniu ]]></title>
