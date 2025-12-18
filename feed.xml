@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 18 Dec 2025 13:54:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 14:43:58 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Czy ASF dotarł do powiatu piotrkowskiego zza granicy? Minister rozwiewa wątpliwości ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-asf-dotarl-do-powiatu-piotrkowskiego-zza-granicy-minister-rozwiewa-watpliwosci/9bVX8HdYS1IMUEiSEroh</link>
+<guid isPermaLink="false">e11d03cf2bc00e6db919e380074bb19cbb352347</guid>
+<pubDate>Thu, 18 Dec 2025 14:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/91434d6e-7a3a-4a2f-b807-fa9da1c5023f" alt="miniatura"/></p><p>ASF w powiecie piotrkowskim. Skąd pochodzi wirus? Badania przeprowadzone na dzikach, u których stwierdzono ASF w powiecie piotrkowskim, jednoznacznie wskazują na lokalne pochodzenie wirusa. Minister Stefan Krajewski w swojej wypowiedzi poinformował, że genotyp wirusa jest zgodny z tymi, które występowały już w województwach łódzkim i mazowieckim. Oznacza to, że wirus nie pochodzi z innych, odległy…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/91434d6e-7a3a-4a2f-b807-fa9da1c5023f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/91434d6e-7a3a-4a2f-b807-fa9da1c5023f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/91434d6e-7a3a-4a2f-b807-fa9da1c5023f"/>
+</item>
 <item>
 <title><![CDATA[ Sebastian M. przebywa w areszcie. Sąd w Piotrkowie Trybunalskim zdecydował o jego dalszym losie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sebastian-m-przebywa-w-areszcie-sad-w-piotrkowie-trybunalskim-zdecydowal-o-jego-dalszym-losie/NDfZGwwQEb8cE1K6tjOU</link>
@@ -2249,16 +2259,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -2267,6 +2267,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w powiecie piotrkowskim. Kierowca wjechał prosto w słup ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-kierowca-wjechal-prosto-w-slup/m2xtdMOYt0bLk8hX3j6E</link>
-<guid isPermaLink="false">2809fe4f9ffa0a7ba45637c936aacaef7b20cab7</guid>
-<pubDate>Thu, 23 Oct 2025 20:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6a82f11-6ccc-4150-908a-6b9c6b60ff1e" alt="miniatura"/></p><p>Do groźnego wypadku doszło w gminie Aleksandrów w czwartek, 23 października około godz. 15:45. Jak się okazuje, samochód osobowy uderzył w przydrożny słup. Na miejsce ruszyły służby w tym policjanci, Zespół Ratownictwa Medycznego oraz dwa zastępy straży pożarnej - PSP Piotrków oraz KSRG OSP Dąbrowa nad Czarną.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6a82f11-6ccc-4150-908a-6b9c6b60ff1e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6a82f11-6ccc-4150-908a-6b9c6b60ff1e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6a82f11-6ccc-4150-908a-6b9c6b60ff1e"/>
 </item>
 </channel></rss>
