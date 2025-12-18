@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 18 Dec 2025 14:43:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 15:43:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ "Zielona fala" w Piotrkowie? Nowe urządzenia pojawiły się na skrzyżowaniach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zielona-fala-w-piotrkowie-nowe-urzadzenia-pojawily-sie-na-skrzyzowaniach/PiqJLunALld4nEkeEI9o</link>
+<guid isPermaLink="false">7c17fe0cd96a95ac851e4f80b95335ca802f1239</guid>
+<pubDate>Thu, 18 Dec 2025 15:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" alt="miniatura"/></p><p>To ostatni etap wdrażania inteligentnych systemów transportowych w tym roku. W ramach prac zainstalowano już pierwsze urządzenia: 17 grudnia na skrzyżowaniu al. 3 Maja z al. Kopernika, a 19 grudnia na skrzyżowaniu z ul. Sienkiewicza. Kolejne sekundniki pojawią się w najbliższym czasie na skrzyżowaniu Al. Sikorskiego z ul. Kostromską.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e"/>
+</item>
 <item>
 <title><![CDATA[ Czy ASF dotarł do powiatu piotrkowskiego zza granicy? Minister rozwiewa wątpliwości ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czy-asf-dotarl-do-powiatu-piotrkowskiego-zza-granicy-minister-rozwiewa-watpliwosci/9bVX8HdYS1IMUEiSEroh</link>
@@ -209,16 +219,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -227,6 +227,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a4757017-6f69-4f4b-a958-be5ff5f46188" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a4757017-6f69-4f4b-a958-be5ff5f46188" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a4757017-6f69-4f4b-a958-be5ff5f46188"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek niedaleko Piotrkowa. Motocyklista trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-motocyklista-trafil-do-szpitala/wmevZWLJhLBAYkkifXcR</link>
-<guid isPermaLink="false">ff235a9d948d4c503437f4fdefa4a29d4e2cd8e2</guid>
-<pubDate>Thu, 23 Oct 2025 20:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330" alt="miniatura"/></p><p>W czwartek, 23 października w Polichnie, w gminie Wolbórz doszło do wypadku. Zdarzenie miało miesce około godziny 16:00. Zderzyły się tam samochód osobowy oraz motocykl. Do akcji ruszyły służby - policjanci, Zespół Ratownictwa Medycznego oraz trzy zastępy straży pożarnej.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6e35c5b8-cb87-4519-bb9f-d6010a43d330"/>
 </item>
 </channel></rss>
