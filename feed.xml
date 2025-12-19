@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 19 Dec 2025 09:42:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 10:44:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Rozbój na dworcu PKP w Piotrkowie Trybunalskim. Prokuratura prowadzi śledztwo ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/rozboj-na-dworcu-pkp-w-piotrkowie-trybunalskim-prokuratura-prowadzi-sledztwo/iClGXFXEwcp8zLKScxis</link>
+<guid isPermaLink="false">9e1756e4377088bec667127c78411ed76e8602fb</guid>
+<pubDate>Fri, 19 Dec 2025 10:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9a3da95f-e401-4786-9b3f-0d43a63a2181" alt="miniatura"/></p><p>Zdarzenie miało miejsce w dniu 10 grudnia 2025 roku około godz. 19:00 na terenie poczekalni dworca PKP.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9a3da95f-e401-4786-9b3f-0d43a63a2181" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9a3da95f-e401-4786-9b3f-0d43a63a2181" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9a3da95f-e401-4786-9b3f-0d43a63a2181"/>
+</item>
 <item>
 <title><![CDATA[ Handlarz narkotykami zatrzymany pod Piotrkowem. To mieszkaniec naszego powiatu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/handlarz-narkotykami-zatrzymany-pod-piotrkowem-to-mieszkaniec-naszego-powiatu/VLz3wY1d2Qzc8Xpsu1cM</link>
@@ -249,16 +259,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -267,6 +267,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/edc02a99-20e1-4560-856e-85df2f579ab8" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/edc02a99-20e1-4560-856e-85df2f579ab8" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/edc02a99-20e1-4560-856e-85df2f579ab8"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na DK12 pod Piotrkowem z udziałem ciężarówki i osobówki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-dk12-pod-piotrkowem-z-udzialem-ciezarowki-i-osobowki/s3Mcufi7smmuaHFvz1Y6</link>
-<guid isPermaLink="false">fa9f1b02cc38d0715de43500be165105094eb4c1</guid>
-<pubDate>Fri, 24 Oct 2025 13:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/03ccd43b-f4df-4d75-ba22-e8044aec7099" alt="miniatura"/></p><p>W piątkowe południe, 24 października na DK12 na skrzyżowaniu z ul. Poprzeczną (Korytnica, powiat piotrkowski) doszło do groźnego zdarzenia drogowego z udziałem osobówki i ciężarówki.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/03ccd43b-f4df-4d75-ba22-e8044aec7099" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/03ccd43b-f4df-4d75-ba22-e8044aec7099" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/03ccd43b-f4df-4d75-ba22-e8044aec7099"/>
 </item>
 </channel></rss>
