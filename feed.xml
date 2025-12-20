@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 20 Dec 2025 14:35:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 15:38:25 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Miękkie, puszyste i pachnące świętami. Pani Klaudia z KGW zdradza sprawdzony przepis na pierniczki ]]></title>
@@ -19,7 +19,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7833e903-d492-4367-b5df-3eb8885ad56d"/>
 </item>
 <item>
-<title><![CDATA[ Ruiny znikną z mapy Piotrkowa. Wiemy, co powstanie na ich miejscu? ]]></title>
+<title><![CDATA[ Ruiny znikną z mapy Piotrkowa. Wiemy, co powstanie na ich miejscu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ruiny-znikna-z-mapy-piotrkowa-wiemy-co-powstanie-na-ich-miejscu/WtBnPkl3EgUGvPEG3LPp</link>
 <guid isPermaLink="false">1b3cd244fdcee8857e9232124ec57234a55c3c30</guid>
 <pubDate>Sat, 20 Dec 2025 09:02:00 +0000</pubDate>
