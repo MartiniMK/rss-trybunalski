@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 21 Dec 2025 16:43:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 17:33:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja służb na Łódzkiej w Piotrkowie. W tle narkotyki i nakaz aresztowania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-sluzb-na-lodzkiej-w-piotrkowie-w-tle-narkotyki-i-nakaz-aresztowania/pYwR9GbKATisGC33jYZv</link>
+<guid isPermaLink="false">38cc445cd864cb681b26cae55976edefbb940c12</guid>
+<pubDate>Sun, 21 Dec 2025 17:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d22c316-3b25-4af4-8b98-78da342209fb" alt="miniatura"/></p><p>Policjanci pojechali 9 grudnia na ul. Łódzką, aby sprawdzić, czy poszukiwany przez nich 24-latek przebywa w jednym z mieszkań. Mężczyzna był dobrze znany piotrkowskim funkcjonariuszom, dlatego działania zaplanowano tak, aby uniemożliwić mu ucieczkę. Jeden z wywiadowców obserwował przestrzeń przed oknami lokalu, drugi czekał na klatce schodowej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d22c316-3b25-4af4-8b98-78da342209fb" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d22c316-3b25-4af4-8b98-78da342209fb" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d22c316-3b25-4af4-8b98-78da342209fb"/>
+</item>
 <item>
 <title><![CDATA[ Pieszy potrącony na pasach w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pieszy-potracony-na-pasach-w-piotrkowie/FvkHGODLXnDR4hE0fdOj</link>
@@ -2369,16 +2379,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -2387,6 +2387,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
