@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 21 Dec 2025 08:44:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 09:38:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pieszy potrącony na pasach w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pieszy-potracony-na-pasach-w-piotrkowie/FvkHGODLXnDR4hE0fdOj</link>
+<guid isPermaLink="false">e2c30a048bf6b1562f0860ff6106eee8feab34af</guid>
+<pubDate>Sun, 21 Dec 2025 09:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99" alt="miniatura"/></p><p>Do potrącenia doszło około godz. 17:15 na Al. Kopernika w Piotrkowie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin nie dał rady medalistom poprzedniego sezonu! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-nie-dal-rady-medalistom-poprzedniego-sezonu/OcFbCIDeAxg2H5w3MHym</link>
@@ -2359,16 +2369,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -2377,6 +2377,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia z piątym zwycięstwem w sezonie! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-z-piatym-zwyciestwem-w-sezonie/jRU0rfDCycO7oGBqfrpR</link>
-<guid isPermaLink="false">14dc4a57d9af12f57444a59cc04cfaa8e94e6d09</guid>
-<pubDate>Sat, 25 Oct 2025 17:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0000988b-6a2d-45a5-afee-9d3ae33cb957" alt="miniatura"/></p><p>Podopieczne Horatiu Pasci świetnie zainaugurowały nowy sezon, wygrywając aż cztery z pięciu rozegranych dotychczas pojedynków, co przełożyło się na 12 wywalczonych punktów i trzecie miejsce w tabeli rozgrywek. Najcenniejszym skalpem była sensacyjna wygrana z PGE MKS-em El-Volt Lublin, jednym z kandydatów do mistrzowskiego tytułu. W sobotę 25 października szczypiornistki Piotrcovii, które wracały d…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0000988b-6a2d-45a5-afee-9d3ae33cb957" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0000988b-6a2d-45a5-afee-9d3ae33cb957" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0000988b-6a2d-45a5-afee-9d3ae33cb957"/>
 </item>
 </channel></rss>
