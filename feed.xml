@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 21 Dec 2025 21:34:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 22:38:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Przeszukano ponad 10 tysięcy hektarów. Wiadomo, ile padłych dzików znaleziono w powiecie piotrkowskim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przeszukano-ponad-10-tysiecy-hektarow-wiadomo-ile-padlych-dzikow-znaleziono-w-powiecie-piotrkowskim/76TIOJVf05NqvhMM3bzX</link>
+<guid isPermaLink="false">65ac7c381a02054806a5795c423c23d3c874b95f</guid>
+<pubDate>Sun, 21 Dec 2025 23:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/515e9c27-f60c-4b78-b4d6-c6166774f31a" alt="miniatura"/></p><p>W działaniach uczestniczyło ponad 400 osób, a tylko w ostatnim dniu było to około 140 ludzi, którzy objęli kontrolą blisko 2 tysiące hektarów. W sumie odnaleziono 37 padłych dzików – u 20 z nich potwierdzono obecność wirusa ASF, natomiast 17 miało wyniki ujemne.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/515e9c27-f60c-4b78-b4d6-c6166774f31a" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/515e9c27-f60c-4b78-b4d6-c6166774f31a" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/515e9c27-f60c-4b78-b4d6-c6166774f31a"/>
+</item>
 <item>
 <title><![CDATA[ Akcja służb na Łódzkiej w Piotrkowie. W tle narkotyki i nakaz aresztowania ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-sluzb-na-lodzkiej-w-piotrkowie-w-tle-narkotyki-i-nakaz-aresztowania/pYwR9GbKATisGC33jYZv</link>
@@ -3337,15 +3347,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowskie Morsy rozpoczęły sezon. Impreza w klimacie Halloween [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowskie-morsy-rozpoczely-sezon-impreza-w-klimacie-halloween-zdjecia/HUAvYpRGa8gYRVIM2r6Z</link>
-<guid isPermaLink="false">c5d5dc0dc82211ca34d597b25b545d8304f986c7</guid>
-<pubDate>Sat, 25 Oct 2025 23:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba" alt="miniatura"/></p><p>W sobotę, 25 października Piotrkowskie Morsy zainaugurowały kolejny sezon. Wydarzenie odbyło się na „Słoneczku”. Cała impreza przybrała klimat zbliżającego się Halloween. Morsy kreatywnie podeszły do tematu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3089a872-b1b9-4a4e-a61b-e64e320044ba"/>
 </item>
 </channel></rss>
