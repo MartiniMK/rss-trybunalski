@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 22 Dec 2025 15:40:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 16:46:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Był tu Szpital św. Trójcy i szpital żydowski w Piotrkowie. Lecznice zbudowano w tym samym czasie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/byl-tu-szpital-sw-trojcy-i-zydowski-w-piotrkowie-lecznice-zbudowano-w-tym-samym-czasie-zdjecia/SVeFWNUguFXrMOVFpQEn</link>
+<guid isPermaLink="false">33a69bcfeb6a59a15da80831cfa6fbdc83d498a5</guid>
+<pubDate>Mon, 22 Dec 2025 17:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/f4469ec1-b6c8-46ba-a885-34c98dfe75d9" alt="miniatura"/></p><p>Zespół ówcześnie nowych budynków szpitalnych wzniesiono w Piotrkowie w połowie XIX wieku. Kompleks między obecnymi ulicami Wojska Polskiego 2 i Zamkową 24 w Piotrkowie Trybunalskim zastąpił wcześniejsze lecznice w mieście.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/f4469ec1-b6c8-46ba-a885-34c98dfe75d9" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/f4469ec1-b6c8-46ba-a885-34c98dfe75d9" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/f4469ec1-b6c8-46ba-a885-34c98dfe75d9"/>
+</item>
 <item>
 <title><![CDATA[ Pożar w Piotrkowie Trybunalskim. Właściciel sam próbował walczyć z żywiołem, ewakuowano kilkanaście osób ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-piotrkowie-trybunalskim-wlasciciel-sam-probowal-walczyc-z-zywiolem-ewakuowano-kilkanascie-osob/7oWdejjAqjk7VGsnTDcd</link>
@@ -2449,16 +2459,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -2467,6 +2467,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3347,15 +3357,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10"/>
-</item>
-<item>
-<title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Wiadomo, o jakiej kwocie mowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/podwyzka-dla-prezydenta-piotrkowawiadomo-o-jakiej-kwocie-mowa/daOfedDKeOXauCK8wa65</link>
-<guid isPermaLink="false">57798500a92bcfda57ccdbd73bd70e8183ab4266</guid>
-<pubDate>Mon, 27 Oct 2025 15:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6b8d53b-fa97-41bc-9da9-1c9d0f071e08" alt="miniatura"/></p><p>Pojawił się projekt uchwały w sprawie ustalenia wynagrodzenia dla Prezydenta Miasta Piotrkowa Trybunalskiego. Przypomnijmy, że do tej pory włodarz miasta otrzymuje wynagrodzenie zasadnicze w kwocie 10 770 zł, dodatek funkcyjny w kwocie 3 450 zł oraz dodatek specjalny, w wysokości 30% sumy wynagrodzenia zasadniczego i dodatku funkcyjnego. W sumie to 18 486 zł. Zaproponowano jednak, by prezydent dos…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6b8d53b-fa97-41bc-9da9-1c9d0f071e08" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6b8d53b-fa97-41bc-9da9-1c9d0f071e08" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6b8d53b-fa97-41bc-9da9-1c9d0f071e08"/>
 </item>
 </channel></rss>
