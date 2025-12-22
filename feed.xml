@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 22 Dec 2025 11:35:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 13:09:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Świąteczne zmiany w kursowaniu MZK w Piotrkowie. Sprawdź aktualny rozkład ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swiateczne-zmiany-w-kursowaniu-mzk-w-piotrkowie-sprawdz-aktualny-rozklad/1UtfLEdphltVdE60p2k2</link>
+<guid isPermaLink="false">6c4e78151c630812d27bbfa5539036a8464634fe</guid>
+<pubDate>Mon, 22 Dec 2025 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/361adde7-d042-4af8-b9d4-52d8de9b3453" alt="miniatura"/></p><p>Jak pojadą autobusy MZK w czasie świąt i Nowego Roku? Rozkład jazdy Jeszcze przed świętami, 22 i 23 grudnia, autobusy będą kursować zgodnie z rozkładem obowiązującym w dni nauki szkolnej. Pierwsze zmiany pojawią się 24 grudnia, który w tym roku po raz pierwszy jest dniem ustawowo wolnym od pracy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/361adde7-d042-4af8-b9d4-52d8de9b3453" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/361adde7-d042-4af8-b9d4-52d8de9b3453" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/361adde7-d042-4af8-b9d4-52d8de9b3453"/>
+</item>
 <item>
 <title><![CDATA[ Ruchoma szopka w Piotrkowie Trybunalskim z lokomotywą jadącą... do tyłu. Musisz zobaczyć ją choć raz w życiu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ruchoma-szopka-w-piotrkowie-trybunalskim-z-lokomotywa-jadaca-do-tylu-musisz-zobaczyc-ja-choc-raz-w-zyciu/2f0Dkh2JTIM55e3tmqDc</link>
@@ -2429,16 +2439,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -2447,6 +2447,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3347,15 +3357,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71156e82-92fb-4022-847b-4901bf72e3da" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71156e82-92fb-4022-847b-4901bf72e3da" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71156e82-92fb-4022-847b-4901bf72e3da"/>
-</item>
-<item>
-<title><![CDATA[ Wielkie świętowanie w Piotrkowie. Odebrali medale Prezydenta RP [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielkie-swietowanie-w-piotrkowie-odebrali-medale-prezydenta-rp-zdjecia/tqHMGHAwhvWZI5GkbVS7</link>
-<guid isPermaLink="false">0a72800846451b77e7206284369a53fc820e65e1</guid>
-<pubDate>Mon, 27 Oct 2025 12:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/adfa5258-bb57-41ad-896e-19897805f600" alt="miniatura"/></p><p>W sobotę, 25 października w Urzędzie Stanu Cywilnego w Piotrkowie Trybunalskim rozbrzmiał Marsz Mendelsona. Wszystko za sprawą uroczystości złotych godów. Pary odebrały pamiątkowe medale.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/adfa5258-bb57-41ad-896e-19897805f600" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/adfa5258-bb57-41ad-896e-19897805f600" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/adfa5258-bb57-41ad-896e-19897805f600"/>
 </item>
 </channel></rss>
