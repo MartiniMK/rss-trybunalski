@@ -6,10 +6,20 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 22 Dec 2025 09:47:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 10:43:11 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Najpiękniejsze kartki online z życzeniami na Boże Narodzenie 2025. Pobierz i wyślij swoim bliskim ]]></title>
+<title><![CDATA[ Wybuchł pożar w domu w powiecie piotrkowskim. W środku przebywała kobieta z trójką dzieci ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wybuchl-pozar-w-domu-w-powiecie-piotrkowskim-w-srodku-przebywala-kobieta-z-trojka-dzieci/HuugJfzlEoMEYC9Ne1up</link>
+<guid isPermaLink="false">ab052fe2d292c6eb94d2b52442c5166f56910892</guid>
+<pubDate>Mon, 22 Dec 2025 11:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe743c64-f45f-4478-a71e-3ce59bc103ad" alt="miniatura"/></p><p>Przed godz. 10:00 strażacy otrzymali zgłoszenie o pożarze domu we Włodzimierzowie, w powiecie piotrkowskim. W związku z tym na miejsce wysłano od razu 5 zastępów straży pożarnej - 3 jednostki z Piotrkowa Trybunalskiego i 2 z Przygłowa</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe743c64-f45f-4478-a71e-3ce59bc103ad" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe743c64-f45f-4478-a71e-3ce59bc103ad" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe743c64-f45f-4478-a71e-3ce59bc103ad"/>
+</item>
+<item>
+<title><![CDATA[ Gotowe kartki online z życzeniami na Boże Narodzenie 2025. Pobierz i wyślij swoim bliskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-kartki-online-z-zyczeniami-na-boze-narodzenie-2025-pobierz-i-wyslij-swoim-bliskim/h4EN1Y8c6DS6zHpinl0D</link>
 <guid isPermaLink="false">090a6cc35c4bbb94dae639f6177bef43d202981b</guid>
 <pubDate>Mon, 22 Dec 2025 10:31:00 +0000</pubDate>
@@ -2409,16 +2419,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -2427,6 +2427,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3347,15 +3357,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/585a199d-cfb0-4b3b-91d7-e26fd408ff7b" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/585a199d-cfb0-4b3b-91d7-e26fd408ff7b" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/585a199d-cfb0-4b3b-91d7-e26fd408ff7b"/>
-</item>
-<item>
-<title><![CDATA[ Poszukują sprzątaczki na pełen etat. Ile płacą? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/poszukuja-sprzataczki-na-pelen-etat-ile-placa/TtIhkPYTb4MaLfEwnAto</link>
-<guid isPermaLink="false">6c88bdc97082c763060a3fbfa3a5a92f9fe32a01</guid>
-<pubDate>Mon, 27 Oct 2025 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5" alt="miniatura"/></p><p>Na portalu epraca.pl pojawiły się ogłoszenia o pracę jako sprzątaczka. Przedsiębiorstwo Produkcyjno-Usługowe "CZA-TA" Niciak Spółka Jawna oferuje pracę na pół etatu i pełen etat. Praca: Sprzątaczka na pół etatu w Piotrkowie Trybunalskim To oferta pracy na 1/2 zmiany z umową o pracę na okres próbny. Wynagrodzenie brutto wynosi minimum 2 333 zł. Do obowiązków pracownika należeć będzie sprzątanie pom…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5"/>
 </item>
 </channel></rss>
