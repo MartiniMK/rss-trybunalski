@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 22 Dec 2025 06:55:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 07:41:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wyłączą prąd w Piotrkowie przed świetami? Sprawdź, kogo PGE ostrzega przed utrudnieniami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wylacza-prad-w-piotrkowie-przed-swietami-sprawdz-kogo-pge-ostrzega-przed-utrudnieniami/nQH30I0Ts8qGJ5snHZyP</link>
+<guid isPermaLink="false">847614cb76ba9455535aed830e753fab3d047b0b</guid>
+<pubDate>Mon, 22 Dec 2025 07:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/386f0687-28b1-48c0-a16c-be12d9dc1bb7" alt="miniatura"/></p><p>PGE Dystrybucja ostrzega na swojej stronie mieszkańców Piotkrowa i powiatu piotrkowskiego przed przerwami w dostawie energii elektrycznej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/386f0687-28b1-48c0-a16c-be12d9dc1bb7" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/386f0687-28b1-48c0-a16c-be12d9dc1bb7" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/386f0687-28b1-48c0-a16c-be12d9dc1bb7"/>
+</item>
 <item>
 <title><![CDATA[ Przeszukano ponad 10 tysięcy hektarów. Wiadomo, ile padłych dzików znaleziono w powiecie piotrkowskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/przeszukano-ponad-10-tysiecy-hektarow-wiadomo-ile-padlych-dzikow-znaleziono-w-powiecie-piotrkowskim/76TIOJVf05NqvhMM3bzX</link>
