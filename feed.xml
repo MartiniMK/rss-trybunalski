@@ -6,10 +6,20 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 22 Dec 2025 08:50:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 09:47:39 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Wyłączą prąd w Piotrkowie przed świetami? Sprawdź, kogo PGE ostrzega przed utrudnieniami ]]></title>
+<title><![CDATA[ Najpiękniejsze kartki online z życzeniami na Boże Narodzenie 2025. Pobierz i wyślij swoim bliskim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najpiekniejsze-kartki-online-z-zyczeniami-na-boze-narodzenie-2025-pobierz-i-wyslij-swoim-bliskim/h4EN1Y8c6DS6zHpinl0D</link>
+<guid isPermaLink="false">090a6cc35c4bbb94dae639f6177bef43d202981b</guid>
+<pubDate>Mon, 22 Dec 2025 10:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/24038e0f-2818-40cc-bf0d-b0d2e259fb48" alt="miniatura"/></p><p>Święta to wyjątkowy, wręcz magiczny czas – moment, w którym na chwilę zwalniamy, jesteśmy bliżej siebie i pamiętamy o tych najbliższych, chcąc przekazać im dobre słowo. Co za tym idzie, to doskonała okazja do składania życzeń, wysyłania ciepłych myśli i drobnych gestów, które potrafią wywołać uśmiech. Z myślą o naszych Czytelnikach przygotowaliśmy gotowe do pobrania kartki z życzeniami , które moż…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/24038e0f-2818-40cc-bf0d-b0d2e259fb48" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/24038e0f-2818-40cc-bf0d-b0d2e259fb48" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/24038e0f-2818-40cc-bf0d-b0d2e259fb48"/>
+</item>
+<item>
+<title><![CDATA[ Wyłączą prąd w Piotrkowie przed świętami? Sprawdź, kogo PGE ostrzega przed utrudnieniami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wylacza-prad-w-piotrkowie-przed-swietami-sprawdz-kogo-pge-ostrzega-przed-utrudnieniami/nQH30I0Ts8qGJ5snHZyP</link>
 <guid isPermaLink="false">847614cb76ba9455535aed830e753fab3d047b0b</guid>
 <pubDate>Mon, 22 Dec 2025 07:50:00 +0000</pubDate>
@@ -2399,16 +2409,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -2417,6 +2417,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3347,15 +3357,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e696f07-afbc-4a6c-82dd-482807e601d5"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin rozbity przez zespól z Kalisza! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-rozbity-przez-zespol-z-kalisza/IM6YRqPxEybCaTY40VvI</link>
-<guid isPermaLink="false">5d0baeec49ed5630dffbfa72ab4d2da554b5767e</guid>
-<pubDate>Sun, 26 Oct 2025 21:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" alt="miniatura"/></p><p>Po ośmiu seriach Piotrkowianin zajmował dopiero dwunaste, czyli przedostatnie miejsce w tabeli, ale terminarz dawał nadzieję na kolejne zdobycze punktowe i awans na wyższą pozycję. Zwłaszcza, że w poprzedniej serii gier podopieczni Michała Matyjasika pokonali po serii rzutów karnych drużynę Handball Stali Mielec i to na wyjeździe.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fd3b2cc9-c94c-437b-bae6-7e7a3631b934"/>
 </item>
 </channel></rss>
