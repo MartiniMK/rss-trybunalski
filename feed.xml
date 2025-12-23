@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 23 Dec 2025 11:37:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 13:09:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowa inwestycja na DK12 pod Piotrkowem. Skorzystają mieszkańcy całego regionu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-na-dk12-pod-piotrkowem-skorzystaja-mieszkancy-calego-regionu/ky9tuZPeDh2BWjIntqgf</link>
+<guid isPermaLink="false">6bd399de3a98c30d9a829c0d15b69cc7153fd0b6</guid>
+<pubDate>Tue, 23 Dec 2025 13:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c45f2d1-0af2-4ae7-8d15-408b91a41ef4" alt="miniatura"/></p><p>Inwestycja o wartości niemal 6 milionów złotych ma zostać ukończona w ciągu 33 miesięcy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c45f2d1-0af2-4ae7-8d15-408b91a41ef4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c45f2d1-0af2-4ae7-8d15-408b91a41ef4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c45f2d1-0af2-4ae7-8d15-408b91a41ef4"/>
+</item>
 <item>
 <title><![CDATA[ Nauczycielki z Piotrkowa z awansami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nauczycielki-z-piotrkowa-z-awansami/1B6XHpzExTJNPJ0Ddg8W</link>
@@ -3337,15 +3347,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3b4045d9-c682-44ed-a220-f8bfcbc507bb" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3b4045d9-c682-44ed-a220-f8bfcbc507bb" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3b4045d9-c682-44ed-a220-f8bfcbc507bb"/>
-</item>
-<item>
-<title><![CDATA[ Siostry Kafar w wyjątkowej akcji. Poruszające nagranie z piotrkowiankami pojawiło się w sieci ]]></title>
-<link>https://trybunalski.pl/wiadomosci/siostry-kafar-w-wyjatkowej-akcji-poruszajace-nagranie-z-piotrkowiankami-pojawilo-sie-w-sieci/NWfSy15i8SEvONoEA2Qx</link>
-<guid isPermaLink="false">1dab19b4aeb623761c9aef5720d003eb0e0ca24a</guid>
-<pubDate>Tue, 28 Oct 2025 11:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29632748-3526-4fc2-83f6-a3d497159903" alt="miniatura"/></p><p>Siostry Kafar z Piotrkowa promują pilną zbiórkę Julia i Zuzia Kafar z Piotrkowa złożyły wizytę w Klinice Onkologii i Chirurgii Onkologicznej Dzieci i Młodzieży w Warszawie. Wspólnie zagrały i zaśpiewały z 12-letnią Łucją, która choruje na złośliwy nowotwór. Dziewczyny łączy pasja do muzyki i chęć pomagania innym, dlatego to trio to połączenie wyjątkowe.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29632748-3526-4fc2-83f6-a3d497159903" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29632748-3526-4fc2-83f6-a3d497159903" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29632748-3526-4fc2-83f6-a3d497159903"/>
 </item>
 </channel></rss>
