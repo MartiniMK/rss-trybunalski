@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 23 Dec 2025 07:41:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 08:49:23 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Był tu Szpital św. Trójcy i szpital żydowski w Piotrkowie. Lecznice zbudowano w tym samym czasie [ZDJĘCIA] ]]></title>
