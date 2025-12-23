@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 23 Dec 2025 08:49:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 09:43:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Życzenia na Boże Narodzenie 2025. Krótkie, długie - gotowe do wysłania rodzinie i przyjaciołom ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zyczenia-na-boze-narodzenie-2025-krotkie-dlugie-gotowe-do-wyslania-rodzinie-i-przyjaciolom/qRMDpVxTwHSq1OGjUU42</link>
+<guid isPermaLink="false">68c140f053b32dc2003c6efca0a97f0634be680b</guid>
+<pubDate>Tue, 23 Dec 2025 10:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ef971709-e1a1-4aad-ad1f-215b41f3bac1" alt="miniatura"/></p><p>Krótkie życzenia na Boże Narodzenie 2025. Gotowe do wysłania 1. Wesołych Świąt Bożego Narodzenia! Dużo spokoju, zdrowia i radości ze wspólnie spędzonego czasu. Niech te dni będą naprawdę przyjemne i bez pośpiechu.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ef971709-e1a1-4aad-ad1f-215b41f3bac1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ef971709-e1a1-4aad-ad1f-215b41f3bac1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ef971709-e1a1-4aad-ad1f-215b41f3bac1"/>
+</item>
 <item>
 <title><![CDATA[ Był tu Szpital św. Trójcy i szpital żydowski w Piotrkowie. Lecznice zbudowano w tym samym czasie [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/byl-tu-szpital-sw-trojcy-i-zydowski-w-piotrkowie-lecznice-zbudowano-w-tym-samym-czasie-zdjecia/SVeFWNUguFXrMOVFpQEn</link>
@@ -409,16 +419,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -427,6 +427,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3347,15 +3357,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/675f3edd-7b14-4fbe-807b-9436de4361e0" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/675f3edd-7b14-4fbe-807b-9436de4361e0" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/675f3edd-7b14-4fbe-807b-9436de4361e0"/>
-</item>
-<item>
-<title><![CDATA[ Trzech pijanych kierowców zatrzymanych w Piotrkowie i powiecie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/trzech-pijanych-kierowcow-zatrzymanych-w-piotrkowie-i-powiecie/EU2HF8M59aAKOhEoDeNF</link>
-<guid isPermaLink="false">ca3ac31a6dd0a1e649d9d6e5b88e44909ad9831b</guid>
-<pubDate>Mon, 27 Oct 2025 16:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10" alt="miniatura"/></p><p>Kontrole drogowe w Piotrkowie i powiecie W sobotę, 25 października 2025 roku kilka minut po północy funkcjonariusze piotrkowskiej komendy zatrzymali na ul. Wojska Polskiego 47-letniego kierowcę, który jechał chaotycznie, gwałtownie przyśpieszał i hamował. Badanie wykazało ponad promil alkoholu w organizmie.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5878f9d8-a9c1-41e8-82e1-b56a99f9bc10"/>
 </item>
 </channel></rss>
