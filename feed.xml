@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 27 Dec 2025 11:33:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 13:04:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zarządzanie kryzysowe ostrzega mieszkańców woj. łódzkiego. Uwaga na mostach i wiaduktach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zarzadzanie-kryzysowe-ostrzega-mieszkancow-woj-lodzkiego-uwaga-na-mostach-i-wiaduktach/5me5IoqIQHFZGYIgCNfJ</link>
+<guid isPermaLink="false">f0e98287b479e1f18e6db630e4f9182ac495d411</guid>
+<pubDate>Sat, 27 Dec 2025 12:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2d585620-a47b-40a1-a53a-d5f8426ec02e" alt="miniatura"/></p><p>Ostrzeżenie IMGW: zagrożenie pierwszego stopnia w 16 powiatach Jak informuje Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy , od godziny 20:00 w sobotę 27 grudnia do godziny 7:00 w niedzielę 28 grudnia obowiązuje ostrzeżenie pierwszego stopnia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2d585620-a47b-40a1-a53a-d5f8426ec02e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2d585620-a47b-40a1-a53a-d5f8426ec02e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2d585620-a47b-40a1-a53a-d5f8426ec02e"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek na A1 pod Piotrkowem. Dwie osoby zabrane do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-a1-pod-piotrkowem-dwie-osoby-zabrane-do-szpitala/ZOHv5WcjIVoT4wSgWt2z</link>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232"/>
-</item>
-<item>
-<title><![CDATA[ Puchar Polski nie dla Piotrkowianina! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-nie-dla-piotrkowianina/OPYtN9IBcZyvpez3iIKr</link>
-<guid isPermaLink="false">6966feb44c96b6512d18f4e227e8f48b2909267d</guid>
-<pubDate>Wed, 29 Oct 2025 11:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c" alt="miniatura"/></p><p>Trzeci zespół Ligi Centralnej, czyli zaplecza elity, okazał się za mocny dla Piotrkowianina Piotrków Trybunalski, a to oznacza, że drużyna Michała Matyjasika kończy przygodę z Pucharem Polski już na etapie drugiej rundy eliminacyjnej. Drużyna gospodarza okazała się lepsza od piotrkowian po bardzo zaciętym i emocjonującym boju.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c"/>
 </item>
 </channel></rss>
