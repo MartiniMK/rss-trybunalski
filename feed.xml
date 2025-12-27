@@ -6,29 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 27 Dec 2025 10:41:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 11:33:51 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/dzien-30112025-jest-niedziela-handlowa-czy-i-jak-pracuja-lidl-biedronka-kaufland-i-inne-sklepy/nBYpZ4MwnKIM346cnFJd ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dzien-30112025-jest-niedziela-handlowa-czy-i-jak-pracuja-lidl-biedronka-kaufland-i-inne-sklepy/nBYpZ4MwnKIM346cnFJd</link>
-<guid isPermaLink="false">6f908bb5c25da60f3caa5142b12e56028f8c0fb9</guid>
-<pubDate>Sat, 27 Dec 2025 10:41:09 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-trzech-samochodow-w-piotrkowie-jedna-osoba-zabrana-do-szpitala/nCTTpKeCqOf4CJQnRzan ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-trzech-samochodow-w-piotrkowie-jedna-osoba-zabrana-do-szpitala/nCTTpKeCqOf4CJQnRzan</link>
-<guid isPermaLink="false">921f415a7605754c62ade9ca2a6c34b143501015</guid>
-<pubDate>Sat, 27 Dec 2025 10:41:09 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
-<item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/narazil-male-dzieci-i-zone-na-powazne-niebezpieczenstwo-piotrkowscy-policjanci-zatrzymali-pijanego-kierowce/BbE1aCCD03GFrTbS4UE7 ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/narazil-male-dzieci-i-zone-na-powazne-niebezpieczenstwo-piotrkowscy-policjanci-zatrzymali-pijanego-kierowce/BbE1aCCD03GFrTbS4UE7</link>
-<guid isPermaLink="false">d6353c4b4065b1e81c047aa7fb68cc52a088efa0</guid>
-<pubDate>Sat, 27 Dec 2025 10:41:09 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
-</item>
 <item>
 <title><![CDATA[ Wypadek na A1 pod Piotrkowem. Dwie osoby zabrane do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-a1-pod-piotrkowem-dwie-osoby-zabrane-do-szpitala/ZOHv5WcjIVoT4wSgWt2z</link>
@@ -510,16 +489,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -528,6 +497,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -1340,6 +1319,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/85b030e7-dc8d-49a2-b3b5-d1e31b4ee5ee"/>
 </item>
 <item>
+<title><![CDATA[ Naraził małe dzieci i żonę na poważne niebezpieczeństwo. Piotrkowscy policjanci zatrzymali pijanego kierowcę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/narazil-male-dzieci-i-zone-na-powazne-niebezpieczenstwo-piotrkowscy-policjanci-zatrzymali-pijanego-kierowce/BbE1aCCD03GFrTbS4UE7</link>
+<guid isPermaLink="false">d6353c4b4065b1e81c047aa7fb68cc52a088efa0</guid>
+<pubDate>Mon, 01 Dec 2025 12:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8d28dbd8-b993-488e-81c6-b3d57bafef11" alt="miniatura"/></p><p>Do dwóch zatrzymań doszło na terenie powiatu piotrkowskiego. Pierwszy na gorącym uczynku zatrzymany został kierowca, który przewoził dwójkę małych dzieci w wieku 3 i 8 lat.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8d28dbd8-b993-488e-81c6-b3d57bafef11" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8d28dbd8-b993-488e-81c6-b3d57bafef11" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8d28dbd8-b993-488e-81c6-b3d57bafef11"/>
+</item>
+<item>
 <title><![CDATA[ Pijany kierowca wjechał słup i uciekł. Jest już w rękach policji i odpowie za kilka wykroczeń ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pijany-kierowca-wjechal-slup-i-uciekl-jest-juz-w-rekach-policji-i-odpowie-za-kilka-wykroczen/dVZKDW9C0jlo9G1IHrki</link>
 <guid isPermaLink="false">6513a27d82ab44770fdb355502e0557dce4f3823</guid>
@@ -1400,6 +1389,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28"/>
 </item>
 <item>
+<title><![CDATA[ Wypadek trzech samochodów w Piotrkowie. Jedna osoba zabrana do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-trzech-samochodow-w-piotrkowie-jedna-osoba-zabrana-do-szpitala/nCTTpKeCqOf4CJQnRzan</link>
+<guid isPermaLink="false">921f415a7605754c62ade9ca2a6c34b143501015</guid>
+<pubDate>Sat, 29 Nov 2025 13:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" alt="miniatura"/></p><p>Zdarzenie miało miejsce w sobotę, 29 listopada około godz. 11:50 na ul. Belzackiej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52"/>
+</item>
+<item>
 <title><![CDATA[ O krok od tragedii w Piotrkowie. W ostatniej chwili zauważył rowerzystę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/o-krok-od-tragedii-w-piotrkowie-w-ostatniej-chwili-zauwazyl-rowerzyste/NHDXbBN2oBHaemTsOat6</link>
 <guid isPermaLink="false">9b579a67d17f0c79600516d67fdd4ca17aff12c2</guid>
@@ -1408,6 +1407,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/231db36d-958b-4867-b466-83057bf6277d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/231db36d-958b-4867-b466-83057bf6277d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/231db36d-958b-4867-b466-83057bf6277d"/>
+</item>
+<item>
+<title><![CDATA[ Czy jutro 30.11.2025 jest niedziela handlowa? Czy i jak pracują Lidl, Biedronka, Kaufland i inne sklepy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dzien-30112025-jest-niedziela-handlowa-czy-i-jak-pracuja-lidl-biedronka-kaufland-i-inne-sklepy/nBYpZ4MwnKIM346cnFJd</link>
+<guid isPermaLink="false">6f908bb5c25da60f3caa5142b12e56028f8c0fb9</guid>
+<pubDate>Sat, 29 Nov 2025 09:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/72cca850-a650-4eda-aa0f-28a3726145ce" alt="miniatura"/></p><p>Niedziele handlowe w 2025 roku Obowiązująca od 2018 roku ustawa stopniowo ograniczyła handel w niedziele, ale w kalendarzu przewidziano kilka wyjątków. Standardowo były to ostatnie niedziele: stycznia, kwietnia, czerwca i sierpnia, a także niedziela przed Wielkanocą i dwie poprzedzające Boże Narodzenie. Wtedy bez problemu można było zrobić zakupy w niedzielę, tzw. handlową.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/72cca850-a650-4eda-aa0f-28a3726145ce" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/72cca850-a650-4eda-aa0f-28a3726145ce" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/72cca850-a650-4eda-aa0f-28a3726145ce"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowski Hortex na Krzywdzie. Piotrkowianie przychodzili tu na melbę i ambrozję [ZDJĘCIA] ]]></title>
@@ -1420,11 +1429,14 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/f027f2b2-deec-4355-bc45-872b20e88ca9"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/konkurs-na-dyrektora-w-piotrkowie-kto-pokieruje-placowka/WCf3sWaHTYPOumjGh5Jx ]]></title>
+<title><![CDATA[ Konkurs na dyrektora w Piotrkowie. Kto pokieruje placówką? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/konkurs-na-dyrektora-w-piotrkowie-kto-pokieruje-placowka/WCf3sWaHTYPOumjGh5Jx</link>
 <guid isPermaLink="false">eff2d69018045f0e8056aefaa5b2e0ef3532f692</guid>
 <pubDate>Fri, 28 Nov 2025 15:33:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53057d7d-2322-46ae-a155-963824c6193c" alt="miniatura"/></p><p>Zgodnie z zapowiedziami, piotrkowski magistrat ogłosił konkurs na stanowisko dyrektora Miejskiego Ośrodka Kultury w naszym mieście. Sprawdzamy, jakie wymagania stawia się kandydatom i do kiedy można ubiegać się o tę posadę.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53057d7d-2322-46ae-a155-963824c6193c" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53057d7d-2322-46ae-a155-963824c6193c" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53057d7d-2322-46ae-a155-963824c6193c"/>
 </item>
 <item>
 <title><![CDATA[ W tych rejonach Piotrkowa lepiej uważać. Kradzieże, wandalizm i alkohol na celowniku policji ]]></title>
@@ -3285,15 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a4ce13f-7f66-45e5-be43-aeab1c317f6c"/>
-</item>
-<item>
-<title><![CDATA[ Napadli na market w Piotrkowie. Ochroniarz dostał... butelką ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaatakowal-ochroniarza-butelka-kradziez-rozbojnicza-w-piotrkowie-trybunalskim/H788KetPI7vVKLOThnKK</link>
-<guid isPermaLink="false">fe52ef9f3a8b6d2c8073d9b8f8e681a633ce3d2f</guid>
-<pubDate>Wed, 29 Oct 2025 11:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" alt="miniatura"/></p><p>Kradzież rozbójnicza w Piotrkowie Trybunalskim W Piotrkowie Trybunalskim doszło do kradzieży rozbójniczej w jednym z dyskontów na terenie miasta. Sprawcy, tj. 25-letni mężczyzna i 19-letnia kobieta , zostali zatrzymani przez policję po tym, jak w trakcie kradzieży doszło do agresywnego incydentu z ochroniarzem.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5e4600b6-8307-42ed-9090-3d92a540af50"/>
 </item>
 </channel></rss>
