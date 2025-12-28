@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 28 Dec 2025 17:34:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 18:49:47 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Osobówka spłonęła pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/osobowka-splonela-pod-piotrkowem/ObTLGvW0zUHHu5Akpcur</link>
+<guid isPermaLink="false">8b6910b41d67a0dfd265464bf3f5ff7ce425caa4</guid>
+<pubDate>Sun, 28 Dec 2025 18:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/02594700-4fe0-4603-afde-9b4a093fefb6" alt="miniatura"/></p><p>O godz. 15:00 strażacy dostali zgłoszenie, że w m. Wiaderno (powiat tomaszowski) doszło do pożaru samochodu osobowego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/02594700-4fe0-4603-afde-9b4a093fefb6" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/02594700-4fe0-4603-afde-9b4a093fefb6" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/02594700-4fe0-4603-afde-9b4a093fefb6"/>
+</item>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Epicki bój Piotrcovii z mistrzyniami Polski! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-epicki-boj-piotrcovii-z-mistrzyniami-polski/ITzsOGhcJjjFaozY3jnV</link>
+<guid isPermaLink="false">c2d01ced6265531ab3399d8b2f282d16af869c54</guid>
+<pubDate>Sun, 28 Dec 2025 18:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bf8c4b17-bff9-4fc3-9de2-6fdc138923a5" alt="miniatura"/></p><p>Zespół z Piotrkowa Trybunalskiego w bieżącym sezonie ORLEN Superligi Kobiet spisuje się bardzo dobrze, osiągając wyniki ponad stan. Podopieczne trenera Horatiu Pasci przed rywalizacją z „Miedziowymi” przegrały tylko dwa spotkania i zajmowały drugie miejsce w tabeli. Pierwsza z tych porażek miała miejsce właśnie Lubinie z miejscowym Zagłębiem, druga tuż przed świętami w Gnieźnie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bf8c4b17-bff9-4fc3-9de2-6fdc138923a5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bf8c4b17-bff9-4fc3-9de2-6fdc138923a5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bf8c4b17-bff9-4fc3-9de2-6fdc138923a5"/>
+</item>
 <item>
 <title><![CDATA[ Czy jutro, 28 grudnia 2025 jest niedziela handlowa? Co będzie otwarte, a co zamknięte? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czy-jutro-28-grudnia-2025-jest-niedziela-handlowa-co-bedzie-otwarte-a-co-zamkniete/4y02cR2ST6DGZyaNWxBS</link>
@@ -509,16 +529,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -527,6 +537,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3297,15 +3317,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0"/>
-</item>
-<item>
-<title><![CDATA[ Dziewczynka z wycinanką. Zobacz nowy mural w Piotrkowie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziewczynka-z-wycinanka-zobacz-nowy-mural-w-piotrkowie-zdjecia/dtWafD5MCQrDeFldKDk3</link>
-<guid isPermaLink="false">3535877f8c6bf21e1d3545ccc99c9a22d8ee2f0f</guid>
-<pubDate>Wed, 29 Oct 2025 14:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232" alt="miniatura"/></p><p>Ścianę jednego z budynków w Piotrkowie Trybunalskim zdobi nowy mural. Malunek jest inspirowany sztuką ludową regionu łódzkiego i wita wjeżdżających do miasta. Nosi tytuł „Dziewczynka z wycinanką”.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/32a14cd4-bb26-4d7e-838c-0b800d46b232"/>
 </item>
 </channel></rss>
