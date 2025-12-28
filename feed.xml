@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 28 Dec 2025 21:35:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 22:38:10 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Osobówka spłonęła pod Piotrkowem ]]></title>
@@ -3307,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2536e681-b798-431d-bcc8-08359ba59cb8" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2536e681-b798-431d-bcc8-08359ba59cb8" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2536e681-b798-431d-bcc8-08359ba59cb8"/>
-</item>
-<item>
-<title><![CDATA[ Przed nami Wszystkich Świętych 2025. Ile kosztują znicze i kwiaty w Piotrkowie? [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/przed-nami-wszystkich-swietych-2025-trwaja-ile-kosztuja-znicze-i-kwiaty-w-piotrkowie/5UmK4TNDXGcyr6eFCToK</link>
-<guid isPermaLink="false">3d415d33c2239162ba6e2da5f6f1ef73fd50a43d</guid>
-<pubDate>Wed, 29 Oct 2025 15:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0" alt="miniatura"/></p><p>Na piotrkowskich cmentarzach panuje spory ruch. Wszystko za sprawą zbliżającego się Święta Zmarłych. Nie inaczej jest w okolicach nekropolii, gdzie sprzedawcy oferują wkłady, znicze i kwiaty w najróżniejszych cenach, wielkościach i kolorach. Sprawdzamy, jakie produkty widnieją na stoiskach.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/84501fac-0a1d-49f5-b0f7-196176ddaee0"/>
 </item>
 </channel></rss>
