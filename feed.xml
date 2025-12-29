@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 29 Dec 2025 13:10:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 14:39:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Co zrobić z jedzeniem po świętach? Lista, gdzie działają społeczne lodówki z Łódzkiem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/co-zrobic-z-jedzeniem-po-swietach-lista-gdzie-dzialaja-spoleczne-lodowki-z-lodzkiem/wYLxTuASwWbS8ILuq5g5</link>
+<guid isPermaLink="false">4228cc51cb69259e0f51c2e271f39662f9a9c0d4</guid>
+<pubDate>Mon, 29 Dec 2025 15:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92ced303-37e3-45d2-8c22-7f4ee12ece6e" alt="miniatura"/></p><p>Lodówki społeczne działają na terenie całego województwa łódzkiego. Nie brakuje ich także w Piotrkowie Trybunalskim i powiecie piotrkowskim. Zobacz, gdzie w naszym regionie chętni mogą podzielić się jedzeniem za pośrednictwem "lodówki".</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92ced303-37e3-45d2-8c22-7f4ee12ece6e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92ced303-37e3-45d2-8c22-7f4ee12ece6e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92ced303-37e3-45d2-8c22-7f4ee12ece6e"/>
+</item>
 <item>
 <title><![CDATA[ Zmiany w kursowaniu autobusów MZK w Piotrkowie w Sylwestra ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmiany-w-kursowaniu-autobusow-mzk-w-piotrkowie-w-sylwestra/ei1WQDiRCyA8HRrK9PVx</link>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1ee1d6fd-2e1d-4a71-9bf2-b9915b942406" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1ee1d6fd-2e1d-4a71-9bf2-b9915b942406" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1ee1d6fd-2e1d-4a71-9bf2-b9915b942406"/>
-</item>
-<item>
-<title><![CDATA[ Kompletnie pijany Kolumbijczyk zatrzymany pod Piotrkowem. Zajęła się nim Straż Graniczna ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kompletnie-pijany-kolumbijczyk-zatrzymany-pod-piotrkowem-zajela-sie-nim-straz-graniczna/iNNTml2NMwAj8U0YpArE</link>
-<guid isPermaLink="false">7e8111924380ae9a2f8633a5586891f077881795</guid>
-<pubDate>Thu, 30 Oct 2025 11:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485" alt="miniatura"/></p><p>W niedzielę, 26 października po godz. 17:00 do piotrkowskiej jednostki wpłynęło zgłoszenie dotyczące mężczyzny, który doprowadził do kolizji na S8. Kierowca seata miał nie zatrzymać się po zdarzeniu i odjechać.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485"/>
 </item>
 </channel></rss>
