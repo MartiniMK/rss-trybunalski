@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 29 Dec 2025 11:35:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 13:10:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zmiany w kursowaniu autobusów MZK w Piotrkowie w Sylwestra ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmiany-w-kursowaniu-autobusow-mzk-w-piotrkowie-w-sylwestra/ei1WQDiRCyA8HRrK9PVx</link>
+<guid isPermaLink="false">52eddbd9abfcf23365c5a845b702f9b1001e1e0b</guid>
+<pubDate>Mon, 29 Dec 2025 13:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ff5a5042-2dd1-42af-acc1-d45b2555945d" alt="miniatura"/></p><p>Od godziny 16:00 zamknięta dla ruchu zostanie ulica Słowackiego na odcinku od ul. Sienkiewicza do placu Kościuszki. W tym rejonie miasta odbędzie się sylwestrowa potańcówka, co wiąże się ze zmianami tras autobusów komunikacji miejskiej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ff5a5042-2dd1-42af-acc1-d45b2555945d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ff5a5042-2dd1-42af-acc1-d45b2555945d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ff5a5042-2dd1-42af-acc1-d45b2555945d"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga kierowcy! Autobus MZK zderzył się z osobówką ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/uwaga-kierowcy-autobus-mzk-zderzyl-sie-z-osobowka/lsx6V8rbbr7xt5xa5QZr</link>
+<guid isPermaLink="false">93aeb7899b006d00650fabf2fde701cc8fa8ff30</guid>
+<pubDate>Mon, 29 Dec 2025 13:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1" alt="miniatura"/></p><p>W poniedziałek, 29 grudnia w południe doszło w Piotrkowie Trybunalskim do niebezpiecznego zdarzenia drogowego. Na skrzyżowaniu ul. Jerozolimskiej z ul. Rzemieślniczą zderzył się autobus MZK z osobową skodą.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1"/>
+</item>
+<item>
+<title><![CDATA[ Na niebie pojawiła się choinka. To sprawka pilotów z piotrkowskiego aeroklubu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-niebie-pojawila-sie-choinka-to-sprawka-pilotow-z-piotrkowskiego-aeroklubu/AW5ZsEkYP62CHrNvNZJI</link>
+<guid isPermaLink="false">5c1f6daf840a01ea936b45f7a49e6c0f9a9b12ae</guid>
+<pubDate>Mon, 29 Dec 2025 12:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" alt="miniatura"/></p><p>Dwaj piloci związani z Aeroklubem Ziemi Piotrkowskiej postanowili w niecodzienny sposób przedłużyć świąteczną atmosferę. Michał Wencel oraz Waldemar Wegner zaplanowali trasę lotu tak, by jej zapis na mapach ruchu lotniczego ułożył się w kształt bożonarodzeniowej choinki – z czubkiem i pniem.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330"/>
+</item>
 <item>
 <title><![CDATA[ Dwa alerty IMGW dla Piotrkowa i powiatu piotrkowskiego. Zacznie się dziś popołudniu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dwa-alerty-imgw-dla-piotrkowa-i-powiatu-piotrkowskiego-zacznie-sie-dzis-popoludniu/aSXYp6N0rrmoXH0a7J10</link>
@@ -3277,25 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7048e20d-d2ff-4af4-9e74-f2e438ca8485"/>
-</item>
-<item>
-<title><![CDATA[ Wszystkich Świętych 2025. Utrudnienia w ruchu w Piotrkowie Trybunalskim i okolicach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wszystkich-swietych-2025-utrudnienia-w-ruchu-w-piotrkowie-trybunalskim-i-okolicach/LwsNprEt4soAsoSftf5i</link>
-<guid isPermaLink="false">366f0f00457e5139d37969c4f29d543afd7a8698</guid>
-<pubDate>Thu, 30 Oct 2025 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dc344c2e-289e-41bc-8f6b-d49bef781033" alt="miniatura"/></p><p>Wszystkich Świętych 2025. Piotrków Trybunalski i okolice – objazdy i utrudnienia W rejonie Piotrkowa Trybunalskiego największe utrudnienia wystąpią na drodze wojewódzkiej nr 716, na odcinku Rokiciny – Piotrków Trybunalski. W miejscowości Moszczenica trwają prace przy obiekcie mostowym. Dla pojazdów powyżej 15 ton wyznaczono objazdy:</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dc344c2e-289e-41bc-8f6b-d49bef781033" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dc344c2e-289e-41bc-8f6b-d49bef781033" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dc344c2e-289e-41bc-8f6b-d49bef781033"/>
-</item>
-<item>
-<title><![CDATA[ Wybuch gazu i potężny pożar. Mężczyzna w ciężkim stanie trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wybuch-gazu-i-potezny-pozar-mezczyzna-w-ciezkim-stanie-trafil-do-szpitala/fPtUfftMrrD3A4Ywww2u</link>
-<guid isPermaLink="false">f2256c09d1be49f388995329bb8e2d268c538cda</guid>
-<pubDate>Thu, 30 Oct 2025 10:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e713a34d-ff88-4375-9063-f5f9df931b74" alt="miniatura"/></p><p>Przed godz. 20:00 strażacy otrzymali zgłoszenie, że w m. Poraj, w gminie Wola Krzysztoporska doszło do wybuchu 11-kilogramowej butli gazowej i dużego pożaru.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e713a34d-ff88-4375-9063-f5f9df931b74" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e713a34d-ff88-4375-9063-f5f9df931b74" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e713a34d-ff88-4375-9063-f5f9df931b74"/>
 </item>
 </channel></rss>
