@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 30 Dec 2025 15:41:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 16:47:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Sylwestra (31.01.2025) sklepy pracują krócej. Do której otwarte są Lidl, Biedronka, galeria Focus Mall i inne sieci? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-sylwestra-31012025-sklepy-pracuja-krocej-do-ktorej-otwarte-sa-lidl-biedronka-galeria-focus-mall-i-inne-sieci/DhDanENjPGo9mQyqp4CT</link>
+<guid isPermaLink="false">b4f0bfcf75a88f99ee5d21e9c3a284d7be0750ff</guid>
+<pubDate>Tue, 30 Dec 2025 17:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f17e7b90-9331-4319-bcec-417b01701767" alt="miniatura"/></p><p>Sylwester przypada w środę i nie obowiązuje wtedy ustawowy zakaz handlu , jednak nie oznacza to standardowych godzin otwarcia. Sieci handlowe masowo skracają dzień sprzedaży, ograniczają dostawy i zamykają sklepy wcześniej, kierując się własnymi regulacjami. Nie ma jednej, ogólnopolskiej godziny zamknięcia .</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f17e7b90-9331-4319-bcec-417b01701767" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f17e7b90-9331-4319-bcec-417b01701767" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f17e7b90-9331-4319-bcec-417b01701767"/>
+</item>
 <item>
 <title><![CDATA[ Pijana podróż zakończona w rowie i nie tylko... Policja zatrzymała dwie osoby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pijana-podroz-zakonczona-w-rowie-i-nie-tylko-policja-zatrzymala-dwie-osoby/2HvBfmRkmPB0uXNWn2Xn</link>
@@ -3307,15 +3317,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f1ea1d0-c6be-4460-a7d8-962c42655b0b" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f1ea1d0-c6be-4460-a7d8-962c42655b0b" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f1ea1d0-c6be-4460-a7d8-962c42655b0b"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w centrum Piotrkowa. Jedna osoba trafiła do szpitala [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-centrum-piotrkowa-jedna-osoba-trafila-do-szpitala-zdjecia/5MQW6sPgzYorjs6P4IOR</link>
-<guid isPermaLink="false">0ec22586b693383cd9d23f10427fd902fe37a9a7</guid>
-<pubDate>Fri, 31 Oct 2025 12:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a078f454-5336-452b-b351-7880d3cbaa80" alt="miniatura"/></p><p>W piątek, 31 października po godz. 10:00 w Piotrkowie doszło do wypadku z udziałem trzech pojazdów. Na miejsce ruszyły służby. Wiadomo już, jaki był przebieg zdarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a078f454-5336-452b-b351-7880d3cbaa80" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a078f454-5336-452b-b351-7880d3cbaa80" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a078f454-5336-452b-b351-7880d3cbaa80"/>
 </item>
 </channel></rss>
