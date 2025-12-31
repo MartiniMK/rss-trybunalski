@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 31 Dec 2025 20:40:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 21:36:25 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Życzenia na Nowy Rok 2026. Krótkie i długie wiadomości SMS, gotowe do wysłania ]]></title>
@@ -187,16 +187,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/74587804-1347-4fba-ad55-22fc4d8233a1"/>
-</item>
-<item>
-<title><![CDATA[ Na niebie pojawiła się choinka. To sprawka pilotów z piotrkowskiego aeroklubu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-niebie-pojawila-sie-choinka-to-sprawka-pilotow-z-piotrkowskiego-aeroklubu/AW5ZsEkYP62CHrNvNZJI</link>
-<guid isPermaLink="false">5c1f6daf840a01ea936b45f7a49e6c0f9a9b12ae</guid>
-<pubDate>Mon, 29 Dec 2025 12:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" alt="miniatura"/></p><p>Dwaj piloci związani z Aeroklubem Ziemi Piotrkowskiej postanowili w niecodzienny sposób przedłużyć świąteczną atmosferę. Michał Wencel oraz Waldemar Wegner zaplanowali trasę lotu tak, by jej zapis na mapach ruchu lotniczego ułożył się w kształt bożonarodzeniowej choinki – z czubkiem i pniem.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cf3ee58-74c3-4aec-8cb1-26873041d330"/>
 </item>
 <item>
 <title><![CDATA[ Dwa alerty IMGW dla Piotrkowa i powiatu piotrkowskiego. Zacznie się dziś popołudniu ]]></title>
@@ -2789,16 +2779,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -2807,6 +2787,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
