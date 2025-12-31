@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 31 Dec 2025 13:48:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 14:38:36 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Pogoda na Sylwestra. Jakie warunku przewidują prognozy na dziś i Nowy Rok? ]]></title>
@@ -3297,15 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47c299a4-7df2-42aa-8fca-48ff749fd618" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47c299a4-7df2-42aa-8fca-48ff749fd618" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47c299a4-7df2-42aa-8fca-48ff749fd618"/>
-</item>
-<item>
-<title><![CDATA[ Wspominamy znanych mieszkańców Piotrkowa i regionu. Odeszli w ciągu ostatniego roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wspominamy-znanych-mieszkancow-regionu-ktorzy-odeszli-w-ciagu-ostatniego-roku/cZZnKCduZ6kq6WuiiwvA</link>
-<guid isPermaLink="false">029f639ada822bf9fb603f509f5b17c115d17e9f</guid>
-<pubDate>Fri, 31 Oct 2025 13:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0a1c3f1a-dd31-45fe-982f-7819e8eadc0d" alt="miniatura"/></p><p>Paweł Czajka (zmarł 3.09.2025) - wieloletni pracownik piotrkowskiego magistratu, najbardziej znany jako dyrektor Piotrkowskiej Pracowni Planowania Przestrzennego . Pełnił też funkcję dyrektora Wydziału Rozwoju Miasta podczas kadencji prezydenta Waldemara Matusewicza (2002-2006). Gdy prezydentem został Krzysztof Chojniak , Paweł Czajka objął stanowisko dyrektora Pracowni Planowania Przestrzennego…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0a1c3f1a-dd31-45fe-982f-7819e8eadc0d" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0a1c3f1a-dd31-45fe-982f-7819e8eadc0d" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0a1c3f1a-dd31-45fe-982f-7819e8eadc0d"/>
 </item>
 </channel></rss>
