@@ -6,8 +6,22 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 01 Jan 2026 20:43:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 21:36:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/piotrkowianka-cierpi-na-ciezka-chorobe-rodzina-prosi-o-pomoc/VDf5jbctZ1viQ6mFHXPA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowianka-cierpi-na-ciezka-chorobe-rodzina-prosi-o-pomoc/VDf5jbctZ1viQ6mFHXPA</link>
+<guid isPermaLink="false">9cd7caca4ae050bad40ad98a413f713069de631c</guid>
+<pubDate>Thu, 01 Jan 2026 21:36:44 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/miesiac-dzentelmena-w-piotrkowie-trybunalskim/hx3gNHlrCpCNwptdJUAO ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miesiac-dzentelmena-w-piotrkowie-trybunalskim/hx3gNHlrCpCNwptdJUAO</link>
+<guid isPermaLink="false">4631550ec2b5f7b8466809aaacc3d70bdb835601</guid>
+<pubDate>Thu, 01 Jan 2026 21:36:44 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
 <item>
 <title><![CDATA[ Sylwester w Piotrkowie 2025. Powitanie Nowy Rok 2026 Piotrków Trybunalski ZDJECIA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sylwester-w-piotrkowie-2025-powitanie-nowy-rok-2026-piotrkow-trybunalski-zdjecia/HSk0kPEFOvLkHRAXnGgB</link>
@@ -2499,16 +2513,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/11f6b102-58a3-49ef-9f46-cfe7bf9fd6ba"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowianka cierpi na ciężką chorobę. Rodzina prosi o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianka-cierpi-na-ciezka-chorobe-rodzina-prosi-o-pomoc/VDf5jbctZ1viQ6mFHXPA</link>
-<guid isPermaLink="false">9cd7caca4ae050bad40ad98a413f713069de631c</guid>
-<pubDate>Fri, 14 Nov 2025 12:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" alt="miniatura"/></p><p>Marysia Krak z Piotrkowa ciężko choruje Marysia od początku miała pod górkę. Urodziła się w 30. tygodniu ciąży, ważąc zaledwie 1565 gramów. Dodatkowym zagrożeniem była pępowina owinięta wokół szyi, przez co lekarze od pierwszych chwil walczyli o jej życie.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c"/>
-</item>
-<item>
 <title><![CDATA[ Kościółek pod wezwaniem Św. Marcina. Drewniany zabytek z patronem najstarszej parafii [ZDJECIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kosciolek-pod-wezwaniem-sw-marcina-drewniany-zabytek-z-patronem-najstarszej-parafii-zdjecia/yTOCKJacP5H0Jvk8tCyQ</link>
 <guid isPermaLink="false">860682ab6c6dc52df84973f3ac3a5a984d9723f0</guid>
@@ -2583,10 +2587,10 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/gigantyczny-mandat-dla-mieszkanca-powiatu-piotrkowskiego-co-zrobil/4ayuEfuZZopcbbyAWmxs</link>
 <guid isPermaLink="false">57d52108a6ce650690de333e65bdd105114bff06</guid>
 <pubDate>Thu, 13 Nov 2025 10:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" alt="miniatura"/></p><p>W środę, 12 listopada po godz. 19:00 na trasie S8 doszło do niebezpiecznego zdarzenia drogowego. W miejscu, w którym prowadzone są roboty drogowe i obowiązuje zwężenie pasa ruchu kierowca Opla, postanowił nie dostosować się do tymczasowych oznaczeń i zawrócić w niedozwolonym miejscu , aby zjechać w kierunku Wolborza.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/540d86e6-8e93-487f-87c9-b6bca76fed67" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/na-sygnale/gigantyczny-mandat-dla-mieszkanca-powiatu-piotrkowskiego-co-zrobil/4ayuEfuZZopcbbyAWmxs is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/540d86e6-8e93-487f-87c9-b6bca76fed67" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/540d86e6-8e93-487f-87c9-b6bca76fed67" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/540d86e6-8e93-487f-87c9-b6bca76fed67"/>
 </item>
 <item>
 <title><![CDATA[ Tak rodziła się niepodległość w Piotrkowie Trybunalskim. 11 listopada skończyła się austriacka okupacja [ZDJĘCIA] ]]></title>
@@ -2607,16 +2611,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308"/>
-</item>
-<item>
-<title><![CDATA[ Miesiąc dżentelmena w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miesiac-dzentelmena-w-piotrkowie-trybunalskim/hx3gNHlrCpCNwptdJUAO</link>
-<guid isPermaLink="false">4631550ec2b5f7b8466809aaacc3d70bdb835601</guid>
-<pubDate>Wed, 12 Nov 2025 14:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" alt="miniatura"/></p><p>Rak prostaty u mężczyzn powinien być traktowany z taką samą uwagą, z jaką kobiety podchodzą do raka piersi. Podczas gdy kobiety są coraz bardziej świadome i dbają o profilaktykę, mężczyźni nadal wydają się być niewystarczająco uświadomieni. Tymczasem wcześnie wykryty rak prostaty jest niemal zawsze całkowicie uleczalny lub w toku leczenia zamienia się chorobę przewlekłą” – podkreśla dr Tomasz Anys…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198"/>
 </item>
 <item>
 <title><![CDATA[ Narkotyki, zazdrość o byłą żonę i policjanci na balkonie. Sceny jak z filmu w powiecie piotrkowskim ]]></title>
