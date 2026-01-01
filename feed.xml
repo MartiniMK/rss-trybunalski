@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 01 Jan 2026 06:53:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 07:39:40 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Sylwester w Piotrkowie 2025. Powitanie Nowy Rok 2026 Piotrków Trybunalski ZDJECIA ]]></title>
