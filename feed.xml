@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 31 Dec 2025 23:38:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 02:44:12 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Życzenia na Nowy Rok 2026. Krótkie i długie wiadomości SMS, gotowe do wysłania ]]></title>
@@ -3287,5 +3287,15 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e68f69e-c8d2-4fde-b0e5-009feb42a68c" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e68f69e-c8d2-4fde-b0e5-009feb42a68c" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4e68f69e-c8d2-4fde-b0e5-009feb42a68c"/>
+</item>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia rozbiła kolejnego rywala! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-rozbila-kolejnego-rywala/nsqRShQNc6gk6vaaatwm</link>
+<guid isPermaLink="false">db04438f3697cd82b87327b4cfac0768a20af2ad</guid>
+<pubDate>Fri, 31 Oct 2025 20:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa2cafa2-48d8-47dc-83df-7748e6fc74dc" alt="miniatura"/></p><p>Po sześciu rozegranych spotkaniach piotrkowianki miały na koncie 15 punktów i zajmowały trzecią pozycję w tabeli, mając w zanadrzu jedno zaległe spotkanie. Cel na piątek był więc oczywisty – walka o szóste zwycięstwo w sezonie i czwarte z rzędu!</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa2cafa2-48d8-47dc-83df-7748e6fc74dc" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa2cafa2-48d8-47dc-83df-7748e6fc74dc" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa2cafa2-48d8-47dc-83df-7748e6fc74dc"/>
 </item>
 </channel></rss>
