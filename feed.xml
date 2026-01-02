@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 02 Jan 2026 17:36:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 18:50:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramat w Piotrkowie. Spłonął obiekt, ze środka strażacy wydobyli ciało ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-w-piotrkowie-splonal-obiekt-ze-srodka-strazacy-wydobyli-cialo/JImRXpJexC1A9lQwdzj9</link>
+<guid isPermaLink="false">73a4f23f66795180f7248e7f15093335cd99da2b</guid>
+<pubDate>Fri, 02 Jan 2026 18:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3e575806-6d68-44eb-a3c9-ebfb662955e6" alt="miniatura"/></p><p>Około godz. 16:00 na ul. Rakowskiej w Piotrkowie doszło do pożaru konternera. Na miejsce udały się dwa zastępy straży pożarnej. Wówczas służby nie wiedziały, że dojdzie do makanrycznego zdarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3e575806-6d68-44eb-a3c9-ebfb662955e6" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3e575806-6d68-44eb-a3c9-ebfb662955e6" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3e575806-6d68-44eb-a3c9-ebfb662955e6"/>
+</item>
 <item>
 <title><![CDATA[ Historia fantasy na ulicach Piotrkowa. Wkrótce premiera ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia-fantasy-na-ulicach-piotrkowa-wkrotce-premiera/AemARp8j0FAKgMSUNUpL</link>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4dd9eaae-3b10-4633-90d0-a98c9e7c80c2" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4dd9eaae-3b10-4633-90d0-a98c9e7c80c2" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4dd9eaae-3b10-4633-90d0-a98c9e7c80c2"/>
-</item>
-<item>
-<title><![CDATA[ Miliony dla piotrkowskiego szpitala. Duże zmiany dla pacjentów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miliony-dla-piotrkowskiego-szpitala-duze-zmiany-dla-pacjentow/IF0NpI1vpJZn8XFOsYbf</link>
-<guid isPermaLink="false">596aabcdb151394e947bc2379c6589e1b5e1390b</guid>
-<pubDate>Mon, 03 Nov 2025 09:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" alt="miniatura"/></p><p>Remont w Samodzielny Szpital Wojewódzki im. M. Kopernika w Piotrkowie Trybunalskim Projekt zakłada kompleksową termomodernizację dwóch pawilonów – C i D. W pierwszym z nich mieści się Oddział Kardiologiczny z Pododdziałem Intensywnej Opieki Kardiologicznej, w drugim do niedawna funkcjonowała Stacja Dializ. W planach jest m.in. docieplenie ścian i dachów, wymiana okien i drzwi, montaż nowej instala…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7f668257-d8a4-479f-a704-cad6386c229f"/>
 </item>
 </channel></rss>
