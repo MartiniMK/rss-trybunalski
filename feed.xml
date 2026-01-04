@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 04 Jan 2026 13:44:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 14:35:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Trwa zadyszka szczypiornistek Piotrcovii! Twierdza Lublin niezdobyta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-trwa-zadyszka-szczypiornistek-piotrcovii-twierdza-lublin-niezdobyta/01KBCL0J6GO2pZDINnlm</link>
+<guid isPermaLink="false">ff7471a439f84d220073b3fd9e78d2133f9231c7</guid>
+<pubDate>Sun, 04 Jan 2026 15:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2a13550-29af-4842-bd15-4f39a0f7e7a0" alt="miniatura"/></p><p>Przed drugą bezpośrednią potyczką, zarówno drugi w tabeli PGE MKS El-Volt Lublin, jak i trzecia Piotrcovia zgromadziły na swoim koncie 27 punktów, ale Lublinianki rozegrały jedno spotkanie mniej. Rywalki Piotrkowianek przegrały dotychczas tylko dwa spotkania – jedno z mistrzem Polski, Zagłębiem Lubin, drugie w Hali Relax, kiedy to Piotrcovia sensacyjnie zwyciężyła różnicą aż dziewięciu oczek (26:1…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2a13550-29af-4842-bd15-4f39a0f7e7a0" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2a13550-29af-4842-bd15-4f39a0f7e7a0" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2a13550-29af-4842-bd15-4f39a0f7e7a0"/>
+</item>
 <item>
 <title><![CDATA[ Pierwszy Piotrkowianin urodzony w 2026 roku. Gratulujemy rodzicom! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pierwszy-piotrkowianin-urodzony-w-2026-roku/816zJAMBTzbBEBQoyskH</link>
@@ -809,16 +819,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -827,6 +827,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3267,25 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9"/>
-</item>
-<item>
-<title><![CDATA[ Ulica się rozpada - mówią piotrkowianie. Jakie są szanse na przebudowę? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ulica-sie-rozpada-mowia-piotrkowianie-jakie-sa-szanse-na-przebudowe/50bWEMic2BlMZfRvyBql</link>
-<guid isPermaLink="false">9c5554b2f6aad4db62ff7067d7c1ed9e8b78269c</guid>
-<pubDate>Mon, 03 Nov 2025 15:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0cf5269-3451-46ec-8cfd-e12606626520" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa wskazują na wiele spraw w mieście, które wymagają działań. Czy to modernizacja oświetlenia, a tym samym poprawa bezpieczeństwa czy też liczne remonty i zmiany w infrastrukturze drogowej. Jedną z bolączek jest stan ulicy Wschodniej, która jest częścią objazdu, w wyniku remontu ul. Rakowskiej i Wolborskiej. Czy piotrkowianie mogą liczyć na przebudowę?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0cf5269-3451-46ec-8cfd-e12606626520" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0cf5269-3451-46ec-8cfd-e12606626520" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0cf5269-3451-46ec-8cfd-e12606626520"/>
-</item>
-<item>
-<title><![CDATA[ Kto i dlaczego hejtuje prezydenta Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-i-dlaczego-hejtuje-prezydenta-piotrkowa/YnBcEyp2rNECAC0usbDb</link>
-<guid isPermaLink="false">9c7517c23f65d6e15317d830f2840e4c3d8ba171</guid>
-<pubDate>Mon, 03 Nov 2025 14:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" alt="miniatura"/></p><p>Czerwiec 2024 roku. Na imprezach z okazji Dni Miasta Juliusza Wiernickiego , nowego prezydenta Piotrkowa witają oklaski, a on sam jest sympatycznie zaczepiany przez mieszkańców, którzy gratulują mu zwycięstwa w wyborach. Robią sobie z nim wspólne zdjęcia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f815bb63-43ee-4827-b01a-092902473a63"/>
 </item>
 </channel></rss>
