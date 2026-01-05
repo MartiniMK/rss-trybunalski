@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 05 Jan 2026 10:46:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 11:38:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zamknięte przejazdy kolejowe w powiecie piotrkowskim. Utrudnienia dla kierowców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zamkniete-przejazdy-kolejowe-w-powiecie-piotrkowskim-utrudnienia-dla-kierowcow/tHQoQ94qwWq0xuWOXeqp</link>
+<guid isPermaLink="false">b47145e59d3fd5de2f012575c32dc87f5fcb41b9</guid>
+<pubDate>Mon, 05 Jan 2026 11:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0b1ba179-cdb9-41ee-9117-bb68896db88b" alt="miniatura"/></p><p>Longinówka. Całkowite zamknięcie przejazdu kolejowego Pierwsze utrudnienia pojawią się w miejscowości Longinówka od 7 do 11 stycznia 2026 roku.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0b1ba179-cdb9-41ee-9117-bb68896db88b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0b1ba179-cdb9-41ee-9117-bb68896db88b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0b1ba179-cdb9-41ee-9117-bb68896db88b"/>
+</item>
+<item>
+<title><![CDATA[ Odeszli w ostatnim czasie. Pogrzeby w Piotrkowie Trybunalskim [NEKROLOGI] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/odeszli-w-ostatnim-czasie-pogrzeby-w-piotrkowie-trybunalskim-nekrologi/cu7OkGIKZlow5Cy4tEoA</link>
+<guid isPermaLink="false">ec65f34e891f3e03ec1e442035c963f60fe5e2ad</guid>
+<pubDate>Mon, 05 Jan 2026 11:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6b64bbd2-c587-4962-ade1-73cda5d5e9a6" alt="miniatura"/></p><p>Śp. Zbigniew Jagodziński , lat 70. Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 7 stycznia 2026 roku o godz. 11:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6b64bbd2-c587-4962-ade1-73cda5d5e9a6" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6b64bbd2-c587-4962-ade1-73cda5d5e9a6" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6b64bbd2-c587-4962-ade1-73cda5d5e9a6"/>
+</item>
 <item>
 <title><![CDATA[ Gdzie się ukryć w Piotrkowie Trybunalskim? Punkty schronienia w razie zagrożenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-sie-ukryc-w-piotrkowie-trybunalskim-punkty-schronienia-w-razie-zagrozenia/HlnKT81RgBC93AOHnizG</link>
@@ -2899,16 +2919,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
-<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
-</item>
-<item>
 <title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
 <guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
@@ -2917,6 +2927,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
+<guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" alt="miniatura"/></p><p>Nie żyje Leszek Połoński , ceniony pedagog, który przez 40 lat uczył matematyki i fizyki w piotrkowskiej szkole.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3267,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b097a251-414b-4957-b3ba-486dc2cc309e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b097a251-414b-4957-b3ba-486dc2cc309e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b097a251-414b-4957-b3ba-486dc2cc309e"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczny pożar pod Piotrkowem, strażak stracił dorobek życia. Ruszyła zbiórka! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramatyczny-pozar-pod-piotrkowem-strazak-stracil-dorobek-zycia-ruszyla-zbiorka/vzwt2lQbDRIJBprZpgbC</link>
-<guid isPermaLink="false">e0c86227e17e39ec4ab1697bea72ac77bdd829c4</guid>
-<pubDate>Tue, 04 Nov 2025 10:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b1f87c97-5b85-4c50-9e1b-a4e5b1809c29" alt="miniatura"/></p><p>W niedzielny poranek, 2 listopada w Babach doszło do pożaru domu jednorodzinnego. Płomienie rozprzestrzeniły się na tyle, że zajęły poddasze, dach, a także altanę obok budynku, a do akcji gaśniczej skierowano dziewięć zastępów straży pożarnej. Szczęśliwie, nikt nie odniósł obrażeń, ale w jednej chwili zawodowy strażak i członek OSP Kiełczówka stracił swój dom.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b1f87c97-5b85-4c50-9e1b-a4e5b1809c29" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b1f87c97-5b85-4c50-9e1b-a4e5b1809c29" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b1f87c97-5b85-4c50-9e1b-a4e5b1809c29"/>
 </item>
 </channel></rss>
