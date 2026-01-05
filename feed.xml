@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 05 Jan 2026 08:53:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 09:50:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kolęda 2025/2026 w Piotrkowie Trybunalskim. Sprawdź harmonogram wizyt duszpasterskich [05.01.26 - 11.01.26] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koleda-20252026-w-piotrkowie-trybunalskim-sprawdz-harmonogram-wizyt-duszpasterskich-050126-110126/lJybUvb4LSM1QokHCpNv</link>
+<guid isPermaLink="false">bb0d5cbd98ecfad5cdc3dec909ba49125e8c2fff</guid>
+<pubDate>Mon, 05 Jan 2026 10:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2de5d5fd-2280-4045-b239-f44529371728" alt="miniatura"/></p><p>Parafia Najświętszego Serca Jezusowego w Piotrkowie Trybunalskim Poniedziałek, 5 stycznia 2026</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2de5d5fd-2280-4045-b239-f44529371728" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2de5d5fd-2280-4045-b239-f44529371728" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2de5d5fd-2280-4045-b239-f44529371728"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Trwa zadyszka szczypiornistek Piotrcovii! Twierdza Lublin niezdobyta ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-trwa-zadyszka-szczypiornistek-piotrcovii-twierdza-lublin-niezdobyta/01KBCL0J6GO2pZDINnlm</link>
@@ -819,16 +829,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -837,6 +837,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3267,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5ec9d52-7963-4882-b14c-82971eb9f664" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5ec9d52-7963-4882-b14c-82971eb9f664" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d5ec9d52-7963-4882-b14c-82971eb9f664"/>
-</item>
-<item>
-<title><![CDATA[ Nowy gmach w centrum Piotrkowa? Tak może wyglądać [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-gmach-w-centrum-piotrkowa-tak-moze-wygladac-zdjecia/eYAXGPaHNw7Zoihdp3ol</link>
-<guid isPermaLink="false">8753c40c7a1dbf623ad6022f1507d0404f6f44d3</guid>
-<pubDate>Mon, 03 Nov 2025 15:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9" alt="miniatura"/></p><p>Archiwum Państwowe w Piotrkowie Trybunalskim ogłosiło konkurs na opracowanie koncepcji architektonicznej wraz z zagospodarowaniem terenu dla inwestycji polegającej na budowie nowego obiektu archiwum w naszym mieście. Ma być to obiekt łączący funkcje: magazynową z zapleczem, udostępniania zasobu, biurową i ekspozycyjno-edukacyjną.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a4b41be-4ae6-4da4-9897-59bcf02cdbc9"/>
 </item>
 </channel></rss>
