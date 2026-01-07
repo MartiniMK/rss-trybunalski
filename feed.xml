@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Jan 2026 09:47:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 10:43:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Padła wygrana w Lotto w naszym regionie. Ktoś zgarnął sześciocyfrową kwotę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-w-lotto-w-naszym-regionie-ktos-zgarnal-szesciocyfrowa-kwote/SA6nbfRHiARXv2wioaGU</link>
+<guid isPermaLink="false">f36da52b1e417ac4d0ba7c6bbdbab692d6b1c046</guid>
+<pubDate>Wed, 07 Jan 2026 10:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05cf8452-9f55-4d79-9fe6-53afb71ef971" alt="miniatura"/></p><p>Wiele osób próbuje szczęścia w grach liczbowych. Najpopularniejszą z nich jest Lotto, ale tylko nielicznym udaje się pochwalić trafionymi kuponami. Wraz z rozpoczęciem nowego roku na mapie szczęścia Lotto pojawiło się już kilka pinezek, które oznaczają wygrane. Co więcej, jedna z nich widnieje w naszym regionie. Która gra okazała się trafiona i o jakiej kwocie mowa?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05cf8452-9f55-4d79-9fe6-53afb71ef971" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05cf8452-9f55-4d79-9fe6-53afb71ef971" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05cf8452-9f55-4d79-9fe6-53afb71ef971"/>
+</item>
 <item>
 <title><![CDATA[ Najpopularniejsze imiona dla dziewczynek i chłopców w 2025 roku.  Tak Piotrkowianie nazywają swoje dzieci ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najpopularniejsze-imiona-dla-dziewczynek-i-chlopcow-w-2025-roku-tak-piotrkowianie-nazywaja-swoje-dzieci/0YI0O7bTyqe9ntIhdg5w</link>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb"/>
-</item>
-<item>
-<title><![CDATA[ Piotrcovia w żałobie. Nie żyje wieloletni działacz klubu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrcovia-w-zalobie-nie-zyje-wieloletni-dzialacz-klubu/0bZgSaNH8nUd3KER9Rbv</link>
-<guid isPermaLink="false">b76f18dc01ea751ee8984361f94ad88f1fbdd04e</guid>
-<pubDate>Tue, 04 Nov 2025 16:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/31735a4d-53d2-4b6e-9f5d-51d522961cce" alt="miniatura"/></p><p>Najpierw był kibicem, potem został mężem jednej z klubowych legend, Elżbiety . Także ich córka, Monika , to była zawodniczka Piotrcovii . Witold Kopertowski przez lata był członkiem zarządu klubu, przez pewien czas chyba najbardziej widocznym. Nie tylko dlatego, że w czasie meczów rozgrywanych przez Piotrcovią w hali Relax , a wcześniej w hali przy Al. Sikorskiego pełnił rolę spikera. Tym zajmował…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/31735a4d-53d2-4b6e-9f5d-51d522961cce" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/31735a4d-53d2-4b6e-9f5d-51d522961cce" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/31735a4d-53d2-4b6e-9f5d-51d522961cce"/>
 </item>
 </channel></rss>
