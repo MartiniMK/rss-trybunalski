@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Jan 2026 18:54:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 19:37:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Służby w akcji pod Piotrkowem. Groźny wypadek w powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/sluzby-w-akcji-pod-piotrkowem-grozny-wypadek-w-powiecie/cLDd0LL5iT854gEVRY1m</link>
+<guid isPermaLink="false">25ffa08977eeeaf38334bcc12c642eb035ef38a5</guid>
+<pubDate>Wed, 07 Jan 2026 20:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f15c9597-443a-45e8-98e7-df5ca4c37e0f" alt="miniatura"/></p><p>W środę, 7 stycznia przed godziną 18:00 w powiecie piotrkowskim doszło do wypadku. Na DK12 w Poniatowie zderzyły się dwa pojazdy osobowe. Służby otrzymały wezwanie z systemu eCall zamontowanego w jednym z samochodów. Na miejsce ruszyli policjanci, zespół ratownictwa medycznego oraz trzy zastępy straży pożarnej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f15c9597-443a-45e8-98e7-df5ca4c37e0f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f15c9597-443a-45e8-98e7-df5ca4c37e0f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f15c9597-443a-45e8-98e7-df5ca4c37e0f"/>
+</item>
 <item>
 <title><![CDATA[ Gdzie był Maślany Rynek, a gdzie Świński Targ? Place w Piotrkowie i ich burzliwe dzieje [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-byl-maslny-rynek-a-gdzie-swinski-targ-place-w-piotrkowie-i-ich-burzliwe-dzieje-zdjecia/ZTvrNBi6RPFYJgtDVRwS</link>
@@ -3267,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4b21fdc9-5abe-4fba-beb6-5330a5b64e63" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4b21fdc9-5abe-4fba-beb6-5330a5b64e63" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4b21fdc9-5abe-4fba-beb6-5330a5b64e63"/>
-</item>
-<item>
-<title><![CDATA[ Odszedł druh z OSP pod Piotrkowem. Strażacy i bliscy pogrążeni w żałobie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/odszedl-druh-z-osp-pod-piotrkowem-strazacy-i-bliscy-pograzeni-w-zalobie/eY2J5n8zOHWdM8FSZymX</link>
-<guid isPermaLink="false">cbc9369a12bca2c2f86a2c5bf5bd255991033d06</guid>
-<pubDate>Thu, 06 Nov 2025 09:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8c2ed8cb-3aaf-45eb-ae9b-02ce8c33e778" alt="miniatura"/></p><p>Nie żyje strażak z OSP w Przygłowie Jednostka OSP za pośrednictwem mediów społecznościowych przekazała informację o śmierci druhaWładysława Rytycha. Jak wspominają koledzy, strażak swoje życie poświęcił służbie ochotniczemu pożarnictwu. Od lat związany był z jednostką OSP Przygłów, w której pełnił wiele funkcji – był wieloletnim członkiem Zarządu, założycielem i kustoszem Izby Pamięci. Jego oddani…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8c2ed8cb-3aaf-45eb-ae9b-02ce8c33e778" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8c2ed8cb-3aaf-45eb-ae9b-02ce8c33e778" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8c2ed8cb-3aaf-45eb-ae9b-02ce8c33e778"/>
 </item>
 </channel></rss>
