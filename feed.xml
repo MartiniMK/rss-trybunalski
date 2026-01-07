@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Jan 2026 13:12:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 14:42:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mini rondo za 100 tysięcy czy pełna przebudowa za miliony? Nowe plany na skrzyżowanie w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mini-rondo-za-100-tysiecy-czy-pelna-przebudowa-za-miliony-nowe-plany-na-skrzyzowanie-w-piotrkowie/pCmFhSCorFuzak3BEp9U</link>
+<guid isPermaLink="false">69877325f1fbccb52cbe24f1bc99669e59a9555c</guid>
+<pubDate>Wed, 07 Jan 2026 15:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a6af5ce5-09c8-4675-94c8-f5d546f23984" alt="miniatura"/></p><p>Czy w Piotrkowie powinno powstać nowe rondo? Rozwiązanie miałoby poprawić bezpieczeństwo, a także płynność ruchu. Okazuje się, że istnieją dwie możliwości i decyzja do podjęcia – mini rondo za 100 tysięcy czy pełna przebudowa za miliony?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a6af5ce5-09c8-4675-94c8-f5d546f23984" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a6af5ce5-09c8-4675-94c8-f5d546f23984" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a6af5ce5-09c8-4675-94c8-f5d546f23984"/>
+</item>
+<item>
+<title><![CDATA[ Jest nowy prezes Piotrkowskich Wodociągów. Kto pokieruje spółką? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jest-nowy-prezes-piotrkowskich-wodociagow-kto-pokieruje-spolka/XLZaNvFtLFDA9S2c0oKv</link>
+<guid isPermaLink="false">6e99549535ad7d8e68b69c7f3938d21690dceab6</guid>
+<pubDate>Wed, 07 Jan 2026 14:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b66f58eb-c5a8-4281-8337-02e2f7e4b2df" alt="miniatura"/></p><p>W środę, 7 stycznia Urząd Miasta Piotrkowa Trybunalskiego poinformował o zmianie na stanowisku prezesa Piotrkowskich Wodociągów i Kanalizacji. Kto pokieruje spółką?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b66f58eb-c5a8-4281-8337-02e2f7e4b2df" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b66f58eb-c5a8-4281-8337-02e2f7e4b2df" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b66f58eb-c5a8-4281-8337-02e2f7e4b2df"/>
+</item>
+<item>
+<title><![CDATA[ Alert II stopnia w powiecie piotrkowskim. Stan rzeki niebezpiecznie się podnosi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/alert-ii-stopnia-w-powiecie-piotrkowskim-stan-rzeki-niebezpiecznie-sie-podnosi/e3hfyYqDHTvcr01JHryD</link>
+<guid isPermaLink="false">b2bbc7970a080a3d7c6002a7be39243817447dae</guid>
+<pubDate>Wed, 07 Jan 2026 14:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b30f0ad-9fca-4a85-8c06-140943d74bcf" alt="miniatura"/></p><p>Zjawisko to jest wynikiem rozwoju zatoru lodowego, który powoduje gwałtowne podnoszenie się stanu rzeki. Prognozy wskazują, że w najbliższej dobie poziom wody będzie nadal rosnąć, a stan ostrzegawczy może zostać przekroczony.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b30f0ad-9fca-4a85-8c06-140943d74bcf" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b30f0ad-9fca-4a85-8c06-140943d74bcf" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b30f0ad-9fca-4a85-8c06-140943d74bcf"/>
+</item>
 <item>
 <title><![CDATA[ Pościg pod Piotrkowem. Jazdę zakończył na płocie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/poscig-pod-piotrkowem-jazde-zakonczyl-na-plocie/lpxl05ZH69dr6tyj8aIM</link>
@@ -2999,16 +3029,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 <item>
-<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
-<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
-<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska szkoła w żałobie. Odszedł ceniony nauczyciel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-w-zalobie-odszedl-ceniony-nauczyciel/RcwGCXNzFl7Lg5BgilBG</link>
 <guid isPermaLink="false">a5cd42eb26f5b3db8f4a5a3b99987477c32dbbb4</guid>
@@ -3017,6 +3037,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16017c87-3b72-4082-92dc-286a59467d9e"/>
+</item>
+<item>
+<title><![CDATA[ Znana piosenkarka zaśpiewa w Sulejowie. Jej przeboje zna cała Polska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-piosenkarka-zaspiewa-w-sulejowie-jej-przeboje-zna-cala-polska/LUxPvvt69RFbx9ncZl29</link>
+<guid isPermaLink="false">55c55653f39a76cce1cb994019c09156674b84e1</guid>
+<pubDate>Mon, 10 Nov 2025 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" alt="miniatura"/></p><p>Niedawno rozpoczął się listopad, ale już można zacząć planować grudniowe dni. Wszystko za sprawą zbliżających się świąt Bożego Narodzenia i wydarzeń z nimi związanymi. W tym okresie bardzo popularne są jarmarki, a jeden z nich odbędzie się także w Sulejowie. Będą kolorowe iluminacje, stoiska z przeróżnymi przedmiotami, a także występy artystów. Wiadomo już, kto będzie gwiazdą tego wydarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee0ff2-c777-4fa5-b098-9419016da8aa"/>
 </item>
 <item>
 <title><![CDATA[ Wjechał w inny samochód i uciekł. Do drzwi piotrkowianina zapukali policjanci ]]></title>
@@ -3257,25 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44"/>
-</item>
-<item>
-<title><![CDATA[ Sukces piotrkowianina na mistrzostwach w Portugalii. Zdobył medale we wszystkich startach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianina-na-mistrzostwach-w-portugalii-zdobyl-medale-we-wszystkich-startach/szkrxjEwsPMyV3aFnCg2</link>
-<guid isPermaLink="false">3e2b0e1a39e4f76fd424efb957446a2e67b83dd5</guid>
-<pubDate>Wed, 05 Nov 2025 12:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5317f8ae-ec40-433e-9db6-e727ba40ce0f" alt="miniatura"/></p><p>Od 25 października do 3 listopada trwały Mistrzostwa Europy w Albufeirze dedykowane pływakom z zespołem Downa. Podczas 8th European Down Syndrome Swimming Championships reprezentację Polski stanowiła 11-osobowa drużyna. W zawodach wystartował także piotrkowianin, który zdobył medale we wszystkich startach.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5317f8ae-ec40-433e-9db6-e727ba40ce0f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5317f8ae-ec40-433e-9db6-e727ba40ce0f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5317f8ae-ec40-433e-9db6-e727ba40ce0f"/>
-</item>
-<item>
-<title><![CDATA[ Akcja policji w Piotrkowie i powiecie. Dwie osoby staną przed sądem, a to nie wszystko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-policji-w-piotrkowie-i-powiecie-dwie-osoby-stana-przed-sadem-a-to-nie-wszystko/q7dwloKDxhvlr0o1SLQL</link>
-<guid isPermaLink="false">3d30eec8e5aa381821b8c19c25cd254930d9c532</guid>
-<pubDate>Wed, 05 Nov 2025 11:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" alt="miniatura"/></p><p>Jak co roku, Wszystkich Świętych wiąże się ze wzmożonym ruchem na drogach, bowiem całe rodziny wyruszają, by odwiedzić groby bliskich. Nie inaczej było w miniony weekend. Tym samym, prowadzona była ogólnopolska akcja, która miała na celu zwiększyć bezpieczeństwo na w ruchu drogowym i w rejonach nekropolii. Nad porządkiem w Piotrkowie i powiecie także czuwali policjanci. Jak się okazuje, po świątec…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741"/>
 </item>
 </channel></rss>
