@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Jan 2026 11:36:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 13:12:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pościg pod Piotrkowem. Jazdę zakończył na płocie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/poscig-pod-piotrkowem-jazde-zakonczyl-na-plocie/lpxl05ZH69dr6tyj8aIM</link>
+<guid isPermaLink="false">afb45cce5a52b014f6386a761d8a8be42e9f4a72</guid>
+<pubDate>Wed, 07 Jan 2026 13:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f5d46934-0b6e-4292-8f3b-9e4f260e3abf" alt="miniatura"/></p><p>Wszystko działo się w niedzielę, 4 stycznia 2026 roku. Do dyżurnego dotarło zgłoszenie o kierowcy na terenie gminy Moszczenica, który nie trzyma toru jazdy. Funkcjonariusze Wydziału Ruchu Drogowego zauważyli wskazany pojazd. Jednak kierowca nie reagował na sygnały policjantów. Rozpoczął się pościg.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f5d46934-0b6e-4292-8f3b-9e4f260e3abf" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f5d46934-0b6e-4292-8f3b-9e4f260e3abf" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f5d46934-0b6e-4292-8f3b-9e4f260e3abf"/>
+</item>
 <item>
 <title><![CDATA[ Padła wygrana w Lotto w naszym regionie. Ktoś zgarnął sześciocyfrową kwotę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/padla-wygrana-w-lotto-w-naszym-regionie-ktos-zgarnal-szesciocyfrowa-kwote/SA6nbfRHiARXv2wioaGU</link>
@@ -939,16 +949,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -957,6 +957,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3267,25 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0efee0f7-83d5-4868-8bd2-eb285c531741"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczne sceny w powiecie piotrkowskim. Musieli walczyć o życie mężczyzny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/mezczyzna-lezal-bez-zycia-na-poboczu-policjanci-z-powiatu-piotrkowskiego-ruszyli-na-pomoc/08GoDSBHbi0MII0fAZxQ</link>
-<guid isPermaLink="false">d5f5e7a1c6ae20f48e44f4d004b486cbe601f449</guid>
-<pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fefe8270-5d3f-40e3-aee3-b0f3070dc05a" alt="miniatura"/></p><p>Rutynowe patrolowanie ulic może szybko zamienić się w akcję ratunkową. Z taką sytuacją mieli do czynienia dwaj policjanci na terenie Gorzkowic. Na poboczu leżał mężczyzna, który nie wykazywał funkcji życiowych.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fefe8270-5d3f-40e3-aee3-b0f3070dc05a" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fefe8270-5d3f-40e3-aee3-b0f3070dc05a" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fefe8270-5d3f-40e3-aee3-b0f3070dc05a"/>
-</item>
-<item>
-<title><![CDATA[ Najstarsi mężczyźni mieszkają w Piotrkowie. Czy miasto starzeje się najszybciej w województwie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najstarsi-mezczyzni-mieszkaja-w-piotrkowie-czy-miasto-starzeje-sie-najszybciej-w-wojewodztwie/g2oZNZtCHj0iiVH3CGoN</link>
-<guid isPermaLink="false">574e5ddbd9d8bb5c2c2673f6523bf044f24d960f</guid>
-<pubDate>Tue, 04 Nov 2025 17:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb" alt="miniatura"/></p><p>W końcu 2024 r. statystyczny mieszkaniec województwa łódzkiego miał przeciętnie 45 lat. Wyliczenia pokazują, że społeczeństwo wyraźnie się starzeje. Mediana, czyli wartość środkowa wieku osób w województwie łódzkim, w ciągu czterech lat wzrosła o ponad rok.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ee58226e-e5db-4f67-9792-85eed80845cb"/>
 </item>
 </channel></rss>
