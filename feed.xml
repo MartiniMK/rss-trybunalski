@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Jan 2026 15:44:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 16:50:52 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gdzie był Maślny Rynek, a gdzie Świński Targ? Place w Piotrkowie i ich burzliwe dzieje [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-byl-maslny-rynek-a-gdzie-swinski-targ-place-w-piotrkowie-i-ich-burzliwe-dzieje-zdjecia/ZTvrNBi6RPFYJgtDVRwS</link>
+<guid isPermaLink="false">259f094593bb80d89e61a3d568b59a4e8d063e53</guid>
+<pubDate>Wed, 07 Jan 2026 17:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2c756dd7-bbc4-4ec0-92f4-c52d7364e4a4" alt="miniatura"/></p><p>Najstarsze place w Piotrkowie Trybunalskim zmieniały nazwy niejednokrtonie. Miało tu znaczenie zarówno to, czym akurat w okolicy handlowano, ale także jaki był okres historyczny. Wiele nazw zależało na przykład o tego kto akurat miasto okupował.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2c756dd7-bbc4-4ec0-92f4-c52d7364e4a4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2c756dd7-bbc4-4ec0-92f4-c52d7364e4a4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2c756dd7-bbc4-4ec0-92f4-c52d7364e4a4"/>
+</item>
 <item>
 <title><![CDATA[ Mini rondo za 100 tysięcy czy pełna przebudowa za miliony? Nowe plany na skrzyżowanie w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mini-rondo-za-100-tysiecy-czy-pelna-przebudowa-za-miliony-nowe-plany-na-skrzyzowanie-w-piotrkowie/pCmFhSCorFuzak3BEp9U</link>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/09e8f2ad-fadf-45c6-9475-0128308e2238" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/09e8f2ad-fadf-45c6-9475-0128308e2238" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/09e8f2ad-fadf-45c6-9475-0128308e2238"/>
-</item>
-<item>
-<title><![CDATA[ „Parkograty" zalegają na osiedlach w Piotrkowie. Znaleziono rozwiązanie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/parkograty-zalegaja-na-osiedlach-w-piotrkowie-znaleziono-rozwiazanie/sAFAL1qmK9csjpdoeADb</link>
-<guid isPermaLink="false">9f105d5bee353bc570a5b861c3298aa1736c052a</guid>
-<pubDate>Wed, 05 Nov 2025 15:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" alt="miniatura"/></p><p>29 października piotrkowscy radni pochylili się nad budżetem miasta, sprzedażą nieruchomości miejskich czy pensją prezydenta. Pod koniec obrad rajcy mogli także dyskutować o innych tematach w tzw. sprawach różnych. Jednym z poruszonych problemów były zalegające w Piotrkowie wraki samochodów, które nazwano „parkogratami”.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/043048af-d7da-4f38-8a22-a119e82fef44"/>
 </item>
 </channel></rss>
