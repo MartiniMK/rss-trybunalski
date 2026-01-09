@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 09 Jan 2026 11:36:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 13:11:09 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Szturm rolników na Warszawę zatrzymany? Pokazali nagrania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szturm-rolnikow-na-warszawe-zatrzymany-pokazali-nagrania/jn2SjEjfiumCUDkSXKbb</link>
+<guid isPermaLink="false">77b623e3a4999485c3b73bccd6a3a061ee7d2c21</guid>
+<pubDate>Fri, 09 Jan 2026 12:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b836687f-b8b3-46d0-990a-b3c40158e71e" alt="miniatura"/></p><p>Rolnicy wyszli na ulice. W piątek, 9 stycznia w Warszawie odbywa się protest przeciwko umowie UE – Mercosur. Zakłada ona zniesienie barier handlowych dla łatwiejszego przepływu towarów z Brazylii, Argentyny czy Paragwaju. Porozumienie to budzi zastrzeżenia rolników, którzy wyrażają obawy o bezpieczeństwo żywnościowe kraju czy brak opłacalności prowadzenia gospodarstwa. Do stolicy ruszyli także pik…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b836687f-b8b3-46d0-990a-b3c40158e71e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b836687f-b8b3-46d0-990a-b3c40158e71e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b836687f-b8b3-46d0-990a-b3c40158e71e"/>
+</item>
 <item>
 <title><![CDATA[ Władysław Łokietek oprowadzi po Piotrkowie. Piotrkowscy studenci tworzą aplikację dla turystów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wladyslaw-lokietek-oprowadzi-po-piotrkowie-piotrkowscy-studenci-tworza-aplikacje-dla-turystow/MIrGtzyBN0BabTyLRvXm</link>
@@ -1089,16 +1099,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -1107,6 +1107,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3247,35 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/3c621024-c71e-4d07-ac44-0635d2f58d64"/>
-</item>
-<item>
-<title><![CDATA[ Turystyczna rewolucja w Piotrkowie? Powstanie nowoczesne centrum ]]></title>
-<link>https://trybunalski.pl/wiadomosci/turystyczna-rewolucja-w-piotrkowie-powstanie-nowoczesne-centrum/qW9AZ8YyhIw3naa1q5kc</link>
-<guid isPermaLink="false">7d7d1bdb9b20e0b62bda0b15022b28169dc7d1ee</guid>
-<pubDate>Fri, 07 Nov 2025 13:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d69061b4-90b7-4042-9955-44e2faf42353" alt="miniatura"/></p><p>Zarząd Województwa Łódzkiego zdecydował o dofinansowaniu jednej z największych inwestycji turystyczno-rekreacyjnych w regionie. Jak się okazuje, Piotrków otrzyma wsparcie z Europejskiego Funduszu Rozwoju Regionalnego w wysokości ponad 31,3 mln zł. Wokół zbiornika Bugaj ma powstać nowoczesna przestrzeń wypoczynkowa . Wiadomo już, jaki będzie zakres prac. Urząd zdradza także, ile wstępnie potrwa rea…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d69061b4-90b7-4042-9955-44e2faf42353" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d69061b4-90b7-4042-9955-44e2faf42353" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d69061b4-90b7-4042-9955-44e2faf42353"/>
-</item>
-<item>
-<title><![CDATA[ Śmiech na sali! Seniorzy z Piotrkowa zajęli pierwsze miejsce w województwie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rywalizowali-z-najlepszymi-w-lodzkiem-seniorzy-z-piotrkowa-zdobyli-pierwsze-miejsce/Y7hcAWM8ABz6CSBmTeB8</link>
-<guid isPermaLink="false">a4c8419de1ddb007d637a264bc800d98b53392b4</guid>
-<pubDate>Fri, 07 Nov 2025 12:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce07d7d3-a622-47b7-851e-0cbe206deeb4" alt="miniatura"/></p><p>W ramach wojewódzkiego projektu kulturalnego "ŁDK inspiruje seniorów" odbył się przeglądu teatrów i kabaretów. W wydarzeniu wzięli udział także kabareciarze z naszego miasta. Jak się okazuje, wrócili z nagrodą za pierwsze miejsce.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce07d7d3-a622-47b7-851e-0cbe206deeb4" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce07d7d3-a622-47b7-851e-0cbe206deeb4" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce07d7d3-a622-47b7-851e-0cbe206deeb4"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianin przyłapany z mefedronem. W domu miał tego jeszcze więcej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkowianin-przylapany-z-mefedronem-w-domu-mial-tego-jeszcze-wiecej/diet0mWOBsH1mLgju5ry</link>
-<guid isPermaLink="false">3806b847dd9511e15d5e4a96ab28b1600598a00d</guid>
-<pubDate>Fri, 07 Nov 2025 11:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676" alt="miniatura"/></p><p>We wtorek, 4 listopada 2025 roku funkcjonariusze z policji w Piotrkowie Trybunalskim zatrzymali do kontroli drogowej 30-letniego mężczyznę, który na widok radiowozu gwałtownie przyspieszył. Zatrzymany kierowca po sprawdzeniu stanu trzeźwości oraz posiadanych uprawnień, początkowo zachowywał się normalnie, jednak jego nerwowe i podejrzane zachowanie wzbudziło podejrzenia policjantów.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676"/>
 </item>
 </channel></rss>
