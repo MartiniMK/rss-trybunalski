@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 09 Jan 2026 09:44:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 10:42:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zginęło 9 osób, 188 było rannych. Piotrkowska policja przekazała szokujące dane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zginelo-9-osob-188-bylo-rannych-piotrkowska-policja-przekazala-szokujace-dane/0clYwYvIVvRztPnej1nr</link>
+<guid isPermaLink="false">dcacb07b691ef5673c26124d651a815ade75f650</guid>
+<pubDate>Fri, 09 Jan 2026 11:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/27097f93-a93c-4ee4-8ce5-97c27630bb15" alt="miniatura"/></p><p>Tysiące wypadków i kolizji w Piotrkowie Trybunalskim Na terenie Piotrkowa Trybunalskiego i powiatu piotrkowskiego w minionym 2025 roku policjanci mieli ręce pełne pracy. Odnotowano dużą liczbę wypadków drogowych i kolizji. Niestety, doszło także do wypadków ze skutkiem śmiertelnym. Policjanci skontrolowali trzeźwość 29 745 kierowców.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/27097f93-a93c-4ee4-8ce5-97c27630bb15" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/27097f93-a93c-4ee4-8ce5-97c27630bb15" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/27097f93-a93c-4ee4-8ce5-97c27630bb15"/>
+</item>
 <item>
 <title><![CDATA[ Zakonnicy założyli tu pierwszy klasztor już w XII wieku. Zaczęło się od trzech mnichów z Francji [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zakonnicy-zalozyli-tu-pierwszy-klasztor-juz-w-xii-wieku-zaczelo-sie-od-trzech-mnichow-z-francji-zdjecia/wOeTWkH0dwgVe5XWXe4G</link>
@@ -3267,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3"/>
-</item>
-<item>
-<title><![CDATA[ Pasażerowie Sebastiana M. przesłuchani. Oto, jak opisali tragiczny wypadek na A1 pod Piotrkowem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sebastian-m-przed-piotrkowskim-sadem-wsrod-swiadkow-pasazerowie-bmw/rMFD56ocbkTIqXFClEay</link>
-<guid isPermaLink="false">d1c5e4d19ec3a034c1509519f021526312b3ee30</guid>
-<pubDate>Thu, 06 Nov 2025 19:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05c73949-4c4d-461a-8868-98c76c039137" alt="miniatura"/></p><p>W czwartek, 6 listopada w Sądzie Rejonowym w Piotrkowie Trybunalskim odbyła się kolejna rozprawa w sprawie śmiertelnego wypadku na A1, o którego spowodowanie oskarżony jest Sebastian M. Przesłuchano kolejnych świadków, w tym osoby, które feralnej nocy jechały autostradą, a także pasażerów BMW.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05c73949-4c4d-461a-8868-98c76c039137" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05c73949-4c4d-461a-8868-98c76c039137" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05c73949-4c4d-461a-8868-98c76c039137"/>
 </item>
 </channel></rss>
