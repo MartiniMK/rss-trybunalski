@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 09 Jan 2026 10:42:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 11:36:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Władysław Łokietek oprowadzi po Piotrkowie. Piotrkowscy studenci tworzą aplikację dla turystów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wladyslaw-lokietek-oprowadzi-po-piotrkowie-piotrkowscy-studenci-tworza-aplikacje-dla-turystow/MIrGtzyBN0BabTyLRvXm</link>
+<guid isPermaLink="false">1392b701b770b8651ed3b5c8883a3a0251b2a7e2</guid>
+<pubDate>Fri, 09 Jan 2026 11:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5aa097fa-59f1-41ec-a628-3013b6264ad4" alt="miniatura"/></p><p>W Piotrkowie powstaje turystyczna aplikacja Projekt realizowany przez studentów Akademi Piotrkowskiej zakłada stworzenie interaktywnej aplikacji, dzięki której użytkownicy będą mogli poznawać historię regionu podczas spacerów i wycieczek. Narzędzie ma prowadzić turystów po wyznaczonych trasach, prezentując zabytki, miejsca ważne historycznie oraz opowieści związane z danym terenem.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5aa097fa-59f1-41ec-a628-3013b6264ad4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5aa097fa-59f1-41ec-a628-3013b6264ad4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5aa097fa-59f1-41ec-a628-3013b6264ad4"/>
+</item>
 <item>
 <title><![CDATA[ Zginęło 9 osób, 188 było rannych. Piotrkowska policja przekazała szokujące dane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zginelo-9-osob-188-bylo-rannych-piotrkowska-policja-przekazala-szokujace-dane/0clYwYvIVvRztPnej1nr</link>
@@ -1079,16 +1089,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1097,6 +1097,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3267,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ecb77115-0caf-4a10-919c-cede3a81a676"/>
-</item>
-<item>
-<title><![CDATA[ Wielka akcja uczniów piotrkowskiej szkoły. Zgłosiło się ponad 60 osób ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielka-akcja-uczniow-piotrkowskiej-szkoly-zglosilo-sie-ponad-60-osob/9qcl8AEABei78f4p3vpo</link>
-<guid isPermaLink="false">322f7fcaa9dacaa68f40316d4f8b13d977bdb932</guid>
-<pubDate>Fri, 07 Nov 2025 10:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3" alt="miniatura"/></p><p>Uczniowie Zespołu Szkół Ponadpodstawowych nr 1 w Piotrkowie Trybunalskim wzięli udział w akcji, która zakończyła się dużym sukcesem. Ponad 60 osób zaangażowało się w działania, a jak podkreśla szkoła „podzielili się tym, co najcenniejsze”.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c86a49e7-aaa3-4014-b860-a0cffc8d00a3"/>
 </item>
 </channel></rss>
