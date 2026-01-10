@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 10 Jan 2026 04:52:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 05:39:57 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Rynek Trybunalski nie zawsze był Trybunalski. Myślicie, że wiecie o nim już wszystko? [ZDJĘCIA] ]]></title>
