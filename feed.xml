@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 10:45:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 11:38:31 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wypadek na A1 pod Piotrkowem. Bohaterska reakcja jednego ze świadków zdarzenia ]]></title>
