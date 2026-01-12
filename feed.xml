@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 13:14:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 14:44:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Burza wokół miejskiej spółki w Piotrkowie. Gdzie „wyparowało” 5 milionów złotych? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/burza-wokol-miejskiej-spolki-w-piotrkowie-czy-5-milionow-zlotych-wyparowalo/4r72wa657FsP3NVYhL5S</link>
+<guid isPermaLink="false">b0e7b89f2afc6a4d306d3d3831e40e7e86d0747c</guid>
+<pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61c1c2a9-cd16-49f8-aa97-c79c992e35a9" alt="miniatura"/></p><p>W ostatnim czasie w mediach społecznościowych znów jest głośno o jednej z miejskich spółek. Tym razem chodzi o Piotrkowskie Wodociągi i Kanalizację. Radny Mariusz Maciołek napisał o problemach finansowych PWiK i przesunięciu 5 milionów z kapitału spółki. Co to oznacza? Taki proces zwykle służy pokryciu strat w przedsiębiorstwie i polega na zmniejszeniu wartości kapitału poprzez, np. umorzenie częś…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61c1c2a9-cd16-49f8-aa97-c79c992e35a9" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61c1c2a9-cd16-49f8-aa97-c79c992e35a9" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/61c1c2a9-cd16-49f8-aa97-c79c992e35a9"/>
+</item>
 <item>
 <title><![CDATA[ Przerwa w dostawie prądu w Łódzkiem. PGE ostrzega mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/przerwa-w-dostawie-pradu-w-lodzkiem-pge-ostrzega-mieszkancow/F8xdpmZ5uA5LE6U1m3wf</link>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902"/>
-</item>
-<item>
-<title><![CDATA[ Nowe miejsca pracy i inwestycje w Piotrkowie? Radni zdecydowali ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsca-pracy-i-inwestycje-w-piotrkowie-radni-zdecydowali/XY7n4rawDDyYCNrtHLNs</link>
-<guid isPermaLink="false">54df888d5e1ff0c44cf148d018d5372db3e2d00d</guid>
-<pubDate>Mon, 10 Nov 2025 14:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d" alt="miniatura"/></p><p>Nowe inwestycje i miejsca pracy w Piotrkowie Trybunalskim? Ma być to efekt nowej uchwały, która była omawiana podczas październikowej sesji rady miasta. Chodzi o zwolnienie z podatku od nieruchomości gruntów, budynków i budowli lub ich części zajętych na gospodarczą działalność produkcyjną lub usługową. Zanim jednak radni przystąpili do głosowania, pojawiło się kilka pytań m.in. o to, czy nie wykl…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d"/>
 </item>
 </channel></rss>
