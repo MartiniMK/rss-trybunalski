@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 17:39:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 18:54:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Co Piotrków zawdzięcza jezuitom? Przynieśli do miasta nie tylko oświatę [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/co-piotrkow-zawdziecza-jezuitom-przyniesli-do-miasta-nie-tylko-oswiate-zdjecia/HW2W5R2HO2Gjh7WPjNQ0</link>
+<guid isPermaLink="false">08fe88a2eb317b058fb70175139d24bf8a851161</guid>
+<pubDate>Mon, 12 Jan 2026 19:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" alt="miniatura"/></p><p>Jezuici w Piotrkowie Trybunalskim mają już blisko 350 lat historii. Obecnie ich działalność znana jest mieszkańcom głównie dzięki miejscowej parafii na Starym Mieście. Początki zakonu w mieście to jednak założona przez nich szkoła.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11"/>
+</item>
 <item>
 <title><![CDATA[ Studniówkowy skandal w Piotrkowie. Matka uczennicy ukradła ponad 13 tysięcy i uciekła? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/studniowkowy-skandal-w-piotrkowie-matka-uczennicy-ukradla-ponad-13-tysiecy-i-uciekla/RPwr601r8fRJLS9J3ROC</link>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14"/>
-</item>
-<item>
-<title><![CDATA[ To on zapoczątkował tę formę sztuki w Polsce. Namalował Piotrków… kawą ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-on-zapoczatkowal-te-forme-sztuki-w-polsce-namalowal-piotrkow-kawa/esXdR38klzjtPkpMIwez</link>
-<guid isPermaLink="false">94d8a726d1fb19dfde684bf74aa28e2a904648ac</guid>
-<pubDate>Mon, 10 Nov 2025 15:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885" alt="miniatura"/></p><p>W Mediatece 800-lecia w Piotrkowie dostępna jest wystawa prac Mariusza Gosławskiego. To artysta, który znany jest z techniki malowania kawą. Co ciekawe, w 2009 roku był jednym z zaledwie sześciu artystów na świecie zajmujących się tą formą sztuki i zapoczątkował ją w Polsce. Jak mówi Gosławski, maluje kawą już od 18 lat, choć sam jej nie pije.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885"/>
 </item>
 </channel></rss>
