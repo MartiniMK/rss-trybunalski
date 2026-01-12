@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 19:36:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 20:44:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pokazali moment ataku na personel w piotrkowskim szpitalu. Kobieta już zatrzymana [WIDEO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-w-piotrkowskim-szpitalu-42-latka-uslyszala-zarzuty/BoO2LgxKmcq1DL1Yexqd</link>
+<guid isPermaLink="false">2c24f5e5857a8fae9e4547d2c82b1ed6a3ab62c6</guid>
+<pubDate>Mon, 12 Jan 2026 21:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1a51b120-04b0-45db-abdf-74ad257c7a30" alt="miniatura"/></p><p>Wracamy do głośnej sprawy z piotrkowskiego SOR-u. Wszystko działo się w niedzielę, 11 stycznia na ul. Rakowskiej w Piotrkowie Trybunalskim, kiedy to na oddział weszła kobieta, która domagała się badania lekarskiego. 42-latka zaatakowała trzy osoby i teraz grozi jej do 3 lat pozbawienia wolności.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1a51b120-04b0-45db-abdf-74ad257c7a30" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1a51b120-04b0-45db-abdf-74ad257c7a30" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1a51b120-04b0-45db-abdf-74ad257c7a30"/>
+</item>
 <item>
 <title><![CDATA[ Co Piotrków zawdzięcza jezuitom? Przynieśli do miasta nie tylko oświatę [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/co-piotrkow-zawdziecza-jezuitom-przyniesli-do-miasta-nie-tylko-oswiate-zdjecia/HW2W5R2HO2Gjh7WPjNQ0</link>
@@ -1239,16 +1249,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1257,6 +1257,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d7853d3a-e1ae-4a77-8dc3-94d6fb18a1b9"/>
-</item>
-<item>
-<title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Ile zarobisz na pełen etat, a ile na pół? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-ile-zarobisz-na-pelen-etat-a-ile-na-pol/H15MSbHMBj4WeR4TL4dH</link>
-<guid isPermaLink="false">d4477704d5fca994f36a71b8032ccf3217b5127f</guid>
-<pubDate>Mon, 10 Nov 2025 18:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" alt="miniatura"/></p><p>Pracownik do dociepleń Wynagrodzenie brutto: od 6 800 do 7 000 PLN</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1447641c-3351-4cc0-83cb-0b3dfd8fcb14"/>
 </item>
 </channel></rss>
