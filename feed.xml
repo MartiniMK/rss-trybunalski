@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 14:44:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 15:47:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Studniówkowy skandal w Piotrkowie. Matka uczennicy ukradła ponad 13 tysięcy i uciekła? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/studniowkowy-skandal-w-piotrkowie-matka-uczennicy-ukradla-ponad-13-tysiecy-i-uciekla/RPwr601r8fRJLS9J3ROC</link>
+<guid isPermaLink="false">8fcdef4a1f6db65a9a85251c1ad0df61783d87eb</guid>
+<pubDate>Mon, 12 Jan 2026 16:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5be1b135-6960-47db-9d69-fe89c3af1a38" alt="miniatura"/></p><p>Do bulwersującego zdarzenia doszło w Zespole Szkół Ponadpodstawowych nr 1 w Piotrkowie Trybunalskim. W sobotę, 10 stycznia odbyła się studniówka maturzystów tej placówki, ale nim się to stało, zarówno uczniowie, jak i ich rodzice najedli się sporo stresu. W dodatku musieli wydać więcej, niż zakładali.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5be1b135-6960-47db-9d69-fe89c3af1a38" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5be1b135-6960-47db-9d69-fe89c3af1a38" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5be1b135-6960-47db-9d69-fe89c3af1a38"/>
+</item>
 <item>
 <title><![CDATA[ Burza wokół miejskiej spółki w Piotrkowie. Gdzie „wyparowało” 5 milionów złotych? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/burza-wokol-miejskiej-spolki-w-piotrkowie-czy-5-milionow-zlotych-wyparowalo/4r72wa657FsP3NVYhL5S</link>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c8452b41-4a6b-49a2-8199-08a7088b4885"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie poczują magię świąt. Wiadomo, kiedy Jarmark Bożonarodzeniowy 2025 ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-poczuja-magie-swiat-wiadomo-kiedy-jarmark-bozonarodzeniowy-2025/A0GGL81R8pkMREywxMQv</link>
-<guid isPermaLink="false">4b86c84beeaccab858651841b6c9782fc3bd400e</guid>
-<pubDate>Mon, 10 Nov 2025 14:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902" alt="miniatura"/></p><p>Grudzień to czas kolędowych koncertów, jasełek czy jarmarków. Te ostatnie przyciągają entuzjastów rękodzieła, a także smakoszy. Na stoiskach pojawiają się bowiem nie tylko ozdoby świąteczne, ale także miody, oscypki, obwarzanki, wędliny oraz ciepłe potrawy. Kiedy piotrkowianie będą mogli poczuć magię świąt?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8a54630c-cbb0-410e-8eb8-0c204333c902"/>
 </item>
 </channel></rss>
