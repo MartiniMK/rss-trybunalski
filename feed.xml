@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 12 Jan 2026 11:38:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 13:14:40 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Przerwa w dostawie prądu w Łódzkiem. PGE ostrzega mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przerwa-w-dostawie-pradu-w-lodzkiem-pge-ostrzega-mieszkancow/F8xdpmZ5uA5LE6U1m3wf</link>
+<guid isPermaLink="false">eed067e6d7179447bd961ab72c7430382703db06</guid>
+<pubDate>Mon, 12 Jan 2026 13:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bcd21a60-b09c-4f9d-a1ce-e817a37e284e" alt="miniatura"/></p><p>Środa, 14 stycznia 2026 Piotrków Trybunalski ul. Żeglarska 47</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bcd21a60-b09c-4f9d-a1ce-e817a37e284e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bcd21a60-b09c-4f9d-a1ce-e817a37e284e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bcd21a60-b09c-4f9d-a1ce-e817a37e284e"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek na A1 pod Piotrkowem. Bohaterska reakcja jednego ze świadków zdarzenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-a1-pod-piotrkowiem-bohaterska-reakcja-jednego-ze-swiadkow-zdarzenia/hzQqosDKkacIXsALrCXI</link>
@@ -1199,16 +1209,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1217,6 +1217,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3227,25 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f96066ea-25ac-460f-9e69-192a69672c7d"/>
-</item>
-<item>
-<title><![CDATA[ Strażacy i mieszkańcy pożegnali śp. dh Władysława Rytycha [GALERIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/strazacy-i-mieszkancy-pozegnali-sp-dh-wladyslawa-rytycha-galeria/Jcw6hfJtOkubJJrFu3uo</link>
-<guid isPermaLink="false">fe258e699278fc29498baf7e18b7cb718faeab07</guid>
-<pubDate>Mon, 10 Nov 2025 11:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c49e8de6-e62d-4083-9c67-93017ac5dbc5" alt="miniatura"/></p><p>W ostatniej drodze towarzyszyła mu rodzina, przyjaciele, sąsiedzi oraz liczne grono druhów strażaków.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c49e8de6-e62d-4083-9c67-93017ac5dbc5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c49e8de6-e62d-4083-9c67-93017ac5dbc5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c49e8de6-e62d-4083-9c67-93017ac5dbc5"/>
-</item>
-<item>
-<title><![CDATA[ PGE ostrzega mieszkańców Piotrkowa i okolic. Sprawdź, gdzie nie będzie prądu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-ostrzega-mieszkancow-piotrkowa-i-okolic-sprawdz-gdzie-nie-bedzie-pradu/8HTMW9IAdRJ5bqe8HBpj</link>
-<guid isPermaLink="false">346e500b383990bf106765ee39eeedbc1b56255b</guid>
-<pubDate>Mon, 10 Nov 2025 11:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716" alt="miniatura"/></p><p>Środa, 12 listopada Piotrków Trybunalski</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/720e0360-648f-44e6-b314-a0f85b8f6716"/>
 </item>
 </channel></rss>
