@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 11:39:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 13:13:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Oto najlepsze szkoły w Piotrkowie i powiecie. Sprawdzamy ranking Perspektyw 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oto-najlepsze-szkoly-w-piotrkowie-i-powiecie-sprawdzamy-ranking-perspektyw-2026/hGQ47nNXGBT1pSOmoHKi</link>
+<guid isPermaLink="false">de2763809f9f3ae46c014f3703b5d027c7d49baf</guid>
+<pubDate>Wed, 14 Jan 2026 13:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/abd066ff-08fa-44fd-ad5e-099a6d75f60a" alt="miniatura"/></p><p>Można już zapoznać się z najnowszym rankingiem liceów i techników w kraju. Miesięcznik „Perspektywy” po raz 28. przygotował takie zestawienie . Wśród wymienionych szkół znalazły się też te z Piotrkowa Trybunalskiego i powiatu. Taka lista może być pomocą dla rodziców i ósmoklasistów, przed którymi stoi wybór dalszej ścieżki kształcenia. Sprawdzamy, jak wypadły placówki z naszego miasta i powiatu.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/abd066ff-08fa-44fd-ad5e-099a6d75f60a" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/abd066ff-08fa-44fd-ad5e-099a6d75f60a" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/abd066ff-08fa-44fd-ad5e-099a6d75f60a"/>
+</item>
 <item>
 <title><![CDATA[ MZK Piotrków: będą zmiany na prośbę pasażerów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-beda-zmiany-na-prosbe-pasazerow/uQu9x8m83SwDyNt4ZLO0</link>
@@ -1359,16 +1369,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1377,6 +1377,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3227,25 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c37d9316-758e-4fbb-aee7-a48fdb1d1308"/>
-</item>
-<item>
-<title><![CDATA[ Miesiąc dżentelmena w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miesiac-dzentelmena-w-piotrkowie-trybunalskim/hx3gNHlrCpCNwptdJUAO</link>
-<guid isPermaLink="false">4631550ec2b5f7b8466809aaacc3d70bdb835601</guid>
-<pubDate>Wed, 12 Nov 2025 14:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" alt="miniatura"/></p><p>Rak prostaty u mężczyzn powinien być traktowany z taką samą uwagą, z jaką kobiety podchodzą do raka piersi. Podczas gdy kobiety są coraz bardziej świadome i dbają o profilaktykę, mężczyźni nadal wydają się być niewystarczająco uświadomieni. Tymczasem wcześnie wykryty rak prostaty jest niemal zawsze całkowicie uleczalny lub w toku leczenia zamienia się chorobę przewlekłą” – podkreśla dr Tomasz Anys…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c92f80b7-e4f6-4652-9f3e-7d6dcadc8198"/>
-</item>
-<item>
-<title><![CDATA[ Narkotyki, zazdrość o byłą żonę i policjanci na balkonie. Sceny jak z filmu w powiecie piotrkowskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/narkotyki-zazdrosc-o-byla-zone-i-policjanci-na-balkonie-sceny-jak-z-filmu-w-powiecie-piotrkowskim/kKt87jnBR0OTjoau6sZF</link>
-<guid isPermaLink="false">67d541cd15b8b78de22be7213472f76bca99fbac</guid>
-<pubDate>Wed, 12 Nov 2025 13:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9" alt="miniatura"/></p><p>Wszystko działo się w niedzielę 9 listopada. Około 11:30 policjanci ruszyli na teren Gorzkowic. Ze zgłoszenia wynikało, że życie 34-letniego mężczyzny jest zagrożone. Funkcjonariusze, aby dostać się do środka, wyważyli okno balkonowe. Na miejscu powitał ich agresywny mieszkaniec powiatu, a to dopiero początek.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9"/>
 </item>
 </channel></rss>
