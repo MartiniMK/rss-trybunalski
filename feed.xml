@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 17:43:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 18:53:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zaginęła 16-latka. Piotrkowska policja prosi o pomoc [AKTUALIZACJA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zaginela-16-letnia-marzena-piotrkowska-policja-prosi-o-pomoc/IRSnnDcDCWYim1QlggZc</link>
+<guid isPermaLink="false">5a0f60c153b37450626377057b4328634fd946ca</guid>
+<pubDate>Wed, 14 Jan 2026 18:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/64cca0c6-e624-4871-be62-39cfc24a292b" alt="miniatura"/></p><p>Komenda Miejska Policji w Piotrkowie Trybunalskim poinformowała, że zaginęła 16-letnia dziewczyna. W środę, 14 stycznia dziewczyna około godziny 9:00 wyszła z domu do szkoły. Do chwili obecnej nie wróciła i nie nawiązała kontaktu z bliskimi. Ostatni raz była widziana na ul. 3-go Maja.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/64cca0c6-e624-4871-be62-39cfc24a292b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/64cca0c6-e624-4871-be62-39cfc24a292b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/64cca0c6-e624-4871-be62-39cfc24a292b"/>
+</item>
 <item>
 <title><![CDATA[ Jedna u jezuitów, druga u bernardynów. Komu patronują piotrkowskie Madonny? [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jedna-u-jezuitow-druga-u-bernardynow-komu-patronuja-piotrkowskie-madonny-zdjecia/ghn8um0gE59PQDYQrmLw</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483"/>
-</item>
-<item>
-<title><![CDATA[ Gigantyczny mandat dla mieszkańca powiatu piotrkowskiego. Co zrobił? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/gigantyczny-mandat-dla-mieszkanca-powiatu-piotrkowskiego-co-zrobil/4ayuEfuZZopcbbyAWmxs</link>
-<guid isPermaLink="false">57d52108a6ce650690de333e65bdd105114bff06</guid>
-<pubDate>Thu, 13 Nov 2025 10:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" alt="miniatura"/></p><p>W środę, 12 listopada po godz. 19:00 na trasie S8 doszło do niebezpiecznego zdarzenia drogowego. W miejscu, w którym prowadzone są roboty drogowe i obowiązuje zwężenie pasa ruchu kierowca Opla, postanowił nie dostosować się do tymczasowych oznaczeń i zawrócić w niedozwolonym miejscu , aby zjechać w kierunku Wolborza.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/394f3317-e64a-4634-a421-42e53d6ba5d9"/>
 </item>
 </channel></rss>
