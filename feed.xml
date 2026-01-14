@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 10:44:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 11:39:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ MZK Piotrków: będą zmiany na prośbę pasażerów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-beda-zmiany-na-prosbe-pasazerow/uQu9x8m83SwDyNt4ZLO0</link>
+<guid isPermaLink="false">69e359144804d065efccdffa20a965bad6e1b3a6</guid>
+<pubDate>Wed, 14 Jan 2026 12:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/125537fb-79db-42c3-943f-6ff150987a93" alt="miniatura"/></p><p>Pasażerowie mogą spodziewać się zmian w rozkładzie jazdy miejskich autobusów w Piotrkowie Trybunalskim. Sprawdź, jak pojadą MZK-i.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/125537fb-79db-42c3-943f-6ff150987a93" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/125537fb-79db-42c3-943f-6ff150987a93" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/125537fb-79db-42c3-943f-6ff150987a93"/>
+</item>
 <item>
 <title><![CDATA[ Policjanci z Piotrkowa ruszyli do pomocy. Znaleźli 5 osób, pośród nich obywatel Kolumbii ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/policjanci-z-piotrkowa-ruszyli-do-pomocy-znalezli-5-osob-posrod-nich-obywatel-kolumbii/hqZxRZafPHwg87zIxmMj</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e90bab93-aeba-445f-9cb9-f2273c10d5e9"/>
-</item>
-<item>
-<title><![CDATA[ Trwa zbiórka dla młodego piotrkowianina. „Filip to dziś cień dawnego siebie” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/trwa-zbiorka-dla-mlodego-piotrkowianina-filip-to-dzis-cien-dawnego-siebie/RHYBq5GBI5jIsRjyGi1h</link>
-<guid isPermaLink="false">972e0d605087b0787230ebb793916d05c2c7ece9</guid>
-<pubDate>Wed, 12 Nov 2025 12:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522" alt="miniatura"/></p><p>Filip to młody mężczyzna, który w wyniku wypadku został sparaliżowany od klatki piersiowej. Jedyną nadzieją jest rehabilitacja, jednak ciągłe infekcje niszczą organizm piotrkowianina. Trwa zbiórka, podczas której można wesprzeć leczenie chłopaka. Całe życie Filipa zmienił wypadek, do którego doszło w ubiegłym roku.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522"/>
 </item>
 </channel></rss>
