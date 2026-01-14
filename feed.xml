@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 09:45:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 10:44:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Policjanci z Piotrkowa ruszyli do pomocy. Znaleźli 5 osób, pośród nich obywatel Kolumbii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/policjanci-z-piotrkowa-ruszyli-do-pomocy-znalezli-5-osob-posrod-nich-obywatel-kolumbii/hqZxRZafPHwg87zIxmMj</link>
+<guid isPermaLink="false">6181f0445a32903d58e288f80391b9164ad4c267</guid>
+<pubDate>Wed, 14 Jan 2026 11:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/48125eaa-e3ae-4a01-9f41-1977b8310942" alt="miniatura"/></p><p>Ze względu na niskie temperatury funkcjonariusze Komendy Miejskiej Policji w Piotrkowie Trybunalskim kontrolują pustostany, pergole śmietnikowe, przystanki czy tereny dworca. Działania polegają na sprawdzaniu czy znajdują się tam osoby w kryzysie bezdomności, które wymagają wsparcia. W ostatnich dniach policjanci znaleźli 5 osób, a troje z nich potrzebowało pomocy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/48125eaa-e3ae-4a01-9f41-1977b8310942" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/48125eaa-e3ae-4a01-9f41-1977b8310942" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/48125eaa-e3ae-4a01-9f41-1977b8310942"/>
+</item>
 <item>
 <title><![CDATA[ Prokurator zajął się agresorką ze szpitala w Piotrkowie. Grożą jej 3 lata więzienia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/42-latka-napadla-na-personel-sor-u-w-piotrkowie-groza-jej-3-lata-wiezienia/wCUFWl8Bm8osJ8qLrNp8</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cc79c1b8-37cf-4928-b4d7-1dba11c1f522"/>
-</item>
-<item>
-<title><![CDATA[ Narkotyki w Piotrkowie. Policjanci zatrzymali pięć osób ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/narkotyki-w-piotrkowie-policjanci-zatrzymali-piec-osob/p2F5tPknMBmCB4iMLPIP</link>
-<guid isPermaLink="false">257884916b986c9a8d25379655a943ecd7f4b2dc</guid>
-<pubDate>Wed, 12 Nov 2025 12:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6" alt="miniatura"/></p><p>Pierwsze zatrzymanie miało miejsce 4 listopada 2025 roku . Policjanci interweniowali po zgłoszeniu, że nietrzeźwy mężczyzna demoluje samochody .</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6"/>
 </item>
 </channel></rss>
