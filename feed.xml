@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 21:38:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 22:40:06 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Zaginęła 16-latka. Piotrkowska policja prosi o pomoc [AKTUALIZACJA] ]]></title>
