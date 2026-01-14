@@ -6,14 +6,27 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 05:44:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 06:55:30 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/cialo-mezczyzny-znalezione-w-piotrkowie-prokuratura-ustala-czy-jego-smierc-ma-zwiazek-z-pozarem/SfkeyNCAwMq7dDnHKgVW ]]></title>
+<title><![CDATA[ Prokurator zają się agresorką ze szpitala w Piotrkowie. Grożą jej 3 lata więzienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/42-latka-napadla-na-personel-sor-u-w-piotrkowie-groza-jej-3-lata-wiezienia/wCUFWl8Bm8osJ8qLrNp8</link>
+<guid isPermaLink="false">8861ee9a43b7696796ad6436e01ad2f96f82f17f</guid>
+<pubDate>Wed, 14 Jan 2026 07:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9045167-12c9-4f04-8d3b-ad8cbcf331ba" alt="miniatura"/></p><p>Atak pacjentki na SOR-ze w Piotrkowie Przypomnijmy. Do zdarzenia doszło w niedzielę, 11 stycznia 2026 roku około godziny 4:00 na terenie Szpitalnego Oddziału Ratunkowego Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim. Kobieta zgłosiła się na SOR, domagając się przeprowadzenia badań lekarskich.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9045167-12c9-4f04-8d3b-ad8cbcf331ba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9045167-12c9-4f04-8d3b-ad8cbcf331ba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9045167-12c9-4f04-8d3b-ad8cbcf331ba"/>
+</item>
+<item>
+<title><![CDATA[ Ciało mężczyzny znalezione w Piotrkowie. Prokuratura ustala, co się stało ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/cialo-mezczyzny-znalezione-w-piotrkowie-prokuratura-ustala-czy-jego-smierc-ma-zwiazek-z-pozarem/SfkeyNCAwMq7dDnHKgVW</link>
 <guid isPermaLink="false">af0b029acf4deea28180367bf4ec2c052a309747</guid>
-<pubDate>Wed, 14 Jan 2026 05:44:40 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<pubDate>Wed, 14 Jan 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0059ae37-ebba-4338-962a-7d790f0872fe" alt="miniatura"/></p><p>Tragiczny pożar przy ul. Rakowskiej w Piotrkowie Do zdarzenia doszło w piątek, 2 stycznia około godziny 16:00. Służby otrzymały zgłoszenie o pożarze metalowego kontenera znajdującego się na jednym z placów przy ul. Rakowskiej w Piotrkowie Trybunalskim. Na miejsce skierowano dwa zastępy straży pożarnej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0059ae37-ebba-4338-962a-7d790f0872fe" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0059ae37-ebba-4338-962a-7d790f0872fe" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0059ae37-ebba-4338-962a-7d790f0872fe"/>
 </item>
 <item>
 <title><![CDATA[ Zaraza na terenie powiatu piotrkowskiego? Wyznaczono zakażone strefy ]]></title>
