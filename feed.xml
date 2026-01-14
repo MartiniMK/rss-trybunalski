@@ -6,10 +6,10 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Jan 2026 07:41:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 08:49:55 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Prokurator zają się agresorką ze szpitala w Piotrkowie. Grożą jej 3 lata więzienia ]]></title>
+<title><![CDATA[ Prokurator zajął się agresorką ze szpitala w Piotrkowie. Grożą jej 3 lata więzienia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/42-latka-napadla-na-personel-sor-u-w-piotrkowie-groza-jej-3-lata-wiezienia/wCUFWl8Bm8osJ8qLrNp8</link>
 <guid isPermaLink="false">8861ee9a43b7696796ad6436e01ad2f96f82f17f</guid>
 <pubDate>Wed, 14 Jan 2026 07:30:00 +0000</pubDate>
@@ -3247,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c83d8153-656b-49a1-91ce-05cc1c8394f6"/>
-</item>
-<item>
-<title><![CDATA[ Pijana kobieta za kółkiem. Zatrzymano ją w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pijana-kobieta-za-kolkiem-zatrzymano-ja-w-piotrkowie-trybunalskim/DeGKNpnVHcRtzpJeLobX</link>
-<guid isPermaLink="false">63997ec38e7e9bfbb9abd622f3a0c65505a74a56</guid>
-<pubDate>Wed, 12 Nov 2025 11:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0ecd785f-0ad2-43a5-b401-26c9aa6628d8" alt="miniatura"/></p><p>W poniedziałek, 10 listopada po godz. 20:00 funkcjonariusz Komendy Powiatowej Policji w Bełchatowie, wracając ze służby zauważył w m. Gomulin pojazd marki Skoda, który nie trzyma pasa ruchu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0ecd785f-0ad2-43a5-b401-26c9aa6628d8" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0ecd785f-0ad2-43a5-b401-26c9aa6628d8" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0ecd785f-0ad2-43a5-b401-26c9aa6628d8"/>
 </item>
 </channel></rss>
