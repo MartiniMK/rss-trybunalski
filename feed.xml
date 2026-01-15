@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 15 Jan 2026 16:54:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 17:49:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowskie pamiątki zebrali tu krajoznawcy. Dawna siedziba królów świadczy o dziejach miasta [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowskie-pamiatki-zebrali-tu-krajoznawcy-dawna-siedziba-krolow-swiadczy-o-dziejach-miasta-zdjecia/Z1UEjr0rZnBj9QibgpoR</link>
+<guid isPermaLink="false">619115fc693be2cfd05ae7d3d37033132a524dca</guid>
+<pubDate>Thu, 15 Jan 2026 17:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16444e52-b3a6-4341-a711-91c97a5aeea4" alt="miniatura"/></p><p>Zaczęło się od 51 działaczy, którzy w 1908 roku powołali Oddział Piotrkowski Polskiego Towarzystwa Krajoznawczego . Organizacja powstała zaledwie dwa lata wcześniej w Warszawie i swoim zasięgiem obejmowała ziemie zaboru rosyjskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16444e52-b3a6-4341-a711-91c97a5aeea4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16444e52-b3a6-4341-a711-91c97a5aeea4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16444e52-b3a6-4341-a711-91c97a5aeea4"/>
+</item>
 <item>
 <title><![CDATA[ 36-latek zabrany do szpitala LPR. Śmigłowiec musiał lądować w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/36-latek-zabrany-do-szpitala-lpr-smiglowiec-musial-ladowac-w-piotrkowie/iptlwlJDyGiWJmPfb5XW</link>
@@ -29,16 +39,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -47,6 +47,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/11f6b102-58a3-49ef-9f46-cfe7bf9fd6ba" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/11f6b102-58a3-49ef-9f46-cfe7bf9fd6ba" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/11f6b102-58a3-49ef-9f46-cfe7bf9fd6ba"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianka cierpi na ciężką chorobę. Rodzina prosi o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianka-cierpi-na-ciezka-chorobe-rodzina-prosi-o-pomoc/VDf5jbctZ1viQ6mFHXPA</link>
-<guid isPermaLink="false">9cd7caca4ae050bad40ad98a413f713069de631c</guid>
-<pubDate>Fri, 14 Nov 2025 12:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" alt="miniatura"/></p><p>Marysia Krak z Piotrkowa ciężko choruje Marysia od początku miała pod górkę. Urodziła się w 30. tygodniu ciąży, ważąc zaledwie 1565 gramów. Dodatkowym zagrożeniem była pępowina owinięta wokół szyi, przez co lekarze od pierwszych chwil walczyli o jej życie.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b2108d82-0f58-449e-b786-6e5455e4160c"/>
 </item>
 </channel></rss>
