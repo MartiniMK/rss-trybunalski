@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 15 Jan 2026 09:46:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 10:43:33 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Najnowsze oferty pracy w Piotrkowie Trybunalskim. Na tych stanowiskach zarobisz nawet 7,5 tysiąca ]]></title>
@@ -3237,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/25c21820-773e-4a6b-b10b-4be37b71edab" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/25c21820-773e-4a6b-b10b-4be37b71edab" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/25c21820-773e-4a6b-b10b-4be37b71edab"/>
-</item>
-<item>
-<title><![CDATA[ Grożono radnemu z powiatu piotrkowskiego. Zrezygnował z funkcji ]]></title>
-<link>https://trybunalski.pl/wiadomosci/grozono-radnemu-z-powiatu-piotrkowskiego-zrezygnowal-z-funkcji/j9EN9k8rE84UTW8i8cUx</link>
-<guid isPermaLink="false">cfa04168aeff6f82d525dabc56dc2abe333335b5</guid>
-<pubDate>Thu, 13 Nov 2025 11:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" alt="miniatura"/></p><p>W oświadczeniu radny Arkadiusz Smuga podziękował mieszkańcom Kosowa za zaufanie, które mu okazali oraz za współpracę, jaką udało mu się nawiązać w ciągu ostatnich półtora roku. Jak zaznaczył:</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771"/>
 </item>
 </channel></rss>
