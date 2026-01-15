@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 15 Jan 2026 11:37:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 13:12:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-naszego-miasta-prosto-na-stok-jest-sposob-na-tansze-bilety-pkp/M8NJMwIC4jWprBAFc2ck</link>
+<guid isPermaLink="false">8774a95653a4f3cc44814ceb6d7608950c47a984</guid>
+<pubDate>Thu, 15 Jan 2026 13:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5beb49ba-f663-449c-ad11-422f6f991405" alt="miniatura"/></p><p>Dla wielu podróże koleją to ulubiona forma transportu. Pasażerowie pociągów nie martwią się o korki czy miejsca parkingowe, a z naszego miasta można dojechać w różne zakątki kraju. Zbliżają się ferie zimowe i wiele osób planuje wyjazdy na ten czas. Nierzadko wyborem są górskie miejscowości. Do jakich miejsc dojedziemy z Piotrkowa bezpośrednio?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5beb49ba-f663-449c-ad11-422f6f991405" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5beb49ba-f663-449c-ad11-422f6f991405" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5beb49ba-f663-449c-ad11-422f6f991405"/>
+</item>
 <item>
 <title><![CDATA[ Najnowsze oferty pracy w Piotrkowie Trybunalskim. Na tych stanowiskach zarobisz nawet 7,5 tysiąca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najnowsze-oferty-pracy-w-piotrkowie-trybunalskim-na-tych-stanowiskach-zarobisz-nawet-75-tysiaca/A3G6nxaQLgtnLPo5JXD0</link>
@@ -1419,16 +1429,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -1437,6 +1437,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
