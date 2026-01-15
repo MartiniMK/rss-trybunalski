@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 15 Jan 2026 08:50:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 09:46:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Najnowsze oferty pracy w Piotrkowie Trybunalskim. Na tych stanowiskach zarobisz nawet 7,5 tysiąca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najnowsze-oferty-pracy-w-piotrkowie-trybunalskim-na-tych-stanowiskach-zarobisz-nawet-75-tysiaca/A3G6nxaQLgtnLPo5JXD0</link>
+<guid isPermaLink="false">4f96be896b6446365cb0d7c70ac67bb0e9822656</guid>
+<pubDate>Thu, 15 Jan 2026 10:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be600a00-4ddf-4c4d-b795-a9edad7d7478" alt="miniatura"/></p><p>Fizjoterapeuta/ka Wynagrodzenie brutto: od 70,00 PLN</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be600a00-4ddf-4c4d-b795-a9edad7d7478" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be600a00-4ddf-4c4d-b795-a9edad7d7478" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be600a00-4ddf-4c4d-b795-a9edad7d7478"/>
+</item>
 <item>
 <title><![CDATA[ Zaginęła 16-latka. Piotrkowska policja prosi o pomoc [AKTUALIZACJA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zaginela-16-letnia-marzena-piotrkowska-policja-prosi-o-pomoc/IRSnnDcDCWYim1QlggZc</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/551105b9-7c02-41ee-92c7-6ba165d55771"/>
-</item>
-<item>
-<title><![CDATA[ Rolnicy z powiatu wyjadą na drogi. Ruszą do Piotrkowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rolnicy-z-powiatu-wyjada-na-drogi-rusza-do-piotrkowa/UIFlcUwfqf9aerNypScw</link>
-<guid isPermaLink="false">d7ff0e5fe2d8508b6c57e89f24a434c964b88868</guid>
-<pubDate>Thu, 13 Nov 2025 10:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483" alt="miniatura"/></p><p>Związek Solidarność Rolników Piotrków poinformował o strajku, który odbędzie się w piątek, 14 listopada. Wiadomo już, jakie są miejsca zbiórki i o której rolnicy planują dojechać do Piotrkowa. Główne zgromadzenie będzie miało miejsce o godz. 12:00 przy ul. Kasztelańskiej 9 w naszym mieście.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffab162-e21f-4bbe-8a62-9b8fdc926483"/>
 </item>
 </channel></rss>
