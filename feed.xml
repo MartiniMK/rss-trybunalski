@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 15 Jan 2026 20:46:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 21:39:56 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Piotrkowskie pamiątki zebrali tu krajoznawcy. Dawna siedziba królów świadczy o dziejach miasta [ZDJĘCIA] ]]></title>
@@ -199,7 +199,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dabca682-6bd3-4f51-883b-bc213a5e505f"/>
 </item>
 <item>
-<title><![CDATA[ Wielkie wygrane w Lotto. Padły "tłuste" sumy dla w naszym mieście ]]></title>
+<title><![CDATA[ Wielkie wygrane w Lotto. Padły "tłuste" sumy w naszym mieście ]]></title>
 <link>https://trybunalski.pl/wiadomosci/posypaly-sie-wielkie-wygrane-w-lotto-setki-tysiecy-dla-graczy-z-naszego-regionu/5tXkZXmFVGkW8rAxdkmO</link>
 <guid isPermaLink="false">07db1099c19a34498a574b65d7c2d2548f0161b5</guid>
 <pubDate>Tue, 13 Jan 2026 13:14:00 +0000</pubDate>
