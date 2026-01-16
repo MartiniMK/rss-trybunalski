@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 16 Jan 2026 14:40:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 15:42:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gryzący problem Piotrkowa. Jest coraz gorzej? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gryzacy-problem-piotrkowa-jest-coraz-gorzej/0Y0aed3wgxSWLnhJ0ffF</link>
+<guid isPermaLink="false">0437707218953830e569426d26a050f4b57aa738</guid>
+<pubDate>Fri, 16 Jan 2026 16:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54145f92-599d-4aac-8ba6-c7e6e6027729" alt="miniatura"/></p><p>W okresie grzewczym nad Piotrkowem unosi się gęsty, gryzący dym. Nie jest to malownicza mgła, a smog, przez który wiele osób rezygnuje z wieczornych spacerów. O problemie mówi się od lat, a styczeń 2026 roku pokazuje, że sprawa jest aktualna i powraca wraz z każdym spadkiem temperatury. Nie trzeba wychodzić z domu, by zauważyć smog. O jego obecności informują też czujniki jakości powietrza, które…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54145f92-599d-4aac-8ba6-c7e6e6027729" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54145f92-599d-4aac-8ba6-c7e6e6027729" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54145f92-599d-4aac-8ba6-c7e6e6027729"/>
+</item>
 <item>
 <title><![CDATA[ W powiecie piotrkowskim wychowują mistrzów. To europejska czołówka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-powiecie-piotrkowskim-wychowuja-mistrzow-to-europejska-czolowka/SGn9ApHIdipbiWqwnzvj</link>
@@ -3217,15 +3227,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3d763e7a-675a-475c-ae8f-0380aab8d082" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3d763e7a-675a-475c-ae8f-0380aab8d082" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3d763e7a-675a-475c-ae8f-0380aab8d082"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia kontynuuje zwycięski marsz! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-kontynuuje-zwycieski-marsz/l0uXgV78ofEA5PSKbv5Y</link>
-<guid isPermaLink="false">ce2c7bdd616b3dddabb2e08c1a34e3d626130a5e</guid>
-<pubDate>Sun, 16 Nov 2025 18:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d120f9db-a534-455f-8b94-58bfa79aa6a4" alt="miniatura"/></p><p>Szczypiornistki Piotrcovii pierwszą rundę fazy zasadniczej ORLEN SuperLigi 2025/2026 zakończyły na pozycji lidera z 7 zwycięstwami i 21 punktami na koncie. Sposób na podopieczne trenera Horatiu Pasci potrafiła znaleźć jak dotąd tylko mistrzynie Polski z czterech ostatnich sezonów, zawodniczki KGHM Zagłębia Lubin.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d120f9db-a534-455f-8b94-58bfa79aa6a4" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d120f9db-a534-455f-8b94-58bfa79aa6a4" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d120f9db-a534-455f-8b94-58bfa79aa6a4"/>
 </item>
 </channel></rss>
