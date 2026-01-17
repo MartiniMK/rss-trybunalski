@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 17 Jan 2026 14:36:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 15:38:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ekspedycja Smaku w hali Relax w Piotrkowie – trzy festiwale, orientalne przysmaki i atrakcje dla całych rodzin ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ekspedycja-smaku-w-hali-relax-w-piotrkowie-trzy-festiwale-orientalne-przysmaki-i-atrakcje-dla-calych-rodzin-zdjecia/eO3Gvb8GeNms8knQ7RDF</link>
+<guid isPermaLink="false">51155fe2eb0c1c4be0387f3b665133f23dd69534</guid>
+<pubDate>Sat, 17 Jan 2026 15:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/6364756e-4e45-4b10-be92-fe01fadaf0ac" alt="miniatura"/></p><p>W ramach jednego biletu uczestnicy mogą odwiedzić Orientalną Ekspedycję – Festiwal Kuchni i Kultury Azjatyckiej , gdzie czekają aromatyczne dania inspirowane smakami Azji i Orientu. Wśród propozycji znajdują się m.in. rameny, bułeczki bao bao, owoce morza, koreańskie bowle czy gruzińskie chaczapuri – przygotowywane na miejscu przez doświadczonych wystawców.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/6364756e-4e45-4b10-be92-fe01fadaf0ac" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/6364756e-4e45-4b10-be92-fe01fadaf0ac" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/6364756e-4e45-4b10-be92-fe01fadaf0ac"/>
+</item>
 <item>
 <title><![CDATA[ Studniówka 2026 maturzystów ZSP nr 3 w Piotrkowie Trybunalskim. To była noc pełna zabawy i wzruszeń ZDJĘCIA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/studniowka-2026-maturzystow-zsp-nr-3-w-piotrkowie-trybunalskim-to-byla-noc-pelna-zabawy-i-wzruszen-zdjecia/dnBHz5kgWW2eilS9Yjc9</link>
