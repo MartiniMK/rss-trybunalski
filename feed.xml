@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 18 Jan 2026 18:47:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 19:31:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Krasoń MKS Piotrcovia z przełamaniem w Elblągu! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-z-przelamaniem-w-elblagu/PewFWi2r8TLUYIoKrXYZ</link>
+<guid isPermaLink="false">2880fe04a3ead5a71f2a507ddff4de73a4584a6a</guid>
+<pubDate>Sun, 18 Jan 2026 20:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aa3270a7-2758-4275-a09b-afc16c4913f6" alt="miniatura"/></p><p>Szczypiornistki Piotrcovii do rywalizacji w Elblągu przystępowały jako trzeci zespół tabeli, ale również po czterech porażkach z rzędu, które nieco zmąciły doskonałą wcześniej atmosferę wokół drużyny, którą budowały kolejne zwycięstwa. Nastroje przed konfrontacją z elblążankami w samym zespole były jednak bojowe.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aa3270a7-2758-4275-a09b-afc16c4913f6" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aa3270a7-2758-4275-a09b-afc16c4913f6" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aa3270a7-2758-4275-a09b-afc16c4913f6"/>
+</item>
 <item>
 <title><![CDATA[ Atak kijem baseballowym w Piotrkowie. 61-latek trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/atak-kijem-baseballowym-w-piotrkowie-61-latek-trafil-do-szpitala/5MsOONsrZaz7qzZJR6eG</link>
@@ -1589,16 +1599,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1607,6 +1607,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3227,15 +3237,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/616f87b6-35e7-4549-8f02-1cade27432fe"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska arteria dostała swoją nazwę po pogrzebie wieszcza. Ulicą upamiętniono przejazd przez miasto prochów poety [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-arteria-dostala-swoja-nazwe-po-pogrzebie-wieszcza-ulica-upamietniono-przejazd-przez-miasto-prochow-poety-zdjecia/WtBExnBenoeP0H3YalCZ</link>
-<guid isPermaLink="false">05366bce5958b33b42165a387ad0da567a51b83c</guid>
-<pubDate>Mon, 17 Nov 2025 19:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" alt="miniatura"/></p><p>Dzisiejsza ulica Juliusza Słowackiego w Piotrkowie nazwę otrzymała na pamiątkę przejazdu przez Piotrków specjalnego pociągu wiozącego do Krakowa urnę z prochami narodowego wieszcza. Wydarzenia te miały miejsce w czerwcu 1927 roku. Nowa nazwa głównej ulicy miasta zaczęła być używana pod koniec 1927 roku .</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ffec61d-0a03-4033-8f27-231782e44d00"/>
 </item>
 </channel></rss>
