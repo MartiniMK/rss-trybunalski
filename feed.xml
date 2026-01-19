@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 19 Jan 2026 07:45:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 08:53:50 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Krasoń MKS Piotrcovia z przełamaniem w Elblągu! ]]></title>
