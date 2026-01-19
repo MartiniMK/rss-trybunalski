@@ -6,18 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 19 Jan 2026 15:45:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 16:49:04 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ Dino pokazało nowe hity cenowe! Co od dzisiaj w największych promocjach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dino-pokazalo-nowe-hity-cenowe-co-od-dzisiaj-w-najwiekszych-promocjach/7RPnXH6rwq5QjEZxmQqR</link>
-<guid isPermaLink="false">cb9c23c341ef42ab34079a255f84bc1535cc8798</guid>
-<pubDate>Mon, 19 Jan 2026 15:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3c8d7bd5-abcd-463b-ad73-d713b81a4369" alt="miniatura"/></p><p>Oferta została skonstruowana tak, aby umożliwić skompletowanie pełnych zakupów w jednym miejscu – od produktów bazowych po artykuły uzupełniające. Poniżej szczegółowe zestawienie promocji wraz z dokładnymi cenami i skalą obniżek.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3c8d7bd5-abcd-463b-ad73-d713b81a4369" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3c8d7bd5-abcd-463b-ad73-d713b81a4369" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3c8d7bd5-abcd-463b-ad73-d713b81a4369"/>
-</item>
 <item>
 <title><![CDATA[ Wydano ostrzeżenie dla centrum miasta. Lepiej zostać w domu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wydano-ostrzezenie-dla-centrum-miasta-lepiej-zostac-w-domu/3iLcIGVwrDWourb7ds1J</link>
@@ -3257,5 +3247,15 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f7b1359-6f3f-4398-a116-d7de29d9b5c0"/>
+</item>
+<item>
+<title><![CDATA[ Tak obchodzono 400-lecie Trybunału Koronnego w Piotrkowie. Po pamiętnym jubileuszu zostało sporo pamiątek [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tak-obchodzono-400-lecie-trybunalu-koronnego-w-piotrkowie-po-pamietnym-jubileuszu-zostalo-sporo-pamiatek-zdjecia/Oq1VLtp2udO3ndI072mw</link>
+<guid isPermaLink="false">d6b86efd527288a109265ca9ad98c4a888815521</guid>
+<pubDate>Tue, 18 Nov 2025 18:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3bd16be4-f7ae-4600-9090-78b6c416a5fd" alt="miniatura"/></p><p>Przez niemal cały 1978 rok Piotrków Trybunalski żył wydarzeniami, jakie upamiętniały 400-lecie powołania Trybunału Koronnego, czyli pierwszego w Polsce i Europie sądu niezależnego od panującego władcy. W Piotrkowie w owym roku wszystko podporządkowane zostało obchodom. Włączyły się w nie najwyższe władz partyjne i znani prawnicy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3bd16be4-f7ae-4600-9090-78b6c416a5fd" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3bd16be4-f7ae-4600-9090-78b6c416a5fd" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3bd16be4-f7ae-4600-9090-78b6c416a5fd"/>
 </item>
 </channel></rss>
