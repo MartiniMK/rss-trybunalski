@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 20 Jan 2026 13:19:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 14:50:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nieudana zamiana miejsc na oczach policji w Piotrkowie. Teraz grozi mu 5 lat ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/nieudana-zamiana-miejsc-na-oczach-policji-w-piotrkowie-teraz-grozi-mu-5-lat/bwRORJZWq4jdvCXnCa5A</link>
+<guid isPermaLink="false">854d3ad3de9aad59f1f6a1ea41ee90718868a7f5</guid>
+<pubDate>Tue, 20 Jan 2026 15:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/86bd8dd8-9453-459f-8382-f1522740eaa1" alt="miniatura"/></p><p>W poniedziałek, 19 stycznia funkcjonariusze Komendy Miejskiej Policji w Łodzi prowadzili na terenie Piotrkowa działania pod nazwą „Trzeźwa Autostrada”.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/86bd8dd8-9453-459f-8382-f1522740eaa1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/86bd8dd8-9453-459f-8382-f1522740eaa1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/86bd8dd8-9453-459f-8382-f1522740eaa1"/>
+</item>
 <item>
 <title><![CDATA[ Roztrzaskał samochód w powiecie piotrkowskim. 63-latek trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/roztrzaskal-samochod-w-powiecie-piotrkowskim-63-latek-trafil-do-szpitala/8DJT1BY7ED0JgvINLiav</link>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2deddd94-b01b-4ed5-bee8-a319265b3e78" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2deddd94-b01b-4ed5-bee8-a319265b3e78" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2deddd94-b01b-4ed5-bee8-a319265b3e78"/>
-</item>
-<item>
-<title><![CDATA[ Samochód przejechał łabędzia. Dramatyczne nagranie obiega Internet [VIDEO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/samochod-przejechal-labedzia-dramatyczne-nagranie-obiega-internet-video/FM9VY9HYA8BpmYnftDzF</link>
-<guid isPermaLink="false">ab7b3234044aab42942bcb6f873800eb52fe46af</guid>
-<pubDate>Wed, 19 Nov 2025 14:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" alt="miniatura"/></p><p>Łabędź spadł na ruchliwa drogę, pod koła samochodu Do zdarzenia doszło 29 października 2025 roku w m. Krzeczów, w gminie Wierzchlas (około godzinę drogi od Piotrkowa Trybunalskiego).</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34"/>
 </item>
 </channel></rss>
