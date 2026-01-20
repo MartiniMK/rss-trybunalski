@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 20 Jan 2026 10:47:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 11:40:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kasa dla uczniów z naszego województwa. To ostatnie dni na zgłoszenie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kasa-dla-uczniow-z-naszego-wojewodztwa-to-ostatnie-dni-na-zgloszenie/3aKynb3P4e0amoseBnza</link>
+<guid isPermaLink="false">9f9efc3ffaae8157fb9ac79e626922a857cd5755</guid>
+<pubDate>Tue, 20 Jan 2026 12:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b693d64e-a03c-4984-8f41-168c5cd66240" alt="miniatura"/></p><p>Młodzież kształcąca się w naszym województwie ma szansę na pozyskanie jednorazowego stypendium naukowego Marszałka Województwa Łódzkiego. W puli jest 450 tysięcy złotych. Dofinansowanie ma na celu wspieranie uczniów z naszego regionu. Kto może złożyć wniosek?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b693d64e-a03c-4984-8f41-168c5cd66240" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b693d64e-a03c-4984-8f41-168c5cd66240" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b693d64e-a03c-4984-8f41-168c5cd66240"/>
+</item>
 <item>
 <title><![CDATA[ Sukces Piotrkowianina w Australian Open 2026. Majchrzak z awansem do drugiej rundy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianina-w-australian-open-2026-majchrzak-z-awansem-do-drugiej-rundy/tCcLzvFTeX86xiFjo7rr</link>
@@ -269,16 +279,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -287,6 +287,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a5ce2abc-46f6-4a18-90da-ff35f28eec34"/>
-</item>
-<item>
-<title><![CDATA[ Gruzin pchnął nożem ochroniarza w Piotrkowie i uciekł. Śledztwo zawieszono. Dlaczego? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/gruzin-pchnal-nozem-ochroniarza-w-piotrkowie-i-uciekl-sledztwo-zawieszono-dlaczego/0HalRm61oZvoWtDl5i1s</link>
-<guid isPermaLink="false">15e95f193a0f09d75183bfc146b76d5599164efe</guid>
-<pubDate>Wed, 19 Nov 2025 12:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" alt="miniatura"/></p><p>Atak nożownika w Piotrkowie Przypomnijmy. W nocy z soboty na niedzielę (7/8 września 2024 roku) w Piotrkowie doszło do ataku nożownika . Jeden z gości klubu nocnego awanturował się i mimo prób uspokojenia go przez ochroniarzy, mężczyzna nie dostosował się do poleceń. Ostatecznie Gruzina wyproszono z obiektu, a za nim wyszło jeszcze jego dwóch kolegów.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba"/>
 </item>
 </channel></rss>
