@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 20 Jan 2026 09:50:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 10:47:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sukces Piotrkowianina w Australian Open 2026. Majchrzak z awansem do drugiej rundy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianina-w-australian-open-2026-majchrzak-z-awansem-do-drugiej-rundy/tCcLzvFTeX86xiFjo7rr</link>
+<guid isPermaLink="false">52cca8805b25a46408e9c953462ca4a1b9c888b9</guid>
+<pubDate>Tue, 20 Jan 2026 10:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/75de4dcd-3f3c-4ef6-b7b9-2a0b1c7b6814" alt="miniatura"/></p><p>Australian Open 2026 wystartował w niedzielę 18 stycznia, a Piotrkowianie już mają powód do radości. Pochodzący z naszego miasta Kamil Majchrzak awansował do drugiej rundy pierwszego turnieju wielkoszlemowego w tym sezonie! 19 stycznia jego mecz inauguracyjny w Melbourne zakończył się zwycięstwem. Piotrkowianin w pierwszej rundzie wylosował Jacoba Fearnleya. Tenisiści spotkali się już na korcie po…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/75de4dcd-3f3c-4ef6-b7b9-2a0b1c7b6814" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/75de4dcd-3f3c-4ef6-b7b9-2a0b1c7b6814" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/75de4dcd-3f3c-4ef6-b7b9-2a0b1c7b6814"/>
+</item>
 <item>
 <title><![CDATA[ Nietypowe imiona dla dzieci w Piotrkowie Trybunalskim. Ile mamy Dezyderów i Melis w regionie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nietypowe-imiona-dla-dzieci-w-piotrkowie-trybunalskim-ile-mamy-dezyderow-i-melis-w-regionie/lYTAw01oBwLNhLl0sDHb</link>
@@ -19,11 +29,11 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4be06f14-eaed-4884-8852-ae7c916b84d0"/>
 </item>
 <item>
-<title><![CDATA[ Chcą przejąć sąsiedni region. "Zwiększylibyśmy potencjał turystyczny Sulejowa" ]]></title>
-<link>https://trybunalski.pl/wiadomosci/chca-przejac-sasiedni-region-zwiekszylibysmy-potencjal-turystyczny-sulejowa/amDyyytOOHn1aEWeJAPe</link>
-<guid isPermaLink="false">e3572056ed9e051aa3b33276707f14521980beb4</guid>
+<title><![CDATA[ Rewolucja na mapie powiatu? Gmina chce przejąć część sąsiedniego regionu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-na-mapie-powiatu-gmina-chce-przejac-czesc-sasiedniego-regionu/amDyyytOOHn1aEWeJAPe</link>
+<guid isPermaLink="false">adc42f0b9e83d4af4510c75618b873bd19ebb646</guid>
 <pubDate>Tue, 20 Jan 2026 09:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/00126e24-2758-4d01-a3fd-0b9a8a7a4d10" alt="miniatura"/></p><p>Zmiana granic administracyjnych Gminy Sulejów. Na jakich warunach miałaby się odbyć? Choć zmiana granic administracyjnych brzmi w dzisiejszych czasach dyrastycznie, to gmina Sulejów nie ma złych zamiarów ani nie szykuje się na "walkę o gminne granice". Pomysł samorządu zakłada zamianę terenów leśnych pomiędzy Sulejowem a gminą Mniszków.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/00126e24-2758-4d01-a3fd-0b9a8a7a4d10" alt="miniatura"/></p><p>Zmiana granic administracyjnych gminy Sulejów. Na jakich warunach miałaby się odbyć? Choć zmiana granic administracyjnych brzmi w dzisiejszych czasach dość dyrastycznie, to gmina Sulejów nie ma złych zamiarów, ani nie szykuje się na "walkę o gminne granice". Pomysł samorządu zakłada zamianę terenów leśnych pomiędzy Sulejowem a gminą Mniszków .</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/00126e24-2758-4d01-a3fd-0b9a8a7a4d10" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/00126e24-2758-4d01-a3fd-0b9a8a7a4d10" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/00126e24-2758-4d01-a3fd-0b9a8a7a4d10"/>
@@ -259,16 +269,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -277,6 +277,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -1699,16 +1709,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -1717,6 +1717,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/55dbbcb0-4c40-4547-a183-a9c840bf1bba"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowscy policjanci po służbie zatrzymali pijanego kierowcę. W samochodzie było małe dziecko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowscy-policjanci-po-sluzbie-zatrzymali-pijanego-kierowce-w-samochodzie-bylo-male-dziecko/aRjLhmKcV89SmJvPAP84</link>
-<guid isPermaLink="false">5897d9cf8fa3f7d02e8ef163c73ceadec5dbcf06</guid>
-<pubDate>Wed, 19 Nov 2025 12:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d" alt="miniatura"/></p><p>Do zdarzenia doszło 9 listopada 2025 roku. Funkcjonariusze zauważyli renault, którego kierowca zwalniał, przyspieszał i nie trzymał właściwego pasa ruchu. Policjanci podejrzewali, że mężczyzna może być nietrzeźwy, dlatego skontaktowali się z numerem alarmowym i podali dyspozytorowi lokalizację jadącego niepewnie pojazdu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ec7a7c6-b378-4c22-b49a-761f79743c7d"/>
 </item>
 </channel></rss>
