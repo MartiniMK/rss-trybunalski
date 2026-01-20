@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 20 Jan 2026 08:54:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 09:50:31 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nietypowe imiona dla dzieci w Piotrkowie Trybunalskim. Ile mamy Dezyderów i Melis w regionie? ]]></title>
