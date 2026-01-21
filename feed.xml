@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 21 Jan 2026 17:16:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 19:05:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Secesyjna willa powstała dla fabrykantów. Tak mieszkali w Woli Krzysztoporskiej [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/secesyjna-willa-powstala-dla-fabrykantow-tak-mieszkali-w-woli-krzysztoporskiej-zdjecia/ps0SJ38DnEQf7j3bN23e</link>
+<guid isPermaLink="false">6d7cb7e78d46392e543afa14b9c5a807e6ff795e</guid>
+<pubDate>Wed, 21 Jan 2026 18:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29edc45e-87e8-40dc-81a5-765688e25c1b" alt="miniatura"/></p><p>Rodzina przemysłowców w Woli Krzysztoporskiej zaczynała w XIX wieku od gorzelni i zakładów przetwórczych. W początkach XX wieku zainwestowano w przemysł chemiczny. W początkach XX w. miejscowe zakłady zatrudniały około 100 pracowników.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29edc45e-87e8-40dc-81a5-765688e25c1b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29edc45e-87e8-40dc-81a5-765688e25c1b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/29edc45e-87e8-40dc-81a5-765688e25c1b"/>
+</item>
 <item>
 <title><![CDATA[ Wymusił pierwszeństwo w Piotrkowie. Teraz zajmie się nim Straż Graniczna ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wymusil-pierwszenstwo-w-piotrkowie-teraz-zajmie-sie-nim-straz-graniczna/sxCh4QgfQ013Bb0PnKri</link>
@@ -1849,16 +1859,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -1867,6 +1867,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63392c91-43d4-4064-ab8d-9c7cb74184a7" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63392c91-43d4-4064-ab8d-9c7cb74184a7" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/63392c91-43d4-4064-ab8d-9c7cb74184a7"/>
-</item>
-<item>
-<title><![CDATA[ Ukradła pieniądze chorej, 5-letniej dziewczynce. 48-letniej piotrkowiance grozi więzienie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/ukradla-pieniadze-chorej-5-letniej-dziewczynce-48-letniej-piotrkowiance-grozi-wiezienie/SWcpY6bJG7BoUoQenVkv</link>
-<guid isPermaLink="false">09b685caf607d4c01e9b342d6ad363640d3df89d</guid>
-<pubDate>Fri, 21 Nov 2025 12:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e7f19217-1444-44a3-b89a-ca6bf6ec8cd4" alt="miniatura"/></p><p>We wtorek, 18 listopada mama 5-letniej dziewczynki zgłosiła kradzież pieniędzy, która miała być przeznaczona na leczenie jej chorej córeczki. W jednej z piekarni na terenie Piotrkowa ustawiona przy kasie była przezroczysta skarbonka, do której chętni mogli wrzucać pieniądze, by wesprzeć leczenie 5-latki.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e7f19217-1444-44a3-b89a-ca6bf6ec8cd4" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e7f19217-1444-44a3-b89a-ca6bf6ec8cd4" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e7f19217-1444-44a3-b89a-ca6bf6ec8cd4"/>
 </item>
 </channel></rss>
