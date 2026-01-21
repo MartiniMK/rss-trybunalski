@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 21 Jan 2026 11:42:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 13:18:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Samowola w Piotrkowie? Chcieli dobrze, wygrały przepisy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/samowola-w-piotrkowie-chcieli-dobrze-wygraly-przepisy/yuUhgAJ7uONCRGUlvKUT</link>
+<guid isPermaLink="false">69ef383de1e44ef41a1600e06a94f30073e9e588</guid>
+<pubDate>Wed, 21 Jan 2026 12:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34cf4a8c-bf9d-42ca-a0e7-c1035843c7c0" alt="miniatura"/></p><p>Mieszkańcy wzięli sprawy w swoje ręce i na własny koszt stworzyli dzieciom miejsce do gry w piłkę. Kariera bramek trwała jednak krótko. Dlaczego? Sprzęt musiał zostać usunięty ze względu na niespełnianie norm bezpieczeństwa.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34cf4a8c-bf9d-42ca-a0e7-c1035843c7c0" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34cf4a8c-bf9d-42ca-a0e7-c1035843c7c0" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34cf4a8c-bf9d-42ca-a0e7-c1035843c7c0"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków Trybunalski jako tło średniowiecznej powieści. Już jest nowa powieść piotrkowianki ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-trybunalski-jako-tlo-sredniowiecznej-powiesci-juz-jest-nowa-powiesc-piotrkowianki/1JijuEX0JH9sEvrcHhEe</link>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/554673c5-1377-4777-a051-7a7a1d063b68" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/554673c5-1377-4777-a051-7a7a1d063b68" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/554673c5-1377-4777-a051-7a7a1d063b68"/>
-</item>
-<item>
-<title><![CDATA[ Niebezpieczne dania i przyprawy topowego producenta. Mogły trafić do sklepów w naszym mieście [LISTA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nibezpieczne-dania-i-przyprawy-topowego-producenta-mogly-trafic-do-sklepow-w-naszy-miescie/s0j7HGjPKsHqgia6US3t</link>
-<guid isPermaLink="false">ee82ee9d8a7ebea81371b976275eb5656404de94</guid>
-<pubDate>Thu, 20 Nov 2025 17:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/151cd67f-eb94-410d-a4b2-24280b18dbc0" alt="miniatura"/></p><p>W ostatnich dniach polskie służby sanitarne ostrzegły przed poważnym zagrożeniem związanym z zanieczyszczeniem niektórych produktów spożywczych, które trafiły do sklepów i hurtowni w całym kraju. Według informacji przekazanych przez system RASFF oraz dystrybutorów, do produktów mogły przedostać się fragmenty metalu i gumy. Zanieczyszczone artykuły obejmują popularne produkty, takie jak zupy, fixy,…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/151cd67f-eb94-410d-a4b2-24280b18dbc0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/151cd67f-eb94-410d-a4b2-24280b18dbc0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/151cd67f-eb94-410d-a4b2-24280b18dbc0"/>
 </item>
 </channel></rss>
