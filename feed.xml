@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Jan 2026 13:17:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 14:47:39 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowoczesny system trafił do Piotrkowa. Na to wydali sześciocyfrową kwotę ]]></title>
@@ -3277,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5c86ef54-ad79-42d8-bacc-e4c49ff9555b" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5c86ef54-ad79-42d8-bacc-e4c49ff9555b" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5c86ef54-ad79-42d8-bacc-e4c49ff9555b"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w Piotrkowie. Do szpitala trafiły dzieci [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-do-szpitala-trafily-dzieci-zdjecia/BiCGJw1T4u3DyYWGiD06</link>
-<guid isPermaLink="false">c154b08a184dfe0810708cd6e36f4d713d5e9bad</guid>
-<pubDate>Mon, 24 Nov 2025 10:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4" alt="miniatura"/></p><p>W poniedziałkowy poranek (24.11) w Piotrkowie Trybunalskim doszło do wypadku. Po godzinie 8:00 na ul. Wierzejskiej w naszym mieście samochód uderzył w drzewo. Jak się okazuje, w pojeździe podróżowała matka z dziećmi. Na miejsce ruszyły służby. Co było przyczyną zdarzenia?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4"/>
 </item>
 </channel></rss>
