@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Jan 2026 09:50:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 10:46:37 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowy obiekt na sportowej mapie miasta. Ruszają przygotowania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-obiekt-na-sportowej-mapie-miasta-ruszaja-przygotowania/QtDFKEWZJzvqlXHlwasE</link>
+<guid isPermaLink="false">596fe0754f6ba3574e812304bc48d141f05e6168</guid>
+<pubDate>Thu, 22 Jan 2026 10:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea683770-b354-422c-a567-7f0c14cba97c" alt="miniatura"/></p><p>W środę, 21 stycznia piotrkowski urząd poinformował, że rozpoczęto przygotowania do modernizacji boiska przy Szkole Podstawowej numer 10. Placówka ma zyskać nowoczesny kompleks sportowy. Najpierw, w planach jest opracowanie dokumentacji. Ta ma pozwolić na złożenie wniosku o dofinansowanie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea683770-b354-422c-a567-7f0c14cba97c" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea683770-b354-422c-a567-7f0c14cba97c" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea683770-b354-422c-a567-7f0c14cba97c"/>
+</item>
+<item>
+<title><![CDATA[ Pożar tartaku w Piotrkowie Trybunalskim. Starty sięgają miliona! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-tartaku-w-piotrkowie-trybunalskim-starty-siegaja-miliona/HlUytKOdvKKi4TPts7C9</link>
+<guid isPermaLink="false">45c969e4663d8b2b0cb4302d3d353496eb229fc9</guid>
+<pubDate>Thu, 22 Jan 2026 10:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/43ad9ed2-740b-46ad-b298-79ce480519b5" alt="miniatura"/></p><p>Duży pożar w Piotrkowie Trybunalskim Kilkanaście minut po godz. 23:00 służby otrzymały zgłoszenie o pożarze przy ul. Roosevelta w Piotrkowie Trybunalskim. Na miejsce udały się cztery zastępy straży pożarnej z Piotrkowa i dwie jednostki OSP.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/43ad9ed2-740b-46ad-b298-79ce480519b5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/43ad9ed2-740b-46ad-b298-79ce480519b5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/43ad9ed2-740b-46ad-b298-79ce480519b5"/>
+</item>
 <item>
 <title><![CDATA[ Najlepsze życzenia na Dzień Dziadka. Piękne, od serca i gotowe do wysłania ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
@@ -3277,25 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8"/>
-</item>
-<item>
-<title><![CDATA[ Rusza rekrutacja do Służby Więziennej w Łódzkiem. Areszt w Piotrkowie poszukuje pracownika ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rusza-rekrutacja-do-sluzby-wieziennej-w-lodzkiem-areszt-w-piotrkowie-poszukuje-pracownika/maIB97aivx6QthYmotMW</link>
-<guid isPermaLink="false">9c26193574aed8803fed565aba3707fbcfa7baff</guid>
-<pubDate>Sat, 22 Nov 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71bfff6a-ab37-4924-81ef-79b8ac579dc6" alt="miniatura"/></p><p>Wakaty w jednostkach służby więziennej na terenie województwa łodzkiego Rekrutacja obejmuje łącznie do 17 miejsc w ambulatoriach i szpitalu więziennym . Najwięcej etatów przewidziano w Łodzi — w Zakładzie Karnym nr 1 i Oddziale Zewnętrznym łącznie do 9 osób. Kolejne miejsca dostępne są w:</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71bfff6a-ab37-4924-81ef-79b8ac579dc6" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71bfff6a-ab37-4924-81ef-79b8ac579dc6" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71bfff6a-ab37-4924-81ef-79b8ac579dc6"/>
-</item>
-<item>
-<title><![CDATA[ Budynek kultowej restauracji "Europa" w Piotrkowie. Powstał w XIX wieku, w XXI doprowadzony do ruiny [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/budynek-kultowej-restauracji-europa-w-piotrkowie-powstal-w-xix-wieku-w-xxi-doprowadzony-do-ruiny-zdjecia/RkATyLnCxtNgZDF8B4iC</link>
-<guid isPermaLink="false">f45af42cbeb4b60a3c829a48dd96107e29a3632f</guid>
-<pubDate>Fri, 21 Nov 2025 17:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cd6d0a94-9714-4245-9fbc-4f8944e8b208" alt="miniatura"/></p><p>Od 1913 do 1920 r. właścicielem słynnej nieruchomości było Towarzystwo Wzajemnego Kredytu a następnie Towarzystwo Akcyjne Bank Związku Spółek Zawodowych w Poznaniu. Już w tym czasie parter budynku zajmowała restauracja.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cd6d0a94-9714-4245-9fbc-4f8944e8b208" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cd6d0a94-9714-4245-9fbc-4f8944e8b208" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/cd6d0a94-9714-4245-9fbc-4f8944e8b208"/>
 </item>
 </channel></rss>
