@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Jan 2026 10:46:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 11:39:20 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowy obiekt na sportowej mapie miasta. Ruszają przygotowania ]]></title>
@@ -3287,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124"/>
-</item>
-<item>
-<title><![CDATA[ Z impetem uderzył w latarnię i płot, następnie uciekł. Kompletnie pijany 22-latek  straci auto? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/z-impetem-uderzyl-w-latarnie-i-plot-nastepnie-uciekl-kompletnie-pijany-22-latek-straci-auto/dbR1vHRqdKKYAVVv5D2Y</link>
-<guid isPermaLink="false">ad065b957f69689bb528f5894cc181143fa844f6</guid>
-<pubDate>Sun, 23 Nov 2025 11:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8" alt="miniatura"/></p><p>Do wypadku doszło na ul. Śląskiej około godz. 23:30. Kierowca volkswagena z impetem uderzył w przydrożną latarnię, ogrodzenie oraz skrzynkę elektryczną, po czym porzucił uszkodzony samochód i uciekł z miejsca zdarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/168f2a02-8b11-4c96-b230-d2b56e4fb0d8"/>
 </item>
 </channel></rss>
