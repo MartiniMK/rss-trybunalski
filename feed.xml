@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Jan 2026 11:39:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 13:17:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowoczesny system trafił do Piotrkowa. Na to wydali sześciocyfrową kwotę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowoczesny-system-trafil-do-piotrkowa-na-to-wydali-szesciocyfrowa-kwote/jVSpvymiteU9y0mGpdQI</link>
+<guid isPermaLink="false">c158f84c774460193306eb2ecf5d98e4f7b53be9</guid>
+<pubDate>Thu, 22 Jan 2026 13:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f941b2bd-00f2-4c7e-9129-b83beb758cf1" alt="miniatura"/></p><p>W IV Liceum Ogólnokształcącym w Piotrkowie Trybunalskim powstała wirtualna strzelnica. Szkoła pozyskała na ten cel dofinansowanie w wysokości prawie 200 tysięcy złotych. Wiadomo, kto będzie mógł korzystać z nowego wyposażenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f941b2bd-00f2-4c7e-9129-b83beb758cf1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f941b2bd-00f2-4c7e-9129-b83beb758cf1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f941b2bd-00f2-4c7e-9129-b83beb758cf1"/>
+</item>
+<item>
+<title><![CDATA[ Duży pożar w powiecie piotrkowskim. Spłonęły dwa samochody, ogrodzenie i nie tylko... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/duzy-pozar-w-powiecie-piotrkowskim-splonely-dwa-samochody-ogrodzenie-i-nie-tylko/7Ydd9GawXJvGTc1VijO7</link>
+<guid isPermaLink="false">9840c62f4144d8fb8232df088a7dca33cccc0620</guid>
+<pubDate>Thu, 22 Jan 2026 13:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e52cf609-4db9-4d0c-a49c-d6956d33836a" alt="miniatura"/></p><p>Pożar w powiecie piotrkowskim Kilkanaście minut przed godz. 4:00 strażacy dostali zgłoszenie o pożarze garażu i znajdującym się w środku samochodzie. Do zdarzenia doszło w m. Tomawa w gminie Łęki Szlacheckie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e52cf609-4db9-4d0c-a49c-d6956d33836a" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e52cf609-4db9-4d0c-a49c-d6956d33836a" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e52cf609-4db9-4d0c-a49c-d6956d33836a"/>
+</item>
 <item>
 <title><![CDATA[ Nowy obiekt na sportowej mapie miasta. Ruszają przygotowania ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-obiekt-na-sportowej-mapie-miasta-ruszaja-przygotowania/QtDFKEWZJzvqlXHlwasE</link>
@@ -19,7 +39,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea683770-b354-422c-a567-7f0c14cba97c"/>
 </item>
 <item>
-<title><![CDATA[ Pożar tartaku w Piotrkowie Trybunalskim. Starty sięgają miliona! ]]></title>
+<title><![CDATA[ Pożar tartaku w Piotrkowie Trybunalskim. Straty sięgają miliona! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-tartaku-w-piotrkowie-trybunalskim-starty-siegaja-miliona/HlUytKOdvKKi4TPts7C9</link>
 <guid isPermaLink="false">45c969e4663d8b2b0cb4302d3d353496eb229fc9</guid>
 <pubDate>Thu, 22 Jan 2026 10:56:00 +0000</pubDate>
@@ -3267,25 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/352c27e5-5488-446f-ac75-cfd5e2a222c4"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na DK12 w Sulejowie. Zderzyło się kilka pojazdów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-dk12-w-sulejowie-zderzylo-sie-kilka-pojazdow/BfTjCQxq9WjnghPEDprU</link>
-<guid isPermaLink="false">712ec6ba4d98550909bfde8257092e46e2dc1f8b</guid>
-<pubDate>Sun, 23 Nov 2025 17:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47bf92b2-eac2-4cd0-a61e-c909e3f84fc5" alt="miniatura"/></p><p>W niedzielę, 23 listopada około godz. 16:30 na drodze krajowej nr 12 w Sulejowie doszło do zderzenia kilku pojazdów. O przebiegu zdarzenia mówi piotrkowska policja.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47bf92b2-eac2-4cd0-a61e-c909e3f84fc5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47bf92b2-eac2-4cd0-a61e-c909e3f84fc5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47bf92b2-eac2-4cd0-a61e-c909e3f84fc5"/>
-</item>
-<item>
-<title><![CDATA[ Narkotyki w Piotrkowie. Mieszkaniec miasta zatrzymany... na klatce schodowej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/narkotyki-w-piotrkowie-mieszkaniec-miasta-zatrzymany-na-klatce-schodowej/WB4F4yfAab6jdZDBiclg</link>
-<guid isPermaLink="false">491bdebd1d4573a1ca099ad15ece125b08cc30e3</guid>
-<pubDate>Sun, 23 Nov 2025 11:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124" alt="miniatura"/></p><p>Mieszkaniec Piotrkowa z narkotykami Do interwencji doszło 19 listopada 2025 roku. Policjanci ustalili, że mężczyzna może przebywać w jednym z mieszkań na terenie miasta. Podczas obserwacji lokalu mundurowi usłyszeli za drzwiami osobę szykującą się do wyjścia. Funkcjonariusze poczekali na klatce schodowej, aż mieszkanie opuści mężczyzna odpowiadający rysopisowi poszukiwanego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4bea897e-5e97-4440-a276-a57ac3e61124"/>
 </item>
 </channel></rss>
