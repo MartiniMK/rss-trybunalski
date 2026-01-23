@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 23 Jan 2026 14:43:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 15:43:52 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Most w Sulejowie do rozbiórki. Jak mieszkańcy dostaną się na drugą stronę rzeki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/most-w-sulejowie-do-rozbiorki-jak-mieszkancy-dostana-sie-na-druga-strone-rzeki/xakORmynQM9MpmQI4iaz</link>
+<guid isPermaLink="false">7a4fad455a6fbf1c9fc01c569837196655ae975c</guid>
+<pubDate>Fri, 23 Jan 2026 15:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3897cec-fc34-4757-9049-a9316217352b" alt="miniatura"/></p><p>Most w Sulejowie do rozbiórki. Wybrano wariant budowy przeprawy tymczasowej Podczas prac przygotowawczych rozpatrywano trzy warianty lokalizacji mostu tymczasowego. Każdy z nich wiązał się z określonymi konsekwencjami – od utrudnień komunikacyjnych po ingerencję w lokalną infrastrukturę i zabudowę.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3897cec-fc34-4757-9049-a9316217352b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3897cec-fc34-4757-9049-a9316217352b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3897cec-fc34-4757-9049-a9316217352b"/>
+</item>
 <item>
 <title><![CDATA[ Bezpłatne przejazdy pociągami w województwie łódzkim. Jest jeden warunek ]]></title>
 <link>https://trybunalski.pl/wiadomosci/bezplatne-przejazdy-pociagami-w-wojewodztwie-lodzkim-jest-jeden-warunek/RYCoDjfvoWWFeCrFA1RG</link>
@@ -539,16 +549,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -557,6 +557,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3267,25 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19259d66-bdeb-40e6-a373-4b09a181cc7d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19259d66-bdeb-40e6-a373-4b09a181cc7d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19259d66-bdeb-40e6-a373-4b09a181cc7d"/>
-</item>
-<item>
-<title><![CDATA[ Chwile grozy na torach w Piotrkowie. Mogło skończyć się fatalnie, sprawę bada specjalna komisja ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/chwile-grozy-na-torach-w-piotrkowie-moglo-skonczyc-sie-fatalnie-sprawe-bada-specjalna-komisja/y9ieQ9WlsoJA2kEsVtja</link>
-<guid isPermaLink="false">4787560b88fd0efc239c26b9df51c4112ea9fbee</guid>
-<pubDate>Tue, 25 Nov 2025 10:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8f7523a2-e155-43e5-b613-7fa445d29100" alt="miniatura"/></p><p>Groźny incydent kolejowy w Piotrkowie Trybunalskim. Pociąg nagle się zatrzymał. Co się stało? Chwilę przed godz. 22:00 w Piotrkowie Trybunalskim doszło do nagłego zatrzymania pociągu relacji Wrocław-Warszawa Wschodnia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8f7523a2-e155-43e5-b613-7fa445d29100" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8f7523a2-e155-43e5-b613-7fa445d29100" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8f7523a2-e155-43e5-b613-7fa445d29100"/>
-</item>
-<item>
-<title><![CDATA[ Innowacja w Piotrkowie. Użyją technologii AR i trójwymiarowych modeli ]]></title>
-<link>https://trybunalski.pl/wiadomosci/innowacja-w-piotrkowie-uzyja-technologii-ar-i-trojwymiarowych-modeli/eqiDoHgjhKwD2JriNtOH</link>
-<guid isPermaLink="false">991f6bdba969daaed6492752553d2195715eae4e</guid>
-<pubDate>Mon, 24 Nov 2025 15:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477" alt="miniatura"/></p><p>Jedna z piotrkowskich placówek przeniesie się w erę cyfrową, by zwiększyć dostępność do kultury i promować polskie dziedzictwo. To przedsięwzięcie, które ma budować wizerunek obiektu jako innowacyjnej placówki. Czego mogą spodziewać się piotrkowianie?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477"/>
 </item>
 </channel></rss>
