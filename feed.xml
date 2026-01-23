@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 23 Jan 2026 13:13:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 14:43:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Bezpłatne przejazdy pociągami w województwie łódzkim. Jest jeden warunek ]]></title>
+<link>https://trybunalski.pl/wiadomosci/bezplatne-przejazdy-pociagami-w-wojewodztwie-lodzkim-jest-jeden-warunek/RYCoDjfvoWWFeCrFA1RG</link>
+<guid isPermaLink="false">306c51575b869609eeea747406c0e6e8627507a6</guid>
+<pubDate>Fri, 23 Jan 2026 14:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04717786-ea17-4ad4-87c4-a35755b81ff5" alt="miniatura"/></p><p>W niedzielę, 25 stycznia zagra 34. Finał WOŚP. Tego dnia na ulicach miast w całym kraju pojawią się wolontariusze z puszkami i charakterystycznymi czerwonymi serduszkami. Środki z tegorocznej zbiórki zostaną przeznaczone na diagnostykę i leczenie chorób przewodu pokarmowego u najmłodszych pacjentów. Hasło finału to „Zdrowe brzuszki naszych dzieci”. Z tej okazji organizowane są przeróżne atrakcje,…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04717786-ea17-4ad4-87c4-a35755b81ff5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04717786-ea17-4ad4-87c4-a35755b81ff5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04717786-ea17-4ad4-87c4-a35755b81ff5"/>
+</item>
 <item>
 <title><![CDATA[ Szykują się utrudnienia dla kierowców pod Piotrkowem. Wszystko przez remont ]]></title>
 <link>https://trybunalski.pl/wiadomosci/szykuja-sie-utrudnienia-dla-kierowcow-pod-piotrkowem-wszystko-przez-remont/hkM3BxnXyQvEGiKQr7KP</link>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8e34af60-d1e4-4ee3-b08f-358b75261477"/>
-</item>
-<item>
-<title><![CDATA[ Edward Gierek w "Piomie" i "Hortensji" w 1975 roku. Gospodarska wizyta w tłustych latach PRL [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/edward-gierek-w-piomie-i-hortensji-w-1975-roku-gospodarska-wizyta-w-tlustych-latach-prl-zdjecia/tHhXNd7DG5inyBNzoDnF</link>
-<guid isPermaLink="false">8dd884b3a63a35ab9e7889282ec4e8344829ca14</guid>
-<pubDate>Mon, 24 Nov 2025 15:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0fd7fdd-a324-40d1-820f-e982859fe6cf" alt="miniatura"/></p><p>Dwa zakłady przemysłowe w Piotrkowie Trybunalskim w 1975 roku odwiedził Edward Gierek. Z gospodarską wizytą przyjechał do Fabryki Maszyn Górniczych im. Tadeusza Żarskiego "Pioma" oraz odwiedził Hutę Szkła "Hotensja". Pamiętna wizyta została uwieczniona na fotografiach.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0fd7fdd-a324-40d1-820f-e982859fe6cf" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0fd7fdd-a324-40d1-820f-e982859fe6cf" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0fd7fdd-a324-40d1-820f-e982859fe6cf"/>
 </item>
 </channel></rss>
