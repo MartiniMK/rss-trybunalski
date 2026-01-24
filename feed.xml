@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 24 Jan 2026 04:13:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 05:39:05 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Studniówka I LO w Piotrkowie. Tak uczniowie „Chrobrego” bawili się podczas balu [FOTO] ]]></title>
@@ -1999,16 +1999,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2017,6 +2007,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
