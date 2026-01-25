@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 25 Jan 2026 05:45:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 06:53:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia podzieliła się punktami z Ruchem! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-podzielila-sie-punktami-z-ruchem/36MZqkHXAIR3P1RDxM1e</link>
+<guid isPermaLink="false">b7ba5ae14ee3d5248729ceee9167c76f40185d0a</guid>
+<pubDate>Sun, 25 Jan 2026 07:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea7efbfe-05c4-47ef-904e-464438559e49" alt="miniatura"/></p><p>Podopieczne Horatiu Pasci do sobotniej konfrontacji przystępowały w znakomitych nastrojach, bo tuż po wygranej w Elblągu (32:31), która zakończyła serię czterech porażek Piotrkowianek. Kolejnym celem było odniesienia domowej wygranej, pierwszej od... 31 października minionego roku. W tym kontekście nie można było sobie wymarzyć lepszego rywala niż zespół Ruchu, bo rywalki zajmowały ostatnie miejsc…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea7efbfe-05c4-47ef-904e-464438559e49" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea7efbfe-05c4-47ef-904e-464438559e49" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea7efbfe-05c4-47ef-904e-464438559e49"/>
+</item>
 <item>
 <title><![CDATA[ Studniówka I LO w Piotrkowie. Tak uczniowie „Chrobrego” bawili się podczas balu [FOTO] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/studniowka-i-lo-w-piotrkowie-tak-uczniowie-chrobrego-bawili-sie-podczas-balu-foto/DsS8l65xwDSDjsxWbteE</link>
@@ -559,16 +569,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -577,6 +577,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -1999,16 +2009,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2017,6 +2017,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek pod Piotrkowem. Kraksa trzech pojazdów na S8 - są utrudnienia! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-pod-piotrkowem-kraksa-trzech-pojazdow-na-s8-sa-utrudnienia/iyDtOk27IkKO79quPomz</link>
-<guid isPermaLink="false">627a803a6e4073128d9771d241df2e3b1a90edc5</guid>
-<pubDate>Tue, 25 Nov 2025 11:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6e15810-5605-4123-929f-4386f9e59d07" alt="miniatura"/></p><p>Do wypadku doszło na drodze ekspresowej S8 (332,2km trasy). Z przekazanych nam informacji wynika, że 58-letni kierowca fiata najechał na poprzedzający go pojazd w wyniku czego uszkodzone łącznie zostały trzy samochody.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6e15810-5605-4123-929f-4386f9e59d07" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6e15810-5605-4123-929f-4386f9e59d07" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e6e15810-5605-4123-929f-4386f9e59d07"/>
 </item>
 </channel></rss>
