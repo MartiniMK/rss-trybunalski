@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 26 Jan 2026 17:46:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 19:00:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Myślicie, że hołd pruski był w Krakowie? Krzyżacy klękali przed królami w Piotrkowie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/myslicie-ze-hold-pruski-byl-w-krakowie-krzyzacy-klekali-przed-krolami-w-piotrkowie-zdjecia/BIHKNiBxjDteLomAISoW</link>
+<guid isPermaLink="false">a5c111738e337c7e8933924a24c2c0da4d3754e0</guid>
+<pubDate>Mon, 26 Jan 2026 19:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/053b9f54-9d3f-4f14-bedb-66ee51a65e6b" alt="miniatura"/></p><p>Słynny hołd pruski z 1525 roku uwieczniony przez Jana Matejkę nie był ani pierwszym, ani jedynym, jaki władcom Polski składali wielcy mistrzowie zakonu krzyżackiego. Piotrków widział co najmniej dwa takie wydarzenia, do jakich doszło na przestrzeni dwóch lat za panowania Kazimierza IV Jagiellończyka , zwanego pogromcą Krzyżaków.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/053b9f54-9d3f-4f14-bedb-66ee51a65e6b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/053b9f54-9d3f-4f14-bedb-66ee51a65e6b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/053b9f54-9d3f-4f14-bedb-66ee51a65e6b"/>
+</item>
 <item>
 <title><![CDATA[ Nowe płatne drogi w powiecie piotrkowskim. Zmiany wejdą w życie już w lutym ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-platne-drogi-w-powiecie-piotrkowskim-zmiany-wejda-w-zycie-juz-w-lutym/B0XuiD06eP8AxHDnmgO0</link>
