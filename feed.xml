@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 26 Jan 2026 11:38:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 13:16:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wydano alert dla województwa łódzkiego. W naszym mieście zacznie się wieczorem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-wojewodztwa-lodzkiego-w-naszym-miescie-zacznie-sie-wieczorem/xQ7cK34qAXEJCpWBiVzu</link>
+<guid isPermaLink="false">6b16c499d7148cec7b8ab9ddef5de944ed958d77</guid>
+<pubDate>Mon, 26 Jan 2026 13:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c0c9f44c-8ec3-4e63-83b9-ee88fcd3c117" alt="miniatura"/></p><p>Do województwa łódzkiego nadchodzi zjawisko, które może być niebezpieczne szczególnie dla kierowców czy rowerzystów. Uważać powinni również piesi. W związku z tym Instytut Meteorologii i Gospodarki Wodnej objął nasz region alertami pierwszego stopnia. Wyjaśniamy, jak się zabezpieczyć i na co uważać.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c0c9f44c-8ec3-4e63-83b9-ee88fcd3c117" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c0c9f44c-8ec3-4e63-83b9-ee88fcd3c117" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c0c9f44c-8ec3-4e63-83b9-ee88fcd3c117"/>
+</item>
 <item>
 <title><![CDATA[ Mieszkanka Piotrkowa świętowała urodziny. Jubilatka ma już sto lat ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkanka-piotrkowa-swietowala-urodziny-jubilatka-ma-juz-sto-lat/iynhiulhtt8QiuRJ4Bny</link>
@@ -29,7 +39,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f88d92d7-78e6-4631-ba14-197452527d90"/>
 </item>
 <item>
-<title><![CDATA[ Zmarła najstarsza Polka. Mieszkała w Piotrkowie ]]></title>
+<title><![CDATA[ Zmarła najstarsza Polka, dożyła niesamowitego wieku. Mieszkała w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmarla-najstarsza-polka-mieszkala-w-piotrkowie/FNpWsRdEbXKmAml1kCeR</link>
 <guid isPermaLink="false">51e6d3cbd2b454b2d3f33ce78d9ce169e4f8766f</guid>
 <pubDate>Mon, 26 Jan 2026 11:28:00 +0000</pubDate>
@@ -609,16 +619,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -627,6 +627,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -2049,16 +2059,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2067,6 +2067,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3237,25 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2855173e-0547-4754-9580-e3e58d56bd7b" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2855173e-0547-4754-9580-e3e58d56bd7b" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2855173e-0547-4754-9580-e3e58d56bd7b"/>
-</item>
-<item>
-<title><![CDATA[ Gdy do Piotrkowa prowadziły trzy bramy. Królewskie miasto w obrębie murów [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdy-do-piotrkowa-prowadzily-trzy-bramy-krolewskie-miasto-w-obrebie-murow-zdjecia/ocysuHKDis7USn7un2Ju</link>
-<guid isPermaLink="false">71eb8e7a89e06c0e6fb94550ca31af5350fd14f8</guid>
-<pubDate>Tue, 25 Nov 2025 19:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3b7cec3-aa78-4a42-aa40-b6b5f8727842" alt="miniatura"/></p><p>Miasto w średniowieczu założono w miejscu, które starannie wybrano. Powstało na wyniesionym terenie w widłach rzek, gdzie bagnisty teren chronił pierwotny gród. Dodatkową ochronę stanowiły miejskie mury, które wybudowano w okresie panowania króla Kazimierza Wielkiego. Królewskie miasto chroniły obwarowania o wysokości nawet 9 metrów.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3b7cec3-aa78-4a42-aa40-b6b5f8727842" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3b7cec3-aa78-4a42-aa40-b6b5f8727842" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3b7cec3-aa78-4a42-aa40-b6b5f8727842"/>
-</item>
-<item>
-<title><![CDATA[ To trzy najsłabsze gminy w Łódzkiem. Aż dwie z powiatu piotrkowskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-trzy-najslabsze-gminy-w-lodzkiem-az-dwie-z-powiatu-piotrkowskiego/rY98SKdgtBdiUVTQigxV</link>
-<guid isPermaLink="false">93b1513cadf382526c11f79162dd8a91c7f9d0d4</guid>
-<pubDate>Tue, 25 Nov 2025 15:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0" alt="miniatura"/></p><p>Powstał ranking, którego autorzy zbadali i przedstawili, gdzie w Polsce żyje się najlepiej. W obszernym raporcie przygotowanym przez firmę Algolytics zajęto się oceną jakości życia w gminach w naszym kraju. Ma być to pomiar „na poziomie lokalnym, który uwzględnia zarówno złożoność czynników wpływających na dobrostan mieszkańców, jak i specyfikę poszczególnych typów gmin”. Według autorów ta analiza…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0"/>
 </item>
 </channel></rss>
