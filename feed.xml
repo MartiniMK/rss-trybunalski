@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 26 Jan 2026 09:52:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 10:47:16 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Rekordowa kwota i tysiące wolontariuszy na ulicach miasta. Piotrków Trybunalski zagrał z WOŚP ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekordowa-kwota-i-tysiace-wolontariuszy-na-ulicach-miasta-piotrkow-trybunalski-zagral-z-wosp/74Z4Nk1QYRkS2M84vdhC</link>
+<guid isPermaLink="false">a9c1553c46816c2e6cbe09d69724d220af6da370</guid>
+<pubDate>Mon, 26 Jan 2026 11:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f88d92d7-78e6-4631-ba14-197452527d90" alt="miniatura"/></p><p>Dwa sztaby, jedno granie – Focus Mall i M-Park Sercem finału były dwa sztaby wolontariuszy, działające w Focus Mall oraz M-Park. Oba miejsca tętniły życiem od rana do wieczora, przyciągając całe rodziny.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f88d92d7-78e6-4631-ba14-197452527d90" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f88d92d7-78e6-4631-ba14-197452527d90" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f88d92d7-78e6-4631-ba14-197452527d90"/>
+</item>
+<item>
+<title><![CDATA[ Zmarła najstarsza Polka. Mieszkała w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmarla-najstarsza-polka-mieszkala-w-piotrkowie/FNpWsRdEbXKmAml1kCeR</link>
+<guid isPermaLink="false">51e6d3cbd2b454b2d3f33ce78d9ce169e4f8766f</guid>
+<pubDate>Mon, 26 Jan 2026 11:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" alt="miniatura"/></p><p>Zmarła Jadwiga Żak-Stewart, 113-letnia mieszkanka Łodzi. Kobieta w latach 80. wyemigrowała do Stanów Zjednoczonych, ale mając 100 lat, wróciła do swojego kraju.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d"/>
+</item>
+<item>
+<title><![CDATA[ Martwy wilk znaleziony w Sulejowie. Eksperci sprawdzają, co go zabiło ]]></title>
+<link>https://trybunalski.pl/wiadomosci/martwy-wilk-znaleziony-w-sulejowie-eksperci-sprawdzaja-co-go-zabilo/z3tcPYWubiuwsXrOjN9i</link>
+<guid isPermaLink="false">1662eec1b92071a2784a75277c6ecc92e7b8a7ed</guid>
+<pubDate>Mon, 26 Jan 2026 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2bff3ef7-f354-47ee-a72c-c443ce0bda40" alt="miniatura"/></p><p>Martwy wilk w Sulejowie. Jak zmarł? W sobotę, 25 stycznia w Sulejowie został znaleziony martwy wilk. Zwierzę leżało zasypane śniegiem na poboczu drogi, w lesie. O sytuacji został powiadomiony Referat Zarządzania Kryzysowego w Sulejowie. Na miejsce udał się pracownik sulejowskiego urzędu, Włodzimierz Kapiec, który potwierdził, że martwe zwierzę to wilk.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2bff3ef7-f354-47ee-a72c-c443ce0bda40" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2bff3ef7-f354-47ee-a72c-c443ce0bda40" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2bff3ef7-f354-47ee-a72c-c443ce0bda40"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia podzieliła się punktami z Ruchem! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-podzielila-sie-punktami-z-ruchem/36MZqkHXAIR3P1RDxM1e</link>
@@ -2009,16 +2039,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -2027,6 +2047,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3227,35 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de"/>
-</item>
-<item>
-<title><![CDATA[ Zderzenie z ciężarówką w Piotrkowie. 54-latek trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-z-ciezarowka-w-piotrkowie-54-latek-trafil-do-szpitala/pAsp5ZHT2lEmJ42WKraz</link>
-<guid isPermaLink="false">0f2febe95e5c21aa59f75503f2b51a2651efc7b3</guid>
-<pubDate>Tue, 25 Nov 2025 13:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b616ef90-8826-404a-a007-18c09636bb6b" alt="miniatura"/></p><p>We wtorek, 25 listopada około godziny 11:00 w pobliżu skrzyżowania z ulicą Daleką w Piotrkowie zderzyły się dwa pojazdy. Do akcji wkroczyły służby.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b616ef90-8826-404a-a007-18c09636bb6b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b616ef90-8826-404a-a007-18c09636bb6b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b616ef90-8826-404a-a007-18c09636bb6b"/>
-</item>
-<item>
-<title><![CDATA[ Doktor z Piotrkowa wyróżniony w ogólnopolskim konkursie. Leczy w piotrkowskim szpitalu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/doktor-z-piotrkowa-wyrozniony-w-ogolnopolskim-konkursie-leczy-w-piotrkowskim-szpitalu/MxBWhndxDPUJamw8pDYb</link>
-<guid isPermaLink="false">479b91a143d1823c9f75705cd2fb6986b01c00b8</guid>
-<pubDate>Tue, 25 Nov 2025 12:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8eb8bfb6-dd92-4679-95cb-e01ac7d8611c" alt="miniatura"/></p><p>Samodzielny Szpital Wojewódzki im. M. Kopernika w Piotrkowie Trybunalskim poinformował, że dr Miłosz Raurowicz zajął II miejsce w ogólnopolskim plebiscycie Hipokrates 2025 w kategorii Radiolog Roku. To ogromne wyróżnienie dla Pana Doktora, które podkreśla nie tylko jego profesjonalizm, ale także ogromne zaangażowanie w codziennej pracy diagnostycznej.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8eb8bfb6-dd92-4679-95cb-e01ac7d8611c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8eb8bfb6-dd92-4679-95cb-e01ac7d8611c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8eb8bfb6-dd92-4679-95cb-e01ac7d8611c"/>
-</item>
-<item>
-<title><![CDATA[ Włamywacz z powiatu piotrkowskiego zatrzymany. W samochodzie miał łom, szlifierkę...i perukę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wlamywacz-z-powiatu-piotrkowskiego-zatrzymany-w-samochodzie-mial-lom-szlifierkei-peruke/McHUQzF3B81S4s4yOM4G</link>
-<guid isPermaLink="false">fc31cd72a0f8409eaf03af8a68d0c0518cb57d61</guid>
-<pubDate>Tue, 25 Nov 2025 12:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e" alt="miniatura"/></p><p>Szlifierka kątowa, łom, a także peruka to tylko niektóre z przedmiotów, jakie policjanci znaleźli w samochodzie mieszkańca powiatu. Wszystko zaczęło się od zgłoszenia o zdemolowanym paczkomacie. Teraz mężczyźnie grozi nawet 10 lat pozbawienia wolności.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/60b76d11-a3d0-41e6-9947-50b9bf9f0a1e"/>
 </item>
 </channel></rss>
