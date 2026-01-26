@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 26 Jan 2026 10:47:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 11:38:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mieszkanka Piotrkowa świętowała urodziny. Jubilatka ma już sto lat ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkanka-piotrkowa-swietowala-urodziny-jubilatka-ma-juz-sto-lat/iynhiulhtt8QiuRJ4Bny</link>
+<guid isPermaLink="false">0103b7a8552208a8225a1f6cc3bde66c35a3ce98</guid>
+<pubDate>Mon, 26 Jan 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fac267c8-5455-4ef9-8037-f562a1383d10" alt="miniatura"/></p><p>Pani Adamina mieszka w Piotrkowie od 50 lat i wciąż cieszy się dobrym zdrowiem, a także pozytywnym nastawieniem. Doczekała się 4 dzieci – dwóch córek i dwóch synów, 6 wnuków i 12 prawnuków. W naszym mieście odbył się niezwykły jubileusz, gdyż kobieta właśnie świętowała swoje setne urodziny.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fac267c8-5455-4ef9-8037-f562a1383d10" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fac267c8-5455-4ef9-8037-f562a1383d10" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fac267c8-5455-4ef9-8037-f562a1383d10"/>
+</item>
 <item>
 <title><![CDATA[ Rekordowa kwota i tysiące wolontariuszy na ulicach miasta. Piotrków Trybunalski zagrał z WOŚP ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rekordowa-kwota-i-tysiace-wolontariuszy-na-ulicach-miasta-piotrkow-trybunalski-zagral-z-wosp/74Z4Nk1QYRkS2M84vdhC</link>
@@ -23,7 +33,7 @@
 <link>https://trybunalski.pl/wiadomosci/zmarla-najstarsza-polka-mieszkala-w-piotrkowie/FNpWsRdEbXKmAml1kCeR</link>
 <guid isPermaLink="false">51e6d3cbd2b454b2d3f33ce78d9ce169e4f8766f</guid>
 <pubDate>Mon, 26 Jan 2026 11:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" alt="miniatura"/></p><p>Zmarła Jadwiga Żak-Stewart, 113-letnia mieszkanka Łodzi. Kobieta w latach 80. wyemigrowała do Stanów Zjednoczonych, ale mając 100 lat, wróciła do swojego kraju.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" alt="miniatura"/></p><p>Zmarła Jadwiga Żak-Stewart, 113-letnia mieszkanka Łodzi. Taką informację podał w poniedziałek, 26 stycznia, Urząd Marszałkowski Województwa Łódzkiego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b39d3547-c919-4ed2-879d-7f569352d20d"/>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/645bd75f-4a1d-454a-9fa4-79f3e6446eb0"/>
-</item>
-<item>
-<title><![CDATA[ Wydano alert drugiego stopnia dla województwa łódzkiego. Mieszkańców czekają ciężkie godziny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wydano-alert-drugiego-stopnia-dla-wojewodztwa-lodzkiego-mieszkancow-czekaja-ciezkie-godziny/jlxgUbwV8lNlwH7QAYWO</link>
-<guid isPermaLink="false">8bfa8b865a51cc66cd097fb4d3f39573010e29df</guid>
-<pubDate>Tue, 25 Nov 2025 13:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de" alt="miniatura"/></p><p>Mieszkańcy województwa łódzkiego powinni przygotować się na nadejście do naszego regionu niebezpiecznego zjawiska. W związku z prognozowanymi ciężkimi warunkami Instytut Meteorologii i Gospodarki Wodnej wydał alerty. Wszystko zacznie się już niedługo. Sprawdź, czego się spodziewać.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9ce45a40-2d61-4bd3-83e8-0ed7deaa95de"/>
 </item>
 </channel></rss>
