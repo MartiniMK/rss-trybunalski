@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 26 Jan 2026 04:31:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 05:49:03 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia podzieliła się punktami z Ruchem! ]]></title>
