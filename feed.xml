@@ -6,17 +6,17 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 27 Jan 2026 16:54:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 17:45:51 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nie tylko Krakowskie Przedmieście. Za piotrkowskimi murami rozwinęło się miasto [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nie-tylko-krakowskie-przedmiescie-za-piotrkowskimi-murami-rozwinelo-sie-miasto-zdjecia/hpqcEf5TkpdS8Sa7jIqC</link>
 <guid isPermaLink="false">949ba3a198dcd50e8d49c62642ebe4e32ea17196</guid>
 <pubDate>Tue, 27 Jan 2026 17:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/galleries/efb1dad0-5636-49f8-a360-81459c29a7fc" alt="miniatura"/></p><p>To na piotrkowskich przedmieściach rozkwitało średniowieczne życie. Samo miasto zamknięte zostało w niewielkim obrębie murów nie mogło pomieścić wszystkich chętnych. Zabudowania powstawały jednak poza nim. Głównie wzdłuż traktów handlowych . Na przedmieściach wyrastały z czasem szlacheckie dworki i klasztory.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/efb1dad0-5636-49f8-a360-81459c29a7fc" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/efb1dad0-5636-49f8-a360-81459c29a7fc" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/efb1dad0-5636-49f8-a360-81459c29a7fc"/>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa4fd6c0-adc9-4439-bf4f-3ebd174ba399" alt="miniatura"/></p><p>To na piotrkowskich przedmieściach rozkwitało średniowieczne życie. Samo miasto zamknięte zostało w niewielkim obrębie murów nie mogło pomieścić wszystkich chętnych. Zabudowania powstawały jednak poza nim. Głównie wzdłuż traktów handlowych . Na przedmieściach wyrastały z czasem szlacheckie dworki i klasztory.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa4fd6c0-adc9-4439-bf4f-3ebd174ba399" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa4fd6c0-adc9-4439-bf4f-3ebd174ba399" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fa4fd6c0-adc9-4439-bf4f-3ebd174ba399"/>
 </item>
 <item>
 <title><![CDATA[ Miejscowość, która ożywa latem. To najmniejsza wieś w województwie łódzkim ]]></title>
