@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 27 Jan 2026 09:52:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 10:47:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zatańczyli poloneza i zachwycili. Uczniowie z naszego miasta podbijają Tik Toka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zatanczyli-poloneza-i-zachwycili-uczniowie-z-naszego-miasta-podbijaja-tiktoka/8QGEOqA2gQ0EYhGuhEDG</link>
+<guid isPermaLink="false">6c9fa6cc77c02b6b6d1c1945b486c4f963db66e0</guid>
+<pubDate>Tue, 27 Jan 2026 11:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/01897f6c-8dea-4e40-80f4-2e8c755229bf" alt="miniatura"/></p><p>Każdego roku uczniowie klas maturalnych poświęcają wiele czasu na przygotowania do balu studniówkowego. Ten wyjątkowy wieczór to czas podsumowań i tworzenia wspomnień. Ważnym momentem uroczystości jest odtańczenie poloneza. Wówczas publiczność zastyga, by obserwować, jak młodzież „płynie” na parkiecie. Każda szkoła prezentuje inny układ, każdy nagradzany jest brawami. Wiele filmów uwieczniających…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/01897f6c-8dea-4e40-80f4-2e8c755229bf" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/01897f6c-8dea-4e40-80f4-2e8c755229bf" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/01897f6c-8dea-4e40-80f4-2e8c755229bf"/>
+</item>
+<item>
+<title><![CDATA[ Opona wystrzeliła w ciężarówce na S8 pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/opona-wystrzelila-w-ciezarowce-na-s8-pod-piotrkowem/cNctOKrEc4HZ3N5Lxcpv</link>
+<guid isPermaLink="false">7129ca1379092455f8265d17b7afa2178c3ef94f</guid>
+<pubDate>Tue, 27 Jan 2026 10:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fc449f33-a412-4269-8048-e40b235c5d7b" alt="miniatura"/></p><p>Na S8 w ciężarówce wystrzeliła opona Służby około godz. 9:00 otrzymały zgłoszenie, że na 340 kilometrze tarsy S8 w kierunku Warszawy, na wysokości m. Wolbórz doszło do niebezpiecznego zdarzenia z udziałem pojazdu ciężarowego. Na miejsce zadysponowano straż pożąrną oraz policję.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fc449f33-a412-4269-8048-e40b235c5d7b" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fc449f33-a412-4269-8048-e40b235c5d7b" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fc449f33-a412-4269-8048-e40b235c5d7b"/>
+</item>
 <item>
 <title><![CDATA[ Myślicie, że hołd pruski był w Krakowie? Krzyżacy klękali przed królami w Piotrkowie [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/myslicie-ze-hold-pruski-byl-w-krakowie-krzyzacy-klekali-przed-krolami-w-piotrkowie-zdjecia/BIHKNiBxjDteLomAISoW</link>
@@ -649,16 +669,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -667,6 +677,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3247,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92a342e1-eac3-42ab-a756-e1b3d44d25e1" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92a342e1-eac3-42ab-a756-e1b3d44d25e1" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/92a342e1-eac3-42ab-a756-e1b3d44d25e1"/>
-</item>
-<item>
-<title><![CDATA[ Prowadził ciągnik na potrójnym zakazie i po pijaku. Postawiono mu zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/prowadzil-ciagnik-na-potrojnym-zakazie-i-po-pijaku-postawiono-mu-zarzuty/IJ6rB7xYCBXg8Kjw6FWi</link>
-<guid isPermaLink="false">b0276477f97743f88b8c9b0f17d0c4176e2204cf</guid>
-<pubDate>Wed, 26 Nov 2025 13:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" alt="miniatura"/></p><p>Jak informuje piotrkowska policja, 22 listopada około godz. 16:00 dyżurny przyjął zgłoszenie, że w doszło do niebezpiecznego zdarzenia z udziałem nietrzeźwego kierowcy.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/04bcd743-f5d4-4a33-90dd-27d629a1bae7"/>
 </item>
 </channel></rss>
