@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 27 Jan 2026 11:39:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 13:18:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Strażacy z powiatu piotrkowskiego w akcji. Podjęli „fioletowe wyzwanie” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/strazacy-z-powiatu-piotrkowskiego-w-akcji-podjeli-fioletowe-wyzwanie/uusExdtFESZ8dvJFEzXR</link>
+<guid isPermaLink="false">7a28df00aa99c35953c95410fab1ee93d2b4d661</guid>
+<pubDate>Tue, 27 Jan 2026 13:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a08b11f5-af2b-49e5-9263-d5c960da784e" alt="miniatura"/></p><p>Strażacy z powiatu piotrkowskiego włączyli się do akcji „Cisza pełna nadziei”. To forma wsparcia dla chorej Lilianki, która cierpi na zespół Retta. Na czym polega wyzwanie i jak można pomóc dziewczynce?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a08b11f5-af2b-49e5-9263-d5c960da784e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a08b11f5-af2b-49e5-9263-d5c960da784e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a08b11f5-af2b-49e5-9263-d5c960da784e"/>
+</item>
 <item>
 <title><![CDATA[ Rakieta Piotrkowianina, sesja w pociągu i gotowanie zalewajki. Zobacz, co licytują w Łódzkiem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rakieta-piotrkowianina-sesja-w-pociagu-i-gotowanie-zalewajki-zobacz-co-licytuja-w-lodzkiem/2VJV5IOTQgvNwbqE90B3</link>
@@ -3237,35 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/323712ca-c107-442c-8fc4-ce8fe690b22f" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/323712ca-c107-442c-8fc4-ce8fe690b22f" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/323712ca-c107-442c-8fc4-ce8fe690b22f"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie zapłacą więcej. Zapadła decyzja ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-zaplaca-wiecej-zapadla-decyzja/mq7zn5olRVgCaDAN86Zt</link>
-<guid isPermaLink="false">22d5383b8b3232b01f81edb7364675fa66a65316</guid>
-<pubDate>Wed, 26 Nov 2025 15:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34f1842a-06e0-4987-980f-66d61d2753a1" alt="miniatura"/></p><p>W środę, 26 listopada radni zebrali się w piotrkowskim urzędzie na XXVII sesji rady miasta. Wśród omawianych punktów znalazła się także uchwała w sprawie określenia wysokości stawek podatku od nieruchomości. Proponowany wzrost wynosi 8% w stosunku do kwot obowiązujących w bieżącym roku. Jak argumentowano podwyżkę i jaką decyzję podjęli rajcy?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34f1842a-06e0-4987-980f-66d61d2753a1" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34f1842a-06e0-4987-980f-66d61d2753a1" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/34f1842a-06e0-4987-980f-66d61d2753a1"/>
-</item>
-<item>
-<title><![CDATA[ Awaria sieci energetycznej w Piotrkowie i powiecie piotrkowskim. Tysiące mieszkańców bez prądu! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/awaria-sieci-energetycznej-w-piotrkowie-i-powiecie-piotrkowskim-setki-mieszkancow-bez-pradu/Aq1sDeH6kPGBBABjtaJO</link>
-<guid isPermaLink="false">5a0a411f0c4dfbe7d05e2de24983862058dc3e46</guid>
-<pubDate>Wed, 26 Nov 2025 15:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c824cdb-46b8-49a2-9569-1b8f94405bc7" alt="miniatura"/></p><p>W środę, 26 listopada po południu doszło do awarii sieci energetycznej. Bez prądu jest prawie cały Sulejów, a także mieszkańcy niektórych części Piotrkowa Trybunalskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c824cdb-46b8-49a2-9569-1b8f94405bc7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c824cdb-46b8-49a2-9569-1b8f94405bc7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c824cdb-46b8-49a2-9569-1b8f94405bc7"/>
-</item>
-<item>
-<title><![CDATA[ Pracownicy Aresztu Śledczego w Piotrkowie awansowali. Za co zostali docenieni? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pracownicy-aresztu-sledczego-w-piotrkowie-awansowali-za-co-zostali-docenieni/8TxGZbyCRh8q3XYHaj7F</link>
-<guid isPermaLink="false">c088d5f63dca462d0e0a98b2dc1b1f1fa6cbbbaf</guid>
-<pubDate>Wed, 26 Nov 2025 14:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ab9f69bb-efb1-4237-a130-2b6eee21f8c9" alt="miniatura"/></p><p>Awanse w Areszcie Śledczym w Piotrkowie Z okazji Święta Niepodległości 24 funkcjonariuszy otrzymało awanse.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ab9f69bb-efb1-4237-a130-2b6eee21f8c9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ab9f69bb-efb1-4237-a130-2b6eee21f8c9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ab9f69bb-efb1-4237-a130-2b6eee21f8c9"/>
 </item>
 </channel></rss>
