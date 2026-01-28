@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 28 Jan 2026 08:53:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 09:53:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tragiczny wypadek na torach między Piotrkowem a Koluszkami. Ruch wstrzymany całkowicie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-wypadek-na-torach-miedzy-piotrkowem-a-koluszkami-ruch-wstrzymany-calkowicie/KEMmbTDHrIY9k0v3Ni7B</link>
+<guid isPermaLink="false">c807ac774ba220b2beb6a3fb80ea82e52148bed4</guid>
+<pubDate>Wed, 28 Jan 2026 10:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a8357b2-9750-4c1f-b3db-b5e757e390d1" alt="miniatura"/></p><p>W środę, 28 stycznia przed godziną 8:00 na trasie na odcinku Rokiciny - Baby doszło do śmiertelnego potrącenia mężczyzny. W związku z tym zdarzeniem wstrzymano ruch pociągów w regionie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a8357b2-9750-4c1f-b3db-b5e757e390d1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a8357b2-9750-4c1f-b3db-b5e757e390d1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a8357b2-9750-4c1f-b3db-b5e757e390d1"/>
+</item>
 <item>
 <title><![CDATA[ Nie tylko Krakowskie Przedmieście. Za piotrkowskimi murami rozwinęło się miasto [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nie-tylko-krakowskie-przedmiescie-za-piotrkowskimi-murami-rozwinelo-sie-miasto-zdjecia/hpqcEf5TkpdS8Sa7jIqC</link>
