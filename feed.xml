@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 28 Jan 2026 13:18:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 14:50:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piją, kradną i zakłócają porządek. W tych miejscach w mieście lepiej uważać ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pija-kradna-i-zaklocaja-porzadek-w-tych-miejscach-w-miescie-lepiej-uwazac/V7dE49cYiV85nHWFIFcG</link>
+<guid isPermaLink="false">e375361500e1bbaa30ef5a59116d5e1ad4966301</guid>
+<pubDate>Wed, 28 Jan 2026 15:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f469c30-fcce-4859-8355-9fbb042d6659" alt="miniatura"/></p><p>Co pół roku mundurowi przedstawiają plany działań priorytetowych dla swojej dzielnicy. Piotrków podzielony jest przez policjantów na 12 rejonów służbowych, a do każdego z terenów przypisany jest dzielnicowy. To właśnie oni najlepiej powinni orientować się w wykroczeniach, do jakich dochodzi na danym terenie. Mundurowi ustalają, jakie problemy doskwierają mieszkańcom i starają się je wyeliminować.…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f469c30-fcce-4859-8355-9fbb042d6659" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f469c30-fcce-4859-8355-9fbb042d6659" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f469c30-fcce-4859-8355-9fbb042d6659"/>
+</item>
 <item>
 <title><![CDATA[ Wielkie pieniądze w regionie. To w tych kolekturach w naszym mieście i powiecie padły "tłuste" sumy! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkie-pieniadze-w-regionie-to-w-tych-kolekturach-w-naszym-miescie-i-powiecie-padly-tluste-sumy/KHQpR9clLZyuKDlpJFfN</link>
@@ -2189,16 +2199,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2207,6 +2207,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4"/>
-</item>
-<item>
-<title><![CDATA[ Pijacki rajd drogami Piotrkowa. Kierowcy grozi odsiadka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pijacki-rajd-drogami-piotrkowa-kierowcy-grozi-odsiadka/tot4nUboJoLm5s1mAuMX</link>
-<guid isPermaLink="false">93391ce825529a321bbdd0535a299cb3b529a80c</guid>
-<pubDate>Thu, 27 Nov 2025 12:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37" alt="miniatura"/></p><p>Wracamy do zdarzenia, do którego doszło we wtorek 25 listopada w Piotrkowie Trybunalskim. Około godziny 11:00 w pobliżu skrzyżowania z ulicą Daleką zderzyły się dwa pojazdy. Na miejsce ruszyły służby, a jedna osoba trafiła do szpitala. Jak się okazało, jeden z kierowców był pijany i nie posiadał uprawnień. Mężczyzna usłyszał zarzuty.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37"/>
 </item>
 </channel></rss>
