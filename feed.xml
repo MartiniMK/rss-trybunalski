@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 28 Jan 2026 11:39:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 13:18:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkie pieniądze w regionie. To w tych kolekturach w naszym mieście i powiecie padły "tłuste" sumy! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-pieniadze-w-regionie-to-w-tych-kolekturach-w-naszym-miescie-i-powiecie-padly-tluste-sumy/KHQpR9clLZyuKDlpJFfN</link>
+<guid isPermaLink="false">01d29312a61999f4e26ea10b41d9baaac635a227</guid>
+<pubDate>Wed, 28 Jan 2026 12:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2929b3b-4ea8-4d8a-b626-a2f56e6c5816" alt="miniatura"/></p><p>W 2025 roku na tzw. mapie szczęścia Lotto pojawiło się 708 pinezek. Każda z nich symbolizuje gracza, który trafił wygraną na loterii. Początek nowego roku wiąże się często z podsumowaniami. Sprawdzamy, gdzie w naszym mieście i regionie padły nagrody w Lotto.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2929b3b-4ea8-4d8a-b626-a2f56e6c5816" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2929b3b-4ea8-4d8a-b626-a2f56e6c5816" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2929b3b-4ea8-4d8a-b626-a2f56e6c5816"/>
+</item>
 <item>
 <title><![CDATA[ Utrudnienia dla kierowców. Przejazd kolejowy w Piotrkowie będzie zamknięty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/utrudnienia-dla-kierowcow-przejazd-kolejowy-w-piotrkowie-bedzie-zamkniety/o2zCdlhvEkd3sQCtYO9p</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af88efd4-7ba4-4008-87f2-061a95daab37"/>
-</item>
-<item>
-<title><![CDATA[ Zmiany na piotrkowskich drogach? Radny proponuje nowe rondo ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zmiany-na-piotrkowskich-drogach-radny-proponuje-nowe-rondo/deYaD6BmFGvr9Eouqfzc</link>
-<guid isPermaLink="false">d05ceeae4384bfc9e06fe6be8530e374e5a2bab7</guid>
-<pubDate>Thu, 27 Nov 2025 11:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f1d43704-2360-4920-9cc5-ab50ce9a2a21" alt="miniatura"/></p><p>Czy są w Piotrkowie skrzyżowania, które powinny zostać przekształcone na ronda? Jedno z takich miejsc wskazał radny. Wśród powodów padło duże natężenie ruchu oraz kwestie bezpieczeństwa. Wiadomo już, z jaką odpowiedzią ze strony magistratu spotkał się ten pomysł.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f1d43704-2360-4920-9cc5-ab50ce9a2a21" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f1d43704-2360-4920-9cc5-ab50ce9a2a21" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f1d43704-2360-4920-9cc5-ab50ce9a2a21"/>
 </item>
 </channel></rss>
