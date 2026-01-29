@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 29 Jan 2026 10:03:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2026 10:59:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramatyczne poszukiwania pod Piotrkowem. Służby interweniowały w lesie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczne-poszukiwania-pod-piotrkowem-sluzby-interweniowaly-w-lesie/i848CbaBScQNXwAbUaOq</link>
+<guid isPermaLink="false">6f9bf6a7313fa7dbb70c1f91827bf6f632527de3</guid>
+<pubDate>Thu, 29 Jan 2026 11:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05fbeeb8-5f1d-4a73-bc09-d313a1c9d2f5" alt="miniatura"/></p><p>Kobieta zgubiła się w lesie. Istaniało zagrożenie życia W środę, 28 stycznia doszło do niezwykle niebezpiecznej sytuacji. Kobieta zgubiła się w lesie, gdy na dworze panowały bardzo niskie temperatury.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05fbeeb8-5f1d-4a73-bc09-d313a1c9d2f5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05fbeeb8-5f1d-4a73-bc09-d313a1c9d2f5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/05fbeeb8-5f1d-4a73-bc09-d313a1c9d2f5"/>
+</item>
+<item>
+<title><![CDATA[ Na ulicach Piotrkowa będą… przytulać ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-ulicach-piotrkowa-beda-przytulac/CcEgXe6a2HktjVovgbFz</link>
+<guid isPermaLink="false">2e5371e97477d010992aec4094706c6f4d127595</guid>
+<pubDate>Thu, 29 Jan 2026 11:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16fe7611-f89a-462b-9813-b7af33f9b224" alt="miniatura"/></p><p>Mówi się, że dla zachowania zdrowia i szczęścia w życiu, ważne jest przytulanie. By przeżyć potrzeba nam 4 uścisków dziennie, by zachować zdrowie 8, by się rozwijać 12 – uważała amerykańska psychoterapeutka Virginia Satir. Co więcej, 31 stycznia obchodzony jest Międzynarodowy Dzień Przytulania. To okazja do szerzenia wiedzy, że zwykły uścisk jest naturalnym antydepresantem. W Piotrkowie mieszkańcy…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16fe7611-f89a-462b-9813-b7af33f9b224" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16fe7611-f89a-462b-9813-b7af33f9b224" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/16fe7611-f89a-462b-9813-b7af33f9b224"/>
+</item>
 <item>
 <title><![CDATA[ Oszuści grasują i wyłudzają pieniądze. Policjanci ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/oszusci-grasuja-i-wyludzaja-pieniadze-policjanci-ostrzegaja/e7P1io39V6d1IgZFGfmE</link>
@@ -3237,25 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f3698d62-861f-488c-8adc-59fa11160e8a" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f3698d62-861f-488c-8adc-59fa11160e8a" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f3698d62-861f-488c-8adc-59fa11160e8a"/>
-</item>
-<item>
-<title><![CDATA[ Akcja wojska i policji na ulicach Piotrkowa. Co się dzieje? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/akcja-wojska-i-policji-na-ulicach-piotrkowa-co-sie-dzieje/WXsME5BEfxxwhVZkPWV9</link>
-<guid isPermaLink="false">183cd67b1ad1c15ab6865f1320e3acb4a422168e</guid>
-<pubDate>Thu, 27 Nov 2025 14:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/67d0f997-4d0c-4554-8281-877132700e5b" alt="miniatura"/></p><p>W najbliższym czasie w Piotrkowie Trybunalskim będzie można zauważyć zwiększoną obecność patroli służb, a także żołnierzy pojawiających się w rejonie torów, mostów i infrastruktury kolejowej. To efekt ogólnopolskiej operacji „Horyzont”, której celem jest wzmocnienie ochrony kluczowych obiektów oraz zwiększenie bezpieczeństwa w całym kraju.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/67d0f997-4d0c-4554-8281-877132700e5b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/67d0f997-4d0c-4554-8281-877132700e5b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/67d0f997-4d0c-4554-8281-877132700e5b"/>
-</item>
-<item>
-<title><![CDATA[ Ponad 22 mln zł dla szpitala w Piotrkowie z KPO. Wiadomo, na co pójdą środki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ponad-22-mln-zl-dla-szpitala-w-piotrkowie-z-kpo-wiadomo-na-co-pojda-srodki/pWhsDV4cRMswZP4w0kqG</link>
-<guid isPermaLink="false">136cecb9a0203e39a5048ce060b4e169d54f1bd8</guid>
-<pubDate>Thu, 27 Nov 2025 14:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4" alt="miniatura"/></p><p>Piotrków na czele listy. Kluczowa inwestycja dla pacjentów Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim znalazł się w gronie najwyżej ocenionych projektów w całym województwie. Placówka otrzyma ponad 22 mln zł na rozwój kardiologii, w tym 19,9 mln zł dofinansowania z KPO .</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/873351d0-7427-4bf3-8e34-0405c8f6e6a4"/>
 </item>
 </channel></rss>
