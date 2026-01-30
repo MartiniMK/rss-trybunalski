@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 30 Jan 2026 14:51:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 15:54:27 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Co licytuje komornik w Łódzkiem? Pod młotek idą samochody, mieszkania i nie tylko ]]></title>
@@ -899,16 +899,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -917,6 +907,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -1179,6 +1179,16 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47ba90b7-f28c-4fe4-bfac-87741f0c7395"/>
 </item>
 <item>
+<title><![CDATA[ Nowe systemy kamer na drogach w Łódzkiem. O ile można przekroczyć prędkość bez mandatu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-na-drogach-w-lodzkiem-o-ile-mozna-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
+<guid isPermaLink="false">3a52ab5607e50cf831a7a14ff30d5596497da56e</guid>
+<pubDate>Sun, 11 Jan 2026 08:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" alt="miniatura"/></p><p>Województwo łódzkie znalazło się na liście regionów, w których system CANARD zostanie wzmocniony o nowe instalacje. Chodzi przede wszystkim o dwa nowe odcinki odcinkowego pomiaru prędkości na autostradzie A1, ale także o dalsze utrwalanie modelu kontroli opartego na fotoradarach i systemach RedLight. Skala inwestycji jest duża, a jej konsekwencje dla kierowców bardzo konkretne.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7"/>
+</item>
+<item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Karny przesądził o wyniku starcia Piotrcovii z „Kobierkami”! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-karny-przesadzil-o-wyniku-starcia-piotrcovii-z-kobierkami/24FAxpZNZRBbG2P0Vri1</link>
 <guid isPermaLink="false">62b1cd511b39e1b3c63b51b56fcec3c86c77f3e9</guid>
@@ -1187,16 +1197,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/59800362-a4d1-4949-9b78-ca9d07b6babe" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/59800362-a4d1-4949-9b78-ca9d07b6babe" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/59800362-a4d1-4949-9b78-ca9d07b6babe"/>
-</item>
-<item>
-<title><![CDATA[ Nowe systemy kamer w województwie łódzkim. O ile można przekroczyć prędkość bez mandatu? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-w-wojewodztwie-lodzkim-o-ile-mozna-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
-<guid isPermaLink="false">c42835ca1228b7c7cb50d7e0de337a47d711a293</guid>
-<pubDate>Sat, 10 Jan 2026 20:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" alt="miniatura"/></p><p>Województwo łódzkie znalazło się na liście regionów, w których system CANARD zostanie wzmocniony o nowe instalacje. Chodzi przede wszystkim o dwa nowe odcinki odcinkowego pomiaru prędkości na autostradzie A1, ale także o dalsze utrwalanie modelu kontroli opartego na fotoradarach i systemach RedLight. Skala inwestycji jest duża, a jej konsekwencje dla kierowców bardzo konkretne.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7"/>
 </item>
 <item>
 <title><![CDATA[ Rynek Trybunalski nie zawsze był Trybunalski. Myślicie, że wiecie o nim już wszystko? [ZDJĘCIA] ]]></title>
