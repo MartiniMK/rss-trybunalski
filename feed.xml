@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 30 Jan 2026 17:01:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 17:51:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Cielaczki zabłąkały się na autostradzie. Zwierzęta hasały między autami [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/cielaczki-zablakaly-sie-na-autostradzie-zwierzeta-hasaly-sie-miedzy-autami-zdjecia/iIta9jiaKOYi6w59AbBS</link>
+<guid isPermaLink="false">bd3c53779c0c1ea6fff2e559a2ee953dfe5689a9</guid>
+<pubDate>Fri, 30 Jan 2026 18:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0da88cad-a2df-4a67-b9a7-ddc17ee6127d" alt="miniatura"/></p><p>Nie wiadomo jak cielęta trafiły na autostradowy węzeł Łódź Północ, gdzie łączą się autostrady A2 i A1. 29 stycznia błąkały się na zjeździe z Warszawy w kierunku Katowic. Zostały zauważone przez obsługę kamer autostradowego monitoringu. Na pomoc maluchom ruszyli najpierw kierowcy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0da88cad-a2df-4a67-b9a7-ddc17ee6127d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0da88cad-a2df-4a67-b9a7-ddc17ee6127d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0da88cad-a2df-4a67-b9a7-ddc17ee6127d"/>
+</item>
 <item>
 <title><![CDATA[ Co licytuje komornik w Łódzkiem? Pod młotek idą samochody, mieszkania i nie tylko ]]></title>
 <link>https://trybunalski.pl/wiadomosci/co-licytuje-komornik-w-lodzkiem-pod-mlotek-ida-samochody-mieszkania-i-nie-tylko/pqVM44XTj7MqIKN6RiYy</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8cb32150-46cc-4ce1-8937-4699634e0f28"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek trzech samochodów w Piotrkowie. Jedna osoba zabrana do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-trzech-samochodow-w-piotrkowie-jedna-osoba-zabrana-do-szpitala/nCTTpKeCqOf4CJQnRzan</link>
-<guid isPermaLink="false">921f415a7605754c62ade9ca2a6c34b143501015</guid>
-<pubDate>Sat, 29 Nov 2025 13:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" alt="miniatura"/></p><p>Zdarzenie miało miejsce w sobotę, 29 listopada około godz. 11:50 na ul. Belzackiej.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/be63a706-bbb9-4b4f-80c8-2aeb99be7b52"/>
 </item>
 </channel></rss>
