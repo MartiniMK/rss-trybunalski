@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 31 Jan 2026 08:49:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 09:45:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowe systemy kamer na drogach w Łódzkiem. Ile można przekroczyć prędkość bez mandatu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-na-drogach-w-lodzkiem-ile-mozna-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
+<guid isPermaLink="false">359b9175bf9028355d077598fd0ef465159322ff</guid>
+<pubDate>Sat, 31 Jan 2026 10:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" alt="miniatura"/></p><p>Województwo łódzkie znalazło się na liście regionów, w których system CANARD zostanie wzmocniony o nowe instalacje. Chodzi przede wszystkim o dwa nowe odcinki odcinkowego pomiaru prędkości na autostradzie A1, ale także o dalsze utrwalanie modelu kontroli opartego na fotoradarach i systemach RedLight. Skala inwestycji jest duża, a jej konsekwencje dla kierowców bardzo konkretne.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7"/>
+</item>
 <item>
 <title><![CDATA[ Studniówka "Ekonomika" w Piotrkowie. Tak bawili się maturzyści [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/studniowka-ekonomika-w-piotrkowie-tak-bawili-sie-maturzysci-zdjecia/MGiyk6CR3J0fph748VIo</link>
@@ -1207,16 +1217,6 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47ba90b7-f28c-4fe4-bfac-87741f0c7395" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47ba90b7-f28c-4fe4-bfac-87741f0c7395" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/47ba90b7-f28c-4fe4-bfac-87741f0c7395"/>
-</item>
-<item>
-<title><![CDATA[ Nowe systemy kamer na drogach w Łódzkiem. O ile można przekroczyć prędkość bez mandatu? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-na-drogach-w-lodzkiem-o-ile-mozna-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
-<guid isPermaLink="false">3a52ab5607e50cf831a7a14ff30d5596497da56e</guid>
-<pubDate>Sun, 11 Jan 2026 08:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" alt="miniatura"/></p><p>Województwo łódzkie znalazło się na liście regionów, w których system CANARD zostanie wzmocniony o nowe instalacje. Chodzi przede wszystkim o dwa nowe odcinki odcinkowego pomiaru prędkości na autostradzie A1, ale także o dalsze utrwalanie modelu kontroli opartego na fotoradarach i systemach RedLight. Skala inwestycji jest duża, a jej konsekwencje dla kierowców bardzo konkretne.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dffc31af-9927-42b1-a977-77b9b3a91dd7"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Karny przesądził o wyniku starcia Piotrcovii z „Kobierkami”! ]]></title>
