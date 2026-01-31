@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 31 Jan 2026 14:41:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 15:40:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Miały służyć maksymalnie 70 lat. Trzeba będzie burzyć bloki z wielkiej płyty? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mialy-sluzyc-maksymalnie-70-lat-trzeba-bedzie-burzyc-bloki-z-wielkiej-plyty/h53Jkw1P08gD4W8i9lFw</link>
+<guid isPermaLink="false">04134f344c871da08e6ac6251dc06f5a878a8c6d</guid>
+<pubDate>Sat, 31 Jan 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e2f8b482-3e6a-46fe-b4b5-cc4e049112ba" alt="miniatura"/></p><p>W dekadzie Edwarda Gierka (ówczesnego I sekretarza KC PZPR – najważniejszego człowieka w kraju) w całej Polsce wybudowano ponad 2,2 mln mieszkań. To lata 1970-1980. Większość w tzw. blokach z wielkiej płyty . Budowania takich mieszkań nie zaprzestano w latach 80., a nawet 90. W Piotrkowie najwcześniejsze powstały na osiedlu Wyzwolenia , Słowackiego i przy ulicy Poprzecznej . Należą głównie do Piot…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e2f8b482-3e6a-46fe-b4b5-cc4e049112ba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e2f8b482-3e6a-46fe-b4b5-cc4e049112ba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e2f8b482-3e6a-46fe-b4b5-cc4e049112ba"/>
+</item>
 <item>
 <title><![CDATA[ Nowe systemy kamer na drogach w Łódzkiem. Ile można przekroczyć prędkość bez mandatu? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-na-drogach-w-lodzkiem-ile-mozna-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
