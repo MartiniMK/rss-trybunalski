@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 31 Jan 2026 23:40:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 03:33:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Maturzyści opanowali parkiet. Studniówka ZSP 4 w Piotrkowie Trybunalskim [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/maturzysci-opanowali-parkiet-studniowka-zsp-4-w-piotrkowie-trybunalskim-zdjecia/PylLXeOJdrfN75WJNCJA</link>
+<guid isPermaLink="false">cb1e212ff62cecc935e5d8afe978e4132e461a18</guid>
+<pubDate>Sun, 01 Feb 2026 03:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a54b4e49-7630-4673-bd29-c45139c71982" alt="miniatura"/></p><p>W sobotę, 31 stycznia uczniowie Zespołu Szkół Ponadpodstawowych numer 4 w Piotrkowie Trybunalskim świętowali symboliczne sto dni do matury. Bal studniówkowy zorganizowali w Dworze Kasztelan w Stefanówce. Początek wydarzenia to czas przemówień i wzruszeń. Uczniowie podziękowali rodzicom i nauczycielom za codzienny trud wkładany w ich wychowanie i pomoc w drodze ku dorosłości. Głos zabrała także dyr…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a54b4e49-7630-4673-bd29-c45139c71982" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a54b4e49-7630-4673-bd29-c45139c71982" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a54b4e49-7630-4673-bd29-c45139c71982"/>
+</item>
 <item>
 <title><![CDATA[ Miały służyć maksymalnie 70 lat. Trzeba będzie burzyć bloki z wielkiej płyty? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mialy-sluzyc-maksymalnie-70-lat-trzeba-bedzie-burzyc-bloki-z-wielkiej-plyty/h53Jkw1P08gD4W8i9lFw</link>
@@ -2379,16 +2389,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2397,6 +2397,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055"/>
-</item>
-<item>
-<title><![CDATA[ Kierowca uderzył w słup i... uciekł. Spowodował spore utrudnienia w ruchu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kierowca-uderzyl-w-slup-i-uciekl-spowodowal-spore-utrudnienia-w-ruchu/Fah5cBKLA2WHddWCxsEP</link>
-<guid isPermaLink="false">73f173b103da01ff363facb16d1fcfb0bcaf0fd3</guid>
-<pubDate>Sun, 30 Nov 2025 23:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3246b338-0d3a-4a96-b9be-27e3bcc5bb84" alt="miniatura"/></p><p>W niedzielę, 30 listopada około godz. 21:00 na ul. Opoczyńskiej doszło do groźnie wyglądającego zdarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3246b338-0d3a-4a96-b9be-27e3bcc5bb84" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3246b338-0d3a-4a96-b9be-27e3bcc5bb84" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3246b338-0d3a-4a96-b9be-27e3bcc5bb84"/>
 </item>
 </channel></rss>
