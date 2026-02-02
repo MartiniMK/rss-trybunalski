@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Feb 2026 09:06:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 10:10:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mróz i braki prądu w Piotrkowie i powiecie. Kiedy zaczną się utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mroz-i-braki-pradu-w-piotrkowie-i-powiecie-kiedy-zaczna-sie-utrudnienia/YysEYEdFBcnJZGplBQsp</link>
+<guid isPermaLink="false">5731dd5bb8fecf0d53874c58bb94389bf2e18553</guid>
+<pubDate>Mon, 02 Feb 2026 10:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c12747a3-43e4-4552-80ca-5d32ff25735f" alt="miniatura"/></p><p>Mimo rekordowo niskich temperatur mieszkańcy naszego regionu muszą liczyć się z utrudnieniami związanymi z przerwami w dostawie prądu. Na poniedziałek i wtorek (2-3 luty) planowane wyłączenia zostały odwołane. Prawdziwe utrudnienia mają rozpocząć się już w środę, 4 lutego. Najtrudniejszy czas zbliża się nieubłaganie dla mieszkańców Strzałkowa. Według harmonogramu prac PGE planuje tam prace, które…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c12747a3-43e4-4552-80ca-5d32ff25735f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c12747a3-43e4-4552-80ca-5d32ff25735f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c12747a3-43e4-4552-80ca-5d32ff25735f"/>
+</item>
 <item>
 <title><![CDATA[ Maturzyści opanowali parkiet. Studniówka ZSP 4 w Piotrkowie Trybunalskim [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/maturzysci-opanowali-parkiet-studniowka-zsp-4-w-piotrkowie-trybunalskim-zdjecia/PylLXeOJdrfN75WJNCJA</link>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/afd64e90-87f4-4672-a66c-dbf35060e500"/>
-</item>
-<item>
-<title><![CDATA[ Mikołajkowa akcja w naszym mieście. Potrzebna pomoc dla młodego piotrkowianina ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mikolajkowa-akcja-w-piotrkowie-potrzebna-pomoc-dla-mlodego-piotrkowianina/FpaMCzORQgt2xxNdFrt3</link>
-<guid isPermaLink="false">027ef3c2ff5733f776cca495cc87a6f9816f99c8</guid>
-<pubDate>Mon, 01 Dec 2025 10:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055" alt="miniatura"/></p><p>W Piotrkowie odbędzie się Mikołajkowy Kiermasz Ciast. Środki zebrane podczas wydarzenia będą przekazane na zbiórkę funduszy dla Filipa Grzybowskiego. To młody mężczyzna, który ucierpiał w wypadku samochodowym w 2024 r.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9d0412c6-92c4-486d-a53a-041523630055"/>
 </item>
 </channel></rss>
