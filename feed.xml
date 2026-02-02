@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Feb 2026 15:54:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 17:06:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Młyn przy Słowackiego w Piotrkowie. Tu pracowała jedna z pierwszych maszyn parowych [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mlyn-przy-slowackiego-w-piotrkowie-tu-pracowala-jedna-z-pierwszych-maszyn-parowych-zdjecia/1KcVw2M8wjh2xKE8zQWC</link>
+<guid isPermaLink="false">48e3086ec597e9d0800de589e20571491202d636</guid>
+<pubDate>Mon, 02 Feb 2026 17:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e15a8648-8449-48f0-94af-cecf47bcbfee" alt="miniatura"/></p><p>Młyn przy Słowackiego 36 w Piotrkowie wybudowany został w drugiej połowie XIX wieku w pobliżu torów kolei warszawsko - wiedeńskiej. Należał do braci Pniower. Młyn parowy Izraela i Jakuba Pniowerów produkował rocznie około 2680 tys. ton mąki i kaszy.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e15a8648-8449-48f0-94af-cecf47bcbfee" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e15a8648-8449-48f0-94af-cecf47bcbfee" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e15a8648-8449-48f0-94af-cecf47bcbfee"/>
+</item>
 <item>
 <title><![CDATA[ Dwór pod Piotrkowem na sprzedaż. Historyczna rezydencja tańsza niż niejeden nowy dom ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dwor-pod-piotrkowem-na-sprzedaz-historyczna-rezydencja-tansza-niz-niejeden-nowy-dom/dOoMpuELhGNECUk2LQL0</link>
@@ -2449,16 +2459,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2467,6 +2467,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9028757-4051-4812-8271-5ee9cc321100" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9028757-4051-4812-8271-5ee9cc321100" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c9028757-4051-4812-8271-5ee9cc321100"/>
-</item>
-<item>
-<title><![CDATA[ Co idzie pod młotek w województwie łódzkim? Komornik licytuje domy, samochody i nie tylko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-idzie-pod-mlotek-w-wojewodztwie-lodzkim-komornik-licytuje-domy-samochody-i-nie-tylko/xXgMKTG8c76nlzkUQyZV</link>
-<guid isPermaLink="false">0a631a30c0af1de95e28c86891471720fb4298a0</guid>
-<pubDate>Mon, 01 Dec 2025 15:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/997fe06a-5bd0-4915-81c4-e6596031ee61" alt="miniatura"/></p><p>Licytacje komornicze to publiczna sprzedaż majątku dłużnika. To jeden z kroków mający na celu wyegzekwowanie należności. Ogłoszenia o planowanych licytacjach są publiczne, a na aukcje trafiają najróżniejsze przedmioty. W województwie łódzkim najczęściej są to nieruchomości, ale też pojazdy. Przedstawiamy terminarz licytacji komorniczych na nadchodzące dni w Piotrkowie i nie tylko.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/997fe06a-5bd0-4915-81c4-e6596031ee61" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/997fe06a-5bd0-4915-81c4-e6596031ee61" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/997fe06a-5bd0-4915-81c4-e6596031ee61"/>
 </item>
 </channel></rss>
