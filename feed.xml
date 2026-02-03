@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Feb 2026 11:51:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 13:28:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pijany Ukrainiec „narozrabiał” w Piotrkowie. Finał był przykry ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pijany-ukrainiec-narozrabial-w-piotrkowie-final-byl-przykry/ZO144zyvDCUbxU7GU14F</link>
+<guid isPermaLink="false">a4f18f3b7df34b417787bc1373e2a8495780b729</guid>
+<pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3221c378-3303-49eb-818c-93d231ee9309" alt="miniatura"/></p><p>Wszystko działo się w niedzielę, 1 lutego tuż po północy w Piotrkowie Trybunalskim. Dyżurny otrzymał zgłoszenie, że na ul. Gęsiej doszło do zderzenia dwóch pojazdów. Na miejsce ruszyli policjanci. Jak się okazało, 31-letni kierowca wjechał w zaparkowany samochód, w którym znajdowały się dwie osoby.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3221c378-3303-49eb-818c-93d231ee9309" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3221c378-3303-49eb-818c-93d231ee9309" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3221c378-3303-49eb-818c-93d231ee9309"/>
+</item>
+<item>
+<title><![CDATA[ Polski gigant szuka pracowników pod Piotrkowem. Jakie stawia wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polski-gigant-szuka-pracownikow-pod-piotrkowem-jakie-stawia-wymagania/TPPTihj9sHZjqnfx3WYk</link>
+<guid isPermaLink="false">ba2bad930a4c761b4d0287f85d241abe2f244a28</guid>
+<pubDate>Tue, 03 Feb 2026 12:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0b7a15e-54e9-415b-a717-3dfcf1f40ff1" alt="miniatura"/></p><p>Polski gigant w branży meblowej i wyposażenia wnętrz poszukuje pracowników w powiecie piotrkowskim. Dostępnych jest kilka ofert. Sprawdzamy, o jakie stanowiska chodzi i jakie wymagania stawia spółka.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0b7a15e-54e9-415b-a717-3dfcf1f40ff1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0b7a15e-54e9-415b-a717-3dfcf1f40ff1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d0b7a15e-54e9-415b-a717-3dfcf1f40ff1"/>
+</item>
 <item>
 <title><![CDATA[ Mieszkańcy otrzymają wezwania. Za zignorowanie grożą kary ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkancy-otrzymaja-wezwania-za-zignorowanie-groza-kary/VWI1eAoVhstVz64tjCqU</link>
@@ -3237,25 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58"/>
-</item>
-<item>
-<title><![CDATA[ Nowe pojazdy w WORD. Zyskają także kierowcy w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-pojazdy-w-word-zyskaja-takze-kierowcy-w-piotrkowie/0MPwijnp7eyIvdzF2GrG</link>
-<guid isPermaLink="false">d029c228564e26637a208892e9df2a1f6bc0cd5b</guid>
-<pubDate>Tue, 02 Dec 2025 14:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bbb497ff-2f9a-4b0c-942d-759857ac12b6" alt="miniatura"/></p><p>Nowe pojazdy to ciągniki siodłowe z naczepami, takimi jak te wykorzystywane codziennie w transporcie dalekobieżnym. Właśnie na nich już wkrótce będą zdawać egzaminy kandydaci z regionu piotrkowskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bbb497ff-2f9a-4b0c-942d-759857ac12b6" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bbb497ff-2f9a-4b0c-942d-759857ac12b6" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bbb497ff-2f9a-4b0c-942d-759857ac12b6"/>
-</item>
-<item>
-<title><![CDATA[ Powrót autobusu przegubowego w Piotrkowie. Jaką linię będzie obsługiwał? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powrot-autobusu-przegubowego-w-piotrkowie-jaka-linie-bedzie-obslugiwal/LbcauE8IH9GGETPZe4sT</link>
-<guid isPermaLink="false">07aab3521338fd478a36a65e46988c01700249c4</guid>
-<pubDate>Tue, 02 Dec 2025 14:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc" alt="miniatura"/></p><p>O tym, że na ulice Piotrkowa wyjadą nowe autobusy elektryczne, pisaliśmy już w kwietniu 2025 roku. Początkowo mówiono o 11 pojazdach, jednak okazało się, że będzie ich 12. Ten ostatni będzie się jednak różnić od reszty przegubową konstrukcją. Według planów nowe autobusy mają wyjechać na ulice miasta w 2026 roku. Podczas listopadowej sesji rady miasta padły pytania o pojazd przegubowy. Pojawiły się…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc"/>
 </item>
 </channel></rss>
