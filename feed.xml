@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Feb 2026 17:16:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 19:16:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zmarł wieloletni dyrektor III LO w Piotrkowie Trybunalskim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmarl-wieloletni-dyrektor-iii-lo-w-piotrkowie-trybunalskim/5bu585bdxb33jp8A49fm</link>
+<guid isPermaLink="false">bbec087b43cd310a5d2fe444fbe64a2e7daa7fd4</guid>
+<pubDate>Tue, 03 Feb 2026 19:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bc823928-6d8e-4fb0-986c-a42bcff58519" alt="miniatura"/></p><p>III LO w Piotrkowie poinformowało, że w poniedziałek, 2 lutego zmarł pan Janusz Warakomski, wieloletni dyrektor piotrkowskiego liceum.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bc823928-6d8e-4fb0-986c-a42bcff58519" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bc823928-6d8e-4fb0-986c-a42bcff58519" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bc823928-6d8e-4fb0-986c-a42bcff58519"/>
+</item>
 <item>
 <title><![CDATA[ 16-letniej Marzeny szukał cały Piotrków. Dziewczyna siedziała w tym czasie w... McDonaldzie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/16-letniej-marzeny-szukal-caly-piotrkow-dziewczyna-siedziala-w-tym-czasie-w-mcdonaldzie/EUAIBS7xLkvsuu4DKzwI</link>
@@ -1089,16 +1099,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -1107,6 +1107,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -2519,16 +2529,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -2537,6 +2537,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2"/>
-</item>
-<item>
-<title><![CDATA[ Świąteczna magia brała się stąd. Fabryka ozdób choinkowych w Piotrkowie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swiateczna-magia-brala-sie-stad-fabryka-ozdob-choinkowych-w-piotrkowie-zdjecia/qJ3qM3PyaHNVP9IVvhwo</link>
-<guid isPermaLink="false">1457477b8376613f1c30d6175564b239bfe9acc5</guid>
-<pubDate>Tue, 02 Dec 2025 18:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3ac99cd-8f56-40d1-8305-7f24a11427bb" alt="miniatura"/></p><p>Spółdzielnia Pracy Ozdób Choinkowych i Przerobów Szklanych "Szkło" w Piotrkowie Trybunalskim powstała w latach 50. XX wieku. Wtedy zaczęły w mieście postawać szklane bombki choinkowe. Zarówno te bogato zdobione kule, jak i wymyślne kształtem.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3ac99cd-8f56-40d1-8305-7f24a11427bb" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3ac99cd-8f56-40d1-8305-7f24a11427bb" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d3ac99cd-8f56-40d1-8305-7f24a11427bb"/>
 </item>
 </channel></rss>
