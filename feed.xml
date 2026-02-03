@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Feb 2026 10:05:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 11:01:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mieszkańcy otrzymają wezwania. Za zignorowanie grożą kary ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-otrzymaja-wezwania-za-zignorowanie-groza-kary/VWI1eAoVhstVz64tjCqU</link>
+<guid isPermaLink="false">67b1e9c482525d89e402b8622e2116fa90b81f66</guid>
+<pubDate>Tue, 03 Feb 2026 11:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/420ee02c-0918-4100-ab9a-5f0f5d1fe469" alt="miniatura"/></p><p>Wojskowe Centrum Rekrutacji w Tomaszowie Mazowieckim przekazało informacje na temat terminów tegorocznej kwalifikacji wojskowej. W Łódzkiem będzie ona przeprowadzana od 2 lutego do 30 kwietnia 2026 roku. Wezwania trafią do osób zameldowanych na pobyt stały lub czasowy na terenie naszego województwa i wysyłane są najpóźniej do 7 dni przed terminem stawiennictwa. Stawić się będą musieli także Piotrk…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/420ee02c-0918-4100-ab9a-5f0f5d1fe469" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/420ee02c-0918-4100-ab9a-5f0f5d1fe469" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/420ee02c-0918-4100-ab9a-5f0f5d1fe469"/>
+</item>
 <item>
 <title><![CDATA[ Będą utrudnienia dla kierowców. Zamykają przejazd kolejowy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/beda-utrudnienia-dla-kierowcow-zamykaja-przejazd-kolejowy/3ZRQ52X6CwbHR3kSxGfE</link>
@@ -1049,16 +1059,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -1067,6 +1067,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4d2e4a57-5c45-4dfc-acb8-98febccf48cc"/>
-</item>
-<item>
-<title><![CDATA[ Wydano alert dla woj. łódzkiego. Służby apelują do mieszkańców - zacznie się za kilka godzin ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-woj-lodzkiego-sluzby-apeluja-do-mieszkancow-o-ostroznosc-zacznie-sie-za-kilka-godzin/WV9jGxasdHSHaME8iEzc</link>
-<guid isPermaLink="false">84d467929b5f03570e78a510e2f4f2b2ac9f9a6a</guid>
-<pubDate>Tue, 02 Dec 2025 12:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19987cc5-05a1-4a42-a889-727133f0d688" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał nowe ostrzeżenie dla mieszkańców regionu łódzkiego. Zarządzanie kryzysowe informuje, że alert obejmuje wszystkie powiaty, a jego ważność rozpocznie się już dziś po południu. Sprawdź, na co muszą przygotować się kierowcy i piesi.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19987cc5-05a1-4a42-a889-727133f0d688" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19987cc5-05a1-4a42-a889-727133f0d688" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19987cc5-05a1-4a42-a889-727133f0d688"/>
 </item>
 </channel></rss>
