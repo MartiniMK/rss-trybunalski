@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Feb 2026 13:28:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 15:04:51 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Pijany Ukrainiec „narozrabiał” w Piotrkowie. Finał był przykry ]]></title>
@@ -3247,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54a68ebd-1e74-4bd9-942c-16c93a30799d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54a68ebd-1e74-4bd9-942c-16c93a30799d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/54a68ebd-1e74-4bd9-942c-16c93a30799d"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w Piotrkowie. Na miejscu wszystkie służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-na-miejscu-wszystkie-sluzby/XCXyAD31cBjohdlGh85r</link>
-<guid isPermaLink="false">53cd2ace13149189bd73a13ae05ad8cde0ed041e</guid>
-<pubDate>Tue, 02 Dec 2025 14:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58" alt="miniatura"/></p><p>We wtorkowy poranek w Piotrkowie doszło do zderzenia dwóch pojazdów. Wszystko działo się 2 grudnia około godziny 9:40 na skrzyżowaniu ul. Rakowskiej z węzłem S8, tuż przed wiaduktem. Na miejsce ruszyły służby, a kierowcy musieli liczyć się z utrudnieniami w ruchu.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6fcb180b-1bf3-4d1f-8fb1-3b669b0cff58"/>
 </item>
 </channel></rss>
