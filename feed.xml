@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 04 Feb 2026 09:04:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 10:04:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Obiekt w Piotrkowie poprowadzi stowarzyszenie z Radomska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/obiekt-w-piotrkowie-poprowadzi-stowarzyszenie-z-radomska/fd1hTA74Y3rkconzcwuQ</link>
+<guid isPermaLink="false">e7fbbc2f99da3e118426024f6a8182584d471302</guid>
+<pubDate>Wed, 04 Feb 2026 10:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1e66fc65-ecbf-4e99-81f6-9769b70a696d" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim wybrano "kierownika" noclegowni dla osób bezdomnych Zwycięzcą postępowania zostało Stowarzyszenie Pomocy „Panaceum” z Radomska, które już wcześniej pełniło rolę operatora noclegowni.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1e66fc65-ecbf-4e99-81f6-9769b70a696d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1e66fc65-ecbf-4e99-81f6-9769b70a696d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1e66fc65-ecbf-4e99-81f6-9769b70a696d"/>
+</item>
+<item>
+<title><![CDATA[ Poszukiwany wpadł w Sulejowie. Wszystko wydało się podczas kontroli ]]></title>
+<link>https://trybunalski.pl/wiadomosci/poszukiwany-wpadl-w-sulejowie-wszystko-wydalo-sie-podczas-kontroli/F52yjnP2vG317lwczMRv</link>
+<guid isPermaLink="false">28e09b162a6a169dc20e1341da9cb6e683824122</guid>
+<pubDate>Wed, 04 Feb 2026 10:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d999b99f-366c-4b69-b611-a3b04c832949" alt="miniatura"/></p><p>W poniedziałek, 2 lutego Funkcjonariusze z Komisariatu Policji w Sulejowie zatrzymali pojazd do kontroli na ul. Leśnej. Podczas sprawdzenia w systemie okazało się, że 31-latek posiada cztery aktywne zakazy prowadzenia wszelkich pojazdów. To jednak nie wszystko, a mężczyźnie grozi teraz kilka lat odsiadki.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d999b99f-366c-4b69-b611-a3b04c832949" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d999b99f-366c-4b69-b611-a3b04c832949" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d999b99f-366c-4b69-b611-a3b04c832949"/>
+</item>
+<item>
+<title><![CDATA[ Nie żyje Mirosław Rękorajski. Związany był przez wiele lat z aresztem w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-zyje-miroslaw-rekorajski-zwiazany-byl-przez-wiele-lat-z-aresztem-w-piotrkowie/TbByIsBNXPabXiHqnRSL</link>
+<guid isPermaLink="false">c67d4ef9f0243576cf9b4374d105200a6f4987f9</guid>
+<pubDate>Wed, 04 Feb 2026 10:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/58337a49-c816-47ea-b897-5bbd9a61faba" alt="miniatura"/></p><p>Nie żyje Mirosław Rękorajski Mirosław Rękorajski przez wiele lat był przedstawicielem Kościoła Zielonoświątkowego. Przez ponad 20 lat pełnił posługę religijną na rzecz osadzonych w Areszcie Śledczym w Piotrkowie Trybunalskim oraz Oddziale Zewnętrznym w Goleszach.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/58337a49-c816-47ea-b897-5bbd9a61faba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/58337a49-c816-47ea-b897-5bbd9a61faba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/58337a49-c816-47ea-b897-5bbd9a61faba"/>
+</item>
 <item>
 <title><![CDATA[ Zmarł wieloletni dyrektor III LO w Piotrkowie Trybunalskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmarl-wieloletni-dyrektor-iii-lo-w-piotrkowie-trybunalskim/5bu585bdxb33jp8A49fm</link>
@@ -1099,16 +1129,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -1117,6 +1137,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3217,35 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4cc6d679-fff6-4c79-a7c5-82e18dd519ed"/>
-</item>
-<item>
-<title><![CDATA[ Mikołajkowa zbiórka krwi w powiecie piotrkowskim. Aż trzy grupy w stanie alarmowym ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mikolajkowa-zbiorka-krwi-w-powiecie-piotrkowskim-az-trzy-grupy-w-stanie-alarmowym/YW3MVRsxvoCiYFIc2DIM</link>
-<guid isPermaLink="false">33d65af137f92a26917cd5c7e0393c3d24139fab</guid>
-<pubDate>Wed, 03 Dec 2025 11:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4905bb5f-577c-469e-baa9-30d9047650c3" alt="miniatura"/></p><p>W całym kraju cyklicznie organizowane są akcje poboru krwi, które mają na celu wsparcie placówek medycznych i przede wszystkim ratowanie ludzkiego życia. Również mieszkańcy naszego powiatu dość często mają okazję brać udział w akcjach krwiodawstwa. Jedno z takich wydarzeń odbędzie się w Moszczenicy.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4905bb5f-577c-469e-baa9-30d9047650c3" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4905bb5f-577c-469e-baa9-30d9047650c3" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4905bb5f-577c-469e-baa9-30d9047650c3"/>
-</item>
-<item>
-<title><![CDATA[ Wiadomo, kiedy rozbłyśnie choinka w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wiadomo-kiedy-rozblysnie-choinka-w-piotrkowie/qgxGd6BLkkGEQRZQWsk1</link>
-<guid isPermaLink="false">a90478c9a7dcb256f9f9f6df4047a4d0f2be8166</guid>
-<pubDate>Wed, 03 Dec 2025 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/662d4e12-65e3-4c53-be87-da312e29e20f" alt="miniatura"/></p><p>Rozpoczął się grudzień, a wraz z nim przygotowania do świąt Bożego Narodzenia. To czas kolędowych koncertów, jasełek czy jarmarków. Jednym z ważniejszych symboli w tym okresie jest choinka. Wiadomo już, kiedy rozbłyśnie piotrkowskie drzewko. W planach są także inne atrakcje.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/662d4e12-65e3-4c53-be87-da312e29e20f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/662d4e12-65e3-4c53-be87-da312e29e20f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/662d4e12-65e3-4c53-be87-da312e29e20f"/>
-</item>
-<item>
-<title><![CDATA[ Czołowe zderzenie niedaleko Piotrkowa. Droga zablokowana, na miejscu wszystkie służby [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/czolowe-zderzenie-niedaleko-piotrkowa-droga-zablokowana-na-miejscu-wszystkie-sluzby-zdjecia/bu8T0F2gMDonqJHWLluy</link>
-<guid isPermaLink="false">3a6f6b0c35a659d62d591feb3e3b61c7117a279c</guid>
-<pubDate>Tue, 02 Dec 2025 22:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2" alt="miniatura"/></p><p>We wtorkowy wieczór, 2 grudnia w powiecie piotrkowskim doszło do groźnego zdarzenia. Około godz. 21:00 na 345 km DK12, zderzyły się dwa pojazdy. Na miejsce ruszyły wszystkie służby. Poznaliśmy pierwsze ustalenia policji w sprawie tego wypadku.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0852436d-08c9-40a4-b878-5687a9062bf2"/>
 </item>
 </channel></rss>
