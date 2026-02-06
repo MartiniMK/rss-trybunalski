@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Feb 2026 10:04:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 11:01:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Padła duża wygrana w naszym mieście. Dobra passa w Lotto trwa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-duza-wygrana-w-naszym-miescie-dobra-passa-w-lotto-trwa/yf4lq5oZ57IQl8YyVkFt</link>
+<guid isPermaLink="false">2d13ea5ce87a4b3edb2c3e54cd4dcc262cce1e81</guid>
+<pubDate>Fri, 06 Feb 2026 11:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af64fd97-8bbe-4ecc-a848-5d15575254f9" alt="miniatura"/></p><p>4 lutego informowaliśmy o pierwszej wygranej w Lotto, która padła w naszym mieście. Ktoś wzbogacił się o sześciocyfrową kwotę. Z kolei 5 lutego na „mapie szczęścia” Lotto pojawiła się kolejna pinezka w naszym mieście. Ile tym razem udało się wygrać?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af64fd97-8bbe-4ecc-a848-5d15575254f9" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af64fd97-8bbe-4ecc-a848-5d15575254f9" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/af64fd97-8bbe-4ecc-a848-5d15575254f9"/>
+</item>
 <item>
 <title><![CDATA[ Kultowa kawiarnia na Rynku Trybunalskim. Dlaczego nosiła nazwę "Pod Ormianinem"? [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kultowa-kawiarnia-na-rynku-trybunalskim/qeZPvdODMMWw7FQLlLMm</link>
@@ -843,7 +853,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>TrikEvent kwiaciarnia – kwiaty z sercem</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Padła duża wygrana w Piotrkowie.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -933,7 +943,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>TrikEvent kwiaciarnia – kwiaty z sercem</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Padła duża wygrana w Piotrkowie.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -2689,16 +2699,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -2707,6 +2707,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3267,15 +3277,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c21093bc-b89b-4bf2-a6ed-c12fc219044a" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c21093bc-b89b-4bf2-a6ed-c12fc219044a" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c21093bc-b89b-4bf2-a6ed-c12fc219044a"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków: Wymusiła pierwszeństwo, doszło do wypadku i kolizji. Ranna jedna osoba ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkow-wymusila-pierwszenstwo-doszlo-do-wypadku-i-kolizji-ranna-jedna-osoba/MbJIc4XyroCt8AeF8m5T</link>
-<guid isPermaLink="false">42f8e3e0ee7ed82c467f47fa3e9655e5a2ba14be</guid>
-<pubDate>Fri, 05 Dec 2025 11:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" alt="miniatura"/></p><p>Do wypadku doszło w czwartek, 4 grudnia około godz. 17:00. na ul. Wojska Polskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c27dfd4f-86ba-447f-a32c-dec09f9c04af"/>
 </item>
 </channel></rss>
