@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Feb 2026 11:49:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 13:28:07 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ To najzdrowsze miasta w Polsce. Które miejsce zajął Piotrków? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-najzdrowsze-miasta-w-polsce-ktore-miejsce-zajal-piotrkow/G8UvfIJiZTH4JeVZeEG7</link>
+<guid isPermaLink="false">e3b7528d8a7bf88a31ab3d33641969dc75cec70c</guid>
+<pubDate>Fri, 06 Feb 2026 13:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/08272828-f0a9-4211-9926-42ad7827ee22" alt="miniatura"/></p><p>Gdzie w Polsce żyje się najlepiej? To kwestie subiektywne i pewnie nie ma jednej prawidłowej odpowiedzi na to pytanie. Dla zainteresowanych jednak pomocne mogą być rankingi i badania, w których specjaliści sprawdzają warunki życia w poszczególnych miastach na podstawie danych liczbowych. Jednym z takich zestawień jest Indeks Zdrowych Miast, w którym znajdziemy też Piotrków Trybunalski. Jak wypadło…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/08272828-f0a9-4211-9926-42ad7827ee22" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/08272828-f0a9-4211-9926-42ad7827ee22" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/08272828-f0a9-4211-9926-42ad7827ee22"/>
+</item>
 <item>
 <title><![CDATA[ Padła duża wygrana w naszym mieście. Dobra passa w Lotto trwa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/padla-duza-wygrana-w-naszym-miescie-dobra-passa-w-lotto-trwa/yf4lq5oZ57IQl8YyVkFt</link>
@@ -853,7 +863,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Zmiany w terminach wypłat dla pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>To najzdrowsze miasta w Polsce.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -943,7 +953,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Zmiany w terminach wypłat dla pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>To najzdrowsze miasta w Polsce.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce4f99c9-8df7-496c-8caf-df3bff5e0b85" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce4f99c9-8df7-496c-8caf-df3bff5e0b85" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ce4f99c9-8df7-496c-8caf-df3bff5e0b85"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy Piotrkowa ostrzegają. Wandalizm, przekraczanie prędkości i alkohol ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ostrzegaja-wandalizm-przekraczanie-predkosci-i-alkohol/mHofVpk3dDCrF0j66OgJ</link>
-<guid isPermaLink="false">1df4100364880179efc115d75c3552631dccc75c</guid>
-<pubDate>Fri, 05 Dec 2025 12:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa korzystają z Krajowej Mapy Zagrożeń Bezpieczeństwa i oznaczają na niej nieprawidłowości, jakie napotykają w mieście. Ten system pozwala na łatwiejszy kontakt ze służbami odpowiedzialnymi za bezpieczeństwo. Swoim zasięgiem obejmuje całą Polskę i dostępny jest na stronie internetowej policji. Dzięki tej mapie obywatele mogą łatwo i anonimowo zgłaszać sytuacje, które uznają za ni…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6cbb9ff4-3c1d-4308-a40b-8d5c718139cc"/>
 </item>
 </channel></rss>
