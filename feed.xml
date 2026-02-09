@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 09 Feb 2026 15:11:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 17:18:32 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Prawdziwe „morze gwiazd” w Łódzkiem. Strażacy z naszego powiatu również w akcji ]]></title>
