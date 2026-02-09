@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 09 Feb 2026 17:18:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 19:36:33 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowski regionalista prowadził aptekę. To jemu Piotrkowianie zawdzięczają muzeum i bibliotekę [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowski-regionalista-prowadzil-apteke-to-jemu-piotrkowianie-zawdzieczaja-muzeum-i-biblioteke-zdjecia/7HTVaeZXmZFLgea0VxDF</link>
+<guid isPermaLink="false">a9f5cecde44e16f11dca7a0dd2ef426aa4a5dd4f</guid>
+<pubDate>Mon, 09 Feb 2026 18:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" alt="miniatura"/></p><p>Opisywał region piotrkowski i sam Piotrków Trybunalski. Był wśród założycieli piotrkowskiego oddziału Polskiego Towarzystwa Krajoznawczego. Michał Rawita-Witanowski, choć urodzony w Częstochowie, to kojarzony jest z Piotrkowem, gdzie przez wiele lat mieszkał i gdzie dał się poznać jako działacz i autor przewodników.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e"/>
+</item>
 <item>
 <title><![CDATA[ Prawdziwe „morze gwiazd” w Łódzkiem. Strażacy z naszego powiatu również w akcji ]]></title>
 <link>https://trybunalski.pl/wiadomosci/prawdziwe-morze-gwiazd-w-lodzkiem-strazacy-z-naszego-powiatu-rowniez-w-akcji/OmYf4mxvfociNr0c2To7</link>
@@ -993,7 +1003,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Prawdziwe „morze gwiazd” w Łódzkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Piotrkowski regionalista prowadził aptekę w Rynku.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1083,7 +1093,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Prawdziwe „morze gwiazd” w Łódzkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Piotrkowski regionalista prowadził aptekę w Rynku.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -1409,16 +1419,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -1427,6 +1427,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f51ffad-61d6-461f-913e-140a15699adf" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f51ffad-61d6-461f-913e-140a15699adf" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1f51ffad-61d6-461f-913e-140a15699adf"/>
-</item>
-<item>
-<title><![CDATA[ Sąd w Piotrkowie prowadzi rekrutacje. Zarobki nawet powyżej 7 tysięcy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sad-w-piotrkowie-prowadzi-rekrutacje-zarobki-nawet-powyzej-7-tysiecy/peRUCUaPRwNxefmLjESF</link>
-<guid isPermaLink="false">4c8ed81b521fc1333b7691d63abafb93eb8e49a1</guid>
-<pubDate>Mon, 08 Dec 2025 10:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/95f403f6-5db3-4486-9729-2c1fac91a8cb" alt="miniatura"/></p><p>Na oficjalnej stronie piotrkowskiego sądu okręgowego pojawiły się nowe oferty pracy. Sąd prowadzi konkursy na stanowisko stażysty, który docelowo będzie sprawował funkcję sekretarza sądowego, archiwisty oraz specjalistów w zakresie psychologii. Sprawdź, jakie wymagania stawiane są kandydatom i co oferuje pracodawca.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/95f403f6-5db3-4486-9729-2c1fac91a8cb" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/95f403f6-5db3-4486-9729-2c1fac91a8cb" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/95f403f6-5db3-4486-9729-2c1fac91a8cb"/>
 </item>
 </channel></rss>
