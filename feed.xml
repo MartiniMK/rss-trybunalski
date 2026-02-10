@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 10 Feb 2026 11:13:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 13:52:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Utrudnienia w Piotrkowie potrwają dłużej. Pogoda pokrzyżowała plany ]]></title>
+<link>https://trybunalski.pl/wiadomosci/utrudnienia-w-piotrkowie-potrwaja-dluzej-pogoda-pokrzyzowala-plany/VuvQf8Prwe0LjY5ajYAC</link>
+<guid isPermaLink="false">414b842d87fe8c4c9c7c0a68b3e7985db45567ea</guid>
+<pubDate>Tue, 10 Feb 2026 14:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/034403b7-e41e-46fb-a1a1-6ffaf7a99a55" alt="miniatura"/></p><p>W czwartek, 29 stycznia wprowadzona została tymczasowa organizacja ruchu w naszym mieście. Zamknięto przejazd kolejowo-drogowy w ciągu ulicy Granicznej. Utrudnienia są związane z robotami budowlanymi na linii kolejowej nr 1 Koluszki – Częstochowa. Przypomnijmy, że prace remontowe rozpoczęły się we wrześniu na 21 stacjach i przystankach. Układane są tam nowe płyty peronowe, dostosowane do prędkości…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/034403b7-e41e-46fb-a1a1-6ffaf7a99a55" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/034403b7-e41e-46fb-a1a1-6ffaf7a99a55" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/034403b7-e41e-46fb-a1a1-6ffaf7a99a55"/>
+</item>
+<item>
+<title><![CDATA[ Jest praca u łódzkiego przewoźnika. To ostatnie dni na zgłoszenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jest-praca-u-lodzkiego-przewoznika-to-ostatnie-dni-na-zgloszenia/BX1DwMk2x4sK8P1ObBuG</link>
+<guid isPermaLink="false">095ad7f4d2a097d5da96ae1758802dbc249c90c5</guid>
+<pubDate>Tue, 10 Feb 2026 14:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9225d01-1484-4120-bef6-cebe6ec54e2a" alt="miniatura"/></p><p>Łódzki przewoźnik kolejowy poszukuje pracowników. Ogłoszenia dotyczą trzech stanowisk, a na przesłanie CV zostały ostatnie dni. Sprawdzamy, jakie wymagania muszą spełniać kandydaci i co oferuje Łódzka Kolej Aglomeracyjna swoim pracownikom.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9225d01-1484-4120-bef6-cebe6ec54e2a" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9225d01-1484-4120-bef6-cebe6ec54e2a" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9225d01-1484-4120-bef6-cebe6ec54e2a"/>
+</item>
+<item>
+<title><![CDATA[ Likwidacja szkoły coraz bliżej? Do „zerówki” nie przyszło żadne dziecko ]]></title>
+<link>https://trybunalski.pl/wiadomosci/likwidacja-szkoly-coraz-blizej-do-zerowki-nie-przyszlo-zadne-dziecko/c9hDp9Kqt71GpBRNp3xg</link>
+<guid isPermaLink="false">0492bad153e66d1faef8331e93594d23caec3350</guid>
+<pubDate>Tue, 10 Feb 2026 12:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/931f15e6-8b9d-4628-8403-136a6f17d9ce" alt="miniatura"/></p><p>Podczas grudniowej sesji Rady Gminy Wola Krzysztoporska przyjęto uchwałę w sprawie zamiaru likwidacji Szkoły Podstawowej w Bogdanowie. Powodem ma być demografia. Teraz gmina czeka na opinię łódzkiego kuratora oświaty.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/931f15e6-8b9d-4628-8403-136a6f17d9ce" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/931f15e6-8b9d-4628-8403-136a6f17d9ce" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/931f15e6-8b9d-4628-8403-136a6f17d9ce"/>
+</item>
 <item>
 <title><![CDATA[ Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ktorzy-odeszli-w-ostatnim-czasie-nekrologi/WH441mxDcNflXIoOOw2G</link>
@@ -33,10 +63,10 @@
 <link>https://trybunalski.pl/wiadomosci/piotrkowski-regionalista-prowadzil-apteke-to-jemu-piotrkowianie-zawdzieczaja-muzeum-i-biblioteke-zdjecia/7HTVaeZXmZFLgea0VxDF</link>
 <guid isPermaLink="false">a9f5cecde44e16f11dca7a0dd2ef426aa4a5dd4f</guid>
 <pubDate>Mon, 09 Feb 2026 18:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" alt="miniatura"/></p><p>Opisywał region piotrkowski i sam Piotrków Trybunalski. Był wśród założycieli piotrkowskiego oddziału Polskiego Towarzystwa Krajoznawczego. Michał Rawita-Witanowski, choć urodzony w Częstochowie, to kojarzony jest z Piotrkowem, gdzie przez wiele lat mieszkał i gdzie dał się poznać jako działacz i autor przewodników.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9121a8e9-2036-49df-9fff-40d0ac08b05e"/>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8774c815-c6ea-4bee-87d5-ad4f5cbf86c9" alt="miniatura"/></p><p>Opisywał region piotrkowski i sam Piotrków Trybunalski. Był wśród założycieli piotrkowskiego oddziału Polskiego Towarzystwa Krajoznawczego. Michał Rawita-Witanowski, choć urodzony w Częstochowie, to kojarzony jest z Piotrkowem, gdzie przez wiele lat mieszkał i gdzie dał się poznać jako działacz i autor przewodników.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8774c815-c6ea-4bee-87d5-ad4f5cbf86c9" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8774c815-c6ea-4bee-87d5-ad4f5cbf86c9" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8774c815-c6ea-4bee-87d5-ad4f5cbf86c9"/>
 </item>
 <item>
 <title><![CDATA[ Prawdziwe „morze gwiazd” w Łódzkiem. Strażacy z naszego powiatu również w akcji ]]></title>
@@ -193,10 +223,10 @@
 <link>https://trybunalski.pl/wiadomosci/kultowa-kawiarnia-na-rynku-trybunalskim/qeZPvdODMMWw7FQLlLMm</link>
 <guid isPermaLink="false">7e04131b0ba5b1cfa769619a92a3bf562417d5d2</guid>
 <pubDate>Thu, 05 Feb 2026 18:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ebf4b0a2-a2ac-4658-8009-771c9be8646b" alt="miniatura"/></p><p>Kamienica pod adresem Rynek Trybunalski 9 w Piotrkowie Trybunalskim to tak zwana kamienica Dutkiewiczowska. Pochodzi XVIII wieku. To okres w dziejach Piotrkowa, gdy Ormianie w Piotrkowie posiadali nieruchomości, jak również pełnili ważne funkcje w samorządzie miejskim. Mieli także wpływ na życie gospodarcze i kulturalne Piotrkowa.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ebf4b0a2-a2ac-4658-8009-771c9be8646b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ebf4b0a2-a2ac-4658-8009-771c9be8646b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ebf4b0a2-a2ac-4658-8009-771c9be8646b"/>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8fcf7810-1298-483d-98d5-829f0dd32aaa" alt="miniatura"/></p><p>Kamienica pod adresem Rynek Trybunalski 9 w Piotrkowie Trybunalskim to tak zwana kamienica Dutkiewiczowska. Pochodzi XVIII wieku. To okres w dziejach Piotrkowa, gdy Ormianie w Piotrkowie posiadali nieruchomości, jak również pełnili ważne funkcje w samorządzie miejskim. Mieli także wpływ na życie gospodarcze i kulturalne Piotrkowa.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8fcf7810-1298-483d-98d5-829f0dd32aaa" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8fcf7810-1298-483d-98d5-829f0dd32aaa" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8fcf7810-1298-483d-98d5-829f0dd32aaa"/>
 </item>
 <item>
 <title><![CDATA[ Pomysły na ferie zimowe w Łódzkiem. To tylko 30 km od Piotrkowa [ZDJĘCIA] ]]></title>
@@ -253,10 +283,10 @@
 <link>https://trybunalski.pl/wiadomosci/zimowe-zabawy-w-czasach-prl-u-jak-spedzano-ferie-zimowe-kilkadziesiat-lat-temu-zdjecia/cfWWJRs49HMzVPAkbSx2</link>
 <guid isPermaLink="false">f00b239fc9c23edf03558f78c4291e403c767d4b</guid>
 <pubDate>Wed, 04 Feb 2026 18:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/311606de-e95f-42e2-b8f6-3f9fa12f637c" alt="miniatura"/></p><p>Zimowe wyjazdy do kurortów nie były popularne i nie każdy mógł sobie na nie pozwolić. Zimowiska, bo tak nazywano feryjne kolonie, były organizowane i dofinansowywane przez zakłady pracy dla dzieci pracowników. Wyjazdy rodzinne należały do rzadkości.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/311606de-e95f-42e2-b8f6-3f9fa12f637c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/311606de-e95f-42e2-b8f6-3f9fa12f637c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/311606de-e95f-42e2-b8f6-3f9fa12f637c"/>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/efcf84c4-0d7e-4dcc-a535-9b5f98958f60" alt="miniatura"/></p><p>Zimowe wyjazdy do kurortów nie były popularne i nie każdy mógł sobie na nie pozwolić. Zimowiska, bo tak nazywano feryjne kolonie, były organizowane i dofinansowywane przez zakłady pracy dla dzieci pracowników. Wyjazdy rodzinne należały do rzadkości.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/efcf84c4-0d7e-4dcc-a535-9b5f98958f60" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/efcf84c4-0d7e-4dcc-a535-9b5f98958f60" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/efcf84c4-0d7e-4dcc-a535-9b5f98958f60"/>
 </item>
 <item>
 <title><![CDATA[ To ostatnia okazja dla Piotrkowian. Urząd podał datę ]]></title>
@@ -1023,7 +1053,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI]</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Utrudnienia w Piotrkowie potrwają dłużej.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1113,7 +1143,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI]</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Utrudnienia w Piotrkowie potrwają dłużej.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -3267,25 +3297,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7d86f284-ec88-4420-9f29-f7b965c6e22b"/>
-</item>
-<item>
-<title><![CDATA[ Klamka zapadła. Kontrowersyjny program w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/klamka-zapadla-kontrowersyjny-program-w-piotrkowie/oFJbksw2DHiqXXknfi7g</link>
-<guid isPermaLink="false">0419b450366f3602c46ebc183ac24fcb03ecd75d</guid>
-<pubDate>Mon, 08 Dec 2025 12:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79da1197-873c-4adb-8a21-6b6c304aac92" alt="miniatura"/></p><p>Pracownicy piotrkowskich instytucji wezmą udział w pilotażu prowadzonym przez Ministerstwo Rodziny, Pracy i Polityki Społecznej. Program przewiduje skrócony tydzień pracy, dłuższe urlopy i to przy zachowaniu pełnego wynagrodzenia. Przypomnijmy, że w środę, 15 października ministerstwo opublikowało listę pracodawców, którzy zgłosili się do udziału w pilotażu. Wnioski złożyły 1994 przedsiębiorstwa i…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79da1197-873c-4adb-8a21-6b6c304aac92" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79da1197-873c-4adb-8a21-6b6c304aac92" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79da1197-873c-4adb-8a21-6b6c304aac92"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie rozdadzą choinki za darmo! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-rozdadza-choinki-za-darmo/ICbF3UEhkqTJ41FNWPlV</link>
-<guid isPermaLink="false">76de29818070ea6bb8abebc97b31eca9792e6f94</guid>
-<pubDate>Mon, 08 Dec 2025 12:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" alt="miniatura"/></p><p>W poniedziałek, 8 grudnia na Rynek Starego Miasta w Piotrkowie Trybunalskim zawita świąteczny konwój RMF FM. Charakterystyczne żółto-niebieskie wozy pojawią się w mieście o godzinie 16:00, a wraz z nimi Mikołaj, mobilne studio oraz mnóstwo świątecznych atrakcji.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/c3fc791d-ea52-49d6-8d57-967d1bbfb177"/>
 </item>
 </channel></rss>
