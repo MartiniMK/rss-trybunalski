@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 11 Feb 2026 09:08:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Feb 2026 10:15:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Jedna osoba zginęła, 26 zostało rannych. Akcja policji na drogach w Łódzkiem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jedna-osoba-zginela-26-zostalo-rannych-akcja-policji-na-drogach-w-lodzkiem/Ismy33efUFmvXYWBcWUX</link>
+<guid isPermaLink="false">eec0435a6cb14c4d95e4c69a232c6e436de01ded</guid>
+<pubDate>Wed, 11 Feb 2026 10:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/77df7a93-6f6d-43d5-8b4a-36aa4b2290ff" alt="miniatura"/></p><p>Za nami pierwszy tydzień ferii, a policjanci podsumowali jak przebiegł na wojewódzkich drogach. Niestety, nie obyło się bez wypadków, a jedna osoba straciła życie. Ponadto wykryto nietrzeźwych kierowców. Mundurowi przypominają, jak ważna jest rozwaga i odpowiedzialność, gdy decydujemy się wsiąść za kierownicę.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/77df7a93-6f6d-43d5-8b4a-36aa4b2290ff" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/77df7a93-6f6d-43d5-8b4a-36aa4b2290ff" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/77df7a93-6f6d-43d5-8b4a-36aa4b2290ff"/>
+</item>
 <item>
 <title><![CDATA[ 150 nielegalnych przesyłek w Łódzkiem. Służby ustalą dane właścicieli ]]></title>
 <link>https://trybunalski.pl/wiadomosci/150-nielegalnych-przesylek-w-lodzkiem-sluzby-ustala-dane-wlascicieli/BbBBQlYZpRVpzmXAEYw7</link>
@@ -1103,7 +1113,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Metallica na trasie pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Jedna osoba zginęła, 26 zostało rannych.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1193,7 +1203,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Metallica na trasie pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Jedna osoba zginęła, 26 zostało rannych.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -2949,16 +2959,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b7ee9706-35ee-40bc-8c91-4200eec30283"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -2967,6 +2967,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5b14433c-2a1c-426d-bd2b-5561ee109908"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e66466c0-c9f7-44d2-b4f7-1bc09d533db5"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3307,15 +3317,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/784e64c8-66ca-48f5-b9b3-d3619c2fffad" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/784e64c8-66ca-48f5-b9b3-d3619c2fffad" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/784e64c8-66ca-48f5-b9b3-d3619c2fffad"/>
-</item>
-<item>
-<title><![CDATA[ Sukces piotrkowianek na zawodach we Włoszech. Wróciły z medalami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sukces-piotrkowianek-na-zawodach-we-wloszech-wrocily-z-medalami/lX7PnNXSB3juH0bl8Z1g</link>
-<guid isPermaLink="false">36da3d7eab9b756667c5788c4ea7bebdbc5d1766</guid>
-<pubDate>Tue, 09 Dec 2025 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1c5df1f1-383a-4ffe-b53e-8ea4ce6fa9bf" alt="miniatura"/></p><p>Od 27 do 30 listopada w Bolonii trwały zawody Pole & Aerial World Cup by U.N.A. To jedna z najważniejszych imprez międzynarodowych w dyscyplinach pole sport i aerial hoop. Wśród uczestników z całego świata znalazły się też piotrkowianki. Do miasta wróciły z medalami.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1c5df1f1-383a-4ffe-b53e-8ea4ce6fa9bf" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1c5df1f1-383a-4ffe-b53e-8ea4ce6fa9bf" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1c5df1f1-383a-4ffe-b53e-8ea4ce6fa9bf"/>
 </item>
 </channel></rss>
