@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 12 Feb 2026 11:55:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 13:37:09 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kraksa dwóch osobówek na skrzyżowaniu w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kraksa-dwoch-osobowek-na-skrzyzowaniu-w-piotrkowie/LeIS1apcnRod3N6oiBeF</link>
+<guid isPermaLink="false">ac0f152bdd1fa24f4816c56f1b403f4487ff8f2f</guid>
+<pubDate>Thu, 12 Feb 2026 14:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e3cad671-e960-4a87-af6f-a74788d04e98" alt="miniatura"/></p><p>W środę, 11 lutego około godz. 18:00 na skrzyżowaniu w Piotrkowie doszło do groźnego zdarzenia. Służby otrzymały zgłoszenie, że zderzyły się dwa samochody osobowe.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e3cad671-e960-4a87-af6f-a74788d04e98" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e3cad671-e960-4a87-af6f-a74788d04e98" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e3cad671-e960-4a87-af6f-a74788d04e98"/>
+</item>
+<item>
+<title><![CDATA[ Mogło skończyć się tragicznie. Policjanci z Sulejowa uratowali potrąconego kota ]]></title>
+<link>https://trybunalski.pl/wiadomosci/moglo-skonczyc-sie-tragicznie-policjanci-z-sulejowa-uratowali-potraconego-kota/bjPmUv9aum1zAkGKeyTy</link>
+<guid isPermaLink="false">e9a6f6729782a3a3b7fb770c932b5f524a2905f5</guid>
+<pubDate>Thu, 12 Feb 2026 13:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea5d7213-007a-48ff-a858-212b13580175" alt="miniatura"/></p><p>Policjanci mieli do czynienia z niecodzienną akcją. Na jezdni zauważyli ranne zwierzę. Jak potoczyły się losy czworonoga?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea5d7213-007a-48ff-a858-212b13580175" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea5d7213-007a-48ff-a858-212b13580175" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ea5d7213-007a-48ff-a858-212b13580175"/>
+</item>
+<item>
+<title><![CDATA[ Damian Żurek czwarty na świecie! Cały region dumny z występu łyżwiarza z Tomaszowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/damian-zurek-czwarty-na-swiecie-caly-region-dumny-z-wystepu-lyzwiarza-z-tomaszowa/QnjVjj6JAIcHAMsJ50Hb</link>
+<guid isPermaLink="false">63e779f4ae38bd2f63cf5a88376b5995ea495540</guid>
+<pubDate>Thu, 12 Feb 2026 12:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747" alt="miniatura"/></p><p>Trwają XXV Zimowe Igrzyska Olimpijskie. Gospodarzem tegorocznych zmagań sportowych jest Mediolan oraz Cortina d’Ampezzo. W środę, 11 lutego mogliśmy zobaczyć mieszkańca naszego regionu w akcji podczas tego wydarzenia. Tomaszowianin Damian Żurek walczył o medal na dystansie 1000 metrów w rywalizacji łyżwiarzy szybkich.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków na liście rankingowej. Szykują się zmiany przy szpitalu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-na-liscie-rankingowej-szykuja-sie-zmiany-przy-szpitalu/nXcE60Ydc09cyCoaE7Oy</link>
@@ -1143,7 +1173,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Piotrków na liście rankingowej.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Mogło skończyć się tragicznie.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1233,7 +1263,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Piotrków na liście rankingowej.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Mogło skończyć się tragicznie.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2989,16 +3019,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7e806592-f70a-47d6-a72a-f0c3732240ef"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -3007,6 +3027,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3277,35 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2c43264-0b6e-4263-aba6-4265b0ed0827" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2c43264-0b6e-4263-aba6-4265b0ed0827" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d2c43264-0b6e-4263-aba6-4265b0ed0827"/>
-</item>
-<item>
-<title><![CDATA[ Nowy plac zabaw w Piotrkowie. Wiemy, ile kosztował ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-plac-zabaw-w-piotrkowie-wiemy-ile-kosztowal/UkmO7dIwRQPWV6IRdBoF</link>
-<guid isPermaLink="false">22d7707ace9daf0b0f9c2406f503a282298e66f2</guid>
-<pubDate>Wed, 10 Dec 2025 11:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/652bf072-3764-4565-89c0-659a8f21d7df" alt="miniatura"/></p><p>Nowy plac zabaw w Przedszkolu Samorządowym nr 8 to nie kolejna inwestycja z inicjatywy piotrkowskiego magistratu, a realizacja projektu mieszkańców. To właśnie piotrkowianie zdecydowali, że w ramach tegorocznego budżetu obywatelskiego swój głos oddadzą m.in. na projekt placu zabaw.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/652bf072-3764-4565-89c0-659a8f21d7df" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/652bf072-3764-4565-89c0-659a8f21d7df" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/652bf072-3764-4565-89c0-659a8f21d7df"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ktorzy-odeszli-w-ostatnim-czasie-nekrologi/NVOarbl3O2Sa9o0ZeYr0</link>
-<guid isPermaLink="false">fa786786fbabb31d3266632e80a054a32bd8952c</guid>
-<pubDate>Wed, 10 Dec 2025 09:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/96058268-4cd9-48ff-a61c-df649e45459a" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 10 grudnia 2025 roku o godz. 11:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/96058268-4cd9-48ff-a61c-df649e45459a" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/96058268-4cd9-48ff-a61c-df649e45459a" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/96058268-4cd9-48ff-a61c-df649e45459a"/>
-</item>
-<item>
-<title><![CDATA[ Z pacjentami pracuje od 50 lat. Można go "spotkać" w szpitalu w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-pacjentami-pracuje-od-50-lat-mozna-go-spotkac-w-szpitalu-w-piotrkowie/5PAt57jvUtfUSDQMY7ap</link>
-<guid isPermaLink="false">2c37977220a57bbccf5048afef59f2c9ee7a82b4</guid>
-<pubDate>Tue, 09 Dec 2025 18:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/23cc0868-7ca1-4c6e-912b-657c4e775660" alt="miniatura"/></p><p>W poniedziałek, 8 grudnia w Samodzielnym Szpitalu Wojewódzkim im. Mikołaja Kopernika w Piotrkowie Trybunalskim pracownicy świętowali 50-lecie pracy zawodowej dr. Zbigniewa Kococika.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/23cc0868-7ca1-4c6e-912b-657c4e775660" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/23cc0868-7ca1-4c6e-912b-657c4e775660" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/23cc0868-7ca1-4c6e-912b-657c4e775660"/>
 </item>
 </channel></rss>
