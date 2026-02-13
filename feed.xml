@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Feb 2026 09:03:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 10:05:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ „Farma” powraca na ekrany. Tu po zwycięstwo sięgnęła mieszkanka powiatu piotrkowskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/farma-powraca-na-ekrany-tu-po-zwyciestwo-siegnela-mieszkanka-powiatu-piotrkowskiego/wOIGP53nYEgvrAWauCpr</link>
+<guid isPermaLink="false">0815e44ecf4fcde90486315cb882ed3af433fa57</guid>
+<pubDate>Fri, 13 Feb 2026 10:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" alt="miniatura"/></p><p>Lada moment rusza 5. sezon popularnego telewizyjnego show pt. Farma. Uczestnicy zmagają się z codziennym, wiejskim życiem. Program to dla wielu wyjście ze swojej strefy komfortu i pokonywanie swoich słabości. Stawką w reality show jest oczywiście tytuł Farmera Roku, pieniądze i Złote Widły. W tej odsłonie show wprowadzono jednak kilka zmian.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc"/>
+</item>
 <item>
 <title><![CDATA[ Dziś piątek, 13-go. Według przesądów tego lepiej dziś nie robić! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dzis-piatek-13-go-wedlug-przesadow-tego-lepiej-dzis-nie-robic/LpQnJ5Be7f3Tmy6gdfiq</link>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a"/>
-</item>
-<item>
-<title><![CDATA[ Choinka w Piotrkowie za darmo, ale… Poleje się krew ]]></title>
-<link>https://trybunalski.pl/wiadomosci/choinka-w-piotrkowie-za-darmo-ale-poleje-sie-krew/ErTmU0iDNMy3ytrlw45a</link>
-<guid isPermaLink="false">57fa5f2940527f056da7e5f26a460342e16f35df</guid>
-<pubDate>Wed, 10 Dec 2025 13:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de71d988-24d0-4abc-b444-ff93b1bfcfb0" alt="miniatura"/></p><p>W okresie świątecznym jednym z najważniejszych elementów jest choinka. Niektórzy decydują się na sztuczną, dla innych jedynym słusznym wyborem jest ta żywa i pachnąca lasem. Lasy Państwowe i Regionalne Centrum Krwiodawstwa i Krwiolecznictwa zachęcają do włączenia się do akcji „Drzewko za życie”. Podczas wydarzenia chętne osoby będą mogły oddać krew, a w zamian otrzymają choinkę.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de71d988-24d0-4abc-b444-ff93b1bfcfb0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de71d988-24d0-4abc-b444-ff93b1bfcfb0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de71d988-24d0-4abc-b444-ff93b1bfcfb0"/>
 </item>
 </channel></rss>
