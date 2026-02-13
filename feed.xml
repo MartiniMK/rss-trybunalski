@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Feb 2026 10:05:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 11:02:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nie żyje zasłużona mieszkanka powiatu piotrkowskiego. Znamy datę pogrzebu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-zyje-zasluzona-mieszkanka-powiatu-piotrkowskiego-znamy-date-pogrzebu/HzkRi0InfPUA59GuNYwD</link>
+<guid isPermaLink="false">8076f0abda38d5821c832253e644db23b85b8da8</guid>
+<pubDate>Fri, 13 Feb 2026 11:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85" alt="miniatura"/></p><p>Jako pedagog z ogromnym zaangażowaniem przekazywała wiedzę kolejnym pokoleniom wolborzan. Jej wychowankowie do dziś podkreślają, że praca z młodzieżą była dla niej nie tylko zawodem, ale przede wszystkim życiową misją. Od początku swojej kariery zawodowej związana była z wolborską oświatą i działalnością społeczną – prowadziła drużynę harcerską oraz koło PTTK „Łazęgi”, rozbudzając w młodych ludzia…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85"/>
+</item>
 <item>
 <title><![CDATA[ „Farma” powraca na ekrany. Tu po zwycięstwo sięgnęła mieszkanka powiatu piotrkowskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/farma-powraca-na-ekrany-tu-po-zwyciestwo-siegnela-mieszkanka-powiatu-piotrkowskiego/wOIGP53nYEgvrAWauCpr</link>
@@ -1213,7 +1223,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wielka inwestycja w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nie żyje zasłużona mieszkanka powiatu piotrkowskiego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1303,7 +1313,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wielka inwestycja w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nie żyje zasłużona mieszkanka powiatu piotrkowskiego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Podział punktów w Piotrkowie Trybunalskim! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-podzial-punktow-w-piotrkowie-trybunalskim/JHwoCcxFMRuK47NHz7dz</link>
-<guid isPermaLink="false">75802d3a7045da8ecaf5dffbc8a9202e8121b1e3</guid>
-<pubDate>Wed, 10 Dec 2025 20:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a" alt="miniatura"/></p><p>Przed środową konfrontacją Piotrkowianin zajmował jedenastce miejsce w tabeli i mógł „pochwalić się” dorobkiem 9 punktów, czyli o sześć oczek większym od rywala z Zagłębia Miedziowego. Trzeba jednak pamiętać, że jedenaste miejsce w tabeli na koniec rozgrywek oznaczać będzie konieczność gry w barażach z wicemistrzem Ligi Centralnej o pozostanie w krajowej elicie szczypiornistów. W związku z tym cel…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/d8dc4609-f967-43e9-ace6-eb597036ff4a"/>
 </item>
 </channel></rss>
