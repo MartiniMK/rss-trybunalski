@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Feb 2026 19:12:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 21:00:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła fazę zasadniczą w Koszalinie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-zakonczyla-faze-zasadnicza-w-koszalinie/uOsRptuhgMqwVBIP5KyU</link>
+<guid isPermaLink="false">795249b24bd0432b81a500eb5b890051f9b17f9b</guid>
+<pubDate>Fri, 13 Feb 2026 21:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" alt="miniatura"/></p><p>Piotrkowianki do piątkowej konfrontacji w Koszalinie przystępowały w doskonałych nastrojach, bo po okresie słabszej gry dwukrotnie ograły będącą na fali Sośnicę Gliwice. Najpierw po rzutach karnych, w meczu którego stawką był awans do ćwierćfinału Pucharu Polski, a kilka dni później już w starciu o ligowe punkty różnicą aż dziewięciu trafień, czego nie spodziewali się nawet najwięksi optymiści w n…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545"/>
+</item>
 <item>
 <title><![CDATA[ To miejsce w Piotrkowie zmieni się do 2029 r. Miasto szuka wykonawcy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-miejsce-w-piotrkowie-zmieni-sie-do-2029-r-miasto-szuka-wykonawcy/0iWMfHmu3Gg4MW3AtsJV</link>
@@ -3099,16 +3109,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7e806592-f70a-47d6-a72a-f0c3732240ef"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -3117,6 +3117,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712"/>
-</item>
-<item>
-<title><![CDATA[ Czołówka niedaleko Piotrkowa. Na miejscu służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/czolowka-niedaleko-piotrkowa-na-miejscu-sluzby/wV8ZkkLgFbW5E5ccX93M</link>
-<guid isPermaLink="false">23f9f1e58463d2eab17ffe3e9c82fca5bb39f268</guid>
-<pubDate>Thu, 11 Dec 2025 13:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c" alt="miniatura"/></p><p>W czwartek, 11 grudnia około godziny 12:00 na DK12 w Przygłowie doszło do wypadku. Jak przekazują służby pracujące na miejscu, ze wstępnych ustaleń wynika, że czołowo zderzyły się tam dwa pojazdy. Do akcji wkroczyli strażacy, policjanci, a także zespół ratownictwa medycznego. Ruch w tym miejscu odbywa się wahadłowo.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c"/>
 </item>
 </channel></rss>
