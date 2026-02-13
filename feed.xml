@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Feb 2026 13:29:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 15:00:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ To miejsce w Piotrkowie zmieni się do 2029 r. Miasto szuka wykonawcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-miejsce-w-piotrkowie-zmieni-sie-do-2029-r-miasto-szuka-wykonawcy/0iWMfHmu3Gg4MW3AtsJV</link>
+<guid isPermaLink="false">31d83ff838877ed49833257189683b3064be6c56</guid>
+<pubDate>Fri, 13 Feb 2026 15:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/88cc06d3-4189-4233-8ad8-acdc1d662afb" alt="miniatura"/></p><p>Na początku 2025 roku informowaliśmy o planach, których realizacja ma zwiększyć turystyczną atrakcyjność Piotrkowa. Chodzi o projekty w ramach strategii Zintegrowanych Inwestycji Terytorialnych-Miejskiego Obszaru Funkcjonalnego Radomsko-Piotrków Trybunalski-Bełchatów 2030. Inicjatywa ta łączy Piotrków Trybunalski, Bełchatów, Radomsko, gminy: Czarnocin, Gorzkowice, Grabica, Moszczenica, Rozprza, Su…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/88cc06d3-4189-4233-8ad8-acdc1d662afb" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/88cc06d3-4189-4233-8ad8-acdc1d662afb" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/88cc06d3-4189-4233-8ad8-acdc1d662afb"/>
+</item>
 <item>
 <title><![CDATA[ Zaginęła 15-letnia Julia. Tomaszowska policja prosi o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-15-letnia-julia-tomaszowska-policja-prosi-o-pomoc/ALaWPMvFOhbDYdlFKFNG</link>
@@ -1659,16 +1669,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -1677,6 +1677,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3089,16 +3099,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7e806592-f70a-47d6-a72a-f0c3732240ef"/>
 </item>
 <item>
-<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
-<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
-</item>
-<item>
 <title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
 <guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
@@ -3107,6 +3107,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
+</item>
+<item>
+<title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
+<guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" alt="miniatura"/></p><p>Do rozboju doszło 10 grudnia w poczekalni dworca PKP w Piotrkowie. Trzech agresorów zaatakowało 43-letniego mieszkańca Warszawy, który czekał na pociąg do stolicy. Swojej ofierze grozili, że jeśli nie odda rzeczy, pozbawią ją życia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/89cc30d9-641a-4d8c-9d75-e0aaf76ec40c"/>
-</item>
-<item>
-<title><![CDATA[ Jarmark Bożonarodzeniowy w Piotrkowie. Lokalne produkty, występy i atrakcje [PROGRAM] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jarmark-bozonarodzeniowy-w-piotrkowie-lokalne-produkty-wystepy-i-atrakcje-program/XU1SgAP4t4KeBiQHGKkC</link>
-<guid isPermaLink="false">5afbb4d06ba8b351f7c405a8d50d9c63441aff39</guid>
-<pubDate>Thu, 11 Dec 2025 10:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3" alt="miniatura"/></p><p>Przygotowania do świąt Bożego Narodzenia już ruszyły, a wraz z nimi grudniowe wydarzenia. To czas obfitujący w jasełka, wspólne kolędowanie czy jarmarki. Atrakcji można spodziewać się także w Piotrkowie.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3"/>
 </item>
 </channel></rss>
