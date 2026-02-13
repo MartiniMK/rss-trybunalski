@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Feb 2026 11:46:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 13:29:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zaginęła 15-letnia Julia. Tomaszowska policja prosi o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-15-letnia-julia-tomaszowska-policja-prosi-o-pomoc/ALaWPMvFOhbDYdlFKFNG</link>
+<guid isPermaLink="false">963271f8efe08bd3eddbed54a6eaccd2e4e7a315</guid>
+<pubDate>Fri, 13 Feb 2026 13:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f9dff4db-1dfa-4365-a4a5-ed43c776534c" alt="miniatura"/></p><p>Komenda Powiatowa Policji w Tomaszowie Mazowieckim poinformowała, że zaginęła 15-letnia mieszkanka powiatu tomaszowskiego. W czwartek, 12 lutego Julia ostatni raz nawiązała kontakt telefoniczny z matką. Nie wróciła do miejsca zamieszkania.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f9dff4db-1dfa-4365-a4a5-ed43c776534c" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f9dff4db-1dfa-4365-a4a5-ed43c776534c" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f9dff4db-1dfa-4365-a4a5-ed43c776534c"/>
+</item>
+<item>
+<title><![CDATA[ Zamek w powiecie piotrkowskim wśród najlepszych miejsc na randki. Tutaj na pewno powie „tak” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zamek-w-powiecie-piotrkowskim-wsrod-najlepszych-miejsc-na-randki-tutaj-na-pewno-powie-tak/M7SZEj0aRYl0gYoEPgh2</link>
+<guid isPermaLink="false">c7821fe3f3645cffee08f59f29ea1d8e90f7a634</guid>
+<pubDate>Fri, 13 Feb 2026 13:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a125121-2d60-4498-b867-b216f9d86c32" alt="miniatura"/></p><p>Walentynki to nie tylko upominki i górnolotne wyznania, ale przede wszystkim małe gesty i wspólne spędzanie czasu. W województwie łódzkim można znaleźć romantyczne lokalizacje, do których warto wybrać się w święto zakochanych i nie tylko. Zestawienie 7 najlepszych miejsc na walentynkowy weekend przygotował Urząd Marszałkowski Województwa Łódzkiego. Właśnie w tych miejscach najlepiej wyznać miłość.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a125121-2d60-4498-b867-b216f9d86c32" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a125121-2d60-4498-b867-b216f9d86c32" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6a125121-2d60-4498-b867-b216f9d86c32"/>
+</item>
 <item>
 <title><![CDATA[ Nie żyje zasłużona mieszkanka powiatu piotrkowskiego. Znamy datę pogrzebu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nie-zyje-zasluzona-mieszkanka-powiatu-piotrkowskiego-znamy-date-pogrzebu/HzkRi0InfPUA59GuNYwD</link>
@@ -1223,7 +1243,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nie żyje zasłużona mieszkanka powiatu piotrkowskiego.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Zamek w powiecie piotrkowskim wśród najlepszych miejsc na Walentynki.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1313,7 +1333,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nie żyje zasłużona mieszkanka powiatu piotrkowskiego.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Zamek w powiecie piotrkowskim wśród najlepszych miejsc na Walentynki.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -1639,16 +1659,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -1657,6 +1667,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3069,16 +3089,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7e806592-f70a-47d6-a72a-f0c3732240ef"/>
 </item>
 <item>
-<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
-<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
-<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
-</item>
-<item>
 <title><![CDATA[ Napad na dworcu PKP w Piotrkowie. Trzy osoby zatrzymane ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-na-dworcu-pkp-w-piotrkowie-trzy-osoby-zatrzymane/thkdWzHRCL4MrlnLqM03</link>
 <guid isPermaLink="false">ed587153fbff6a9f7ab578d90317c299ee1e729b</guid>
@@ -3087,6 +3097,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/fe7ab519-85d9-417e-9b8e-31a4ca61be54"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsce na mapie Piotrkowa. Już dostępne dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsce-na-mapie-piotrkowa-juz-dostepne-dla-mieszkancow/rSJQGI1vcX7o51HRZtry</link>
+<guid isPermaLink="false">9130356dfcfd115f7e1f8ab33d34839ea1355b1e</guid>
+<pubDate>Mon, 15 Dec 2025 10:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" alt="miniatura"/></p><p>W piątek, 12 grudnia oficjalnie otwarto nowe miejsce na mapie Piotrkowa. Na zielonym placu przy domu handlowym Merkury powstało wielofunkcyjne boisko. To projekt, który zrealizowano w ramach budżetu obywatelskiego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8485760e-4cbc-412a-8e0a-cf33371f40bd"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy: Droga powiatowa zamknięta od wtorku! Sprawdź, do kiedy utrudnienia ]]></title>
@@ -3287,25 +3307,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/21fd38c5-159a-4a38-9dba-ff8e3b69b5d3"/>
-</item>
-<item>
-<title><![CDATA[ Dachowanie niedaleko Piotrkowa. Na miejscu wszystkie służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dachowanie-niedaleko-piotrkowa-na-miejscu-wszystkie-sluzby/UUO9tjPcHOk01148MN4G</link>
-<guid isPermaLink="false">75aa9d549e71a4417cdf7bf5a7b4a3a9deff2f7d</guid>
-<pubDate>Thu, 11 Dec 2025 10:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3da6b3b4-8fb7-4245-bb78-79fc18da9264" alt="miniatura"/></p><p>W czwartek, 11 grudnia około godz. 8:30 na drodze między Kołem a Piotrkowem Trybunalskim doszło do dachowania pojazdu osobowego.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3da6b3b4-8fb7-4245-bb78-79fc18da9264" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3da6b3b4-8fb7-4245-bb78-79fc18da9264" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3da6b3b4-8fb7-4245-bb78-79fc18da9264"/>
-</item>
-<item>
-<title><![CDATA[ Świąteczny rozkład MZK Piotrków. Zobacz, jakie wprowadzono zmiany ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swiateczny-rozklad-mzk-piotrkow-zobacz-jakie-wprowadzono-zmiany/2dL7Tl1d543wsOozgUlf</link>
-<guid isPermaLink="false">6ff38df75041383b3d002d6c3e8260608027e728</guid>
-<pubDate>Thu, 11 Dec 2025 10:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387" alt="miniatura"/></p><p>Przed samymi świętami, tj. 22 i 23 grudnia autobusy będą kursowały zgodnie z rozkładami w dni nauki szkolnej. Zmiany szykują się już od 24 grudnia, który w tym roku po raz pierwszy jest dniem ustawowo wolnym od pracy.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/98113d74-0e42-42d7-9ae8-2273df5b1387"/>
 </item>
 </channel></rss>
