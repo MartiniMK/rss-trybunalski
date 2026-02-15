@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 15 Feb 2026 13:17:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 14:45:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gorące serca w lodowatej wodzie. Walentynkowe morsowanie w Piotrkowie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gorace-serca-w-lodowatej-wodzie-walentynkowe-morsowanie-w-piotrkowie-zdjecia/aKxBH2nvL98ZQF5HcDld</link>
+<guid isPermaLink="false">0ae33968cf0dbadfb88b2eda0a93b198c0f1dadc</guid>
+<pubDate>Sun, 15 Feb 2026 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" alt="miniatura"/></p><p>Chociaż święto zakochanych przypada 14 lutego, w Piotrkowie Trybunalskim atmosferę tego dnia można było poczuć również dzień później. W niedzielę, 15 lutego, na piotrkowskim Słoneczku zebrały się morsy, którym niskie temperatury niestraszne. Zobacz, jak wyglądało Walentynkowe Morsowanie w Piotrkowie.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin z arcyważnym zwycięstwem we własnej hali! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-z-arcywaznym-zwyciestwem-we-wlasnej-hali/3ZoX0m8Z09DOJpTlzoE0</link>
@@ -1689,16 +1699,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -1707,6 +1707,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3307,15 +3317,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/711e4de0-e3a3-425d-9024-0bd551b5d167" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/711e4de0-e3a3-425d-9024-0bd551b5d167" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/711e4de0-e3a3-425d-9024-0bd551b5d167"/>
-</item>
-<item>
-<title><![CDATA[ Czy stare kino w Piotrkowie odzyska dawny „czar”? Urząd odpowiada ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-stare-kino-w-piotrkowie-odzyska-dawny-czar-urzad-odpowiada/4CJvBk54h9DGR15PGtRb</link>
-<guid isPermaLink="false">6d619a71cb90ef7ae1e91befc8a9b0aeac2bed4c</guid>
-<pubDate>Thu, 11 Dec 2025 16:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712" alt="miniatura"/></p><p>Piotrków Trybunalski to miasto pełne zabytków, a wielu mieszkańców z nostalgią patrzy na budynki i miejsca, których dawna świetność została tylko we wspomnieniach. W sąsiedztwie legendarnej willi Wanda, o której losach pisaliśmy już na łamach naszego portalu, znajduje się niszczejący budynek po starym kinie. Chodzi o „Czary”, niegdyś największy tego typu przybytek w mieście. Wielu piotrkowian wcią…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/de5b3ad7-7c2c-4317-9669-4ebe2ca00712"/>
 </item>
 </channel></rss>
