@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 16 Feb 2026 13:30:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 15:02:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tutaj najtrudniej zdać na prawo jazdy. Nasze miasto w czołówce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tutaj-najtrudniej-zdac-na-prawo-jazdy-nasze-miasto-w-czolowce/ZTdXvU64rmM64FUXAvrN</link>
+<guid isPermaLink="false">7020a3a42401942f075274032d0f875bd830c851</guid>
+<pubDate>Mon, 16 Feb 2026 15:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a232f8cf-79aa-4d81-8e27-f50cda351a0f" alt="miniatura"/></p><p>We wtorek, 10 lutego Wojewódzki Ośrodek Ruchu Drogowego w Łodzi opublikował statystyki za 2025 rok. Jak się okazuje, w całym regionie przeprowadzono ponad 90 tysięcy praktycznych egzaminów na prawo jazdy kategorii B. Chodzi o oddziały w Łodzi, Piotrkowie Trybunalskim, Sieradzu, Skierniewicach i Kutnie. Według łącznych statystyk z wynikiem pozytywnym wyszło tylko 27,5% kursantów. Na czym oblewali i…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a232f8cf-79aa-4d81-8e27-f50cda351a0f" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a232f8cf-79aa-4d81-8e27-f50cda351a0f" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a232f8cf-79aa-4d81-8e27-f50cda351a0f"/>
+</item>
 <item>
 <title><![CDATA[ Pies błąkał się przy jezdni niedaleko Piotrkowa. Udało się zapobiec tragedii ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pies-blakal-sie-przy-jezdni-niedaleko-piotrkowa-udalo-sie-zapobiec-tragedii/P12otxA3V7ptL7dF2jk8</link>
@@ -1353,7 +1363,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Ogień strawił lokal pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Tutaj najtrudniej zdać egzamin na prawo jazdy.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1443,7 +1453,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Ogień strawił lokal pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Tutaj najtrudniej zdać egzamin na prawo jazdy.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/866ef9ab-3a33-44bc-b39c-d0f988a972c2" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/866ef9ab-3a33-44bc-b39c-d0f988a972c2" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/866ef9ab-3a33-44bc-b39c-d0f988a972c2"/>
-</item>
-<item>
-<title><![CDATA[ Te zwierzęta nie doczekają świąt. Zaplanowano polowanie na Wigilię ]]></title>
-<link>https://trybunalski.pl/wiadomosci/te-zwierzeta-nie-doczekaja-swiat-zaplanowano-polowanie-na-wigilie/cXDHWC2MkedYnHkV8Q8G</link>
-<guid isPermaLink="false">3ceff9554f02d17b118503f20b497c37609ff46f</guid>
-<pubDate>Fri, 12 Dec 2025 13:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1" alt="miniatura"/></p><p>Polowanie w Wigilię to ważna tradycja dla myśliwych. Wiele kół łowieckich w Polsce organizuje wigilijne polowanie, wśród nich jest Koło Łowieckie nr 39 Błękitne Źródła.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1"/>
 </item>
 </channel></rss>
