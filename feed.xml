@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 16 Feb 2026 11:57:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 13:30:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pies błąkał się przy jezdni niedaleko Piotrkowa. Udało się zapobiec tragedii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pies-blakal-sie-przy-jezdni-niedaleko-piotrkowa-udalo-sie-zapobiec-tragedii/P12otxA3V7ptL7dF2jk8</link>
+<guid isPermaLink="false">67db659d5ad145ca416ccb19b5d36f2998d35530</guid>
+<pubDate>Mon, 16 Feb 2026 13:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" alt="miniatura"/></p><p>W niedzielę, 15 lutego do sulejowskiego dzielnicowego, sierż. Wojciecha Bartosika zadzwoniła kobieta, która podczas spaceru zauważyła błąkającego się psa. Zwierzę podbiegało do nadjeżdżających samochodów.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8"/>
+</item>
+<item>
+<title><![CDATA[ Ogień strawił lokal pod Piotrkowem. Trwa zbiórka na jego odbudowę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogien-strawil-lokal-pod-piotrkowem-trwa-zbiorka-na-jego-odbudowe/vCsiG69GJIW8YAElrR2X</link>
+<guid isPermaLink="false">ca49130973f1ff72daeebd6183dc7cde6c7fb1ac</guid>
+<pubDate>Mon, 16 Feb 2026 13:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" alt="miniatura"/></p><p>Przympomnijmy. Około godz. 17:00 służby zostały zaalarmowane o pożarze w jednym z lokali gastronomicznych w gminie Sulejów. Wstępne ustalenia wskazują, że doszło do eksplozji nagromadzonego gazu, po czym obiekt stanął w płomieniach. Ranna została jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d"/>
+</item>
+<item>
+<title><![CDATA[ Uderzyła w płot niedaleko Piotrkowa. Jechała po piwo ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uderzyla-w-plot-niedaleko-piotrkowa-jechala-po-piwo/1u7JRPoTno7qeMQfUqh3</link>
+<guid isPermaLink="false">efe0ebaad933287bcde81aa65f3362cb60798965</guid>
+<pubDate>Mon, 16 Feb 2026 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" alt="miniatura"/></p><p>Funkcjonariusze z Komisariatu Policji w Wolborzu zatrzymali 48-latkę, która uderzyła w płot i uciekła z miejsca zdarzenia. Jak się okazuje, kobieta była w stanie nietrzeźwości. Teraz grozi jej kara pozbawienia wolności do 3 lat.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073"/>
+</item>
 <item>
 <title><![CDATA[ Ukrainiec po pijaku rozbił się w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/ukrainiec-po-pijaku-rozbil-sie-w-piotrkowie/LaDPrx2ViCtENoyVdRbP</link>
@@ -1323,7 +1353,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Ukrainiec po pijaku rozbił się w Piotrkowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Ogień strawił lokal pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1413,7 +1443,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Ukrainiec po pijaku rozbił się w Piotrkowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Ogień strawił lokal pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3307,15 +3337,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/79c0d61e-acbe-44dc-8427-530598ab5ae1"/>
-</item>
-<item>
-<title><![CDATA[ Urząd wystawił na sprzedaż... kosiarkę. Na ile ją wycenił? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-wystawil-na-sprzedaz-kosiarke-na-ile-ja-wycenil/8OYdf1jxnC3yuSLagEly</link>
-<guid isPermaLink="false">c305933b8b21e844b31e61485e1547ba60838fc1</guid>
-<pubDate>Fri, 12 Dec 2025 12:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8891322e-6e69-4078-af8d-22c8d54f68ce" alt="miniatura"/></p><p>Urząd Gminy Wola Krzysztoporska ogłosił przetarg na sprzedaż kosiarki. Jest to już druga licytacja sprzętu z 2009 roku, marki PALMa 500 numer fabryczny 099GL0247.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8891322e-6e69-4078-af8d-22c8d54f68ce" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8891322e-6e69-4078-af8d-22c8d54f68ce" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/8891322e-6e69-4078-af8d-22c8d54f68ce"/>
 </item>
 </channel></rss>
