@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Feb 2026 15:04:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 16:10:15 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Striptizerzy i skandal na balu walentynkowym. Szkoła zabiera głos w sprawie ]]></title>
@@ -69,7 +69,7 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/93e1f1b0-4075-4d7a-9437-7ff198fcae88"/>
 </item>
 <item>
-<title><![CDATA[ Dyrekcja i rodzice szkoły podstawowej zorganizowali bal... ze striptizem? Skandal na walentynkowej imprezie pod Piotrkowem ]]></title>
+<title><![CDATA[ Rada rodziców z podstawówki zorganizowała bal... ze striptizem? Skandal na walentynkowej imprezie pod Piotrkowem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dyrekcja-i-rodzice-szkoly-podstawowej-zorganizowali-bal-ze-striptizem-skandal-na-walentynkowej-imprezie-pod-piotrkowem/rsdONiqANAkWCxVHo0B5</link>
 <guid isPermaLink="false">c15a857fe809fd92e4cdf6b5ab815d22261c4a71</guid>
 <pubDate>Tue, 17 Feb 2026 16:04:00 +0000</pubDate>
