@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Feb 2026 17:25:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 19:15:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Auchan apeluje do klientów: oddajcie ten zakup. Może być niebezpieczny dla zdrowia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/auchan-apeluje-do-klientow-oddajcie-ten-towar-moze-byc-niebezpieczny-dla-zdrowia/HazEZawVKQTAqVu5XpAR</link>
+<guid isPermaLink="false">40f86fa88d01853799eb8044d31ebc4d51b3f5e6</guid>
+<pubDate>Wed, 18 Feb 2026 18:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a7197a4-e7d3-4f44-bcc6-90eb42c4ef06" alt="miniatura"/></p><p>Powodem wycofania jest podejrzenie obecności odłamków szkła wewnątrz opakowań pochodzących z określonej partii. Tego rodzaju zanieczyszczenie stanowi bezpośrednie zagrożenie dla zdrowia i może doprowadzić do poważnych obrażeń w przypadku spożycia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a7197a4-e7d3-4f44-bcc6-90eb42c4ef06" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a7197a4-e7d3-4f44-bcc6-90eb42c4ef06" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7a7197a4-e7d3-4f44-bcc6-90eb42c4ef06"/>
+</item>
 <item>
 <title><![CDATA[ Striptizerzy i skandal na balu walentynkowym. Szkoła zabiera głos w sprawie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/striptizerzy-i-skandal-na-balu-walentynkowym-szkola-zabiera-glos-w-sprawie/AEmgSxrAxAiTpeNz4SFd</link>
@@ -1919,16 +1929,6 @@
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/e4f86ea2-2325-4a35-bb51-5ad8c03565a1"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -1937,6 +1937,16 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/312eb955-fc5f-4453-b949-de8ca9225198"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2160aa9d-56a6-4b35-a270-a16d79a841ca"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f"/>
-</item>
-<item>
-<title><![CDATA[ Barber Shop Warsztat – precyzja, styl i męska energia w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/barber-shop-warsztat-precyzja-styl-i-meska-energia-w-piotrkowie-trybunalskim/SzW8KNbeODer0L9YAKI7</link>
-<guid isPermaLink="false">b5ff93c58a4dfa9a714ef861b50408c4549abf0e</guid>
-<pubDate>Tue, 16 Dec 2025 09:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6acf6be-8add-43ad-91df-b74804eddc36" alt="miniatura"/></p><p>Barber Shop Warsztat przy ul. Słowackiego 155/157 to połączenie nowoczesnego podejścia do męskiej pielęgnacji z klasyczną barberową estetyką. Solidne wnętrze, dobre światło, zapach świeżych kosmetyków i profesjonalny sprzęt tworzą przestrzeń, w której każdy mężczyzna może poczuć się pewnie i komfortowo. Tutaj liczy się jakość, powtarzalność efektu i indywidualne podejście – bez pośpiechu i bez pół…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6acf6be-8add-43ad-91df-b74804eddc36" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6acf6be-8add-43ad-91df-b74804eddc36" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b6acf6be-8add-43ad-91df-b74804eddc36"/>
 </item>
 </channel></rss>
