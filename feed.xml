@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Feb 2026 12:00:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 13:34:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Fatalny finał walentynek pod Piotrkowem. Cela zamiast randki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/fatalny-final-walentynek-pod-piotrkowem-cela-zamiast-randki/6FQ3gEgDhYgbh62tAi8x</link>
+<guid isPermaLink="false">88be3cbc5486ba773d7e83f41a95b941bdd1cf9d</guid>
+<pubDate>Thu, 19 Feb 2026 13:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71563c4f-d816-425c-b3ff-7832a71a4bde" alt="miniatura"/></p><p>Wszystko działo się 14 lutego 2026 roku na terenie powiatu piotrkowskiego. Dzielnicowy z Komisariatu Policji w Gorzkowicach aspirant sztabowy Waldemar Kozłowski oraz funkcjonariusze Wydziału Ruchu Drogowego otrzymali zgłoszenie o mężczyźnie w kryzysie emocjonalnym. Taką informację przekazała mundurowym partnerka 34-latka. Policjanci ruszyli do Woli Niechcickiej.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71563c4f-d816-425c-b3ff-7832a71a4bde" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71563c4f-d816-425c-b3ff-7832a71a4bde" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/71563c4f-d816-425c-b3ff-7832a71a4bde"/>
+</item>
 <item>
 <title><![CDATA[ Tego jeszcze nie było. W Piotrkowie zagrają mecz… po ciemku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tego-jeszcze-nie-bylo-w-piotrkowie-zagraja-mecz-po-ciemku/K6W1gmIDGRZI7G8uSolR</link>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ed393379-6eb6-4d37-b136-553e37d2ff33" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ed393379-6eb6-4d37-b136-553e37d2ff33" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ed393379-6eb6-4d37-b136-553e37d2ff33"/>
-</item>
-<item>
-<title><![CDATA[ Złodziej grasował w Piotrkowie. Okradł piwnicę, a łupy sprzedał ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zlodziej-grasowal-w-piotrkowie-okradl-piwnice-a-lupy-sprzedal/xurTBGys4LblzCXmSIne</link>
-<guid isPermaLink="false">179d693f01bdf8712f0faa3541dce457755ac8de</guid>
-<pubDate>Wed, 17 Dec 2025 14:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4f349baf-ddf9-426e-8337-d0ae7fe8873e" alt="miniatura"/></p><p>Mieszkanka Piotrkowa powiadomiła policję, że ktoś włamał się do jej piwnicy, kradnąc m.in. sprzęt agd i alkohol. Sprawcą okazał się 39-latek, który ukradzione łupy sprzedał.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4f349baf-ddf9-426e-8337-d0ae7fe8873e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4f349baf-ddf9-426e-8337-d0ae7fe8873e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/4f349baf-ddf9-426e-8337-d0ae7fe8873e"/>
 </item>
 </channel></rss>
