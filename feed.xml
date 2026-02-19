@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Feb 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 11:08:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ceny ciepła w mieście spadną? Zapowiedziano ogromną inwestycję ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ceny-ciepla-w-miescie-spadna-zapowiedziano-ogromna-inwestycje/02gBEZNlyjCdJSlaBGBM</link>
+<guid isPermaLink="false">529e57e0ae79752263d97284f638bb004e268cbb</guid>
+<pubDate>Thu, 19 Feb 2026 11:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2315f89d-5ded-4050-97f3-7d1517a97054" alt="miniatura"/></p><p>Budowa układu kogeneracyjego planowana była w Piotrkowie już w 2019 roku. Dotychczas nie zostały jednak podjęte ostateczne decyzje co do realizacji tej inwestycji zarówno przez piotrkowski urząd, jak i elektrociepłownię.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2315f89d-5ded-4050-97f3-7d1517a97054" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2315f89d-5ded-4050-97f3-7d1517a97054" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2315f89d-5ded-4050-97f3-7d1517a97054"/>
+</item>
+<item>
+<title><![CDATA[ Jest kasa dla Piotrkowian. Program obejmie 550 osób ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jest-kasa-dla-piotrkowian-program-obejmie-550-osob/HVPZHWSIIjB5oORV9kga</link>
+<guid isPermaLink="false">dc27a295e5c34a587ad66f6c429236ef4ff77413</guid>
+<pubDate>Thu, 19 Feb 2026 11:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b35b0660-b923-4839-ad2c-e3524643cb26" alt="miniatura"/></p><p>Ruszyła kolejna edycja programu „Młodzi zawodowcy”. To okazja dla uczniów szkół na terenie województwa łódzkiego, by zdobyć stypendia. Pieniądze mogą przeznaczyć na sprzęt komputerowy czy materiały wspomagające w nauce. W ubiegłym roku szkolnym z programu Urzędu Marszałkowskiego Województwa Łódzkiego skorzystało 550 osób. Jakie warunki trzeba spełnić, by otrzymać stypendium?</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b35b0660-b923-4839-ad2c-e3524643cb26" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b35b0660-b923-4839-ad2c-e3524643cb26" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b35b0660-b923-4839-ad2c-e3524643cb26"/>
+</item>
 <item>
 <title><![CDATA[ Auchan apeluje do klientów: oddajcie ten zakup. Może być niebezpieczny dla zdrowia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/auchan-apeluje-do-klientow-oddajcie-ten-towar-moze-byc-niebezpieczny-dla-zdrowia/HazEZawVKQTAqVu5XpAR</link>
@@ -3267,25 +3287,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba07cc2f-222b-4527-bdf5-8e9e3c0aa6c7" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba07cc2f-222b-4527-bdf5-8e9e3c0aa6c7" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/ba07cc2f-222b-4527-bdf5-8e9e3c0aa6c7"/>
-</item>
-<item>
-<title><![CDATA[ Starostwo w Piotrkowie szuka pracownika. Sprawdź, ile można zarobić ]]></title>
-<link>https://trybunalski.pl/wiadomosci/starostwo-w-piotrkowie-szuka-pracownika-sprawdz-ile-mozna-zarobic/XMqezklzhvS3hqzRsAHg</link>
-<guid isPermaLink="false">6c238bde7dfadd4a048321576fd04a5cf5de2089</guid>
-<pubDate>Tue, 16 Dec 2025 11:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/510a1155-b2ab-4440-ade1-eaeebb6d5d53" alt="miniatura"/></p><p>Oferta skierowana jest do kandydatów z wykształceniem wyższym na kierunku budownictwo oraz minimum dwuletnim stażem pracy. Wymagane jest także doświadczenie w kompleksowym nadzorowaniu inwestycji budowlanych z ramienia inwestora, w szczególności w zakresie zarządzania dokumentacją, procedurami procesu inwestycyjnego, harmonogramem robót oraz budżetem inwestycji.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/510a1155-b2ab-4440-ade1-eaeebb6d5d53" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/510a1155-b2ab-4440-ade1-eaeebb6d5d53" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/510a1155-b2ab-4440-ade1-eaeebb6d5d53"/>
-</item>
-<item>
-<title><![CDATA[ Kolejne dziki z ASF w powiecie piotrkowskim. Trwa zakrojona akcja poszukiwawcza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-dziki-z-asf-w-powiecie-piotrkowskim-trwa-zakrojona-akcja-poszukiwawcza/NpV9RXuYWfwz2Sspwcmn</link>
-<guid isPermaLink="false">68c4f8f2c8540750a53a5683f364061340f1d593</guid>
-<pubDate>Tue, 16 Dec 2025 11:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f" alt="miniatura"/></p><p>Przypomnijmy. W sobotę, 13 grudnia rozpoczęto na terenie powiatu piotrkowskiego poszukiwania padłych dzików. Akcja związana jest z ujawnieniem pod koniec listopada oskórowanego, pozbawionego wnętrzności dzika, zakażonego wirusem Afrykańskiego Pomoru Świń . Przeszukiwany jest obszar w promieniu około 5 kilometrów od wyznaczonego punktu. Zgodnie z rozporządzeniem wydanym przez Powiatowego Lekarza We…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/aca2b94a-9f74-4029-95c7-b155b45d6b0f"/>
 </item>
 </channel></rss>
