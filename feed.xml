@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 20 Feb 2026 10:58:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 11:49:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kobieta leżała na ziemi i trzęsła z zimna. Przed wychłodzeniem uratowała ją sąsiadka i policja ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-lezala-na-ziemi-i-trzesla-z-zimna-przed-wychlodzeniem-uratowala-ja-sasiadka-i-policja/uQD8fjgE2yGt6c9o0DAI</link>
+<guid isPermaLink="false">2855d54b5c0a79e72de15977b28b9fa88a760680</guid>
+<pubDate>Fri, 20 Feb 2026 12:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19dcd8ae-6320-4bb3-be1a-91d99223e5b0" alt="miniatura"/></p><p>14 lutego 2026 roku, dzielnicowy asp. szt. Waldemar Kozłowski oraz st. post. Przemysław Turek zostali wezwani do jednego z domów w Rozprzy, gdzie miała przebywa koieta wołająca o pomoc.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19dcd8ae-6320-4bb3-be1a-91d99223e5b0" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19dcd8ae-6320-4bb3-be1a-91d99223e5b0" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/19dcd8ae-6320-4bb3-be1a-91d99223e5b0"/>
+</item>
 <item>
 <title><![CDATA[ Urząd w Piotrkowie szuka pracowników. Znamy kwoty wynagrodzeń ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-szuka-pracownikow-znamy-kwoty-wynagrodzen/DerhiQcbNsh0HJpAsEEj</link>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/42390be4-fbd4-4f1e-80db-bf3161a90a05" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/42390be4-fbd4-4f1e-80db-bf3161a90a05" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/42390be4-fbd4-4f1e-80db-bf3161a90a05"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie zorganizują Sylwestra. Będą tańce, muzyka i... fajerwerki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zorganizuja-sylwestra-beda-tance-muzyka-i-fajerwerki/404okIFoCaUVePo9T7C5</link>
-<guid isPermaLink="false">ee568b1d481e69c71e73d6b520db39aad6474fce</guid>
-<pubDate>Thu, 18 Dec 2025 10:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9ed7f1d-fd42-4880-9164-38b82e7ac57b" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa Trybunalskiego i odwiedzający będą mogli cieszyć się sylwestrową zabawą na ul. Słowackiego, gdzie po raz kolejny odbędzie się impreza „pod chmurką”. Sprawdź, co czeka na uczestników tegorocznego wydarzenia.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9ed7f1d-fd42-4880-9164-38b82e7ac57b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9ed7f1d-fd42-4880-9164-38b82e7ac57b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a9ed7f1d-fd42-4880-9164-38b82e7ac57b"/>
 </item>
 </channel></rss>
