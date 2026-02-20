@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 20 Feb 2026 20:52:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 21:42:48 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny! ]]></title>
