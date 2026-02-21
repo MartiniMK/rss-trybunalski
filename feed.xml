@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Feb 2026 08:49:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 09:48:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ GIS wydał alert w sprawie popularnego produktu spożywczego. Mógł być dostępny również w naszym mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-wydal-alert-w-sprawie-popularnego-produktu-spozywczego-mogl-byc-dostepny-rowniez-w-naszym-miescie/P7XEx3Fx0YCyRN1CBBzD</link>
+<guid isPermaLink="false">da00ab8e682de4eab3b12910e9882ec6b4d4e47c</guid>
+<pubDate>Sat, 21 Feb 2026 09:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d776414-69c9-4462-8de2-fd23533e7ff7" alt="miniatura"/></p><p>Główny Inspektor Sanitarny wydał oficjalne ostrzeżenie publiczne dotyczące produktu spożywczego powszechnie używanego w polskich domach. Problem dotyczy nieprawidłowego oznakowania alergenu, który faktycznie znajdował się w składzie, ale nie został ujawniony na opakowaniu. W praktyce oznacza to, że osoby cierpiące na alergię na pszenicę lub nietolerancję glutenu mogły nieświadomie narazić swoje zd…</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d776414-69c9-4462-8de2-fd23533e7ff7" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d776414-69c9-4462-8de2-fd23533e7ff7" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/6d776414-69c9-4462-8de2-fd23533e7ff7"/>
+</item>
 <item>
 <title><![CDATA[ Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkaniec-powiatu-piotrkowskiego-swietuje-100-urodziny/RtqA9vlnkMbSnlr0Jonw</link>
@@ -1623,7 +1633,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>GIS wydał alert w sprawie popularnego produktu spożywczego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1713,7 +1723,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>GIS wydał alert w sprawie popularnego produktu spożywczego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/galleries/bdf5e3b8-9c32-4aa8-8913-eb5fbc354764" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/galleries/bdf5e3b8-9c32-4aa8-8913-eb5fbc354764" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/galleries/bdf5e3b8-9c32-4aa8-8913-eb5fbc354764"/>
-</item>
-<item>
-<title><![CDATA[ "Zielona fala" w Piotrkowie? Nowe urządzenia pojawiły się na skrzyżowaniach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zielona-fala-w-piotrkowie-nowe-urzadzenia-pojawily-sie-na-skrzyzowaniach/PiqJLunALld4nEkeEI9o</link>
-<guid isPermaLink="false">7c17fe0cd96a95ac851e4f80b95335ca802f1239</guid>
-<pubDate>Thu, 18 Dec 2025 15:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" alt="miniatura"/></p><p>To ostatni etap wdrażania inteligentnych systemów transportowych w tym roku. W ramach prac zainstalowano już pierwsze urządzenia: 17 grudnia na skrzyżowaniu al. 3 Maja z al. Kopernika, a 19 grudnia na skrzyżowaniu z ul. Sienkiewicza. Kolejne sekundniki pojawią się w najbliższym czasie na skrzyżowaniu Al. Sikorskiego z ul. Kostromską.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3558b3d9-dd3a-41ee-9ef1-853c50b1d12e"/>
 </item>
 </channel></rss>
