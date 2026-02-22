@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Feb 2026 09:49:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 10:44:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dachowanie na stacji benzynowej w Wolborzu. Kierowca uciekł, jest poszukiwany ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dachowanie-na-stacji-benzynowej-w-wolborzu-kierowca-uciekl-jest-poszukiwany/LsRO6aaCF4wU4CTYe1O1</link>
+<guid isPermaLink="false">7a35a2ec3e2ed7a36eb7e1f1615fc2cfc63186c4</guid>
+<pubDate>Sun, 22 Feb 2026 11:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/15cb759e-df35-4f14-9c79-c8db475ac6b4" alt="miniatura"/></p><p>Około godz. 3:40 na ul. Zwierzyniec w Wolborzu doszło do niebezpiecznej sytuacji z udziałem pojazdu osobowego.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/15cb759e-df35-4f14-9c79-c8db475ac6b4" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/15cb759e-df35-4f14-9c79-c8db475ac6b4" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/15cb759e-df35-4f14-9c79-c8db475ac6b4"/>
+</item>
+<item>
+<title><![CDATA[ Śmiertelny wypadek pod Piotrkowem. Nie żyje młoda kobieta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/smiertelny-wypadek-pod-piotrkowem-nie-zyje-mloda-kobieta/LtxQYF3U2wYqrI89qyOg</link>
+<guid isPermaLink="false">dab7f1b5d69cbace6fa853e74541e135948cea18</guid>
+<pubDate>Sun, 22 Feb 2026 11:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/589eb439-8fd7-43ba-b5d3-c8cb3fc17d78" alt="miniatura"/></p><p>Na miejscu interweniował zespół ratownictwa medycznego, policja oraz strażacy w tym m.in. druhowie z OSP Dąbrowa nad Czarną, którzy jako pierwsi dotarli na miejsce zdarzenia.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/589eb439-8fd7-43ba-b5d3-c8cb3fc17d78" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/589eb439-8fd7-43ba-b5d3-c8cb3fc17d78" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/589eb439-8fd7-43ba-b5d3-c8cb3fc17d78"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin bezradny w Legionowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-bezradny-w-legionowie/cwoU0Qwpuj9vAUmW1zAc</link>
@@ -1653,7 +1673,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Burgerownia w Sulejowie zasługuje na tak wysokie opinie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Dachowanie na stacji benzynowej w Wolborzu.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1743,7 +1763,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Burgerownia w Sulejowie zasługuje na tak wysokie opinie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Dachowanie na stacji benzynowej w Wolborzu.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -3227,25 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7833e903-d492-4367-b5df-3eb8885ad56d" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7833e903-d492-4367-b5df-3eb8885ad56d" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/7833e903-d492-4367-b5df-3eb8885ad56d"/>
-</item>
-<item>
-<title><![CDATA[ Ruiny znikną z mapy Piotrkowa. Wiemy, co powstanie na ich miejscu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ruiny-znikna-z-mapy-piotrkowa-wiemy-co-powstanie-na-ich-miejscu/WtBnPkl3EgUGvPEG3LPp</link>
-<guid isPermaLink="false">1b3cd244fdcee8857e9232124ec57234a55c3c30</guid>
-<pubDate>Sat, 20 Dec 2025 09:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f0508ba0-1fa3-4d0c-b8e6-7b6dc1a5bf6f" alt="miniatura"/></p><p>Zaniedbana część Starego Miasta w Piotrków Trybunalski przejdzie kompleksową przemianę dzięki bezzwrotnej dotacji z Banku Gospodarstwa Krajowego. Miasto pozyskało ponad 18,6 mln zł dofinansowania z Funduszu Dopłat, w ramach programu bezzwrotnego wsparcia budownictwa mieszkaniowego. Całkowita wartość inwestycji przekracza 27 mln zł.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f0508ba0-1fa3-4d0c-b8e6-7b6dc1a5bf6f" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f0508ba0-1fa3-4d0c-b8e6-7b6dc1a5bf6f" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/f0508ba0-1fa3-4d0c-b8e6-7b6dc1a5bf6f"/>
-</item>
-<item>
-<title><![CDATA[ Ostatni weekend przed Wigilią. Czy 21 grudnia jest niedziela handlowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ostatni-weekend-przed-wigilia-czy-21-grudnia-jest-niedziela-handlowa/IUXSi3FDmIw891bdLexY</link>
-<guid isPermaLink="false">daca42579b5161ba8dc2f687194c3b8b4c8763ea</guid>
-<pubDate>Sat, 20 Dec 2025 08:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a851b283-697d-4abb-9ca9-8b947142d7ea" alt="miniatura"/></p><p>Weekend 20-21 grudnia to jedna z ostatnich szans, by jeszcze w miarę na spokojnie zrobić świąteczne zakupy. Czy ostatnia niedziela przed Wigilią jest handlowa? Odpowiadamy w poniższym artykule.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a851b283-697d-4abb-9ca9-8b947142d7ea" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a851b283-697d-4abb-9ca9-8b947142d7ea" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a851b283-697d-4abb-9ca9-8b947142d7ea"/>
 </item>
 </channel></rss>
