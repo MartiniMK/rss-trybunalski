@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Feb 2026 11:38:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 13:15:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Komunikat dla województwa łódzkiego. Przekroczenia stanów ostrzegawczych, IMGW ostrzega ]]></title>
+<link>https://trybunalski.pl/wiadomosci/komunikat-dla-wojewodztwa-lodzkiego-przekroczenia-stanow-ostrzegawczych-imgw-ostrzega/pYdKzAjOijrRdtPC2Ds7</link>
+<guid isPermaLink="false">5fafbd4569647a1081040b17f8c62bd7eb40a7a8</guid>
+<pubDate>Sun, 22 Feb 2026 12:49:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/daa08104-832c-4067-9ea9-a2b78e2d6591" alt="miniatura"/></p><p>Ostrzeżenie IMGW dotyczy gwałtownych wzrostów stanów wody na rzekach, takich jak Wisła, Pilica, Bzura, Narew i wielu innych ciekach wodnych w województwie łódzkim.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/daa08104-832c-4067-9ea9-a2b78e2d6591" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/daa08104-832c-4067-9ea9-a2b78e2d6591" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/daa08104-832c-4067-9ea9-a2b78e2d6591"/>
+</item>
 <item>
 <title><![CDATA[ Samochodem uderzył w betonowy przepust. Był pod wpływem alkoholu lub narkotyków? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/samochodem-uderzyl-w-betonowy-przepust-sprawdzaja-czy-byl-pod-wplywem-alkoholu-lub-narkotykow/59WNAYo7PyWxpEGjU5eu</link>
@@ -1683,7 +1693,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Samochodem uderzył w betonowy przepust.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" alt="miniatura"/></p><p>Komunikat dla województwa łódzkiego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/2b3074f3-c1af-4ffd-b438-a6443331dec4"/>
@@ -1773,7 +1783,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Samochodem uderzył w betonowy przepust.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" alt="miniatura"/></p><p>Komunikat dla województwa łódzkiego.</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/b145b566-fcb5-447a-a978-3a9555d69133"/>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia zatrzymana w Gnieźnie! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-zatrzymana-w-gnieznie/odWu7FzbzLj2D8Iek39G</link>
-<guid isPermaLink="false">61a688ed187a4168959e2e4afe537a89637249cb</guid>
-<pubDate>Sat, 20 Dec 2025 17:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a7196dae-7d65-4402-9898-a10c982054a0" alt="miniatura"/></p><p>Piotrcovia od początku sezonu 2025/2026 wygrała aż 9 z 10 pojedynków o ligowe punkty, przegrywając jedynie z hegemonem polskich parkietów, mistrzem Polski z pięciu ostatnich sezonów, KGHM Zagłębiem Lubin. Środowe zwycięstwo w zaległym meczu z „Kobierkami” było już siódmym z rzędu! Piotrkowianki po wygranej w Kobierzycach umocniły się na drugim miejscu w tabeli i zamierzają je utrzymać, a jeśli nad…</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a7196dae-7d65-4402-9898-a10c982054a0" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a7196dae-7d65-4402-9898-a10c982054a0" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/a7196dae-7d65-4402-9898-a10c982054a0"/>
 </item>
 </channel></rss>
