@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 23 Feb 2026 09:09:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 10:16:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ O krok od tragedii w Piotrkowie. Policjanci uratowali kobietę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/o-krok-od-tragedii-w-piotrkowie-policjanci-uratowali-kobiete/h0q9iQcCj0xTFl9B7GWM</link>
+<guid isPermaLink="false">b0e286974fda71f5f579897504bee37951a046e3</guid>
+<pubDate>Mon, 23 Feb 2026 10:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/539bcf2d-373f-474b-b0b3-8aea1892dfc1" alt="miniatura"/></p><p>Policjanci z Piotrkowa uratowali starszą kobietę</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/539bcf2d-373f-474b-b0b3-8aea1892dfc1" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/539bcf2d-373f-474b-b0b3-8aea1892dfc1" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/539bcf2d-373f-474b-b0b3-8aea1892dfc1"/>
+</item>
 <item>
 <title><![CDATA[ Komunikat dla województwa łódzkiego. Przekroczenia stanów ostrzegawczych, IMGW ostrzega ]]></title>
 <link>https://trybunalski.pl/wiadomosci/komunikat-dla-wojewodztwa-lodzkiego-przekroczenia-stanow-ostrzegawczych-imgw-ostrzega/pYdKzAjOijrRdtPC2Ds7</link>
@@ -3237,15 +3247,5 @@
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/0f6efcc1-d354-462e-8f80-e0bc5b8d5a99"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin nie dał rady medalistom poprzedniego sezonu! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-nie-dal-rady-medalistom-poprzedniego-sezonu/OcFbCIDeAxg2H5w3MHym</link>
-<guid isPermaLink="false">de10abe461a53d8fa0963a876b580cc123006a8b</guid>
-<pubDate>Sat, 20 Dec 2025 17:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9" alt="miniatura"/></p><p>Piotrkowianie w dniu 20 grudnia stanęli przed arcytrudnym zadaniem, bo przyszło im się zmierzyć z brązowymi medalistami poprzedniego sezonu ORLEN Superligi. Nastroje przed tym pojedynkiem były jednak bojowe.</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/3479d3bb-e0d8-4fd5-bf13-8768e65f4ff9"/>
 </item>
 </channel></rss>
