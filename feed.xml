@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 24 Feb 2026 16:18:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 18:13:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Samochód uderzył w bariery na A1. Na miejscu służby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/samochod-uderzyl-w-bariery-na-a1-na-miejscu-sluzby/FBU10XVAEw4CiI9n8a10</link>
+<guid isPermaLink="false">e48a3ee8b0f4e62147437bee8dbb7fffd85266fa</guid>
+<pubDate>Tue, 24 Feb 2026 18:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5c13ad38-2b7a-4b59-937c-9c7be3b34cda" alt="miniatura"/></p><p>We wtorek, 24 lutego przed godz. 17 doszło do groźnego zdarzenia. Na miejsce ruszyły służby i zastały rozbity pojazd. Sytuacja miała miejsce na 361 km autostrady A1, na wysokości miejscowości Poraj. Kierowcy mogą spodziewać się utrudnień.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c13ad38-2b7a-4b59-937c-9c7be3b34cda" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c13ad38-2b7a-4b59-937c-9c7be3b34cda" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c13ad38-2b7a-4b59-937c-9c7be3b34cda"/>
+</item>
 <item>
 <title><![CDATA[ Wyciekły dane ze szpitala w Piotrkowie. Pytamy o konsekwencje ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wyciekly-dane-pracownikow-szpitala-w-piotrkowie-pytamy-o-konsekwencje/SuomiLkZR9OlW3QP2IPM</link>
@@ -1873,7 +1883,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wyciekły dane pracowników szpitala w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Samochód uderzył w bariery na A1.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1963,7 +1973,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wyciekły dane pracowników szpitala w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Samochód uderzył w bariery na A1.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3257,15 +3267,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a113b375-7f4b-4ec9-b901-d593787a336e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a113b375-7f4b-4ec9-b901-d593787a336e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a113b375-7f4b-4ec9-b901-d593787a336e"/>
-</item>
-<item>
-<title><![CDATA[ Życzenia "od serca" na Boże Narodzenie 2025. Piękne świąteczne treści - idealne na SMS i e-mail ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gotow-zyczenia-na-boze-narodzenie-2025-piekne-tresci-idealne-na-sms-i-e-mail/A7OsIas45lS7KeVH9Kft</link>
-<guid isPermaLink="false">c420eddcecf29df5f1d2c178778b9b7442d1945d</guid>
-<pubDate>Wed, 24 Dec 2025 12:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592" alt="miniatura"/></p><p>1. Wesołych Świąt Bożego Narodzenia! Dużo spokoju, zdrowia i radości ze wspólnie spędzonego czasu. Niech te dni będą naprawdę przyjemne i bez pośpiechu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592"/>
 </item>
 </channel></rss>
