@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 24 Feb 2026 11:56:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 13:34:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Uczennica z Piotrkowa z prestiżowym stypendium. Spotkała Sławosza Uznańskiego-Wiśniewskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uczennica-z-piotrkowa-z-prestizowym-stypendium-spotkala-slawosza-uznanskiego-wisniewskiego/8X9zNakul7KrsQEe0mdx</link>
+<guid isPermaLink="false">a46667c3da77bb91ed42eb58e8084c063a9e79ba</guid>
+<pubDate>Tue, 24 Feb 2026 13:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7fafc4df-dad5-4b3f-897d-fa611ffbd66d" alt="miniatura"/></p><p>Przypomnijmy, że w grudniu ubiegłego roku Malwina Lewera, uczennica I Liceum Ogólnokształcącego w Piotrkowie, zdobyła stypendium fundowane przez Łódzką Specjalną Strefę Ekonomiczną w ramach programu „#GrowMania – Strefa Talentów”. Teraz Malwina spotkała dr. Sławosza Uznańskiego-Wiśniewskiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fafc4df-dad5-4b3f-897d-fa611ffbd66d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fafc4df-dad5-4b3f-897d-fa611ffbd66d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fafc4df-dad5-4b3f-897d-fa611ffbd66d"/>
+</item>
+<item>
+<title><![CDATA[ Czarny weekend na drogach powiatu. Wypadek śmiertelny, kolizje, ranni... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/czarny-weekend-na-drogach-powiatu-wypadek-smiertelny-kolizje-ranni/WQTMRnGi613q3oFK2sCL</link>
+<guid isPermaLink="false">d8e8875c729cc66a370b6b67fe648581460054f9</guid>
+<pubDate>Tue, 24 Feb 2026 13:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8c272e88-6cb4-4002-a6fc-814f644431d5" alt="miniatura"/></p><p>Od piątku do niedzieli (20-22 lutego) w Piotrkowie Trybunalskim i powiecie piotrkowskim służby otrzymały wiele zgłoszeń dotyczących różnych zdarzeń drogowych. Niestety w wyniku jednego wypadku śmierć na miejscu poniosła 39-letnia kobieta .</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8c272e88-6cb4-4002-a6fc-814f644431d5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8c272e88-6cb4-4002-a6fc-814f644431d5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8c272e88-6cb4-4002-a6fc-814f644431d5"/>
+</item>
 <item>
 <title><![CDATA[ Niesamowita passa w Piotrkowie! Padła główna wygrana w grze Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niesamowita-passa-w-piotrkowie-padla-glowna-wygrana-w-grze-lotto/S7278a7ZOADqBECGwTyT</link>
@@ -1843,7 +1863,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Niesamowita passa w Piotrkowie!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Uczennica z Piotrkowa z prestiżowym stypendium.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1933,7 +1953,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Niesamowita passa w Piotrkowie!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Uczennica z Piotrkowa z prestiżowym stypendium.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2259,16 +2279,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2277,6 +2287,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3237,25 +3257,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ef7a1ac-8804-44ca-aee6-ae98fa0e8592"/>
-</item>
-<item>
-<title><![CDATA[ Stajenka betlejemska oczami sztucznej inteligencji. AI wciela się w Matejkę, Van Gogha, czy Salvadora Dali [GALERIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/stajenka-betlejemska-oczami-sztucznej-inteligencji-ai-wciela-sie-w-matejke-van-gogha-czy-salvadora-dali-galeria/b7rCIxYg67bCMTzfoBB7</link>
-<guid isPermaLink="false">a6e1660fec0fe2a9d403a76ef3e2e882d2fb0aba</guid>
-<pubDate>Tue, 23 Dec 2025 21:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/74944a30-82e2-4302-80a2-b9c0fd953166" alt="miniatura"/></p><p>Sztuczna inteligencja nie przestaje zaskakiwać, przenikając kolejne obszary naszego życia. Oprócz osiągnięć w dziedzinie matematyki czy generowania tekstów, AI wkroczyła również w świat sztuki malarskiej. Dzięki narzędziu DALL·E, opracowanemu przez OpenAI, możliwe stało się tworzenie obrazów inspirowanych stylami wielkich mistrzów, takich jak Leonardo da Vinci, Rembrandt, Jan Matejko Salvador Dalí…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/74944a30-82e2-4302-80a2-b9c0fd953166" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/74944a30-82e2-4302-80a2-b9c0fd953166" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/74944a30-82e2-4302-80a2-b9c0fd953166"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianin, który wyreżyserował kultowy serial. To on dał nam serię "Czterej Pancerni i pies" [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianin-ktory-wyrezyserowal-kultowy-serial-to-on-dal-nam-serie-czterej-pancerni-i-pies-zdjecia/KOPuxBSAdicTkYj4h1vZ</link>
-<guid isPermaLink="false">829cb07b64bf0d6df985154c0bd05d2468f855cf</guid>
-<pubDate>Tue, 23 Dec 2025 15:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d" alt="miniatura"/></p><p>Konrad Nałęcki pochodzący z Piotrkowa Trybunalskiego był reżyserem 20 z 21 odcinków kultowego serialu "Czterej Pancerni i pies". Pracował na planie od 1966 do 1970 roku. Piotrkowianin zdecydował o obsadzie głównych ról i pracował z tekstem ówczesnego pułkownika Janusza Przymanowskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d"/>
 </item>
 </channel></rss>
