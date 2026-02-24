@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 24 Feb 2026 10:14:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 11:56:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Niesamowita passa w Piotrkowie! Padła główna wygrana w grze Lotto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowita-passa-w-piotrkowie-padla-glowna-wygrana-w-grze-lotto/S7278a7ZOADqBECGwTyT</link>
+<guid isPermaLink="false">7baed6dea00b62e57f60dd701fbc7c77c648bd8c</guid>
+<pubDate>Tue, 24 Feb 2026 12:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478" alt="miniatura"/></p><p>Padła kolejna wygrana w Lotto w naszym mieście. To już trzeci trafiony kupon w Piotrkowie w 2026 roku. Ile tym razem udało się wygrać szczęśliwcowi?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478"/>
+</item>
 <item>
 <title><![CDATA[ Tłumy po wizycie Książula w Sulejowie. Zjechali się nawet z Warszawy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tlumy-po-wizycie-ksiazula-w-sulejowie-zjechali-sie-nawet-z-warszawy/CDneuGCea0KtAF23a80N</link>
@@ -1833,7 +1843,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Dwór pod Piotrkowem wystawiony na sprzedaż.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Niesamowita passa w Piotrkowie!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1923,7 +1933,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Dwór pod Piotrkowem wystawiony na sprzedaż.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Niesamowita passa w Piotrkowie!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3247,15 +3257,5 @@
 <enclosure url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/galleries/90203155-bd19-416a-bf55-856a2aa78c8d"/>
-</item>
-<item>
-<title><![CDATA[ Nowa inwestycja na DK12 pod Piotrkowem. Skorzystają mieszkańcy całego regionu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-na-dk12-pod-piotrkowem-skorzystaja-mieszkancy-calego-regionu/ky9tuZPeDh2BWjIntqgf</link>
-<guid isPermaLink="false">6bd399de3a98c30d9a829c0d15b69cc7153fd0b6</guid>
-<pubDate>Tue, 23 Dec 2025 13:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dbbfa945-725a-4225-a130-7974e31ba9d5" alt="miniatura"/></p><p>Inwestycja o wartości niemal 6 milionów złotych ma zostać ukończona w ciągu 33 miesięcy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbbfa945-725a-4225-a130-7974e31ba9d5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbbfa945-725a-4225-a130-7974e31ba9d5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbbfa945-725a-4225-a130-7974e31ba9d5"/>
 </item>
 </channel></rss>
