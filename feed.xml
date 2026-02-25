@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Feb 2026 06:20:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 08:05:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ XIX-wieczna kamienica doczeka się remontu. Kto podejmie się tego wyzwania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/xix-wieczna-kamienica-doczeka-sie-remontu-kto-podejmie-sie-tego-wyzwania/9J3PIREjJb9VGV5nqHAs</link>
+<guid isPermaLink="false">05dcc64da68462fff7fc8442720b72df3a848eee</guid>
+<pubDate>Wed, 25 Feb 2026 07:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea721d0d-2c91-400d-9d91-ff09110933b8" alt="miniatura"/></p><p>Towarzystwo Budownictwa Społecznego ogłosiło przetarg na remont elewacji kamienicy przy ul. Słowackiego 13 w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea721d0d-2c91-400d-9d91-ff09110933b8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea721d0d-2c91-400d-9d91-ff09110933b8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea721d0d-2c91-400d-9d91-ff09110933b8"/>
+</item>
 <item>
 <title><![CDATA[ Samochód uderzył w bariery na A1. Na miejscu służby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/samochod-uderzyl-w-bariery-na-a1-na-miejscu-sluzby/FBU10XVAEw4CiI9n8a10</link>
@@ -1883,7 +1893,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Samochód uderzył w bariery na A1.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>XIX-wieczna kamienica doczeka się remontu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -1973,7 +1983,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Samochód uderzył w bariery na A1.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>XIX-wieczna kamienica doczeka się remontu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
