@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Feb 2026 13:33:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 15:07:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Festyn wielkanocny w Piotrkowie. Wiadomo już, gdzie się odbędzie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/festyn-w-piotrkowie-wiadomo-juz-gdzie-sie-odbedzie/wTdcvg06LISJ8xvjQuu2</link>
+<guid isPermaLink="false">779022dd289b5888413675506bb421c1d260c98b</guid>
+<pubDate>Wed, 25 Feb 2026 15:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/199ca28e-5f96-4043-b853-ac9a30c05f46" alt="miniatura"/></p><p>Świąteczna atmosfera wkrótce zapanuje w Piotrkowie. Już w przyszłym miesiącu mieszkańcy spotkają się w Parku im. św. Jana Pawła II na Festynie Wielkanocnym „Na Jaju”. To okazja, by wspólnie przygotować się do nadchodzących świąt. Impreza ruszy 29 marca o godzinie 10:00. Miejski Ośrodek Kultury w Piotrkowie Trybunalskim zaprasza wystawców do zgłoszeń.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/199ca28e-5f96-4043-b853-ac9a30c05f46" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/199ca28e-5f96-4043-b853-ac9a30c05f46" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/199ca28e-5f96-4043-b853-ac9a30c05f46"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie powstaną pracownie sztucznej inteligencji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-powstana-pracownie-sztucznej-inteligencji/7nVqAb0u7juidzjR34Vl</link>
+<guid isPermaLink="false">124fd2b9a48a5404f5fc8b1eee846026f03227d3</guid>
+<pubDate>Wed, 25 Feb 2026 14:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b84be581-4907-4f75-9ebf-4c30d87eba99" alt="miniatura"/></p><p>W piotrkowskich szkołach podstawowych i ponadpodstawowych powstaną nowoczesne pracownie. W placówkach pojawi się wyposażenie, które ma wpłynąć na poprawę systemu edukacji. W sumie będzie to 30 laboratoriów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b84be581-4907-4f75-9ebf-4c30d87eba99" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b84be581-4907-4f75-9ebf-4c30d87eba99" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b84be581-4907-4f75-9ebf-4c30d87eba99"/>
+</item>
+<item>
+<title><![CDATA[ Gigant poszukuje pracowników w Piotrkowie. Jakie stawia wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-poszukuje-pracownikow-w-piotrkowie-jakie-stawia-wymagania/CIVXYY1YnTpajXCitOYA</link>
+<guid isPermaLink="false">0888dac53ebb48d59fd9c2b34ccc5016ac0f7fd0</guid>
+<pubDate>Wed, 25 Feb 2026 14:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/83b3bc85-4bbf-4b0c-9251-c65cba7829ef" alt="miniatura"/></p><p>Piotrkowianie i mieszkańcy powiatu mogą znaleźć zatrudnienie w centrum logistycznym na obrzeżach naszego miasta. Jak się okazuje, Allegro poszukuje pracowników. Sprawdzamy, o które stanowiska chodzi i jakie wymagania trzeba spełnić?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b3bc85-4bbf-4b0c-9251-c65cba7829ef" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b3bc85-4bbf-4b0c-9251-c65cba7829ef" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b3bc85-4bbf-4b0c-9251-c65cba7829ef"/>
+</item>
 <item>
 <title><![CDATA[ Nowe sklepy w Piotrkowie Trybunalskim. Wiadomo, kiedy planowane otwarcie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-sklepy-w-piotrkowie-trybunalskim-wiadomo-kiedy-planowane-otwarcie/5WrF9ifblFgKbGvjj2Qy</link>
@@ -1913,7 +1943,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowe sklepy w Piotrkowie Trybunalskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Festyn wielkanocny w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2003,7 +2033,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowe sklepy w Piotrkowie Trybunalskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Festyn wielkanocny w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3267,25 +3297,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a639fdf2-7254-405b-be03-7c7fdf6b9d59" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a639fdf2-7254-405b-be03-7c7fdf6b9d59" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a639fdf2-7254-405b-be03-7c7fdf6b9d59"/>
-</item>
-<item>
-<title><![CDATA[ Zarządzanie kryzysowe ostrzega mieszkańców woj. łódzkiego. Uwaga na mostach i wiaduktach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zarzadzanie-kryzysowe-ostrzega-mieszkancow-woj-lodzkiego-uwaga-na-mostach-i-wiaduktach/5me5IoqIQHFZGYIgCNfJ</link>
-<guid isPermaLink="false">f0e98287b479e1f18e6db630e4f9182ac495d411</guid>
-<pubDate>Sat, 27 Dec 2025 12:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b4d3dddc-698c-43aa-8d22-35d979b28f0f" alt="miniatura"/></p><p>Jak informuje Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy , od godziny 20:00 w sobotę 27 grudnia do godziny 7:00 w niedzielę 28 grudnia obowiązuje ostrzeżenie pierwszego stopnia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b4d3dddc-698c-43aa-8d22-35d979b28f0f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b4d3dddc-698c-43aa-8d22-35d979b28f0f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b4d3dddc-698c-43aa-8d22-35d979b28f0f"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na A1 pod Piotrkowem. Dwie osoby zabrane do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-a1-pod-piotrkowem-dwie-osoby-zabrane-do-szpitala/ZOHv5WcjIVoT4wSgWt2z</link>
-<guid isPermaLink="false">d4242daf4191d8780f36a12c1a6eb717e1f059cd</guid>
-<pubDate>Fri, 26 Dec 2025 22:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/230d8952-5447-49e1-9084-66a2c7b75657" alt="miniatura"/></p><p>Policjanci wyjaśniają okoliczności wypadku, do którego doszło na 362 kilometrze autostrady A1 w kierunku Łodzi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/230d8952-5447-49e1-9084-66a2c7b75657" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/230d8952-5447-49e1-9084-66a2c7b75657" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/230d8952-5447-49e1-9084-66a2c7b75657"/>
 </item>
 </channel></rss>
