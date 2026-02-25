@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Feb 2026 11:56:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 13:33:01 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowe sklepy w Piotrkowie Trybunalskim. Wiadomo, kiedy planowane otwarcie ]]></title>
