@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 26 Feb 2026 10:11:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 11:54:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zamykają przejazd kolejowy. Utrudnienia dla kierowców pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zamykaja-przejazd-kolejowy-utrudnienia-dla-kierowcow-pod-piotrkowem/8LaCb69zIdND7Adr7s9B</link>
+<guid isPermaLink="false">4cdd4033a23e78e5ffc6c06fe4cf3a11382ac60e</guid>
+<pubDate>Thu, 26 Feb 2026 12:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62c4d537-39f4-4db8-8129-fb74f82b032d" alt="miniatura"/></p><p>Szykują się utrudnienia w powiecie piotrkowskim. Urząd Gminy Rozprza przekazał informację o planowanym zamknięciu przejazdu kolejowego. Ma to związek z trwającym remontem linii kolejowej nr 1.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62c4d537-39f4-4db8-8129-fb74f82b032d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62c4d537-39f4-4db8-8129-fb74f82b032d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62c4d537-39f4-4db8-8129-fb74f82b032d"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie powstanie nowa szkoła. Będą kształcić fachowców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-powstanie-nowa-szkola-beda-ksztalcic-fachowcow/9sG9lK9hGW4MK0ioU8zy</link>
+<guid isPermaLink="false">39bfc64e9845a02e0e07c6914066c7397cc19a98</guid>
+<pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5539e091-fca5-4a96-9492-f8cc35dc306c" alt="miniatura"/></p><p>Od 1 września 2026 roku w Piotrkowie ma zacząć działać nowa szkoła. Jej utworzenie to odpowiedź na potrzeby lokalnego rynku pracy. Takie uzasadnienie przedstawiono radnym, bo powstanie placówki było jednym z omawianych punktów podczas ostatniego posiedzenia rady miasta. Jakie kwalifikacje będą mogli zdobyć przyszli uczniowie?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5539e091-fca5-4a96-9492-f8cc35dc306c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5539e091-fca5-4a96-9492-f8cc35dc306c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5539e091-fca5-4a96-9492-f8cc35dc306c"/>
+</item>
+<item>
+<title><![CDATA[ Bezpieczeństwo przede wszystkim — przejście pod nowym mostem w Sulejowie dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/bezpieczenstwo-przede-wszystkim-przejscie-pod-nowym-mostem-w-sulejowie-dla-mieszkancow/h3sthCNuhY1XQbXMq8uX</link>
+<guid isPermaLink="false">5e38d1a33fddd6535fbe50da9ec786c5ad794f48</guid>
+<pubDate>Thu, 26 Feb 2026 11:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0315d98e-a2fe-4933-a9ff-2ed44218e2ae" alt="miniatura"/></p><p>Nowa inwestycja mostowa w Sulejowie to jeden z kluczowych projektów infrastrukturalnych, który ma poprawić jakość życia mieszkańców gminy. Jednakże władze gminy nie poprzestają tylko na budowie samego mostu. Zwrócono uwagę na konieczność usprawnienia dostępu do przeprawy z obu stron, w tym poprzez udrożnienie ulicy Nadpilicznej. Dzięki temu mieszkańcy, którzy poruszają się po tej okolicy, będą mog…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0315d98e-a2fe-4933-a9ff-2ed44218e2ae" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0315d98e-a2fe-4933-a9ff-2ed44218e2ae" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0315d98e-a2fe-4933-a9ff-2ed44218e2ae"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia postawiła się wiceliderowi! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-postawila-sie-wiceliderowi/lVSeZvqim27TfzHgACdb</link>
@@ -1973,7 +2003,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Zacięty bój Piotrkowianek w Lublinie!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>W Piotrkowie powstanie nowa szkoła.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2063,7 +2093,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Zacięty bój Piotrkowianek w Lublinie!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>W Piotrkowie powstanie nowa szkoła.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2389,16 +2419,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2407,6 +2427,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3277,25 +3307,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5f998b4c-725e-434a-83c9-68ed98e95822" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5f998b4c-725e-434a-83c9-68ed98e95822" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5f998b4c-725e-434a-83c9-68ed98e95822"/>
-</item>
-<item>
-<title><![CDATA[ Dwa alerty IMGW dla Piotrkowa i powiatu piotrkowskiego. Zacznie się dziś popołudniu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dwa-alerty-imgw-dla-piotrkowa-i-powiatu-piotrkowskiego-zacznie-sie-dzis-popoludniu/aSXYp6N0rrmoXH0a7J10</link>
-<guid isPermaLink="false">54d6abb4c890c87b501caa6a3e99d225aa3fb4d3</guid>
-<pubDate>Mon, 29 Dec 2025 11:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4683d899-3bd9-42a4-933f-02c3177f7c24" alt="miniatura"/></p><p>Jak informuje Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy od godziny 17:00 wponiedziałek 29 grudnia do północy w Łódzkiem obowiązuje ostrzeżenie pierwszego stopnia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4683d899-3bd9-42a4-933f-02c3177f7c24" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4683d899-3bd9-42a4-933f-02c3177f7c24" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4683d899-3bd9-42a4-933f-02c3177f7c24"/>
-</item>
-<item>
-<title><![CDATA[ Rolnicy wyjadą na ulice w Piotrkowie. Ogólnopolski protest zacznie się już we wtorek ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rolnicy-wyjada-na-ulice-w-piotrkowie-ogolnopolski-protest-zacznie-sie-juz-we-wtorek/vZOEwwWBjGeP5owpEIZa</link>
-<guid isPermaLink="false">79ff01d5aa80485addc86557e25d3fc4883aa68d</guid>
-<pubDate>Mon, 29 Dec 2025 11:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0fbc782-7843-457a-a69b-3d6acc9e96eb" alt="miniatura"/></p><p>Rolnicy się nie poddają i zapowiadają kolejny protest przeciwko umowie handlowej Unii Europejskiej z krajami Mercosur. Protestujący pojawią się przy autostradzie A1, na drodze S8 oraz przy Starostwie Powiatowym w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0fbc782-7843-457a-a69b-3d6acc9e96eb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0fbc782-7843-457a-a69b-3d6acc9e96eb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0fbc782-7843-457a-a69b-3d6acc9e96eb"/>
 </item>
 </channel></rss>
