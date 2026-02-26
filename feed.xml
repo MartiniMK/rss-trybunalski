@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 26 Feb 2026 13:34:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 15:05:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie będą nowe sklepy i nowe miejsca pracy. Sprawdzamy oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-beda-nowe-sklepy-i-nowe-miejsca-pracy-sprawdzamy-oferty/CbAIO2YIMdHgXvTsYeVc</link>
+<guid isPermaLink="false">e53fc4755c9e32cbe4dae00ae59aa91f5ba7aee9</guid>
+<pubDate>Thu, 26 Feb 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" alt="miniatura"/></p><p>Wraz z nową powierzchnią w jednym z parków handlowych w mieście pojawiły się oferty pracy. Powstający obiekt już wkrótce wypełni się sklepowym towarem i rozpoczęły się poszukiwania personelu. Sprawdziliśmy, kto otworzył rekrutacje i na jakie stanowiska mogą aplikować mieszkańcy Piotrkowa.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d"/>
+</item>
 <item>
 <title><![CDATA[ Woleli telewizor niż dach nad głową. Piotrkowianin usłyszał groźby śmieci ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/woleli-telewizor-niz-dach-nad-glowa-piotrkowianin-uslyszal-grozby-smieci/rd0PJpCMqtawBhC5tutN</link>
@@ -2033,7 +2043,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Woleli telewizor niż dach nad głową.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i nowe miejsca pracy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2123,7 +2133,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Woleli telewizor niż dach nad głową.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i nowe miejsca pracy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6"/>
-</item>
-<item>
-<title><![CDATA[ Co zrobić z jedzeniem po świętach? Lista, gdzie działają społeczne lodówki z Łódzkiem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-zrobic-z-jedzeniem-po-swietach-lista-gdzie-dzialaja-spoleczne-lodowki-z-lodzkiem/wYLxTuASwWbS8ILuq5g5</link>
-<guid isPermaLink="false">4228cc51cb69259e0f51c2e271f39662f9a9c0d4</guid>
-<pubDate>Mon, 29 Dec 2025 15:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c5bcf54d-d28a-4892-91f9-8e86994197d7" alt="miniatura"/></p><p>Lodówki społeczne działają na terenie całego województwa łódzkiego. Nie brakuje ich także w Piotrkowie Trybunalskim i powiecie piotrkowskim. Zobacz, gdzie w naszym regionie chętni mogą podzielić się jedzeniem za pośrednictwem "lodówki".</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5bcf54d-d28a-4892-91f9-8e86994197d7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5bcf54d-d28a-4892-91f9-8e86994197d7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5bcf54d-d28a-4892-91f9-8e86994197d7"/>
 </item>
 </channel></rss>
