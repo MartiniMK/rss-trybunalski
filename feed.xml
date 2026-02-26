@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 26 Feb 2026 19:11:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 20:59:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wandal wybił szybę w sklepie pod Piotrkowem. Na ile oszacowano straty? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wandal-wybil-szybe-w-sklepie-pod-piotrkowem-na-ile-oszacowano-straty/QCHQvmIggcMJyQmdPeV4</link>
+<guid isPermaLink="false">bdf898ac19476d878058450efe28eead662f9a58</guid>
+<pubDate>Thu, 26 Feb 2026 21:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" alt="miniatura"/></p><p>W środę, 25 lutego około godz. 22:00 policja otrzymała zgłoszenie, że w Rakowie Dużym (gmina Moszczenica) mężczyzna wybija szybę w sklepie. Na miejsce udali się funkcjonariusze, którzy nie zastali podejrzanego. Udali się więc w teren na poszukiwania wandala.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd"/>
+</item>
 <item>
 <title><![CDATA[ W Piotrkowie będą nowe sklepy i nowe miejsca pracy. Sprawdzamy oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-beda-nowe-sklepy-i-nowe-miejsca-pracy-sprawdzamy-oferty/CbAIO2YIMdHgXvTsYeVc</link>
@@ -2043,7 +2053,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i nowe miejsca pracy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i miejsca pracy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2133,7 +2143,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i nowe miejsca pracy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>W Piotrkowie będą nowe sklepy i miejsca pracy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/458aaf9e-dd3c-4223-94a8-1848fcb69b7a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/458aaf9e-dd3c-4223-94a8-1848fcb69b7a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/458aaf9e-dd3c-4223-94a8-1848fcb69b7a"/>
-</item>
-<item>
-<title><![CDATA[ Zakończono inwestycję za ponad 7 milionów w powiecie piotrkowskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zakonczono-inwestycje-za-ponad-7-milionow-w-powiecie-piotrkowskim/0mbEfcDnNilq4DiLs4HY</link>
-<guid isPermaLink="false">ceb6c00211216f59fd7ff6c2f86402a0b6519410</guid>
-<pubDate>Mon, 29 Dec 2025 18:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6" alt="miniatura"/></p><p>Inwestycja była realizowana przez Zarząd Dróg Wojewódzkich w Łodzi, który obecnie finalizuje procedury odbiorowe. Mimo zimowych warunków, roboty zakończono zgodnie z planem, a z nowej infrastruktury już korzystają mieszkańcy i kierowcy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/25cb4ee8-888e-47a9-b958-aa62a31ae6c6"/>
 </item>
 </channel></rss>
