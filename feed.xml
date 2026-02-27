@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Feb 2026 10:02:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 10:59:05 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Ogromna afera korupcyjna w Piotrkowie. Zatrzymano 4 osoby ]]></title>
@@ -1379,6 +1379,16 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/be2a5c4f-f188-4db6-bb22-fb46c125ce93"/>
 </item>
 <item>
+<title><![CDATA[ Nie żyje Mirosław Rękorajski. Związany był przez wiele lat z aresztem w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-zyje-miroslaw-rekorajski-zwiazany-byl-przez-wiele-lat-z-aresztem-w-piotrkowie/TbByIsBNXPabXiHqnRSL</link>
+<guid isPermaLink="false">c67d4ef9f0243576cf9b4374d105200a6f4987f9</guid>
+<pubDate>Wed, 04 Feb 2026 10:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437" alt="miniatura"/></p><p>Mirosław Rękorajski przez wiele lat był przedstawicielem Kościoła Zielonoświątkowego. Przez ponad 20 lat pełnił posługę religijną na rzecz osadzonych w Areszcie Śledczym w Piotrkowie Trybunalskim oraz Oddziale Zewnętrznym w Goleszach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437"/>
+</item>
+<item>
 <title><![CDATA[ Zmarł wieloletni dyrektor III LO w Piotrkowie Trybunalskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmarl-wieloletni-dyrektor-iii-lo-w-piotrkowie-trybunalskim/5bu585bdxb33jp8A49fm</link>
 <guid isPermaLink="false">bbec087b43cd310a5d2fe444fbe64a2e7daa7fd4</guid>
@@ -2053,7 +2063,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Ogromna afera korupcyjna w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Tragedia na drodze pod Bełchatowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2143,7 +2153,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Ogromna afera korupcyjna w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Tragedia na drodze pod Bełchatowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba9b2a4-c1fe-45f7-b0a7-8c2c045084be" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba9b2a4-c1fe-45f7-b0a7-8c2c045084be" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba9b2a4-c1fe-45f7-b0a7-8c2c045084be"/>
-</item>
-<item>
-<title><![CDATA[ Kolęda 2025/2026 w Piotrkowie. Zobacz, kiedy ksiądz zapuka do drzwi [30.12.25-03.01.26] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/koleda-20252026-w-piotrkowie-zobacz-kiedy-ksiadz-zapuka-do-drzwi-301225-030126/1hJUQmkq55HEPXEHlhCZ</link>
-<guid isPermaLink="false">0dd2112a21530546f58eff1a8265b433db3aeaf7</guid>
-<pubDate>Mon, 29 Dec 2025 20:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/491f30a4-f6c8-4186-bb85-9cfa2654a7fc" alt="miniatura"/></p><p>W dni powszednie kolęda rozpoczyna się od godz. 16:00, natomiast w sobotę oraz niedzielę od godz. 15:00.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/491f30a4-f6c8-4186-bb85-9cfa2654a7fc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/491f30a4-f6c8-4186-bb85-9cfa2654a7fc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/491f30a4-f6c8-4186-bb85-9cfa2654a7fc"/>
 </item>
 </channel></rss>
