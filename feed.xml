@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Feb 2026 19:49:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 20:45:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ II i III stopień alarmowy w woj. łódzkim i całej Polsce! Zarządzenie premiera wchodzi od 1 marca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/drugi-stopien-alarmowy-w-woj-lodzkim-i-calej-polsce-zarzadzenie-premiera-wchodzi-od-1-marca/fZyYCxvqPYQFiLfEyZjj</link>
+<guid isPermaLink="false">adf9cfc9b4d977e9a340ccfc1ba8870fb7b4b687</guid>
+<pubDate>Fri, 27 Feb 2026 20:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc" alt="miniatura"/></p><p>Premier Donald Tusk podpisał zarządzenia wydłużające obowiązywanie stopni alarmowych na terenie całej Polski. Do 31 maja 2026 roku utrzymane zostają drugi stopień alarmowy BRAVO oraz BRAVO-CRP. Dodatkowo na wybranych liniach kolejowych wprowadzono trzeci stopień alarmowy CHARLIE.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc"/>
+</item>
 <item>
 <title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł. Trwa seria wygranych w Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-200-mln-zl-trwa-seria-wygranych-w-lotto/btHhmyT4CfVpK6ppN3q3</link>
@@ -2113,7 +2123,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Najbogatsza gmina w Polsce to nie tylko węgiel.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Drugi stopień alarmowy w woj. łódzkim i całej Polsce!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2203,7 +2213,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Najbogatsza gmina w Polsce to nie tylko węgiel.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Drugi stopień alarmowy w woj. łódzkim i całej Polsce!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3277,15 +3287,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/738f34bd-468a-44b5-91e4-d4cffa7df747" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/738f34bd-468a-44b5-91e4-d4cffa7df747" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/738f34bd-468a-44b5-91e4-d4cffa7df747"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie ze sportowymi medalami. Podbijają kraj i zagranicę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-ze-sportowymi-medalami-podbijaja-kraj-i-zagranice/mIVJqKbcMjCPebMUgVIv</link>
-<guid isPermaLink="false">165064fafda02a877ab46bbc9b4987dee45fb397</guid>
-<pubDate>Wed, 31 Dec 2025 09:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f3df8a79-7b26-48c6-ba15-6308da604f46" alt="miniatura"/></p><p>W poniedziałek, 29 grudnia sportowcy z Piotrkowa Mateusz Danielak i Maksymilian Danielak spotkali się z władzami miasta. W rozmowach uczestniczyła także Dorota Danielak – mama zawodników i trenerka KKS Ruch Piotrków Trybunalski . Była to okazja do złożenia gratulacji za osiągnięcia sportowe, jakich dokonali w 2025 roku młodzi spotowcy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3df8a79-7b26-48c6-ba15-6308da604f46" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3df8a79-7b26-48c6-ba15-6308da604f46" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3df8a79-7b26-48c6-ba15-6308da604f46"/>
 </item>
 </channel></rss>
