@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Feb 2026 16:45:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 17:36:19 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Mogło dojść do tragedii. Kompletnie pijany kierowca wjechał w słup ]]></title>
