@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Feb 2026 13:11:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 14:38:50 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Mogło dojść do tragedii. Kompletnie pijany kierowca wjechał w słup ]]></title>
@@ -99,7 +99,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd"/>
 </item>
 <item>
-<title><![CDATA[ W Piotrkowie będą nowe sklepy i nowe miejsca pracy. Sprawdzamy oferty ]]></title>
+<title><![CDATA[ W Piotrkowie będą nowe sklepy i miejsca pracy. Sprawdzamy oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-beda-nowe-sklepy-i-nowe-miejsca-pracy-sprawdzamy-oferty/CbAIO2YIMdHgXvTsYeVc</link>
 <guid isPermaLink="false">e53fc4755c9e32cbe4dae00ae59aa91f5ba7aee9</guid>
 <pubDate>Thu, 26 Feb 2026 15:15:00 +0000</pubDate>
