@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 01 Mar 2026 20:45:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 21:40:16 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Najmniejsza wieś w Łódzkiem leży w naszym powiecie. A mieszkają tu tylko… 2 osoby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-a-mieszkaja-tu-tylko-2-osoby/kvDk1k2VcDVZ7ZgD8D0a</link>
+<guid isPermaLink="false">0485bded7e4e0b3e3bf8d36c6b83b53fd403f9ac</guid>
+<pubDate>Sun, 01 Mar 2026 22:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" alt="miniatura"/></p><p>Główny Urząd Statystyczny podsumował dane liczbowe z 2024 roku. Wyróżniono cztery miejscowości w Łódzkiem pod względem liczby zameldowanych mieszkańców. Jak można się domyślić, Łódź ma ich najwięcej, bo prawie 650 tysięcy. Najmniejsza pod tym względem zaś jest wieś położona w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec"/>
+</item>
 <item>
 <title><![CDATA[ Bieg Pamięci „Gaja” w Piotrkowie. Wystartowały całe rodziny [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/bieg-pamieci-gaja-w-piotrkowie-wystartowaly-cale-rodziny-zdjecia/1zkrh8rquNUthntZOAUk</link>
@@ -2153,7 +2163,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Bieg Pamięci „Gaja” w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem jest w naszym powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2243,7 +2253,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Bieg Pamięci „Gaja” w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem jest w naszym powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2569,16 +2579,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -2587,6 +2587,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61"/>
-</item>
-<item>
-<title><![CDATA[ Najlepsze życzenia sylwestrowe i na Nowy Rok 2026. Wyjątkowe i gotowe do wysłania SMS ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-sylwestrowe-i-na-nowy-rok-2026-wyjatkowe-i-gotowe-do-wyslania-sms/6egRlZaLIgMcCzHYIGYY</link>
-<guid isPermaLink="false">8e40c45c156fcc1467791168f50d285d3495c4dc</guid>
-<pubDate>Wed, 31 Dec 2025 16:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b9bd6c9b-1f54-472d-8391-10394e23bc63" alt="miniatura"/></p><p>Chcesz złożyć życzenia noworoczne swoim przyjaciołom i bliskim, ale nie masz pomysłu, co mógłyś napisać albo nienajlepiej Ci to wychodzi? Z naszą pomocą oryginalne życzenia możesz wysłać do każdego z osobna. Poniżej przedstawiamy zarówno krótkie, jak i nieco dłuższe życzenia na Nowy Rok 2026. Wystarczy, że wybierzesz te, które najbardziej Ci odpowiadają, skopiujesz i prześlesz dalej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9bd6c9b-1f54-472d-8391-10394e23bc63" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9bd6c9b-1f54-472d-8391-10394e23bc63" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9bd6c9b-1f54-472d-8391-10394e23bc63"/>
 </item>
 </channel></rss>
