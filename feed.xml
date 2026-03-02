@@ -6,18 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Mar 2026 11:07:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 11:47:10 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ Pitbull zagra koncert w naszym województwie? Tajemnicze nagranie obiegło sieć ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pitbull-zagra-koncert-w-naszym-wojewodztwie-tajemnicze-nagranie-obieglo-siec/UMw9VJIZTs65vT5HAc93</link>
-<guid isPermaLink="false">5e9127a6a43b65bd5b61078334d04ff84b2f435e</guid>
-<pubDate>Mon, 02 Mar 2026 11:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/18c50705-2887-4271-ab75-fdaeb9da8731" alt="miniatura"/></p><p>W opublikowanym materiale filmowym postać łudząco przypominająca Pitbull rozpoczyna swoją wędrówkę na dworcu Łódź Fabryczna. Następnie przechodzi przez rynek Manufaktury, gdzie w tle wyraźnie widać charakterystyczny budynek galerii, a później spaceruje reprezentacyjną ulicą Piotrkowską.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18c50705-2887-4271-ab75-fdaeb9da8731" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18c50705-2887-4271-ab75-fdaeb9da8731" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18c50705-2887-4271-ab75-fdaeb9da8731"/>
-</item>
 <item>
 <title><![CDATA[ Nowe trasy rowerowe w powiecie piotrkowskim i całym województwie. Wiadomo, gdzie powstaną ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-trasy-rowerowe-w-powiecie-piotrkowskim-i-calym-wojewodztwie-wiadomo-gdzie-powstana/DcZQxH7bht8eWrut3c2n</link>
@@ -2223,7 +2213,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pitbull zagra koncert w naszym województwie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pitbull zagra koncert w Łodzi?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2313,7 +2303,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pitbull zagra koncert w naszym województwie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pitbull zagra koncert w Łodzi?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3307,5 +3297,15 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688"/>
+</item>
+<item>
+<title><![CDATA[ To ostatnia szansa, by pomóc Milence. Wyznaczono termin operacji, brakuje pieniędzy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-ostatnia-szansa-by-pomoc-milence-wyznaczono-termin-operacji-brakuje-pieniedzy/kolHXSDYTSNdOS1bM4k9</link>
+<guid isPermaLink="false">54b05c3e5411173a53fd9bb4becaa6f7d716eee4</guid>
+<pubDate>Fri, 02 Jan 2026 12:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" alt="miniatura"/></p><p>Trwa zbiórka na rzecz małej Milenki – zaledwie trzyletniej dziewczynki, która choruje na wrodzoną wadę serca. W pomoc dziecku włączyło się wiele osób. Jednak jak się okazuje, wyścig z czasem wciąż trwa. Wyznaczono datę operacji w Stanach Zjednoczonych , ale bez brakującej kwoty klinika cofnie zgodę. Cała nadzieja runie w jednej chwili – mówią rodzice.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94"/>
 </item>
 </channel></rss>
