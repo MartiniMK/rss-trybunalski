@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Mar 2026 11:47:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 13:27:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mężczyzna w niebezpieczeństwie. Policja interweniowała w pustostanie w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/mezczyzna-w-niebezpieczenstwie-policja-interweniowala-w-pustostanie-w-piotrkowie/8QT0ItxXyIX7H4aIkuAA</link>
+<guid isPermaLink="false">22298d05416133b66f2188795b846bd78fc717e8</guid>
+<pubDate>Mon, 02 Mar 2026 14:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d" alt="miniatura"/></p><p>Policjanci V Kompanii OPP w Łodzi kontrolowali pustostany na terenie Piotrkowa. W jednym z nich natrafili na mężczyznę, który jak się okazało, potrzebował pomocy medycznej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d"/>
+</item>
 <item>
 <title><![CDATA[ Nowe trasy rowerowe w powiecie piotrkowskim i całym województwie. Wiadomo, gdzie powstaną ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-trasy-rowerowe-w-powiecie-piotrkowskim-i-calym-wojewodztwie-wiadomo-gdzie-powstana/DcZQxH7bht8eWrut3c2n</link>
@@ -2213,7 +2223,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pitbull zagra koncert w Łodzi?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Mężczyzna w niebezpieczeństwie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2303,7 +2313,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pitbull zagra koncert w Łodzi?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Mężczyzna w niebezpieczeństwie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2629,16 +2639,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2647,6 +2647,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3297,15 +3307,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d132dd3e-e09c-42c5-8098-ca31e33c5688"/>
-</item>
-<item>
-<title><![CDATA[ To ostatnia szansa, by pomóc Milence. Wyznaczono termin operacji, brakuje pieniędzy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-ostatnia-szansa-by-pomoc-milence-wyznaczono-termin-operacji-brakuje-pieniedzy/kolHXSDYTSNdOS1bM4k9</link>
-<guid isPermaLink="false">54b05c3e5411173a53fd9bb4becaa6f7d716eee4</guid>
-<pubDate>Fri, 02 Jan 2026 12:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" alt="miniatura"/></p><p>Trwa zbiórka na rzecz małej Milenki – zaledwie trzyletniej dziewczynki, która choruje na wrodzoną wadę serca. W pomoc dziecku włączyło się wiele osób. Jednak jak się okazuje, wyścig z czasem wciąż trwa. Wyznaczono datę operacji w Stanach Zjednoczonych , ale bez brakującej kwoty klinika cofnie zgodę. Cała nadzieja runie w jednej chwili – mówią rodzice.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/27debb44-3f9b-498a-b181-4c6bb9694e94"/>
 </item>
 </channel></rss>
