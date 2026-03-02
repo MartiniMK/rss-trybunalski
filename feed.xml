@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Mar 2026 15:01:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 16:00:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dwie osoby ranne w wypadku pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dwie-osoby-ranne-w-wypadku-pod-piotrkowem/LhxGXgeIS66AEELKsMwN</link>
+<guid isPermaLink="false">fdec9bbf2656f3cb3985f9eba4b802a75c6a1336</guid>
+<pubDate>Mon, 02 Mar 2026 16:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2" alt="miniatura"/></p><p>We wtorek, 2 marca około godz. 14:00 w miejscowości Kawęczyn, w gminie Aleksandrów doszło do wypadku drogowego. O przebiegu zdarzenia mówi piotrkowska policja.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2"/>
+</item>
+<item>
+<title><![CDATA[ Dziecko potrącone na pasach w Piotrkowie. Jechało na rowerze, jest ranne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-pasach-w-piotrkowie-jechalo-na-rowerze-jest-ranne/nzlbJhFHp53nHBdNQyZs</link>
+<guid isPermaLink="false">ff9b749f2f1bbdddb80d02bb45f5f567ce64132e</guid>
+<pubDate>Mon, 02 Mar 2026 16:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" alt="miniatura"/></p><p>Około godziny 14:00 u zbiegu ul. Dmowskiego i al. Armii Krajowej w Piotrkowie Trybunalskim doszło do niebezpieczne zdarzenia drogowego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59"/>
+</item>
 <item>
 <title><![CDATA[ Nowa dyrektor MOK w Piotrkowie. Z piotrkowską kulturą związana jest od 15 lat ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowa-dyrektor-mok-w-piotrkowie-z-piotrkowska-kultura-zwiazana-jest-od-15-lat/WhS9M8GFvoEDbdRkOaB9</link>
@@ -2243,7 +2263,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowa dyrektor MOK w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Dwie osoby ranne w wypadku pod Piotrkowem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2333,7 +2353,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowa dyrektor MOK w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Dwie osoby ranne w wypadku pod Piotrkowem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3297,25 +3317,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e"/>
-</item>
-<item>
-<title><![CDATA[ Dramat w Piotrkowie. Spłonął obiekt, ze środka strażacy wydobyli ciało ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-w-piotrkowie-splonal-obiekt-ze-srodka-strazacy-wydobyli-cialo/JImRXpJexC1A9lQwdzj9</link>
-<guid isPermaLink="false">73a4f23f66795180f7248e7f15093335cd99da2b</guid>
-<pubDate>Fri, 02 Jan 2026 18:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/574b1b65-ff55-4b47-9efc-76c3691e9830" alt="miniatura"/></p><p>Około godz. 16:00 na ul. Rakowskiej w Piotrkowie doszło do pożaru konternera. Na miejsce udały się dwa zastępy straży pożarnej. Wówczas służby nie wiedziały, że dojdzie do makanrycznego zdarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/574b1b65-ff55-4b47-9efc-76c3691e9830" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/574b1b65-ff55-4b47-9efc-76c3691e9830" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/574b1b65-ff55-4b47-9efc-76c3691e9830"/>
-</item>
-<item>
-<title><![CDATA[ Historia fantasy na ulicach Piotrkowa. Wkrótce premiera ]]></title>
-<link>https://trybunalski.pl/wiadomosci/historia-fantasy-na-ulicach-piotrkowa-wkrotce-premiera/AemARp8j0FAKgMSUNUpL</link>
-<guid isPermaLink="false">3f0209a7303a0f3e9582339e7211d480db8b1690</guid>
-<pubDate>Fri, 02 Jan 2026 15:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/18a8c3ef-ac1b-4283-94a6-131df71232a4" alt="miniatura"/></p><p>Nasze miasto wielokrotnie było inspiracją dla artystów i stawało się planem filmowym. Tym razem zaś jest miejscem akcji powieści napisanej przez Piotrkowiankę. „Wola Żmija” to drugi tom z trylogii pt. Dziedzictwo stróża Nawii. Losy bohaterów będą rozgrywać się właśnie w Piotrkowie, a także w Witowie. Jak informuje autorka, na kartach książki wspomniane są też takie miejsca jak Sulejów, Gomulin czy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18a8c3ef-ac1b-4283-94a6-131df71232a4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18a8c3ef-ac1b-4283-94a6-131df71232a4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18a8c3ef-ac1b-4283-94a6-131df71232a4"/>
 </item>
 </channel></rss>
