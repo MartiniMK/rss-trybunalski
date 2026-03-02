@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Mar 2026 07:20:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 09:05:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nie będzie prądu w powiecie piotrkowskim. Harmonogram na najbliższe dni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-powiecie-piotrkowskim-harmonogram-na-najblizsze-dni/oH3WeyGuQPjctnEZw67j</link>
+<guid isPermaLink="false">020f003e201220db024449099a1f449808e47aff</guid>
+<pubDate>Mon, 02 Mar 2026 09:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" alt="miniatura"/></p><p>Barkowice Mokre od 8:30 do 13:30</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de"/>
+</item>
 <item>
 <title><![CDATA[ Najmniejsza wieś w Łódzkiem leży w naszym powiecie. A mieszkają tu tylko… 2 osoby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-a-mieszkaja-tu-tylko-2-osoby/kvDk1k2VcDVZ7ZgD8D0a</link>
@@ -2163,7 +2173,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem jest w naszym powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nie będzie prądu w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2253,7 +2263,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem jest w naszym powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nie będzie prądu w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3287,15 +3297,5 @@
 <enclosure url="https://static.ddbelchatow.pl/galleries/02f871ad-2d62-4d8f-84b4-482ff36d6bf6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/galleries/02f871ad-2d62-4d8f-84b4-482ff36d6bf6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/galleries/02f871ad-2d62-4d8f-84b4-482ff36d6bf6"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowski urząd podpisał umowy. Ruszą prace na Bugaju ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowski-urzad-podpisal-umowy-rusza-prace-na-bugaju/AN5FJlh19IBDFZhyDYDE</link>
-<guid isPermaLink="false">289a090c7646453d73c6bb682d3a4fd04f998c3a</guid>
-<pubDate>Wed, 31 Dec 2025 19:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61" alt="miniatura"/></p><p>Pierwsza z umów została podpisana w Urzędzie Marszałkowskim Województwa Łódzkiego i dotyczy zagospodarowania terenów wokół Zbiornik Bugaj. Miasto pozyskało ponad 31 mln zł z Europejskiego Funduszu Rozwoju Regionalnego, a całkowity koszt inwestycji wyniesie około 46 mln zł .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fa4d28a-9bd8-4fae-959c-f07045ddcc61"/>
 </item>
 </channel></rss>
