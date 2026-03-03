@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Mar 2026 07:13:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 09:03:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar domu pod Piotrkowem. Na miejscu 6 zastępów straży ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-pod-piotrkowem-na-miejscu-6-zastepow-strazy/YYAJ398IDfPdNxtqdnEn</link>
+<guid isPermaLink="false">6d797bcaa8728de824cfc547246cf9bdb583c684</guid>
+<pubDate>Tue, 03 Mar 2026 09:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8b47e90e-f0cc-45a1-8ed0-b603aea5524f" alt="miniatura"/></p><p>Przed godz. 16:00 w m. Żywocin, w gminie Wolbórz w jednym z domów pojawił się ogień.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b47e90e-f0cc-45a1-8ed0-b603aea5524f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b47e90e-f0cc-45a1-8ed0-b603aea5524f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b47e90e-f0cc-45a1-8ed0-b603aea5524f"/>
+</item>
 <item>
 <title><![CDATA[ Dwie osoby ranne w wypadku pod Piotrkowem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dwie-osoby-ranne-w-wypadku-pod-piotrkowem/LhxGXgeIS66AEELKsMwN</link>
@@ -3307,15 +3317,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1414b81-afda-4308-a187-4de7e6e664ba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1414b81-afda-4308-a187-4de7e6e664ba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1414b81-afda-4308-a187-4de7e6e664ba"/>
-</item>
-<item>
-<title><![CDATA[ Pierwszy Piotrkowianin urodzony w 2026 roku. Gratulujemy rodzicom! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pierwszy-piotrkowianin-urodzony-w-2026-roku/816zJAMBTzbBEBQoyskH</link>
-<guid isPermaLink="false">0f921f0a4231cf2d48f71db1ba44aad5bc71d5c4</guid>
-<pubDate>Sat, 03 Jan 2026 12:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e" alt="miniatura"/></p><p>W Samodzielnym Szpitalu Wojewódzkim im. M. Kopernika w Piotrkowie Trybunalskim na świat przyszedł pierwszy Piotrkowianin. Chłopiec otrzymał specjalną wyprawkę z Urzędu Marszałkowskiego w Łodzi, jako pierwszy urodzony mieszkaniec miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/88209c8a-7a1f-4dcd-b618-98244a2a450e"/>
 </item>
 </channel></rss>
