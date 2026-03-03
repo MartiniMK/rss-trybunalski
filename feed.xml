@@ -6,18 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Mar 2026 18:03:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 20:49:39 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ Stawki za egzamin na prawo jazdy w WORD w Piotrkowie. Ile w 2026 roku zapłacą przyszli kierowcy? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/stawki-za-egzamin-na-prawo-jazdy-w-word-w-piotrkowie-ile-w-2026-roku-zaplaca-przyszli-kierowcy/9Ezf1QEqujMekjSeBK9h</link>
-<guid isPermaLink="false">dca90bdb444969f1400e20e518cc8261ee6caac6</guid>
-<pubDate>Tue, 03 Mar 2026 15:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f78c5d8c-9e92-41d8-98dc-d29abcaaa2a1" alt="miniatura"/></p><p>Jeszcze na początku 2025 roku przyszli kierowcy mogli liczyć na niższe opłaty egzaminów – teoria kosztowała równe 50 zł, a ceny za praktykę zaczynały się od 170 zł. Sytuacja zmieniła się w lutym ubiegłego roku, kiedy to Sejmik Województwa Łódzkiego przyjął uchwałę określającą nowe stawki. Ile przyszli kierowcy zapłacą w Piotrkowie Trybunalskim?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f78c5d8c-9e92-41d8-98dc-d29abcaaa2a1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f78c5d8c-9e92-41d8-98dc-d29abcaaa2a1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f78c5d8c-9e92-41d8-98dc-d29abcaaa2a1"/>
-</item>
 <item>
 <title><![CDATA[ Nowa przestrzeń rekreacyjna w Piotrkowie? Przeszkodziła decyzja konserwatora ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowa-przestrzen-rekreacyjna-w-piotrkowie-przeszkodzila-decyzja-konserwatora/Uf0BkEi7IAJwlKmZyvYA</link>
@@ -49,7 +39,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8f7ab5e-59a5-4301-9397-01f935c316c3"/>
 </item>
 <item>
-<title><![CDATA[ Znana sieć zatrudnia w Piotrkowie. Znamy stawki i wymagania ]]></title>
+<title><![CDATA[ Niemiecki gigant zatrudnia w Łódzkiem. Znamy stawki i wymagania ]]></title>
 <link>https://trybunalski.pl/wiadomosci/znana-siec-zatrudnia-w-piotrkowie-znamy-stawki-i-wymagania/o6wxDlP5CaX36cgKELVK</link>
 <guid isPermaLink="false">ebc5ef35faafd1ce110e5452a5f954608a04e8e7</guid>
 <pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
@@ -3327,5 +3317,15 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/008f9e0c-2684-4441-a789-ca73cb642368" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/008f9e0c-2684-4441-a789-ca73cb642368" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/008f9e0c-2684-4441-a789-ca73cb642368"/>
+</item>
+<item>
+<title><![CDATA[ Odeszli w ostatnim czasie. Pogrzeby w Piotrkowie Trybunalskim [NEKROLOGI] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/odeszli-w-ostatnim-czasie-pogrzeby-w-piotrkowie-trybunalskim-nekrologi/cu7OkGIKZlow5Cy4tEoA</link>
+<guid isPermaLink="false">ec65f34e891f3e03ec1e442035c963f60fe5e2ad</guid>
+<pubDate>Mon, 05 Jan 2026 11:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea457661-5a13-4131-b476-039706dd500c" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 7 stycznia 2026 roku o godz. 11:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea457661-5a13-4131-b476-039706dd500c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea457661-5a13-4131-b476-039706dd500c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea457661-5a13-4131-b476-039706dd500c"/>
 </item>
 </channel></rss>
