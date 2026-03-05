@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 05 Mar 2026 13:27:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 15:03:58 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dojdzie do strajku w piotrkowskim MZK? Związkowcy postawili sprawę jasno, a prezes spółki... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/moze-dojsc-do-strajku-w-piotrkowskim-mzk-zwiazkowcy-postawili-sprawe-jasno-a-prezes-spolki/gD1xxv3iUwscrA7DgG1G</link>
+<guid isPermaLink="false">16c6c73b0e4ef09fedefc6ec1c82356030c3c520</guid>
+<pubDate>Thu, 05 Mar 2026 15:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700" alt="miniatura"/></p><p>Od września 2025 roku Miejskim Zakładem Komunikacyjnym w Piotrkowie Trybunalskim zarządza Cezary Włodarczyk. Nowy prezes przejął tę funkcję po niespodziewanej rezygnacji Andrzeja Dziewanowskiego, który szefem spółki był jedynie dwa miesiące.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700"/>
+</item>
+<item>
+<title><![CDATA[ Polski gigant rekrutuje pod Piotrkowem. Jakie są wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polski-gigant-rekrutuje-pod-piotrkowem-jakie-sa-wymagania/h8l8wA6uwrOed3fkIN53</link>
+<guid isPermaLink="false">ac5edbdfd3772ed598d7344da82857caa7a69da3</guid>
+<pubDate>Thu, 05 Mar 2026 15:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" alt="miniatura"/></p><p>Polski gigant w branży meblowej i wyposażenia wnętrz poszukuje pracowników w powiecie piotrkowskim. Sprawdzamy oferty i wymagania stawiane przez pracodawcę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468"/>
+</item>
+<item>
+<title><![CDATA[ Powstał ranking depopulacji. Na którym miejscu Piotrków? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/powstal-ranking-depopulacji-na-ktorym-miejscu-piotrkow/L62DaHiJjUCugoEaGAs3</link>
+<guid isPermaLink="false">b7d08d7ec39b53fa377547de2243003adbaaea51</guid>
+<pubDate>Thu, 05 Mar 2026 14:49:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" alt="miniatura"/></p><p>Po 2020 roku liczba ludności Polski weszła w fazę spadkową, co przedstawia ranking depopulacji gmin za lata 2009-2024 . Takie zestawienie przygotowało pismo „Wspólnota”. W analizie ukazano, że depopulacja nie jest zjawiskiem jedynie miejscowym, a przerodziła się w trend ogólnokrajowy . O ile jeszcze dekadę temu można było mówić o lokalnych ogniskach wyludniania, dziś dotyczy ono już zdecydowanej w…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d"/>
+</item>
 <item>
 <title><![CDATA[ Verba zagra dziś w Piotrkowie. Zostały jeszcze bilety ]]></title>
 <link>https://trybunalski.pl/wiadomosci/verba-zagra-dzis-w-piotrkowie-zostaly-jeszcze-bilety/5CdhTXX28mLNpHMzmb7n</link>
@@ -2413,7 +2443,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Najbogatsza gmina w Polsce szuka pracownika.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Dojdzie do strajku w piotrkowskim MZK?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2503,7 +2533,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Najbogatsza gmina w Polsce szuka pracownika.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Dojdzie do strajku w piotrkowskim MZK?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2829,16 +2859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2847,6 +2867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3287,35 +3317,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/15259f63-6b29-4d0b-beb2-6031e37050e9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/15259f63-6b29-4d0b-beb2-6031e37050e9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15259f63-6b29-4d0b-beb2-6031e37050e9"/>
-</item>
-<item>
-<title><![CDATA[ Mini rondo za 100 tysięcy czy pełna przebudowa za miliony? Nowe plany na skrzyżowanie w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mini-rondo-za-100-tysiecy-czy-pelna-przebudowa-za-miliony-nowe-plany-na-skrzyzowanie-w-piotrkowie/pCmFhSCorFuzak3BEp9U</link>
-<guid isPermaLink="false">69877325f1fbccb52cbe24f1bc99669e59a9555c</guid>
-<pubDate>Wed, 07 Jan 2026 15:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d69af802-9d61-49c3-83b5-4f81aa900d8a" alt="miniatura"/></p><p>Czy w Piotrkowie powinno powstać nowe rondo? Rozwiązanie miałoby poprawić bezpieczeństwo, a także płynność ruchu. Okazuje się, że istnieją dwie możliwości i decyzja do podjęcia – mini rondo za 100 tysięcy czy pełna przebudowa za miliony?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d69af802-9d61-49c3-83b5-4f81aa900d8a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d69af802-9d61-49c3-83b5-4f81aa900d8a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d69af802-9d61-49c3-83b5-4f81aa900d8a"/>
-</item>
-<item>
-<title><![CDATA[ Jest nowy prezes Piotrkowskich Wodociągów. Kto pokieruje spółką? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-nowy-prezes-piotrkowskich-wodociagow-kto-pokieruje-spolka/XLZaNvFtLFDA9S2c0oKv</link>
-<guid isPermaLink="false">6e99549535ad7d8e68b69c7f3938d21690dceab6</guid>
-<pubDate>Wed, 07 Jan 2026 14:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e9465184-a6fc-4b2f-8dc2-c1669ea09aa9" alt="miniatura"/></p><p>W środę, 7 stycznia Urząd Miasta Piotrkowa Trybunalskiego poinformował o zmianie na stanowisku prezesa Piotrkowskich Wodociągów i Kanalizacji. Kto pokieruje spółką?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9465184-a6fc-4b2f-8dc2-c1669ea09aa9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9465184-a6fc-4b2f-8dc2-c1669ea09aa9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9465184-a6fc-4b2f-8dc2-c1669ea09aa9"/>
-</item>
-<item>
-<title><![CDATA[ Alert II stopnia w powiecie piotrkowskim. Stan rzeki niebezpiecznie się podnosi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/alert-ii-stopnia-w-powiecie-piotrkowskim-stan-rzeki-niebezpiecznie-sie-podnosi/e3hfyYqDHTvcr01JHryD</link>
-<guid isPermaLink="false">b2bbc7970a080a3d7c6002a7be39243817447dae</guid>
-<pubDate>Wed, 07 Jan 2026 14:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4b1601c4-bb8e-4288-b7b4-78e20a36acdd" alt="miniatura"/></p><p>Zjawisko to jest wynikiem rozwoju zatoru lodowego, który powoduje gwałtowne podnoszenie się stanu rzeki. Prognozy wskazują, że w najbliższej dobie poziom wody będzie nadal rosnąć, a stan ostrzegawczy może zostać przekroczony.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b1601c4-bb8e-4288-b7b4-78e20a36acdd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b1601c4-bb8e-4288-b7b4-78e20a36acdd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b1601c4-bb8e-4288-b7b4-78e20a36acdd"/>
 </item>
 </channel></rss>
