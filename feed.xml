@@ -6,10 +6,40 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Mar 2026 13:23:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 14:54:57 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Nowy element w egzaminach na prawo jazdy. Będzie kolejny test - to wymóg unijny ]]></title>
+<title><![CDATA[ Miała tylko zadzwonić. Finalnie zwiała z telefonem i grozi jej więzienie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/miala-tylko-zadzwonic-finalnie-zwiala-z-telefonem-i-grozi-jej-wiezienie/RlDvnX2HQO8iJ13Mo6CP</link>
+<guid isPermaLink="false">a6b3a409255d981e4963e46fc18bbc3f51acc2ea</guid>
+<pubDate>Fri, 06 Mar 2026 15:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0731b3c-8173-4641-8242-9bf66631b770" alt="miniatura"/></p><p>Jak przekazała dziś (6 marca) piotrkowska policja w niedzielę, 1 marca do jednego z pokoi w hostelu zapukała 45-latka, która poprosiła 34-latka, by ten pozwolił jej zadzwonić z jego telefonu. Mężczyzna zgodził się.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0731b3c-8173-4641-8242-9bf66631b770" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0731b3c-8173-4641-8242-9bf66631b770" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0731b3c-8173-4641-8242-9bf66631b770"/>
+</item>
+<item>
+<title><![CDATA[ Pijany kierowca zatrzymany na A1 pod Piotrkowem. Sąd odbierze mu samochód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pijany-kierowca-zatrzymany-na-a1-pod-piotrkowem-sad-odbierze-mu-samochod/IxXXrcFPJz8VBgyCxhAb</link>
+<guid isPermaLink="false">1d96c99754e83433b4005e810a3bc77a438cff81</guid>
+<pubDate>Fri, 06 Mar 2026 15:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d453f15c-5e65-42e2-936d-d7fd3fef9ade" alt="miniatura"/></p><p>W czwartek, 5 marca policjanci otrzymali informację, że na autostradzie A1 prawdopodobnie znajduje się pijany kierowca. Na miejsce udali się funkcjonariusze Wydziału Ruchu Drogowego z Piotrkowa Trybunalskiego, którym udało się zatrzymać pojazd do kontroli.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d453f15c-5e65-42e2-936d-d7fd3fef9ade" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d453f15c-5e65-42e2-936d-d7fd3fef9ade" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d453f15c-5e65-42e2-936d-d7fd3fef9ade"/>
+</item>
+<item>
+<title><![CDATA[ Motoryzacyjna impreza pod Piotrkowem. Co w planach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/motoryzacyjna-impreza-pod-piotrkowem-co-w-planach/hOVh8WIN5KDJlKpAeixG</link>
+<guid isPermaLink="false">a7917f98f8b849cda0d028b51de178df6c823d9f</guid>
+<pubDate>Fri, 06 Mar 2026 14:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/524c860c-e4b1-4c4d-8261-5b0aff4de318" alt="miniatura"/></p><p>Chociaż Dzień Kobiet obchodzimy 8 marca, w naszym regionie jeszcze tydzień później można spodziewać się świętowania. W powiecie piotrkowskim odbędzie się motoryzacyjna impreza, podczas której chętni będą mogli sprawdzić swoje umiejętności za kółkiem. Co w planach?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/524c860c-e4b1-4c4d-8261-5b0aff4de318" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/524c860c-e4b1-4c4d-8261-5b0aff4de318" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/524c860c-e4b1-4c4d-8261-5b0aff4de318"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w egzaminach na prawo jazdy. Będzie kolejny test - to wymóg unijny ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-element-w-egzaminach-na-prawo-jazdy-bedzie-kolejny-test-to-wymog-unijny/9nNFyW1FgWXEcpDHaYSe</link>
 <guid isPermaLink="false">e493faf32cac1e72e2515aa6987b11802fd72917</guid>
 <pubDate>Fri, 06 Mar 2026 13:31:00 +0000</pubDate>
@@ -79,7 +109,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3bc122e-bdfb-4f0f-82f2-10351b2198ba"/>
 </item>
 <item>
-<title><![CDATA[ Wyjątkowa inwestycja na "Kopcu"... Mieszkańcy powiatu skorzystają jeszcze w tym roku ]]></title>
+<title><![CDATA[ Wyjątkowa inwestycja na "Kopcu"... Mieszkańcy skorzystają jeszcze w tym roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wyjatkowa-inwestycja-na-kopcu-mieszkancy-powiatu-skorzystaja-jeszcze-w-tym-roku/1hu2HRYfYsT7TD3UgtQc</link>
 <guid isPermaLink="false">a863845c4a3cf48a73294893412b7c55d94d0daa</guid>
 <pubDate>Fri, 06 Mar 2026 10:22:00 +0000</pubDate>
@@ -2533,7 +2563,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowy element w egzaminach na prawo jazdy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pijany kierowca zatrzymany na A1 pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2623,7 +2653,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowy element w egzaminach na prawo jazdy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pijany kierowca zatrzymany na A1 pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2949,16 +2979,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2967,6 +2987,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3317,35 +3347,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627"/>
-</item>
-<item>
-<title><![CDATA[ Zakonnicy założyli tu pierwszy klasztor już w XII wieku. Zaczęło się od trzech mnichów z Francji [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zakonnicy-zalozyli-tu-pierwszy-klasztor-juz-w-xii-wieku-zaczelo-sie-od-trzech-mnichow-z-francji-zdjecia/wOeTWkH0dwgVe5XWXe4G</link>
-<guid isPermaLink="false">4c6ca7646d78aa39c040d8cfbb41dfb27e7fdf1c</guid>
-<pubDate>Thu, 08 Jan 2026 18:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e51b248d-c579-441b-8abe-0d1f0a6e6f9c" alt="miniatura"/></p><p>Zakonnicy w Witowie pojawili się już około 1179 roku. Wtedy to mieli pojawić się pierwsi trzej mnisi z Francji, namówieni na wyprawę do Polski przez biskupa płockiego Wita z Chotla. Duchowny ufundował pierwszy, średniowieczny klasztor dla Norbertanów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e51b248d-c579-441b-8abe-0d1f0a6e6f9c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e51b248d-c579-441b-8abe-0d1f0a6e6f9c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e51b248d-c579-441b-8abe-0d1f0a6e6f9c"/>
-</item>
-<item>
-<title><![CDATA[ Kierowcy z Łódzkiego mogą się zdziwić. Wystarczy przekroczyć prędkość o 1 km by dostać mandat. Ile? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kierowcy-z-lodzkiego-moga-sie-zdziwic-wystarczy-przekroczyc-predkosc-o-1-km-by-dostac-mandat-ile/5BIc50qM8BdSCxAaMQKE</link>
-<guid isPermaLink="false">69e234b619375a7d40a8997e7901d88c295c18c1</guid>
-<pubDate>Thu, 08 Jan 2026 18:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7d7d92cd-c40b-4527-9180-3f0280ffffec" alt="miniatura"/></p><p>W praktyce drogowej jeden kilometr na godzinę może mieć bardzo realne konsekwencje finansowe i administracyjne . Taryfikator mandatów w Polsce jest skonstruowany progowo, co oznacza, że przekroczenie nawet o 1 km/h ponad określony próg skutkuje automatycznie wyższą karą .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d7d92cd-c40b-4527-9180-3f0280ffffec" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d7d92cd-c40b-4527-9180-3f0280ffffec" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d7d92cd-c40b-4527-9180-3f0280ffffec"/>
-</item>
-<item>
-<title><![CDATA[ Jaka będzie nowa hala sportowo-widowiskowa w Piotrkowie? Rusza konkurs ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jaka-bedzie-nowa-hala-sportowo-widowiskowa-w-piotrkowie-rusza-konkurs/BMGGoneYYyMTs1OnrDGo</link>
-<guid isPermaLink="false">d5c01eb1177d9e943f826a4f1073d26d7ec75490</guid>
-<pubDate>Thu, 08 Jan 2026 15:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bff571cf-489b-4551-9746-722558226b1f" alt="miniatura"/></p><p>Z końcem 2024 roku miasto wykupiło tereny przy ulicy Wierzejskiej. Właśnie tam ma powstać nowa hala sportowo-widowiskowa w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bff571cf-489b-4551-9746-722558226b1f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bff571cf-489b-4551-9746-722558226b1f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bff571cf-489b-4551-9746-722558226b1f"/>
 </item>
 </channel></rss>
