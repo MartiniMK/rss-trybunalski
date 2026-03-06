@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Mar 2026 09:59:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 10:57:32 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ekshibicjonista grasuje w Piotrkowie. Mieszkańcy ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ekshibicjonista-grasuje-w-piotrkowie-mieszkancy-ostrzegaja/M0yTiJYZNxuC3flf1hir</link>
+<guid isPermaLink="false">7900c3668dd1ab3038dd05d1af9d95ece77ef223</guid>
+<pubDate>Fri, 06 Mar 2026 11:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a3bc122e-bdfb-4f0f-82f2-10351b2198ba" alt="miniatura"/></p><p>Na facebookowych grupach zrzeszających Piotrkowian pojawiły się posty przestrzegające przed ekshibicjonistą. Zamaskowany mężczyzna miał onanizować się w miejscu publicznym, również w okolicach szkół. Mieszkańcy martwią się o bezpieczeństwo swoje oraz dzieci i apelują o ostrożność.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3bc122e-bdfb-4f0f-82f2-10351b2198ba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3bc122e-bdfb-4f0f-82f2-10351b2198ba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3bc122e-bdfb-4f0f-82f2-10351b2198ba"/>
+</item>
 <item>
 <title><![CDATA[ Wyjątkowa inwestycja na "Kopcu"... Mieszkańcy powiatu skorzystają jeszcze w tym roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wyjatkowa-inwestycja-na-kopcu-mieszkancy-powiatu-skorzystaja-jeszcze-w-tym-roku/1hu2HRYfYsT7TD3UgtQc</link>
@@ -2463,7 +2473,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wyjątkowa inwestycja na "Kopcu"...</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Ekshibicjonista grasuje w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2553,7 +2563,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wyjątkowa inwestycja na "Kopcu"...</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Ekshibicjonista grasuje w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
