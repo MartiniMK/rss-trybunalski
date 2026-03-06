@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Mar 2026 02:51:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 04:56:35 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Dojdzie do strajku w piotrkowskim MZK? Związkowcy postawili sprawę jasno, a prezes spółki... ]]></title>
