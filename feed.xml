@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 07 Mar 2026 11:36:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 13:13:32 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Giełda staroci w naszym mieście. Co można było kupić na miejskim bazarze w sobotę? [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gielda-staroci-w-naszym-miescie-co-mozna-bylo-kupic-na-miejskim-bazarze-w-sobote-zdjecia/x7ivn6OkwtD5koHnnnK8</link>
+<guid isPermaLink="false">1698fea669f8dc83560778ebbe380fb069cf8249</guid>
+<pubDate>Sat, 07 Mar 2026 13:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4" alt="miniatura"/></p><p>7 marca, w sobotnie przedpołudnie Piotrkowianie wybrali się na giełdę przy ul. Dmowskiego. Miłośnicy wystroju wnętrz mogli przebierać w meblach, kompletnych zastawach stołowych, starych zegarach czy obrazach, które pozwalają urządzić mieszkanie z dala od sieciówkowej powtarzalności. Znalazło się też coś dla kolekcjonerów – znaczki, przypinki czy monety.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4"/>
+</item>
 <item>
 <title><![CDATA[ To była jedna z pierwszych galerii handlowych w Łódzkiem. Powstała ponad 100 lat temu za amerykańskie dolary [ZDJECIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia/to-byla-jedna-z-pierwszych-galerii-handlowych-w-lodzkiem-powstala-ponad-100-lat-temu-zdjecia/fRAjTtgv7xSQgXzhm3ZW</link>
@@ -2573,7 +2583,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Trzynasta emerytura 2026 – ile wyniesie i kto dostanie świadczenie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>To była pierwsza galeria handlowa w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2663,7 +2673,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Trzynasta emerytura 2026 – ile wyniesie i kto dostanie świadczenie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>To była pierwsza galeria handlowa w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2989,16 +2999,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -3007,6 +3007,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3327,15 +3337,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f297f98-d6f4-4434-92ac-8f483f705c15" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f297f98-d6f4-4434-92ac-8f483f705c15" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f297f98-d6f4-4434-92ac-8f483f705c15"/>
-</item>
-<item>
-<title><![CDATA[ Szturm rolników na Warszawę zatrzymany? Pokazali nagrania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/szturm-rolnikow-na-warszawe-zatrzymany-pokazali-nagrania/jn2SjEjfiumCUDkSXKbb</link>
-<guid isPermaLink="false">77b623e3a4999485c3b73bccd6a3a061ee7d2c21</guid>
-<pubDate>Fri, 09 Jan 2026 12:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0" alt="miniatura"/></p><p>Rolnicy wyszli na ulice. W piątek, 9 stycznia w Warszawie odbywa się protest przeciwko umowie UE – Mercosur. Zakłada ona zniesienie barier handlowych dla łatwiejszego przepływu towarów z Brazylii, Argentyny czy Paragwaju. Porozumienie to budzi zastrzeżenia rolników, którzy wyrażają obawy o bezpieczeństwo żywnościowe kraju czy brak opłacalności prowadzenia gospodarstwa. Do stolicy ruszyli także pik…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0"/>
 </item>
 </channel></rss>
