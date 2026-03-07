@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 07 Mar 2026 07:45:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 08:50:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ To była jedna z pierwszych galerii handlowych w Łódzkiem. Powstała ponad 100 lat temu za amerykańskie dolary [ZDJECIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/to-byla-jedna-z-pierwszych-galerii-handlowych-w-lodzkiem-powstala-ponad-100-lat-temu-zdjecia/fRAjTtgv7xSQgXzhm3ZW</link>
+<guid isPermaLink="false">0f33e5cda53bbbf804e9f13c00dfec056775cbb6</guid>
+<pubDate>Sat, 07 Mar 2026 09:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" alt="miniatura"/></p><p>Pierwsza piotrkowska galeria handlowa - hala targowa wybudowana została przez amerykańską Spółkę Ulen & Company w latach 1925-1927. Obiekt powstał na kredyt i kosztował miasto około 1,7 mln dolarów . Kurs wynosił wówczas 8,9 zł za dolara. To tak zwana pożyczka ulenowska, jakiej udzielała firma Ulen & Company polskim miastom na rozwój infrastruktury. Była jedną z największych piotrkowskich inwesty…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746"/>
+</item>
 <item>
 <title><![CDATA[ Miała tylko zadzwonić. Finalnie zwiała z telefonem i grozi jej więzienie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/miala-tylko-zadzwonic-finalnie-zwiala-z-telefonem-i-grozi-jej-wiezienie/RlDvnX2HQO8iJ13Mo6CP</link>
@@ -2563,7 +2573,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pijany kierowca zatrzymany na A1 pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Trzynasta emerytura 2026 – ile wyniesie i kto dostanie świadczenie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2653,7 +2663,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pijany kierowca zatrzymany na A1 pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Trzynasta emerytura 2026 – ile wyniesie i kto dostanie świadczenie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -2979,16 +2989,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -2997,6 +2997,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3327,25 +3337,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/04224bf8-3170-4e43-bdeb-aeb6539c72d0"/>
-</item>
-<item>
-<title><![CDATA[ Władysław Łokietek oprowadzi po Piotrkowie. Piotrkowscy studenci tworzą aplikację dla turystów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wladyslaw-lokietek-oprowadzi-po-piotrkowie-piotrkowscy-studenci-tworza-aplikacje-dla-turystow/MIrGtzyBN0BabTyLRvXm</link>
-<guid isPermaLink="false">1392b701b770b8651ed3b5c8883a3a0251b2a7e2</guid>
-<pubDate>Fri, 09 Jan 2026 11:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1abc4e4f-1015-4805-aba7-9f1b6e5d9dff" alt="miniatura"/></p><p>Projekt realizowany przez studentów Akademi Piotrkowskiej zakłada stworzenie interaktywnej aplikacji, dzięki której użytkownicy będą mogli poznawać historię regionu podczas spacerów i wycieczek. Narzędzie ma prowadzić turystów po wyznaczonych trasach, prezentując zabytki, miejsca ważne historycznie oraz opowieści związane z danym terenem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1abc4e4f-1015-4805-aba7-9f1b6e5d9dff" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1abc4e4f-1015-4805-aba7-9f1b6e5d9dff" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1abc4e4f-1015-4805-aba7-9f1b6e5d9dff"/>
-</item>
-<item>
-<title><![CDATA[ Zginęło 9 osób, 188 było rannych. Piotrkowska policja przekazała szokujące dane ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zginelo-9-osob-188-bylo-rannych-piotrkowska-policja-przekazala-szokujace-dane/0clYwYvIVvRztPnej1nr</link>
-<guid isPermaLink="false">dcacb07b691ef5673c26124d651a815ade75f650</guid>
-<pubDate>Fri, 09 Jan 2026 11:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627" alt="miniatura"/></p><p>Na terenie Piotrkowa Trybunalskiego i powiatu piotrkowskiego w minionym 2025 roku policjanci mieli ręce pełne pracy. Odnotowano dużą liczbę wypadków drogowych i kolizji. Niestety, doszło także do wypadków ze skutkiem śmiertelnym. Policjanci skontrolowali trzeźwość 29 745 kierowców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b554dc5-85c6-4b82-9310-3457a7a62627"/>
 </item>
 </channel></rss>
