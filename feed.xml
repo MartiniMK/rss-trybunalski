@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 09 Mar 2026 08:02:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 09:05:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja strażaków pod Piotrkowem. Na miejscu trzy zastępy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-strazakow-pod-piotrkowem-na-miejscu-trzy-zastepy/IvAaBtBWOMc5vY8RT0rH</link>
+<guid isPermaLink="false">5601c4a29782b4735b6f4c14d9634533f053ae1d</guid>
+<pubDate>Mon, 09 Mar 2026 09:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4692e7e7-476a-4b7a-b6d5-cab3359b5ff0" alt="miniatura"/></p><p>W niedzielę, 8 marca w Siomkach, w gminie Wola Krzysztoporska wybuchł pożar. Zgłoszenie wpłynęło do dyżurnego o godz. 17:19. Na miejsce ruszyli strażacy. Okazuje się, że doszło do pożaru budynku gospodarczego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4692e7e7-476a-4b7a-b6d5-cab3359b5ff0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4692e7e7-476a-4b7a-b6d5-cab3359b5ff0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4692e7e7-476a-4b7a-b6d5-cab3359b5ff0"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin odebrał bolesną lekcję w Kaliszu! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-odebral-bolesna-lekcje-w-kaliszu/hrW0aVvMzKN95lLzcbEO</link>
@@ -2603,7 +2613,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Piotrkowianin wraca z Kalisza na tarczy!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Akcja strażaków pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2693,7 +2703,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Piotrkowianin wraca z Kalisza na tarczy!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Akcja strażaków pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3337,15 +3347,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0"/>
-</item>
-<item>
-<title><![CDATA[ Market Dino obniżył ceny wielu produktów. Ogórek i kawa hitami cenowymi [Lista Promocji] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/market-dino-obnizyl-ceny-wielu-produktow-ogorek-i-kawa-hitami-cenowymi-lista-promocji/dlv7C8RxK1omjwhizUih</link>
-<guid isPermaLink="false">478ce58a574812abe1b90906ce3894548b72889c</guid>
-<pubDate>Fri, 09 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0c8f806c-df66-4619-a65d-f85f27fe2345" alt="miniatura"/></p><p>Początek stycznia to dobry moment na uzupełnienie zapasów owoców i warzyw. Dino oferuje wiele produktów z kategorii świeżych w atrakcyjnych cenach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0c8f806c-df66-4619-a65d-f85f27fe2345" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0c8f806c-df66-4619-a65d-f85f27fe2345" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0c8f806c-df66-4619-a65d-f85f27fe2345"/>
 </item>
 </channel></rss>
