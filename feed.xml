@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 09 Mar 2026 09:05:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 10:12:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie będzie bezpieczniej? Miasto ogłosiło przetarg ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-bedzie-bezpieczniej-miasto-oglosilo-przetarg/BVpwqANdmiUoKRVJ538c</link>
+<guid isPermaLink="false">2863f17c4e735c04f9934e6f9617c251bf27664e</guid>
+<pubDate>Mon, 09 Mar 2026 10:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a88e6d44-9f24-4411-b07b-3ee3965c2b7d" alt="miniatura"/></p><p>Szykuje się kolejna modernizacja w naszym mieście. Tym razem chodzi o bezpieczeństwo w ruchu drogowym, a w szczególności pieszych. Zarząd Dróg i Utrzymania Miasta ogłosił przetarg na doświetlenie przejść.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a88e6d44-9f24-4411-b07b-3ee3965c2b7d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a88e6d44-9f24-4411-b07b-3ee3965c2b7d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a88e6d44-9f24-4411-b07b-3ee3965c2b7d"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek w Piotrkowie Trybunalskim. Kierowca z impetem uderzył w drzewo ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-w-piotrkowie-trybunalskim-kierowca-z-impetem-uderzyl-w-drzewo/DO2YBrN8oGV1hDB4gr2A</link>
+<guid isPermaLink="false">f51586799503d1c7922642cec6931b1c3c143841</guid>
+<pubDate>Mon, 09 Mar 2026 10:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a5808f3a-300b-404c-9336-e1741c26a603" alt="miniatura"/></p><p>W niedzielę, 8 marca około godz. 22:40 w Piotrkowie miał miejsce wypadek drogowy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a5808f3a-300b-404c-9336-e1741c26a603" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a5808f3a-300b-404c-9336-e1741c26a603" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a5808f3a-300b-404c-9336-e1741c26a603"/>
+</item>
 <item>
 <title><![CDATA[ Akcja strażaków pod Piotrkowem. Na miejscu trzy zastępy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-strazakow-pod-piotrkowem-na-miejscu-trzy-zastepy/IvAaBtBWOMc5vY8RT0rH</link>
@@ -2613,7 +2633,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Akcja strażaków pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wypadek w Piotrkowie Trybunalskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2703,7 +2723,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Akcja strażaków pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wypadek w Piotrkowie Trybunalskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3029,16 +3049,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -3047,6 +3057,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
+<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
+<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3337,15 +3357,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6939bb39-0359-4ddb-9c9d-2484595b0f32" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6939bb39-0359-4ddb-9c9d-2484595b0f32" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6939bb39-0359-4ddb-9c9d-2484595b0f32"/>
-</item>
-<item>
-<title><![CDATA[ Egipskie ciemności w Piotrkowie? Radny pyta o doświetlenie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/egipskie-ciemnosci-w-piotrkowie-radny-pyta-o-doswietlenie/o17ZAISFAyBGCXLbBFTX</link>
-<guid isPermaLink="false">0ad0f56102da4f92078b44fb9a5263894eb992ab</guid>
-<pubDate>Fri, 09 Jan 2026 15:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim, szczególnie w okresie jesienno-zimowym, problem niedoświetlonych dróg i przejść dla pieszych to jeden z najczęściej poruszanych tematów. Mieszkańcy, często za pośrednictwem mediów społecznościowych, piszą przede wszystkim o kwestiach bezpieczeństwa w związku z ciemnościami na niektórych ulicach. Jedno z takich miejsc wskazał piotrkowski radny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bad33935-0aa0-4741-9a37-01875e1b76d0"/>
 </item>
 </channel></rss>
