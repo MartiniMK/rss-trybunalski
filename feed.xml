@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 11 Mar 2026 11:50:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 13:29:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Brudny problem po zimie. Dużo pracy na piotrkowskich ulicach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/brudny-problem-po-zimie-duzo-pracy-na-piotrkowskich-ulicach/0vme0whRWa65LfCdFOhS</link>
+<guid isPermaLink="false">403794ffe33486b4877243e65d55f993bbaf091f</guid>
+<pubDate>Wed, 11 Mar 2026 13:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3f80ff00-d14e-4402-bb2d-402b4725fb11" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa wskazują na problem nieporządku w przestrzeni miejskiej. Chodzi o nieestetyczne ślady ptasich odchodów, zalegające w trawnikach butelki po alkoholu, a także wszechobecny po zimie piach. Ten ostatni szczególnie doskwiera rowerzystom, bo może zmniejszać przyczepność opon, przez co łatwiej o upadek. O stan sanitarno-porządkowy w mieście zapytał radny Jan Dziemdziora na drodze int…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3f80ff00-d14e-4402-bb2d-402b4725fb11" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3f80ff00-d14e-4402-bb2d-402b4725fb11" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3f80ff00-d14e-4402-bb2d-402b4725fb11"/>
+</item>
 <item>
 <title><![CDATA[ Niezwykły uczeń spod Piotrkowa. Mateusz Kaźmierczak podbija matematyczne olimpiady ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niezwykly-uczen-spod-piotrkowa-mateusz-kazmierczak-podbija-matematyczne-olimpiady/a3rs8T1AG5ViyE1olAtZ</link>
@@ -3209,16 +3219,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -3227,6 +3227,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
+</item>
+<item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
 </item>
 <item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae670b2e-b707-4b4e-833a-7d6801b72c1f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae670b2e-b707-4b4e-833a-7d6801b72c1f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae670b2e-b707-4b4e-833a-7d6801b72c1f"/>
-</item>
-<item>
-<title><![CDATA[ Pożar budynku w powiecie piotrkowskim. Straty wyniosą ponad 200 tysięcy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-budynku-w-powiecie-piotrkowskim-straty-wyniosa-ponad-200-tysiecy/WKDTwoDZkZLQs6DRiVtq</link>
-<guid isPermaLink="false">5888ec400b872339b48da265a491a30ac2b3dd83</guid>
-<pubDate>Tue, 13 Jan 2026 10:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299" alt="miniatura"/></p><p>We wtorek, 13 stycznia po godz. 5:00 rano strażacy dostali zgłoszenie o pożarze w m. Skotniki. Działania gaśnicze trwały prawie 3 h, a łącznie brało w nich udział 5 zastępów straży pożarnej - dwie jednostki z PSP w Piotrkowie Trybunalskim, OSP SKotniki i OSP Dąbrowa nad Czarną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299"/>
 </item>
 </channel></rss>
