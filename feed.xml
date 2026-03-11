@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 10 Mar 2026 23:46:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 02:52:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ktoś chciał porwać dziecko w Czarnocinie? Nieznani mężczyźni zajechali drogę dziewczynce! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/ktos-chcial-porwac-dziecko-w-czarnocinie-nieznani-mezczyzni-zajechali-droge-dziewczynce/nMtc9s5HWdgeSSxXq7LF</link>
+<guid isPermaLink="false">2213a52a03aa2760a59fc2df8374a9392bcece48</guid>
+<pubDate>Wed, 11 Mar 2026 00:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9cb4adba-0ec3-4ebb-bb7a-ba1582149fc3" alt="miniatura"/></p><p>Uwaga mieszkańcy! Ktoś chciał porwać dziecko spod szkoły?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9cb4adba-0ec3-4ebb-bb7a-ba1582149fc3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9cb4adba-0ec3-4ebb-bb7a-ba1582149fc3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9cb4adba-0ec3-4ebb-bb7a-ba1582149fc3"/>
+</item>
 <item>
 <title><![CDATA[ Słynna Willa "Wanda" w Piotrkowie. Perełka architektury czeka na nową szansę [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/slynna-willa-wanda-w-piotrkowie-perelka-architektury-czeka-na-nowa-szanse-zdjecia/LZsUQQwODzowKavolyLV</link>
