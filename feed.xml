@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 11 Mar 2026 19:12:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 21:00:15 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Sprawdzamy ceny paliw na stacjach w Piotrkowie. Gdzie najtaniej, a gdzie drogo? ]]></title>
@@ -99,7 +99,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf55572c-08b7-41a4-ba20-3400c1ebe513"/>
 </item>
 <item>
-<title><![CDATA[ Ekshibicjonista z nożem grasuje w Piotrkowie? Podejrzany mężczyzna na wolności ]]></title>
+<title><![CDATA[ Zboczeniec z Piotrkowa znów na wolności? Dlaczego policja tak szybko wypuściła go na wolność? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ekshibicjonista-z-nozem-grasuje-w-piotrkowie-podejrzany-mezczyzna-na-wolnosci/vXU8tpTQRfnm22QslfqF</link>
 <guid isPermaLink="false">b3e4ed89d1127e688779e75a146b6db8855e6003</guid>
 <pubDate>Tue, 10 Mar 2026 12:05:00 +0000</pubDate>
