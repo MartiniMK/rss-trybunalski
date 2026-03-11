@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 11 Mar 2026 09:04:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 10:02:38 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Niezwykły uczeń spod Piotrkowa. Mateusz Kaźmierczak podbija matematyczne olimpiady ]]></title>
@@ -29,7 +29,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0118e275-f87f-414b-bf88-3a7f21426c87"/>
 </item>
 <item>
-<title><![CDATA[ Ktoś chciał porwać dziecko w Czarnocinie? Nieznani mężczyźni zajechali drogę dziewczynce! ]]></title>
+<title><![CDATA[ Próba porwania dziecka pod Piotrkowem? Jest apel do mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/ktos-chcial-porwac-dziecko-w-czarnocinie-nieznani-mezczyzni-zajechali-droge-dziewczynce/nMtc9s5HWdgeSSxXq7LF</link>
 <guid isPermaLink="false">2213a52a03aa2760a59fc2df8374a9392bcece48</guid>
 <pubDate>Wed, 11 Mar 2026 00:35:00 +0000</pubDate>
@@ -3407,25 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3283fc1c-fa01-4f0d-a9d9-55b33f924299"/>
-</item>
-<item>
-<title><![CDATA[ Pokazali moment ataku na personel w piotrkowskim szpitalu. Kobieta już zatrzymana [WIDEO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/napad-w-piotrkowskim-szpitalu-42-latka-uslyszala-zarzuty/BoO2LgxKmcq1DL1Yexqd</link>
-<guid isPermaLink="false">2c24f5e5857a8fae9e4547d2c82b1ed6a3ab62c6</guid>
-<pubDate>Mon, 12 Jan 2026 21:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7be0e09-f339-402e-b997-977d64cda57a" alt="miniatura"/></p><p>Wracamy do głośnej sprawy z piotrkowskiego SOR-u. Wszystko działo się w niedzielę, 11 stycznia na ul. Rakowskiej w Piotrkowie Trybunalskim, kiedy to na oddział weszła kobieta, która domagała się badania lekarskiego. 42-latka zaatakowała trzy osoby i teraz grozi jej do 3 lat pozbawienia wolności.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7be0e09-f339-402e-b997-977d64cda57a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7be0e09-f339-402e-b997-977d64cda57a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7be0e09-f339-402e-b997-977d64cda57a"/>
-</item>
-<item>
-<title><![CDATA[ Co Piotrków zawdzięcza jezuitom? Przynieśli do miasta nie tylko oświatę [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-piotrkow-zawdziecza-jezuitom-przyniesli-do-miasta-nie-tylko-oswiate-zdjecia/HW2W5R2HO2Gjh7WPjNQ0</link>
-<guid isPermaLink="false">08fe88a2eb317b058fb70175139d24bf8a851161</guid>
-<pubDate>Mon, 12 Jan 2026 19:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" alt="miniatura"/></p><p>Jezuici w Piotrkowie Trybunalskim mają już blisko 350 lat historii. Obecnie ich działalność znana jest mieszkańcom głównie dzięki miejscowej parafii na Starym Mieście. Początki zakonu w mieście to jednak założona przez nich szkoła.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/galleries/ab96752c-77fd-4395-889e-032bdb8a8a11"/>
 </item>
 </channel></rss>
