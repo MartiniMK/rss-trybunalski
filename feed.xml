@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 12 Mar 2026 18:05:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 19:13:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ „Nienawidzi mnie cała Polska”. Sebastian M. złożył wyjaśnienia przed piotrkowskim sądem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nienawidzi-mnie-cala-polska-sebastian-m-zlozyl-wyjasnienia-przed-piotrkowskim-sadem/9FEIlXmMGv6NhlONYA4S</link>
+<guid isPermaLink="false">c4e7c3f3a94458ac0f9e9ee335464e5160a6df5d</guid>
+<pubDate>Thu, 12 Mar 2026 19:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d5dbe859-a6c4-4632-9e6e-8a6fd1644b6f" alt="miniatura"/></p><p>W czwartek, 12 marca przed Sądem Rejonowym w Piotrkowie Tryb. na kolejnej rozprawie stanął Sebastian M. Mężczyzna oskarżony jest o spowodowanie śmiertelnego wypadku na A1. Do zdarzenia doszło 16 września 2023 roku na wysokości Sierosławia w powiecie piotrkowskim. W jego wyniku zginęła 3-osobowa rodzina. Dziś na sali rozpraw pojawili się kolejni świadkowie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5dbe859-a6c4-4632-9e6e-8a6fd1644b6f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5dbe859-a6c4-4632-9e6e-8a6fd1644b6f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5dbe859-a6c4-4632-9e6e-8a6fd1644b6f"/>
+</item>
 <item>
 <title><![CDATA[ Amator damskiej bielizny złapany na gorącym uczynku w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/amator-damskiej-bielizny-zlapany-na-goracym-uczynku-w-piotrkowie/H6Hzxo2GkZESuzdwTn8I</link>
@@ -2873,7 +2883,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Amator damskiej bielizny złapany na gorącym uczynku w Piotrkowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>„Nienawidzi mnie cała Polska”.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2963,7 +2973,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Amator damskiej bielizny złapany na gorącym uczynku w Piotrkowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>„Nienawidzi mnie cała Polska”.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3407,15 +3417,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b6ad48b-6da2-4427-a299-26ce61353a26" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b6ad48b-6da2-4427-a299-26ce61353a26" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b6ad48b-6da2-4427-a299-26ce61353a26"/>
-</item>
-<item>
-<title><![CDATA[ Ciało mężczyzny znalezione w Piotrkowie. Prokuratura ustala, co się stało ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/cialo-mezczyzny-znalezione-w-piotrkowie-prokuratura-ustala-czy-jego-smierc-ma-zwiazek-z-pozarem/SfkeyNCAwMq7dDnHKgVW</link>
-<guid isPermaLink="false">af0b029acf4deea28180367bf4ec2c052a309747</guid>
-<pubDate>Wed, 14 Jan 2026 07:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2629151-59a0-43af-950c-99b502127a57" alt="miniatura"/></p><p>Do zdarzenia doszło w piątek, 2 stycznia około godziny 16:00. Służby otrzymały zgłoszenie o pożarze metalowego kontenera znajdującego się na jednym z placów przy ul. Rakowskiej w Piotrkowie Trybunalskim. Na miejsce skierowano dwa zastępy straży pożarnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2629151-59a0-43af-950c-99b502127a57" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2629151-59a0-43af-950c-99b502127a57" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2629151-59a0-43af-950c-99b502127a57"/>
 </item>
 </channel></rss>
