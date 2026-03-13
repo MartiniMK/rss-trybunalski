@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Mar 2026 09:03:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 10:00:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ktorzy-odeszli-w-ostatnim-czasie-nekrologi/hfqx1UABdkbSasWICTHY</link>
+<guid isPermaLink="false">74566691dd0fe1000a03e6714cf84dd18dcdaa78</guid>
+<pubDate>Fri, 13 Mar 2026 10:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/85aa780a-b393-46f2-b23f-35083751e0b3" alt="miniatura"/></p><p>Były pracownik HSG Hortensja. Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 16 marca 2026 roku o godz. 10:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/85aa780a-b393-46f2-b23f-35083751e0b3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/85aa780a-b393-46f2-b23f-35083751e0b3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/85aa780a-b393-46f2-b23f-35083751e0b3"/>
+</item>
 <item>
 <title><![CDATA[ Roboty wróciły na drogę w Piotrkowie. Urząd zapowiedział zmiany w organizacji ruchu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/roboty-wrocily-na-droge-w-piotrkowie-urzad-zapowiedzial-zmiany-w-organizacji-ruchu/GGVrvEch5fYuwEMMuYT3</link>
@@ -2893,7 +2903,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Roboty wróciły na drogę w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI]</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -2983,7 +2993,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Roboty wróciły na drogę w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI]</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3407,15 +3417,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8018792d-719c-4185-96f7-9f6ca6ccc6ca" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8018792d-719c-4185-96f7-9f6ca6ccc6ca" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8018792d-719c-4185-96f7-9f6ca6ccc6ca"/>
-</item>
-<item>
-<title><![CDATA[ Policjanci z Piotrkowa ruszyli do pomocy. Znaleźli 5 osób, pośród nich obywatel Kolumbii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/policjanci-z-piotrkowa-ruszyli-do-pomocy-znalezli-5-osob-posrod-nich-obywatel-kolumbii/hqZxRZafPHwg87zIxmMj</link>
-<guid isPermaLink="false">6181f0445a32903d58e288f80391b9164ad4c267</guid>
-<pubDate>Wed, 14 Jan 2026 11:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6f7c41-d975-46e8-b5d1-c331ca5d3b4e" alt="miniatura"/></p><p>Ze względu na niskie temperatury funkcjonariusze Komendy Miejskiej Policji w Piotrkowie Trybunalskim kontrolują pustostany, pergole śmietnikowe, przystanki czy tereny dworca. Działania polegają na sprawdzaniu czy znajdują się tam osoby w kryzysie bezdomności, które wymagają wsparcia. W ostatnich dniach policjanci znaleźli 5 osób, a troje z nich potrzebowało pomocy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6f7c41-d975-46e8-b5d1-c331ca5d3b4e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6f7c41-d975-46e8-b5d1-c331ca5d3b4e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6f7c41-d975-46e8-b5d1-c331ca5d3b4e"/>
 </item>
 </channel></rss>
