@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 14 Mar 2026 17:44:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 19:00:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Piotrkowianin walczył, ale Gdańszczan nie zatrzymał ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-walczyl-ale-gdanszczan-nie-zatrzymal/Qr4Ks7xDont7Ulg3YAiv</link>
+<guid isPermaLink="false">a75bbfc08b73249fb78ae6d229f84fceb958acf0</guid>
+<pubDate>Sat, 14 Mar 2026 19:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8b585d60-7fcd-4f69-bafd-89a92a449476" alt="miniatura"/></p><p>Szczypiorniści Piotrkowianina, którzy przegrali trzy ostatnie pojedynki o ligowe punkty i niezmiennie zajmowali jedenastą pozycję w trzynastozespołowej stawce, nie byli faworytem potyczki z Gdańszczanami, którzy są rewelacją bieżących rozgrywek, ustępując miejsca jedynie potentatom z Płocka i Kielc. Szanse na jakąkolwiek zdobycz punktową w tym starciu były więc iluzoryczne, a bukmacherzy wyceniali…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b585d60-7fcd-4f69-bafd-89a92a449476" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b585d60-7fcd-4f69-bafd-89a92a449476" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b585d60-7fcd-4f69-bafd-89a92a449476"/>
+</item>
 <item>
 <title><![CDATA[ Najmniejsza wieś w Łódzkiem leży w naszym powiecie. A mieszkają tu tylko… 2 osoby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-a-mieszkaja-tu-tylko-2-osoby/OYcPGOvqZlMqSPMAJcY7</link>
@@ -3389,16 +3399,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
-<guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" alt="miniatura"/></p><p>Policjanci w poniedziałek, 12 stycznia otrzymali zgłoszenie, że na terenie galerii handlowej w Piotrkowie doszło do kradzieży. Ochroniarz przekazał służbom, że podczas nadzoru monitoringu zauważył kobietę, która ukradła artykuły kosmetyczne. Jak się okazało, do kradzieży dochodziło już wcześniej, a to nasunęło podejrzenie, że może za nie odpowiadać jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
-</item>
-<item>
 <title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
 <guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
@@ -3407,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
-<title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-naszego-miasta-prosto-na-stok-jest-sposob-na-tansze-bilety-pkp/M8NJMwIC4jWprBAFc2ck</link>
-<guid isPermaLink="false">8774a95653a4f3cc44814ceb6d7608950c47a984</guid>
-<pubDate>Thu, 15 Jan 2026 13:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215" alt="miniatura"/></p><p>Dla wielu podróże koleją to ulubiona forma transportu. Pasażerowie pociągów nie martwią się o korki czy miejsca parkingowe, a z naszego miasta można dojechać w różne zakątki kraju. Zbliżają się ferie zimowe i wiele osób planuje wyjazdy na ten czas. Nierzadko wyborem są górskie miejscowości. Do jakich miejsc dojedziemy z Piotrkowa bezpośrednio?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215"/>
 </item>
 </channel></rss>
