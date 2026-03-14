@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 14 Mar 2026 07:54:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 08:56:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pod Piotrkowem koła urwały się z jadącego wozu strażackiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pod-piotrkowem-kola-urwaly-sie-z-jadacego-wozu-strazackiego/972CDko1IEc93FpNT0fb</link>
+<guid isPermaLink="false">10ce6ccee328e9fa3820b6a3f9ab9f63f5f5d2fd</guid>
+<pubDate>Sat, 14 Mar 2026 09:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00" alt="miniatura"/></p><p>Przed godz. 20:00 w Rozprzy na DK 91 doszło do niecodziennego zdarzenia. Strażakom, wracającym do remizy po interwencji w m. Białocin odpadły dwa tylne koła w pojeździe. Na szczęście nikomu nic się nie stało.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00"/>
+</item>
 <item>
 <title><![CDATA[ Taka plaża w centrum Polski. Obok stoi zabytkowa perełka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/taka-plaza-w-centrum-polski-obok-stoi-zabytkowa-perelka/WEzdxfdGHcNE7VaUTboj</link>
@@ -2953,7 +2963,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Piotrków najdroższy w regionie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pod Piotrkowem koła urwały się z jadącego wozu strażackiego</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3043,7 +3053,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Piotrków najdroższy w regionie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pod Piotrkowem koła urwały się z jadącego wozu strażackiego</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3369,16 +3379,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbc82820-04b7-4548-8fae-791bd1066ea8"/>
 </item>
 <item>
-<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
-<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
-<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
-</item>
-<item>
 <title><![CDATA[ Kobieta okradła drogerię w Piotrkowie. Mieszkanka naszego miasta usłyszała zarzuty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-okradla-drogerie-w-piotrkowie-mieszkanka-naszego-miasta-uslyszala-zarzuty/K4MehUXRKPEH7hBRYJ9r</link>
 <guid isPermaLink="false">add8db5496b3f765576758b99639e1dd992d9eb8</guid>
@@ -3389,6 +3389,16 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b550c69b-7098-45ec-9ddf-2fb1f5866023"/>
 </item>
 <item>
+<title><![CDATA[ Czas ucieka, brakuje jeszcze pół miliona. Rodzice Milenki proszą o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czas-ucieka-brakuje-jeszcze-pol-miliona-rodzice-milenki-prosza-o-pomoc/Um7e31vpbTyukhr001ro</link>
+<guid isPermaLink="false">a2be7da757e17be6886ec98ddce927deb39bb6f5</guid>
+<pubDate>Thu, 15 Jan 2026 14:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" alt="miniatura"/></p><p>Wciąż trwa zbiórka na rzecz trzyletniej Milenki, która cierpi na wrodzoną wadę serca. 27 stycznia – to dzień, w którym dziewczynka ma lecieć do kliniki w Stanach Zjednoczonych. Jak się okazuje, brakuje pieniędzy, a bez nich operacja się nie odbędzie. Do 20 stycznia rodzice Milenki muszą wpłacić jeszcze 500 000 zł. „ Błagamy Was o ratunek! Te najbliższe dni zdecydują o wszystkim...” – mówią.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b525717-410a-4847-9e33-c60f38712fba"/>
+</item>
+<item>
 <title><![CDATA[ Z naszego miasta prosto na stok. Jest sposób na tańsze bilety PKP ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-naszego-miasta-prosto-na-stok-jest-sposob-na-tansze-bilety-pkp/M8NJMwIC4jWprBAFc2ck</link>
 <guid isPermaLink="false">8774a95653a4f3cc44814ceb6d7608950c47a984</guid>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/935aae3d-6873-4b79-be6d-3e827d39d215"/>
-</item>
-<item>
-<title><![CDATA[ Najnowsze oferty pracy w Piotrkowie Trybunalskim. Na tych stanowiskach zarobisz nawet 7,5 tysiąca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najnowsze-oferty-pracy-w-piotrkowie-trybunalskim-na-tych-stanowiskach-zarobisz-nawet-75-tysiaca/A3G6nxaQLgtnLPo5JXD0</link>
-<guid isPermaLink="false">4f96be896b6446365cb0d7c70ac67bb0e9822656</guid>
-<pubDate>Thu, 15 Jan 2026 10:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2e9a352b-82ca-46db-ae1a-46637271f3e2" alt="miniatura"/></p><p>Wynagrodzenie brutto: od 70,00 PLN</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e9a352b-82ca-46db-ae1a-46637271f3e2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e9a352b-82ca-46db-ae1a-46637271f3e2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e9a352b-82ca-46db-ae1a-46637271f3e2"/>
 </item>
 </channel></rss>
