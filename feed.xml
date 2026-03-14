@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 14 Mar 2026 08:56:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 09:52:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Najmniejsza wieś w Łódzkiem leży w naszym powiecie. A mieszkają tu tylko… 2 osoby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-a-mieszkaja-tu-tylko-2-osoby/OYcPGOvqZlMqSPMAJcY7</link>
+<guid isPermaLink="false">9331e86f7e41a783519d89063ccd78869f47e8fe</guid>
+<pubDate>Sat, 14 Mar 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/89bbbdf1-1855-48bf-8ab3-fe16a8485f4e" alt="miniatura"/></p><p>Główny Urząd Statystyczny podsumował dane liczbowe z 2024 roku. Wyróżniono cztery miejscowości w Łódzkiem pod względem liczby zameldowanych mieszkańców. Jak można się domyślić, Łódź ma ich najwięcej, bo prawie 650 tysięcy. Najmniejsza pod tym względem zaś jest wieś położona w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/89bbbdf1-1855-48bf-8ab3-fe16a8485f4e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/89bbbdf1-1855-48bf-8ab3-fe16a8485f4e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/89bbbdf1-1855-48bf-8ab3-fe16a8485f4e"/>
+</item>
 <item>
 <title><![CDATA[ Pod Piotrkowem koła urwały się z jadącego wozu strażackiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pod-piotrkowem-kola-urwaly-sie-z-jadacego-wozu-strazackiego/972CDko1IEc93FpNT0fb</link>
@@ -2963,7 +2973,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pod Piotrkowem koła urwały się z jadącego wozu strażackiego</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem leży w naszym powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3053,7 +3063,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pod Piotrkowem koła urwały się z jadącego wozu strażackiego</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Najmniejsza wieś w Łódzkiem leży w naszym powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
