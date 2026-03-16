@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 16 Mar 2026 13:55:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 15:19:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramatyczne chwile w Piotrkowie. Wystraszona kobieta zawiadomiła służby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczne-chwile-w-piotrkowie-wystraszona-kobieta-zawiadomila-sluzby/VOW5vtEQFBqNZBHSDOJR</link>
+<guid isPermaLink="false">68aabcf954b2a65aac3c7c41299c5e44d795935e</guid>
+<pubDate>Mon, 16 Mar 2026 15:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" alt="miniatura"/></p><p>Wszystko działo się w sobotę, 14 marca. 83-letni mężczyzna około godziny 10:00 wyjechał z domu rowerem na zakupy, na pobliski bazar. Gdy długo nie wracał, żona postanowiła do niego zadzwonić. Z rozmowy wyniknęło, że senior znajduje się na polu poza Piotrkowem, jednak nie był w stanie określić, gdzie dokładnie. W takiej sytuacji kobieta postanowiła zadzwonić po pomoc. Ze względu na choroby męża bał…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104"/>
+</item>
 <item>
 <title><![CDATA[ Problemy z parkowaniem w Piotrkowie. Rozwiązaniem parkingi wielopoziomowe? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/problemy-z-parkowaniem-w-piotrkowie-rozwiazaniem-parkingi-wielopoziomowe/jPsjlSpY6HFHb33GgmlI</link>
