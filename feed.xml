@@ -6,8 +6,15 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 16 Mar 2026 07:51:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 09:17:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/pod-piotrkowem-uciekaja-nie-tylko-kangury-teraz-poszlo-o-jezozwierze/eBIcU3lxT9KUQMJzHp9R ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pod-piotrkowem-uciekaja-nie-tylko-kangury-teraz-poszlo-o-jezozwierze/eBIcU3lxT9KUQMJzHp9R</link>
+<guid isPermaLink="false">387b06c366afcf1e7748771a91fae910dafe1aa6</guid>
+<pubDate>Mon, 16 Mar 2026 09:17:11 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
 <item>
 <title><![CDATA[ Gigantyczne promocje w Action od poniedziałku. Sprawiliśmy, co warto kupić [LISTA, CENY] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczne-promocje-w-action-od-poniedzialku-sprawilismy-co-warto-kupic-lista-ceny/vdk6VqPL4ZvGTQNJ2iGM</link>
@@ -3407,15 +3414,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ca3d01e-5f91-402c-ae4f-01ef0dfec4e3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ca3d01e-5f91-402c-ae4f-01ef0dfec4e3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ca3d01e-5f91-402c-ae4f-01ef0dfec4e3"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowskie pamiątki zebrali tu krajoznawcy. Dawna siedziba królów świadczy o dziejach miasta [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowskie-pamiatki-zebrali-tu-krajoznawcy-dawna-siedziba-krolow-swiadczy-o-dziejach-miasta-zdjecia/Z1UEjr0rZnBj9QibgpoR</link>
-<guid isPermaLink="false">619115fc693be2cfd05ae7d3d37033132a524dca</guid>
-<pubDate>Thu, 15 Jan 2026 17:50:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c5fc9c41-e02a-4888-a2ae-bde30697ed6d" alt="miniatura"/></p><p>Zaczęło się od 51 działaczy, którzy w 1908 roku powołali Oddział Piotrkowski Polskiego Towarzystwa Krajoznawczego . Organizacja powstała zaledwie dwa lata wcześniej w Warszawie i swoim zasięgiem obejmowała ziemie zaboru rosyjskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5fc9c41-e02a-4888-a2ae-bde30697ed6d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5fc9c41-e02a-4888-a2ae-bde30697ed6d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5fc9c41-e02a-4888-a2ae-bde30697ed6d"/>
 </item>
 </channel></rss>
