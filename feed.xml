@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 17 Mar 2026 15:16:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 17:22:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowska Krzywda. Park jak blizna w sercu miasta [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-krzywda-park-jak-blizna-w-sercu-miasta-zdjecia/81iY6qDTNkwWJl1f2PGj</link>
+<guid isPermaLink="false">135744ae5f97b96f62463dfdfdb11bb663bba68e</guid>
+<pubDate>Tue, 17 Mar 2026 18:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" alt="miniatura"/></p><p>Nazwa Krzywda jest w Piotrkowie powszechnie znana i używana. Park śródmiejski zapewne jest mniej kojarzony z terenem przy ul. Słowackiego. Dla Piotrkowian oczywista jest też nazwa "Jajo", którą określają amfiteatr piotrkowski zbudowany w parku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b"/>
+</item>
+<item>
+<title><![CDATA[ Nowa pizzeria na mapie Piotrkowa. Byliśmy już w lokalu [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-pizzeria-na-mapie-piotrkowa-bylismy-juz-w-lokalu-zdjecia/v6HrqMF0hy0c4Vylcy7W</link>
+<guid isPermaLink="false">88aaaa9ef2a788017d26e0a465ad132821f21ff5</guid>
+<pubDate>Tue, 17 Mar 2026 17:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5352d289-e1d5-4a6f-974f-2eb4375e8690" alt="miniatura"/></p><p>Na kulinarnej mapie Piotrkowa pojawiło się nowe miejsce. Tym razem coś dla siebie znajdą fani pizzy, a przed nami wielkie otwarcie. Czy nowa propozycja gastronomiczna w naszym mieście ma szansę skraść serca i podniebienia piotrkowskich miłośników włoskiego klasyka?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5352d289-e1d5-4a6f-974f-2eb4375e8690" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5352d289-e1d5-4a6f-974f-2eb4375e8690" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5352d289-e1d5-4a6f-974f-2eb4375e8690"/>
+</item>
 <item>
 <title><![CDATA[ Nielegalne rajdy na ulicach Piotrkowa? Te miejsca wskazują mieszkańcy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nielegalne-rajdy-na-ulicach-piotrkowa-te-miejsca-wskazuja-mieszkancy/ul4n649JNrMseisaPYuQ</link>
@@ -3153,7 +3173,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nielegalne rajdy na ulicach Piotrkowa?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowa pizzeria na mapie Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3243,7 +3263,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nielegalne rajdy na ulicach Piotrkowa?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowa pizzeria na mapie Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3427,25 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741"/>
-</item>
-<item>
-<title><![CDATA[ Atak kijem baseballowym w Piotrkowie. 61-latek trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/atak-kijem-baseballowym-w-piotrkowie-61-latek-trafil-do-szpitala/5MsOONsrZaz7qzZJR6eG</link>
-<guid isPermaLink="false">34377e27e14b437f288ab5a4564a173e46843fa4</guid>
-<pubDate>Sun, 18 Jan 2026 19:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94313bf4-f58d-434c-9160-e186d70279be" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim doszło do brutalnego ataku na 61-letniego mężczyznę z użyciem kija baseballowego. W piątek, 16 stycznia piotrkowska policja przekazała informację na temat zarzutów, jakie postawiono agresorowi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94313bf4-f58d-434c-9160-e186d70279be" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94313bf4-f58d-434c-9160-e186d70279be" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94313bf4-f58d-434c-9160-e186d70279be"/>
-</item>
-<item>
-<title><![CDATA[ Pożar we Włodzimierzowie. Strażacy w akcji ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-we-wlodzimierzowie-strazacy-w-akcji/QVkLW6VVk9cELaCfvGSP</link>
-<guid isPermaLink="false">238888e987b547aead5be4a8989857dc5a8652f5</guid>
-<pubDate>Sun, 18 Jan 2026 11:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1" alt="miniatura"/></p><p>W sobotę, 17 stycznia około godz. 16:00 strażacy otrzymali zgłoszenie o pożarze na terenie Włodzimierzowa, w gminie Sulejów. Na miejsce ruszyły dwa zastępy, w tym jeden z PSP Piotrków oraz jeden z OSP Przygłów. Jak się okazało, doszło do pożaru w przewodzie kominowym. Służby przystąpiły do akcji gaśniczej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1"/>
 </item>
 </channel></rss>
