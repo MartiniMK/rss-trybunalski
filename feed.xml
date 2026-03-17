@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 17 Mar 2026 12:01:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 13:52:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nielegalne rajdy na ulicach Piotrkowa? Te miejsca wskazują mieszkańcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nielegalne-rajdy-na-ulicach-piotrkowa-te-miejsca-wskazuja-mieszkancy/ul4n649JNrMseisaPYuQ</link>
+<guid isPermaLink="false">5a56bc4a5e358a806bacd06caa2c3ea73de6a471</guid>
+<pubDate>Tue, 17 Mar 2026 13:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249" alt="miniatura"/></p><p>Jakie problemy Piotrkowianie zgłaszają za pomocą Krajowej Mapy Zagrożeń Bezpieczeństwa? Ten system pozwala na łatwiejszy kontakt ze służbami odpowiedzialnymi za bezpieczeństwo. Swoim zasięgiem obejmuje całą Polskę i dostępny jest na stronie internetowej policji. Dzięki tej mapie obywatele mogą łatwo i anonimowo zgłaszać sytuacje, które uznają za niebezpieczne. Funkcjonariusze wiedzą wówczas, na kt…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249"/>
+</item>
 <item>
 <title><![CDATA[ Te urządzenia są w Piotrkowie bardzo potrzebne? Kolejny głos w sprawie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/te-urzadzenia-sa-w-piotrkowie-bardzo-potrzebne-kolejny-glos-w-sprawie/yGIfghHx1Y6CHa2s0p2E</link>
@@ -3143,7 +3153,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Niemiecki gigant otwiera nowy sklep w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nielegalne rajdy na ulicach Piotrkowa?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3233,7 +3243,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Niemiecki gigant otwiera nowy sklep w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nielegalne rajdy na ulicach Piotrkowa?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1036b0c0-576e-4226-b96a-f8d3fe25f6c1"/>
-</item>
-<item>
-<title><![CDATA[ Studniówka ZSP 6 w Piotrkowie. Tak bawili się 100 dni przed maturą [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/studniowka-zsp-6-w-piotrkowie-tak-bawili-sie-100-dni-przed-matura-zdjecia/aW064CSgCAwqFX1C6jDD</link>
-<guid isPermaLink="false">949326be2ba75d226aed10eca4158af66d8f14e7</guid>
-<pubDate>Sun, 18 Jan 2026 02:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925" alt="miniatura"/></p><p>W sobotę, 17 stycznia, uczniowie Zespołu Szkół Ponadpodstawowych numer 6 w Piotrkowie Trybunalskim przeżywali jeden z najważniejszych wieczorów w życiu. W Dworze Kasztelan w Stefanówce odbyła się bowiem ich studniówka. Uroczystość tradycyjnie otworzyły przemówienia. Głos zabrali uczniowie, rodzice, a także dyrekcja. Podkreślano, że przed młodzieżą symboliczny moment przejścia w dorosłość, jakim je…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925"/>
 </item>
 </channel></rss>
