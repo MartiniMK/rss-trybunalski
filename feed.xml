@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 17 Mar 2026 11:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 12:01:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Te urządzenia są w Piotrkowie bardzo potrzebne? Kolejny głos w sprawie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/te-urzadzenia-sa-w-piotrkowie-bardzo-potrzebne-kolejny-glos-w-sprawie/yGIfghHx1Y6CHa2s0p2E</link>
+<guid isPermaLink="false">380233ae57adb9a5d4347ccc1a57c340ea870595</guid>
+<pubDate>Tue, 17 Mar 2026 12:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" alt="miniatura"/></p><p>Choć już w szkole podstawowej uczymy się, że woda i olej się nie mieszają, w codziennym pośpiechu często o tym zapominamy. Efektem wylewania zużytego tłuszczu prosto do zlewu są nie tylko fatalne dla środowiska zanieczyszczenia, ale i kosztowne zatory w domowej kanalizacji. Aby uniknąć wizyty hydraulika, wystudzony olej najlepiej przelać do szczelnego pojemnika i przekazać do Punktu Selektywnej Zb…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1"/>
+</item>
 <item>
 <title><![CDATA[ Niemiecki gigant otwiera nowy sklep. Konkurencja dla Pepco i Action w naszym mieście ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-otwiera-nowy-sklep-konkurencja-dla-pepco-i-action-w-naszym-miescie/o3bP0jejl8Scf8zd8yOP</link>
@@ -3133,7 +3143,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Zawodniczka MKS Piotrcovia reanimowana podczas treningu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Niemiecki gigant otwiera nowy sklep w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3223,7 +3233,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Zawodniczka MKS Piotrcovia reanimowana podczas treningu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Niemiecki gigant otwiera nowy sklep w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b32b63d1-57c3-4f6c-9122-f8e78fff4925"/>
-</item>
-<item>
-<title><![CDATA[ Ekspedycja Smaku w hali Relax w Piotrkowie – trzy festiwale, orientalne przysmaki i atrakcje dla całych rodzin ZDJĘCIA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ekspedycja-smaku-w-hali-relax-w-piotrkowie-trzy-festiwale-orientalne-przysmaki-i-atrakcje-dla-calych-rodzin-zdjecia/eO3Gvb8GeNms8knQ7RDF</link>
-<guid isPermaLink="false">51155fe2eb0c1c4be0387f3b665133f23dd69534</guid>
-<pubDate>Sat, 17 Jan 2026 15:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcac830-444f-45b6-94d4-336309137a30" alt="miniatura"/></p><p>W ramach jednego biletu uczestnicy mogą odwiedzić Orientalną Ekspedycję – Festiwal Kuchni i Kultury Azjatyckiej , gdzie czekają aromatyczne dania inspirowane smakami Azji i Orientu. Wśród propozycji znajdują się m.in. rameny, bułeczki bao bao, owoce morza, koreańskie bowle czy gruzińskie chaczapuri – przygotowywane na miejscu przez doświadczonych wystawców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcac830-444f-45b6-94d4-336309137a30" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcac830-444f-45b6-94d4-336309137a30" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8fcac830-444f-45b6-94d4-336309137a30"/>
 </item>
 </channel></rss>
