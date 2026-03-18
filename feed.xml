@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Mar 2026 15:22:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 17:21:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kradzież w Piotrkowie. Po łupy przyjechali aż ze Zgierza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kradziez-w-piotrkowie-po-lupy-przyjechali-az-ze-zgierza/VDAdPlXA41Y9miRz2wel</link>
+<guid isPermaLink="false">fc657b2de06db2f834c714aa5aa5e8a20280c2ce</guid>
+<pubDate>Wed, 18 Mar 2026 16:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" alt="miniatura"/></p><p>Wszystko zaczęło się 9 marca 2026 r. 41-letni mężczyzna, mimo aktywnego zakazu prowadzenia pojazdów, umówił się ze znajomymi w Zgierzu i przywiózł ich do jednego ze sklepów budowlanych w Piotrkowie. 35-latka oraz 39-latek udali się do marketu, a 41-latek czekał na nich blisko drzwi wejściowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek w Piotrkowie. Osobówka zderzyła się z motocyklem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-osobowka-zderzyla-sie-z-motocyklem/FR2SeAl6WqzuojD2HwAk</link>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e"/>
-</item>
-<item>
-<title><![CDATA[ Pierwszy jubileusz w tym roku. W Piotrkowie odebrali medale Prezydenta RP [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pierwszy-jubileusz-w-tym-roku-w-piotrkowie-odebrali-medale-prezydenta-rp-zdjecia/jjlZPfyZpbOWaNy2qK9x</link>
-<guid isPermaLink="false">d7a4f7bce360a05d5082c3167fdc3ba42420503b</guid>
-<pubDate>Mon, 19 Jan 2026 11:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7" alt="miniatura"/></p><p>W sobotę, 17 stycznia w Urzędzie Stanu Cywilnego w Piotrkowie Trybunalskim odbył jubileusz złotych godów. To pierwsze tego typu wydarzenie w tym roku. Siedem par odebrało pamiątkowe medale, by uczcić 50-lat wspólnego życia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7"/>
 </item>
 </channel></rss>
