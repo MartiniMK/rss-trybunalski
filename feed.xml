@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Mar 2026 07:24:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 09:09:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek w Piotrkowie. Osobówka zderzyła się z motocyklem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-osobowka-zderzyla-sie-z-motocyklem/FR2SeAl6WqzuojD2HwAk</link>
+<guid isPermaLink="false">e32bf2bb784663a022822c48e6c9c049f39f3787</guid>
+<pubDate>Wed, 18 Mar 2026 09:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" alt="miniatura"/></p><p>Około godz. 8:00 na skrzyżowaniu ul. Dmowskiego z ul. Kostromską w Piotrkowie doszło do kolizji dwóch pojazdów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1"/>
+</item>
 <item>
 <title><![CDATA[ Nowe informacje w sprawie stanu zdrowia zawodniczki MKS Piotrcovia. Szczypiornistka była w śpiączce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-informacje-w-sprawie-stanu-zdrowia-zawodniczki-mks-piotrcovia-szczypiornistka-byla-w-spiaczce/Z47qzc9VWcRmpyEqey7M</link>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4de8234-ffe2-415e-a51d-e74b686525c7"/>
-</item>
-<item>
-<title><![CDATA[ Niebezpiecznie przy paczkomacie pod Piotrkowem. Kompletnie pija kobieta wsiadła za kierownicę i.... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niebezpiecznie-przy-paczkomacie-pod-piotrkowem-kompletnie-pija-kobieta-wsiadla-za-kierownice-i/OvGQmioUYi0jbrpBgwdI</link>
-<guid isPermaLink="false">f2bf8bb6687b0f17ccb51840d26634c6b3e79a9c</guid>
-<pubDate>Mon, 19 Jan 2026 11:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a" alt="miniatura"/></p><p>Do zdarzenia doszło 15 stycznia po godz. 17:00 w m. Włodzimerzów, w powiecie piotrkowskim. Policjanci dostali zgłoszenie, że pijana kobieta wjechała w jej samochód.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a"/>
 </item>
 </channel></rss>
