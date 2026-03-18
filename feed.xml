@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Mar 2026 05:12:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 07:24:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowe informacje w sprawie stanu zdrowia zawodniczki MKS Piotrcovia. Szczypiornistka była w śpiączce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-informacje-w-sprawie-stanu-zdrowia-zawodniczki-mks-piotrcovia-szczypiornistka-byla-w-spiaczce/Z47qzc9VWcRmpyEqey7M</link>
+<guid isPermaLink="false">a53d3731afb3952009986fff281f81f3679dddea</guid>
+<pubDate>Wed, 18 Mar 2026 06:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" alt="miniatura"/></p><p>Do dramatycznych chwil doszło w poniedziałek, 16 marca podczas rutynowego treningu siłowego. Jedna ze szczypiornistek klubu Krasoń MKS Piotrcovia nagle źle się poczuła i straciła przytomność. Pierwszej pomocy udzielili jej inni ćwiczący tego dnia na siłowni. Następnie reanimację przejęli wezwani na miejsce ratownicy medyczni. Dziewczyna kilkukrotnie traciła przytomność, w związku z czym konieczne…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowska Krzywda. Park jak blizna w sercu miasta [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-krzywda-park-jak-blizna-w-sercu-miasta-zdjecia/81iY6qDTNkwWJl1f2PGj</link>
@@ -3173,7 +3183,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowa pizzeria na mapie Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nowe informacje w sprawie stanu zdrowia zawodniczki MKS Piotrcovia.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3263,7 +3273,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowa pizzeria na mapie Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Nowe informacje w sprawie stanu zdrowia zawodniczki MKS Piotrcovia.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7b5b3391-20ac-462c-b99b-968667d5101a"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Krasoń MKS Piotrcovia z przełamaniem w Elblągu! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-z-przelamaniem-w-elblagu/PewFWi2r8TLUYIoKrXYZ</link>
-<guid isPermaLink="false">2880fe04a3ead5a71f2a507ddff4de73a4584a6a</guid>
-<pubDate>Sun, 18 Jan 2026 20:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741" alt="miniatura"/></p><p>Szczypiornistki Piotrcovii do rywalizacji w Elblągu przystępowały jako trzeci zespół tabeli, ale również po czterech porażkach z rzędu, które nieco zmąciły doskonałą wcześniej atmosferę wokół drużyny, którą budowały kolejne zwycięstwa. Nastroje przed konfrontacją z elblążankami w samym zespole były jednak bojowe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a025f1ce-6f7b-405f-b75e-036d8d10c741"/>
 </item>
 </channel></rss>
