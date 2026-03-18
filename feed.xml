@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Mar 2026 20:58:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 21:52:42 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia sprawiła ogromną sensację w Lubinie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-sprawila-ogromna-sensacje-w-lubinie/nWOGGJKEloaJxNmFmyqA</link>
+<guid isPermaLink="false">4fbfdd6410b2605cc311c6b5bd7a8040d1790070</guid>
+<pubDate>Wed, 18 Mar 2026 22:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc" alt="miniatura"/></p><p>Są sprawy ważne i ważniejsze, więc zacznijmy od przypomnienia, że przygotowania do środowego meczu w Lubinie przerwały wydarzenia z poniedziałkowego treningu, kiedy to jedna z zawodniczek zasłabła i została przewieziona do szpitala. Szczęście w nieszczęściu, że w następnych godzinach jej stan zdrowia uległ wyraźnej poprawie, o czym świadczy fakt, że została wybudzona i oddycha samodzielnie. Wydarz…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc"/>
+</item>
 <item>
 <title><![CDATA[ Kradzież w Piotrkowie. Po łupy przyjechali aż ze Zgierza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kradziez-w-piotrkowie-po-lupy-przyjechali-az-ze-zgierza/VDAdPlXA41Y9miRz2wel</link>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e021232e-48ae-4241-a39f-0609dc55d239" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e021232e-48ae-4241-a39f-0609dc55d239" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e021232e-48ae-4241-a39f-0609dc55d239"/>
-</item>
-<item>
-<title><![CDATA[ Kolęda 2025/2026 w Piotrkowie Trybunalskim. Gdzie jeszcze zapuka ksiądz z wizytą duszpasterską [19.01.26-25.01.26] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/koleda-20252026-w-piotrkowie-trybunalskim-gdzie-jeszcze-zapuka-ksiadz-z-wizyta-duszpasterska-190126-250126/ONdgQnE6Vd2Lk6I0Uhdx</link>
-<guid isPermaLink="false">cea908c374f3c508db4ec6e1b6a5497e1c77555e</guid>
-<pubDate>Mon, 19 Jan 2026 11:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e" alt="miniatura"/></p><p>Wyspiańskiego 01, m. 1-30 + domek Wyspiańskiego 2</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/08488d8a-2c61-4311-a611-e47b76bca99e"/>
 </item>
 </channel></rss>
