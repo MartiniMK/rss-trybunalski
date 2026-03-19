@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Mar 2026 18:05:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 19:19:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Niemiecki gigant inwestuje w Łódzkiem. Setki nowych miejsc pracy i ogromne centrum logistyczne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-inwestuje-w-lodzkiem-setki-nowych-miejsc-pracy-i-ogromne-centrum-logistyczne/j0xF2aWq6w89HCAspI8x</link>
+<guid isPermaLink="false">02600d9a67de950769e9da6020c13816878de82f</guid>
+<pubDate>Thu, 19 Mar 2026 19:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" alt="miniatura"/></p><p>Niemiecka sieć Lidl zapowiedziała budowę centrum magazynowego w miejscowości Gucin, w gminie Buczek, na terenie powiatu łaskiego. Jak poinformowała gmina Buczek, prace mają rozpocząć się w czerwcu 2026 roku. Planowana powierzchnia obiektu to 6,2 hektara.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599"/>
+</item>
 <item>
 <title><![CDATA[ „Potężny chaos” przy szkole w Piotrkowie? Rozwiązaniem nowe rondo ]]></title>
 <link>https://trybunalski.pl/wiadomosci/potezny-chaos-pod-szkola-w-piotrkowie-rozwiazaniem-nowe-rondo/KhsQxVZQPboYKoFr9Lwd</link>
@@ -3263,7 +3273,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>„Potężny chaos” przy szkole w Piotrkowie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Niemiecki gigant inwestuje w Łódzkiem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3353,7 +3363,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>„Potężny chaos” przy szkole w Piotrkowie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Niemiecki gigant inwestuje w Łódzkiem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1cbb463e-8e20-41bc-9203-3011a127c76a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1cbb463e-8e20-41bc-9203-3011a127c76a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1cbb463e-8e20-41bc-9203-3011a127c76a"/>
-</item>
-<item>
-<title><![CDATA[ Nietypowe imiona dla dzieci w Piotrkowie Trybunalskim. Ile mamy Dezyderów i Melis w regionie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nietypowe-imiona-dla-dzieci-w-piotrkowie-trybunalskim-ile-mamy-dezyderow-i-melis-w-regionie/lYTAw01oBwLNhLl0sDHb</link>
-<guid isPermaLink="false">af7573fbbe32ae66c29747ac9f3d5e1208d72060</guid>
-<pubDate>Tue, 20 Jan 2026 09:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a" alt="miniatura"/></p><p>Choć liczba rzadkich imion jest niewielka, to właśnie one najlepiej pokazują zmieniające się podejście rodziców do wyboru imienia. Coraz częściej nie chodzi wyłącznie o modę, ale o indywidualność , rodzinne tradycje albo osobiste inspiracje – literackie, historyczne czy kulturowe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a"/>
 </item>
 </channel></rss>
