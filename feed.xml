@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Mar 2026 13:33:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 15:09:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ „Potężny chaos” przy szkole w Piotrkowie? Rozwiązaniem nowe rondo ]]></title>
+<link>https://trybunalski.pl/wiadomosci/potezny-chaos-pod-szkola-w-piotrkowie-rozwiazaniem-nowe-rondo/KhsQxVZQPboYKoFr9Lwd</link>
+<guid isPermaLink="false">27e11a737d97928b0d2fb585cdf9e8148e8e07f4</guid>
+<pubDate>Thu, 19 Mar 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/daf3acf5-3a26-45c4-a7a1-e80c5020ee99" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa wskazują kolejne miejsca w mieście, które ich zdaniem wymagają zmian. Jeden z takich punktów znajduje się w sąsiedztwie szkoły i ma tam dochodzić do niebezpiecznych sytuacji. Takie informacje dotarły do radnego Dariusza Cecotki, który pytanie o rozwiązanie problemu skierował do urzędu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf3acf5-3a26-45c4-a7a1-e80c5020ee99" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf3acf5-3a26-45c4-a7a1-e80c5020ee99" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf3acf5-3a26-45c4-a7a1-e80c5020ee99"/>
+</item>
 <item>
 <title><![CDATA[ Wielkanocny jarmark pod Piotrkowem. Sprawdź program wydarzenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkanocny-jarmark-pod-piotrkowem-sprawdz-program-wydarzenia/fm1Z2BBlofNAyQCrxtns</link>
@@ -3253,7 +3263,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wielkanocny jarmark pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>„Potężny chaos” przy szkole w Piotrkowie?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3343,7 +3353,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wielkanocny jarmark pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>„Potężny chaos” przy szkole w Piotrkowie?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2dd23b6b-4cc8-4e7f-90ff-f749bfa87b1a"/>
-</item>
-<item>
-<title><![CDATA[ Rewolucja na mapie powiatu? Gmina chce przejąć część sąsiedniego regionu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-na-mapie-powiatu-gmina-chce-przejac-czesc-sasiedniego-regionu/amDyyytOOHn1aEWeJAPe</link>
-<guid isPermaLink="false">adc42f0b9e83d4af4510c75618b873bd19ebb646</guid>
-<pubDate>Tue, 20 Jan 2026 09:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228" alt="miniatura"/></p><p>Choć zmiana granic administracyjnych brzmi w dzisiejszych czasach dość dyrastycznie, to gmina Sulejów nie ma złych zamiarów, ani nie szykuje się na "walkę o gminne granice". Pomysł samorządu zakłada zamianę terenów leśnych pomiędzy Sulejowem a gminą Mniszków .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228"/>
 </item>
 </channel></rss>
