@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Mar 2026 11:51:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 13:33:42 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkanocny jarmark pod Piotrkowem. Sprawdź program wydarzenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkanocny-jarmark-pod-piotrkowem-sprawdz-program-wydarzenia/fm1Z2BBlofNAyQCrxtns</link>
+<guid isPermaLink="false">4f67361dbd7468ec677630e69c4af4425f4387db</guid>
+<pubDate>Thu, 19 Mar 2026 13:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d2e41252-6abf-4fc6-8939-940044932a9d" alt="miniatura"/></p><p>Tradycyjna zupa chrzanowa, ludowe nuty i występy artystyczne – to tylko niektóre z elementów nadchodzącego jarmarku w powiecie piotrkowskim. Będzie to okazja dla mieszkańców do poczynienia przedświątecznych przygotowań, bo na miejscu dostępne będą stoiska z rękodziełem i nie tylko.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2e41252-6abf-4fc6-8939-940044932a9d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2e41252-6abf-4fc6-8939-940044932a9d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2e41252-6abf-4fc6-8939-940044932a9d"/>
+</item>
 <item>
 <title><![CDATA[ Pirat drogowy zatrzymany w powiecie piotrkowskim. Pędził z ogromną prędkością ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pirat-drogowy-zatrzymany-w-powiecie-piotrkowskim-pedzil-z-ogromna-predkoscia/7xsxpzdYoSgxAOWiizJh</link>
@@ -3243,7 +3253,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Pirat drogowy zatrzymany w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Wielkanocny jarmark pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3333,7 +3343,7 @@
 <link>https://trybunalski.pl/wiadomosci/najpiekniejsze-zyczenia-na-dzien-babci-od-serca-wyjatkowe-i-gotowe-do-wyslania/bG9BJYCtmupNYOaegO7L</link>
 <guid isPermaLink="false">7c987b9333598209319bbd923c3a4ce70966de1e</guid>
 <pubDate>Wed, 21 Jan 2026 10:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Pirat drogowy zatrzymany w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" alt="miniatura"/></p><p>Wielkanocny jarmark pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81a425c3-c219-49a7-9b93-ab07f6e32876"/>
@@ -3427,25 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d86b6a71-3df1-435d-887a-6ae1b0f21228"/>
-</item>
-<item>
-<title><![CDATA[ Istniała tu kultowa księgarnia. Piotrkowianie kupowali w niej przez dziesięciolecia [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/istniala-tu-kultowa-ksiegarnia-piotrkowianie-kupowali-w-niej-przez-dziesieciolecia-zdjecia/Pz63RCVPeSuNt1yBjs6v</link>
-<guid isPermaLink="false">9a42f5d44c5548398b234cd97de4495580df0ab5</guid>
-<pubDate>Mon, 19 Jan 2026 18:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/966d27f8-dae9-4e60-82ab-4c6969288a0c" alt="miniatura"/></p><p>Budynek powstał w XIX wieku. Początkowo miało tu siedzibę Piotrkowskie Miejskie Towarzystwo Kredytowe. Do lat 50. XX wieku kamienica pod adresem Słowackiego 1 w Piotrkowie Trybunalskim należała do Banku Gospodarstwa Krajowego. Później nieruchomość przejęło miasto. Przez blisko 70 lat istniała tam księgarnia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/966d27f8-dae9-4e60-82ab-4c6969288a0c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/966d27f8-dae9-4e60-82ab-4c6969288a0c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/966d27f8-dae9-4e60-82ab-4c6969288a0c"/>
-</item>
-<item>
-<title><![CDATA[ Wydano ostrzeżenie dla centrum miasta. Lepiej zostać w domu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wydano-ostrzezenie-dla-centrum-miasta-lepiej-zostac-w-domu/3iLcIGVwrDWourb7ds1J</link>
-<guid isPermaLink="false">9605beb5d1b7deeba7d8f0a2f75f51f7e23d6d05</guid>
-<pubDate>Mon, 19 Jan 2026 14:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e412e340-7526-458a-89e1-4d52e4ae5866" alt="miniatura"/></p><p>Od rana w naszym mieście obowiązuje nowe ostrzeżenie, które dotyczy jakości powietrza. 19 stycznia Główny Inspektorat Ochrony Środowiska wydał powiadomienie w sprawie ryzyka przekroczenia poziomu informowania dla pyłu zawieszonego PM10. Alert ten dotyczy centrum miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e412e340-7526-458a-89e1-4d52e4ae5866" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e412e340-7526-458a-89e1-4d52e4ae5866" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e412e340-7526-458a-89e1-4d52e4ae5866"/>
 </item>
 </channel></rss>
