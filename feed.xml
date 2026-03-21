@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Mar 2026 07:47:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 08:53:42 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Przestępczy duet działał na terenie całego województwa. Padło 49 zarzutów ]]></title>
