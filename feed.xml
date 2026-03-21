@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Mar 2026 08:53:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 09:50:34 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Przestępczy duet działał na terenie całego województwa. Padło 49 zarzutów ]]></title>
@@ -3393,7 +3393,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
 <guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
 <pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Przestępczy duet działał na terenie całego województwa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Nie pracowali latami, a dostaną emeryturę. ZUS wyjaśnia zasady</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
@@ -3427,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0a0b2e3-181f-481b-b410-7dd145467d67" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0a0b2e3-181f-481b-b410-7dd145467d67" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0a0b2e3-181f-481b-b410-7dd145467d67"/>
-</item>
-<item>
-<title><![CDATA[ Alert dla naszego miasta i powiatu. Zacznie się już wieczorem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/alert-dla-naszego-miasta-i-powiatu-zacznie-sie-juz-wieczorem/ytWJ456UJAhYvHIT9lVZ</link>
-<guid isPermaLink="false">ed93b57ead5f80f10c87302ba29413dac87651bb</guid>
-<pubDate>Wed, 21 Jan 2026 14:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1fa69dd7-10ce-4f6d-8d6c-18c0ab4173fb" alt="miniatura"/></p><p>Kilka powiatów w Łódzkiem zostało objętych ostrzeżeniem meteorologicznym pierwszego stopnia przed niebezpiecznym zjawiskiem. Jak prognozuje Instytut Meteorologii i Gospodarki Wodnej, wszystko zacznie się już za kilka godzin. Podpowiadamy, na co uważać w czasie obowiązywania alertu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fa69dd7-10ce-4f6d-8d6c-18c0ab4173fb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fa69dd7-10ce-4f6d-8d6c-18c0ab4173fb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fa69dd7-10ce-4f6d-8d6c-18c0ab4173fb"/>
 </item>
 </channel></rss>
