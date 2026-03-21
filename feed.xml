@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Mar 2026 17:42:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 18:57:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/tenisista-z-piotrkowa-podbija-miami-kamil-majchrzak-sensacyjnie-wyeliminowal-faworyta-gospodarzy/KcuTgNDA9fbJl5os78IP</link>
+<guid isPermaLink="false">9c57545a2f5b359cae6a14924af6d6cc95d4871a</guid>
+<pubDate>Sat, 21 Mar 2026 18:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" alt="miniatura"/></p><p>Kamil Majchrzak przygodę z imprezą na Florydzie rozpoczął w czwartek, kiedy to wyeliminował Serba Miomira Kecmanovicia, biorąc rewanż za zeszłoroczną porażkę w Atenach. Reprezentant Polski nie był faworytem tego pojedynku, ale po raz kolejny pokazał, jaki z niego walczak i ograł niewygodnego rywala.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e"/>
+</item>
 <item>
 <title><![CDATA[ Najdroższa autostrada w Polsce znów podniosła ceny. Aktualne stawki to już absurd? [LISTA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najdrozsza-autostrada-w-polsce-znow-podniosla-ceny-aktualne-stawki-to-juz-absurd-lista/a1FPHG1Mq6ZvTm7hO2fJ</link>
