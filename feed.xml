@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Mar 2026 16:48:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 17:42:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Najdroższa autostrada w Polsce znów podniosła ceny. Aktualne stawki to już absurd? [LISTA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najdrozsza-autostrada-w-polsce-znow-podniosla-ceny-aktualne-stawki-to-juz-absurd-lista/a1FPHG1Mq6ZvTm7hO2fJ</link>
+<guid isPermaLink="false">fa02a209d5a5328e8a7b3d47a104b228c1e0ec05</guid>
+<pubDate>Sat, 21 Mar 2026 17:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" alt="miniatura"/></p><p>Od 11 marca wzrosły stawki za przejazd koncesyjnym fragmentem autostrady A2 pomiędzy Nowym Tomyślem a Koninem . Odcinek ten liczy około 150 kilometrów i jest podzielony na trzy fragmenty po około 50 kilometrów, z oddzielnymi punktami poboru opłat.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad"/>
+</item>
 <item>
 <title><![CDATA[ Zarządzeni kryzysowe ostrzega w woj. łódzkim. Zacznie się w nocy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zarzadzeni-kryzysowe-ostrzega-w-woj-lodzkim-zacznie-sie-w-nocy/J1F5SGBSKU5YecCIQvqA</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890"/>
-</item>
-<item>
-<title><![CDATA[ Najlepsze życzenia na Dzień Dziadka. Piękne, od serca i gotowe do wysłania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najlepsze-zyczenia-na-dzien-dziadka-piekne-od-serca-i-gotowe-do-wyslania/a7Bm8E1R7rucY9JKtJaM</link>
-<guid isPermaLink="false">2e512847e14455078d52fa4ae22a8831392181f1</guid>
-<pubDate>Thu, 22 Jan 2026 10:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" alt="miniatura"/></p><p>Alert IMGW dla Piotrkowa i regionu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40047ef1-9459-4443-bd17-081c8e937772"/>
 </item>
 </channel></rss>
