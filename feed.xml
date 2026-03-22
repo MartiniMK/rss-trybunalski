@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Mar 2026 15:42:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 16:49:42 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ IV Jarmark Wielkanocny w Hotelu Górskim w Proszeniu - tłumy mieszkańców, lokalne smaki i świąteczna atmosfera ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/iv-jarmark-wielkanocny-w-hotelu-gorskim-w-proszeniu-tlumy-mieszkancow-lokalne-smaki-i-swiateczna-atmosfera-zdjecia/MgLGKVNph1nYixDij6lC</link>
+<guid isPermaLink="false">41c82f722742e7baee24e526ccfbf1e56eb4f297</guid>
+<pubDate>Sun, 22 Mar 2026 17:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88" alt="miniatura"/></p><p>Podczas uroczystego otwarcia Jarmarku organizatorzy powitali uczestników, podkreślając znaczenie pielęgnowania lokalnych zwyczajów oraz budowania wspólnoty wokół takich inicjatyw. Już od pierwszych chwil jarmark tętnił życiem – na scenie pojawiały się kolejne zespoły, a wśród stoisk można było znaleźć bogactwo rękodzieła, regionalnych produktów i świątecznych dekoracji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88"/>
+</item>
 <item>
 <title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/tenisista-z-piotrkowa-podbija-miami-kamil-majchrzak-sensacyjnie-wyeliminowal-faworyta-gospodarzy/KcuTgNDA9fbJl5os78IP</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b"/>
-</item>
-<item>
-<title><![CDATA[ Nowy obiekt na sportowej mapie miasta. Ruszają przygotowania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-obiekt-na-sportowej-mapie-miasta-ruszaja-przygotowania/QtDFKEWZJzvqlXHlwasE</link>
-<guid isPermaLink="false">596fe0754f6ba3574e812304bc48d141f05e6168</guid>
-<pubDate>Thu, 22 Jan 2026 10:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00" alt="miniatura"/></p><p>W środę, 21 stycznia piotrkowski urząd poinformował, że rozpoczęto przygotowania do modernizacji boiska przy Szkole Podstawowej numer 10. Placówka ma zyskać nowoczesny kompleks sportowy. Najpierw, w planach jest opracowanie dokumentacji. Ta ma pozwolić na złożenie wniosku o dofinansowanie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00"/>
 </item>
 </channel></rss>
