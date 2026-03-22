@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Mar 2026 13:19:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 14:46:16 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
@@ -43,10 +43,10 @@
 <link>https://trybunalski.pl/wiadomosci/zaginal-39-letni-mieszkaniec-regionu-piotrkowska-policja-apeluje-o-pomoc-w-poszukiwaniach/HdNxPuHVLp2rk7xnWiGE</link>
 <guid isPermaLink="false">182a8164347a4d78790fa69ac85f252d710458bb</guid>
 <pubDate>Sat, 21 Mar 2026 13:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1d8f9efc-3432-410b-bcba-7be6aa7e2de4" alt="miniatura"/></p><p>Z informacji przekazanych przez Komendę Miejską Policji w Piotrkowie Trybunalskim wynika, że Kamil Ośmiałowski 19 marca około godz. 17:00 wyjechał z domu samochodem marki Volkswagen koloru niebieskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d8f9efc-3432-410b-bcba-7be6aa7e2de4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d8f9efc-3432-410b-bcba-7be6aa7e2de4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d8f9efc-3432-410b-bcba-7be6aa7e2de4"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9350a7ae-d46e-4459-85fc-921da45ccd26" alt="miniatura"/></p><p>Jak przekazała piotrkowska policja poszukiwania 39-latka zostały zakończone.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9350a7ae-d46e-4459-85fc-921da45ccd26" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9350a7ae-d46e-4459-85fc-921da45ccd26" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9350a7ae-d46e-4459-85fc-921da45ccd26"/>
 </item>
 <item>
 <title><![CDATA[ Dlaczego butelki oddawane do kaucjomatu muszą być idealne? ]]></title>
