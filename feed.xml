@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Mar 2026 08:54:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 09:49:52 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
@@ -3427,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db88f66e-3ca7-4180-be24-8b73ef3fbb00"/>
-</item>
-<item>
-<title><![CDATA[ Pożar tartaku w Piotrkowie Trybunalskim. Straty sięgają miliona! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-tartaku-w-piotrkowie-trybunalskim-starty-siegaja-miliona/HlUytKOdvKKi4TPts7C9</link>
-<guid isPermaLink="false">45c969e4663d8b2b0cb4302d3d353496eb229fc9</guid>
-<pubDate>Thu, 22 Jan 2026 10:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890" alt="miniatura"/></p><p>Kilkanaście minut po godz. 23:00 służby otrzymały zgłoszenie o pożarze przy ul. Roosevelta w Piotrkowie Trybunalskim. Na miejsce udały się cztery zastępy straży pożarnej z Piotrkowa i dwie jednostki OSP.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/01d43180-ab30-49f9-9871-959fc84d1890"/>
 </item>
 </channel></rss>
