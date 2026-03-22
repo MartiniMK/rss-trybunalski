@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Mar 2026 03:07:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 05:08:16 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
@@ -2003,10 +2003,10 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zbyt-szybka-jazda-zakonczona-w-rowie-grozne-zdarzenie-pod-piotrkowem/eNuYKwxGgf8PIcd6nNfF</link>
 <guid isPermaLink="false">9eb75b92d0a568d2a93390f2f47cf140890bf08a</guid>
 <pubDate>Wed, 18 Feb 2026 10:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5a4ad87d-e8eb-414a-b631-07d70d63415b" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/na-sygnale/zbyt-szybka-jazda-zakonczona-w-rowie-grozne-zdarzenie-pod-piotrkowem/eNuYKwxGgf8PIcd6nNfF is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5a4ad87d-e8eb-414a-b631-07d70d63415b" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5a4ad87d-e8eb-414a-b631-07d70d63415b" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/trybunalski/articles/image/5a4ad87d-e8eb-414a-b631-07d70d63415b"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1740c3ed-58c5-4c98-b822-5a72ebae2bff" alt="miniatura"/></p><p>Kobieta wjechała do rowu pod Piotrkowem</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1740c3ed-58c5-4c98-b822-5a72ebae2bff" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1740c3ed-58c5-4c98-b822-5a72ebae2bff" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1740c3ed-58c5-4c98-b822-5a72ebae2bff"/>
 </item>
 <item>
 <title><![CDATA[ Wypadek w Bujnach. 11-latek zabrany do szpitala [ZDJĘCIA] ]]></title>
