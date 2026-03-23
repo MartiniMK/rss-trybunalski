@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 23 Mar 2026 09:18:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 11:10:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kilkunastu zatrzymanych przez policję w Piotrkowie. Byli poszukiwani listami gończymi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kilkunastu-zatrzymanych-przez-policje-w-piotrkowie-byli-poszukiwani-listami-gonczymi/zTvNquLk16vDyfYfgU69</link>
+<guid isPermaLink="false">b3009c167abdd3079c249f2d0666cf6b53e58af0</guid>
+<pubDate>Mon, 23 Mar 2026 11:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c835da7a-f434-4148-8a67-cd9b420eded5" alt="miniatura"/></p><p>Jak wynika z policyjnych informacji, funkcjonariusze zatrzymali w 2026 roku 16 osób poszukiwanych , realizując przy tym 23 listy gończe . Wśród nich były także 2 Europejskie Nakazy Aresztowania . Policjanci wykonali ponadto 11 ustaleń miejsca pobytu oraz 6 nakazów doprowadzenia .</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c835da7a-f434-4148-8a67-cd9b420eded5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c835da7a-f434-4148-8a67-cd9b420eded5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c835da7a-f434-4148-8a67-cd9b420eded5"/>
+</item>
+<item>
+<title><![CDATA[ Pieniądze dla najzdolniejszych uczniów z woj. łódzkiego. Premier i Minister przyznali wysokie nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pieniadze-dla-najzdolniejszych-uczniow-z-woj-lodzkiego-premier-i-minister-przyznali-wysokie-nagrody/ChJlAdxSzY4EV0kNr5uX</link>
+<guid isPermaLink="false">9bfc0389910d0c82131f99932deea1259c9a6f4f</guid>
+<pubDate>Mon, 23 Mar 2026 11:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/191cbc36-d19e-4584-a89b-be488d1268af" alt="miniatura"/></p><p>Podczas uroczystości na Uniwersytecie Łódzkim, która odbyła się 19 marca, wręczono stypendia państwowe dla blisko 300 młodych talentów. Nagrody od Prezesa Rady Ministrów oraz Ministra Edukacji Narodowej trafiły do rąk tych, którzy wyróżniają się osiągnięciami w nauce. Wśród stypendystów znaleźli się również uczniowie z naszego regionu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/191cbc36-d19e-4584-a89b-be488d1268af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/191cbc36-d19e-4584-a89b-be488d1268af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/191cbc36-d19e-4584-a89b-be488d1268af"/>
+</item>
+<item>
+<title><![CDATA[ Malezyjski gigant rekrutuje w naszym mieście. Jakie stawia wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/malezyjski-gigant-rekrutuje-w-naszym-miescie-jakie-stawia-wymagania/kqDzQ2EPmjGSo4EvMSvZ</link>
+<guid isPermaLink="false">834e72c912da893b948f51b9316ef5ed8db6a916</guid>
+<pubDate>Mon, 23 Mar 2026 10:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b702168e-8552-40b5-b6d9-b2dd89eabfbd" alt="miniatura"/></p><p>Malezyjska sieć sklepów Mr. DIY zawitała do Piotrkowa z początkiem 2025 roku. W ofercie giganta znajdują się artykuły elektryczne, dodatki do domu, artykuły biurowe i sportowe, akcesoria samochodowe, zabawki, elektronikę i akcesoria, prezenty, biżuterię i kosmetyki oraz wyposażenie domu. Okazuje się, że sieć poszukuje w naszym mieście pracowników.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b702168e-8552-40b5-b6d9-b2dd89eabfbd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b702168e-8552-40b5-b6d9-b2dd89eabfbd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b702168e-8552-40b5-b6d9-b2dd89eabfbd"/>
+</item>
 <item>
 <title><![CDATA[ W Piotrkowie powstanie duży park handlowy. Market budowlany, sklep meblowy, fast food... ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-powstanie-duzy-park-handlowy-market-budowlany-sklep-meblowy-fast-food/NQeYUIovHJGXzm7hKbJY</link>
@@ -3417,25 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1905200b-8fe4-4fc1-bf3c-4675b751aeb6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1905200b-8fe4-4fc1-bf3c-4675b751aeb6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1905200b-8fe4-4fc1-bf3c-4675b751aeb6"/>
-</item>
-<item>
-<title><![CDATA[ Nowoczesny system trafił do Piotrkowa. Na to wydali sześciocyfrową kwotę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowoczesny-system-trafil-do-piotrkowa-na-to-wydali-szesciocyfrowa-kwote/jVSpvymiteU9y0mGpdQI</link>
-<guid isPermaLink="false">c158f84c774460193306eb2ecf5d98e4f7b53be9</guid>
-<pubDate>Thu, 22 Jan 2026 13:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/416428ab-26bb-4b90-bad0-baa8f61f968b" alt="miniatura"/></p><p>W IV Liceum Ogólnokształcącym w Piotrkowie Trybunalskim powstała wirtualna strzelnica. Szkoła pozyskała na ten cel dofinansowanie w wysokości prawie 200 tysięcy złotych. Wiadomo, kto będzie mógł korzystać z nowego wyposażenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/416428ab-26bb-4b90-bad0-baa8f61f968b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/416428ab-26bb-4b90-bad0-baa8f61f968b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/416428ab-26bb-4b90-bad0-baa8f61f968b"/>
-</item>
-<item>
-<title><![CDATA[ Duży pożar w powiecie piotrkowskim. Spłonęły dwa samochody, ogrodzenie i nie tylko... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/duzy-pozar-w-powiecie-piotrkowskim-splonely-dwa-samochody-ogrodzenie-i-nie-tylko/7Ydd9GawXJvGTc1VijO7</link>
-<guid isPermaLink="false">9840c62f4144d8fb8232df088a7dca33cccc0620</guid>
-<pubDate>Thu, 22 Jan 2026 13:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b" alt="miniatura"/></p><p>Kilkanaście minut przed godz. 4:00 strażacy dostali zgłoszenie o pożarze garażu i znajdującym się w środku samochodzie. Do zdarzenia doszło w m. Tomawa w gminie Łęki Szlacheckie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f86e0bd-9ded-4f4e-9ff9-6c9ff220007b"/>
 </item>
 </channel></rss>
