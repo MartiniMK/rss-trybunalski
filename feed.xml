@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 23 Mar 2026 07:33:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 09:18:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie powstanie duży park handlowy. Market budowlany, sklep meblowy, fast food... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-powstanie-duzy-park-handlowy-market-budowlany-sklep-meblowy-fast-food/NQeYUIovHJGXzm7hKbJY</link>
+<guid isPermaLink="false">3c241ec3636a4f9984745ddb7aa8494e23478e5f</guid>
+<pubDate>Mon, 23 Mar 2026 09:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c617ecd6-bd5a-42b4-8953-ca3e99f734b7" alt="miniatura"/></p><p>20 marca 2026 roku spółka Progress XVIII, należąca do Rank Progress zawarła umowę z P.A. Nova na budowę nowego parku handlowego w Piotrkowie Trybunalskim wraz z infrastrukturą techniczną. Wartość kontraktu wyniesie 22 mln zł netto.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c617ecd6-bd5a-42b4-8953-ca3e99f734b7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c617ecd6-bd5a-42b4-8953-ca3e99f734b7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c617ecd6-bd5a-42b4-8953-ca3e99f734b7"/>
+</item>
 <item>
 <title><![CDATA[ IV Jarmark Wielkanocny w Hotelu Górskim w Proszeniu - tłumy mieszkańców, lokalne smaki i świąteczna atmosfera ZDJĘCIA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/iv-jarmark-wielkanocny-w-hotelu-gorskim-w-proszeniu-tlumy-mieszkancow-lokalne-smaki-i-swiateczna-atmosfera-zdjecia/MgLGKVNph1nYixDij6lC</link>
