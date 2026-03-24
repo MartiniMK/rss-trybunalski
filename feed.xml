@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 24 Mar 2026 12:01:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 13:52:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/e7GR0ren6yD7kNaVpzkS</link>
+<guid isPermaLink="false">25f93d828b88ac1c076ad1a3e5f3b7b7aca22d0e</guid>
+<pubDate>Tue, 24 Mar 2026 13:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" alt="miniatura"/></p><p>We wtorek, 24 marca piotrkowski magistrat poinformował o rozpoczęciu corocznego przeglądu miejskich syren alarmowych. To oznacza, że mieszkańcy mogą spodziewać się nadania sygnałów alarmowych. Do kiedy potrwają prace?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd"/>
+</item>
 <item>
 <title><![CDATA[ Jest praca w miejskiej jednostce w Piotrkowie. Kogo potrzebują i ile płacą? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jest-praca-w-miejskiej-jednostce-w-piotrkowie-kogo-potrzebuja-i-ile-placa/TIddIPuJwmgHAKoe6fkf</link>
