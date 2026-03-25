@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Mar 2026 11:08:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 12:00:50 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Brytyjski gigant rekrutuje w Piotrkowie. Proponuje kupon na zakupy i... ]]></title>
@@ -29,7 +29,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/25fafc3c-af6d-4f73-a2a4-2a29eb9fc4b2"/>
 </item>
 <item>
-<title><![CDATA[ Rozstawił w lesie pod Piotrkowem wnyki. Wszystko widać na filmie ]]></title>
+<title><![CDATA[ Kłusownik w lesie pod Piotrkowem. Strażnicy zastawili pułapkę - wszystko widać na filmie [VIDEO] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/rozstawil-w-lesie-pod-piotrkowem-wnyki-wszystko-widac-na-filmie/5FqFYbo3RA04zwmXleT3</link>
 <guid isPermaLink="false">dedce1bf19df58cecdb59785e8036443392d1560</guid>
 <pubDate>Wed, 25 Mar 2026 10:10:00 +0000</pubDate>
@@ -3487,15 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6537cd9-22dc-4900-9eee-e780dc977805" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6537cd9-22dc-4900-9eee-e780dc977805" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6537cd9-22dc-4900-9eee-e780dc977805"/>
-</item>
-<item>
-<title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/UtrO3PLS2xUpyiMHjive</link>
-<guid isPermaLink="false">6dc7b5c6a5fb0cc5221c6cb199c0113d94e518d4</guid>
-<pubDate>Mon, 26 Jan 2026 15:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f4ce409b-a660-47c1-94bb-c625b00afc47" alt="miniatura"/></p><p>Pojawiła się oferta pracy w centrum logistycznym w Piotrkowie Trybunalskim. Jak się okazuje, Allegro poszukuje specjalisty/ki ds. transportu (Middle Mile Specialist). Miejsce pracy znajduje się przy ul. Logistycznej. Sprawdzamy, jakie wymagania stawia spółka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4ce409b-a660-47c1-94bb-c625b00afc47" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4ce409b-a660-47c1-94bb-c625b00afc47" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f4ce409b-a660-47c1-94bb-c625b00afc47"/>
 </item>
 </channel></rss>
