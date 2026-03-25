@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Mar 2026 17:30:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 19:16:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dino rusza z wielką promocją przed Świętami. Od jutra +100% gratis! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dino-ruszylo-z-wielka-promocja-od-jutra-100-gratis/412fuxVuwjoaNWPxkzUo</link>
+<guid isPermaLink="false">20c5cc6dcb8f226b3acfc9d4fc1d6c54fdb87b2d</guid>
+<pubDate>Wed, 25 Mar 2026 18:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3a0b89a3-eef9-440a-87ba-e21a6fbf05dd" alt="miniatura"/></p><p>Nowa oferta obowiązuje od środy 25 marca i obejmuje szeroki przekrój produktów codziennego użytku oraz artykułów typowo świątecznych. Kluczowym elementem strategii są promocje typu „gratis”, które w praktyce pozwalają obniżyć jednostkową cenę nawet o połowę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a0b89a3-eef9-440a-87ba-e21a6fbf05dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a0b89a3-eef9-440a-87ba-e21a6fbf05dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a0b89a3-eef9-440a-87ba-e21a6fbf05dd"/>
+</item>
 <item>
 <title><![CDATA[ Jarmark Wielkanocny 2026 w Piotrkowie. Stoiska, konkursy i bańkarskie show [PROGRAM] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jarmark-wielkanocny-2026-w-piotrkowie-stoiska-konkursy-i-bankarskie-show-program/ha65J3LmGB3AGK0dXlRH</link>
@@ -3487,15 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0"/>
-</item>
-<item>
-<title><![CDATA[ Opona wystrzeliła w ciężarówce na S8 pod Piotrkowem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/opona-wystrzelila-w-ciezarowce-na-s8-pod-piotrkowem/cNctOKrEc4HZ3N5Lxcpv</link>
-<guid isPermaLink="false">7129ca1379092455f8265d17b7afa2178c3ef94f</guid>
-<pubDate>Tue, 27 Jan 2026 10:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fbc753c3-10dd-4ea4-9ea4-8a585a2dcc68" alt="miniatura"/></p><p>Służby około godz. 9:00 otrzymały zgłoszenie, że na 340 kilometrze tarsy S8 w kierunku Warszawy, na wysokości m. Wolbórz doszło do niebezpiecznego zdarzenia z udziałem pojazdu ciężarowego. Na miejsce zadysponowano straż pożąrną oraz policję.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbc753c3-10dd-4ea4-9ea4-8a585a2dcc68" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbc753c3-10dd-4ea4-9ea4-8a585a2dcc68" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbc753c3-10dd-4ea4-9ea4-8a585a2dcc68"/>
 </item>
 </channel></rss>
