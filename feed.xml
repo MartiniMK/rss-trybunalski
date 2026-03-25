@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Mar 2026 13:51:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 15:22:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Jarmark Wielkanocny 2026 w Piotrkowie. Stoiska, konkursy i bańkarskie show [PROGRAM] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jarmark-wielkanocny-2026-w-piotrkowie-stoiska-konkursy-i-bankarskie-show-program/ha65J3LmGB3AGK0dXlRH</link>
+<guid isPermaLink="false">bea87bb7261355ab81d1e09b4c517f1200551c22</guid>
+<pubDate>Wed, 25 Mar 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d3564817-2ec0-4367-9286-5f3f6c43c8e8" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa Trybunalskiego już w najbliższą niedzielę, 29 marca, będą mieli okazję do wspólnego świętowania podczas Festynu Wielkanocnego „Na Jaju”. Wydarzenie po raz kolejny odbędzie się w Parku im. św. Jana Pawła II i rozpocznie się o godzinie 10:00. W programie mają znaleźć się atrakcje zarówno dla starszych, jak i najmłodszych mieszkańców.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3564817-2ec0-4367-9286-5f3f6c43c8e8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3564817-2ec0-4367-9286-5f3f6c43c8e8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3564817-2ec0-4367-9286-5f3f6c43c8e8"/>
+</item>
 <item>
 <title><![CDATA[ Przed nami astronomiczne wydarzenie stulecie. 6 minut, które zachwyci świat ]]></title>
 <link>https://trybunalski.pl/wiadomosci/przed-nami-astronomiczne-wydarzenie-stulecie-6-minut-ktore-zachwyci-swiat/5WcdfTNNiayXSUSylGbj</link>
