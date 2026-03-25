@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 25 Mar 2026 19:16:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 21:00:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Puchar Polski Kobiet: KRASOŃ MKS Piotrcovia zagra w Final Four! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-krason-mks-piotrcovia-zagra-w-final-four/vqVfiZvVaKNYQaGq4MIG</link>
+<guid isPermaLink="false">a09e427ff0ea0408965bc700c24bef3c646c8c99</guid>
+<pubDate>Wed, 25 Mar 2026 20:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" alt="miniatura"/></p><p>Do rywalizacji w ćwierćfinale Pucharu Polski Kobiet szczypiornistki z Piotrkowa Trybunalskiego przystępowały kilka dni po spektakularnym zwycięstwie nad KGHM Zagłębiem w Lubinie (30:23) i pełne nadziei na kolejne sukcesy. Wszyscy w klubie mieli jednak świeżo w pamięci porażkę w Koszalinie (24:25) poniesioną w połowie lutego, więc nikt nie zamierzał lekceważyć niżej notowanego rywala.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0"/>
+</item>
 <item>
 <title><![CDATA[ Dino rusza z wielką promocją przed Świętami. Od jutra +100% gratis! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dino-ruszylo-z-wielka-promocja-od-jutra-100-gratis/412fuxVuwjoaNWPxkzUo</link>
@@ -3487,15 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523"/>
-</item>
-<item>
-<title><![CDATA[ Zatańczyli poloneza i zachwycili. Uczniowie z naszego miasta podbijają Tik Toka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zatanczyli-poloneza-i-zachwycili-uczniowie-z-naszego-miasta-podbijaja-tiktoka/8QGEOqA2gQ0EYhGuhEDG</link>
-<guid isPermaLink="false">6c9fa6cc77c02b6b6d1c1945b486c4f963db66e0</guid>
-<pubDate>Tue, 27 Jan 2026 11:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0" alt="miniatura"/></p><p>Każdego roku uczniowie klas maturalnych poświęcają wiele czasu na przygotowania do balu studniówkowego. Ten wyjątkowy wieczór to czas podsumowań i tworzenia wspomnień. Ważnym momentem uroczystości jest odtańczenie poloneza. Wówczas publiczność zastyga, by obserwować, jak młodzież „płynie” na parkiecie. Każda szkoła prezentuje inny układ, każdy nagradzany jest brawami. Wiele filmów uwieczniających…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4d220d9e-00d2-4f9a-b30c-e437fca524c0"/>
 </item>
 </channel></rss>
