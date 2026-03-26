@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 26 Mar 2026 11:11:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 13:58:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkie targi ogrodnicze w naszym mieście. Jest już data ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-targi-ogrodnicze-w-naszym-miescie-jest-juz-data/ApoGXJgO7fC2iuemMI0g</link>
+<guid isPermaLink="false">f6128e6ad60ea5cda5228f1c07426664a34b04d1</guid>
+<pubDate>Thu, 26 Mar 2026 14:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" alt="miniatura"/></p><p>Szykuje się wielkie święto ogrodników w naszym mieście. Targi „Pamiętajmy o ogrodach” powracają do parku przy zamku w Bykach. Ulica Kasztelańska wypełni się setkami roślin i żywnością prosto od rolnika. To obowiązkowy przystanek dla każdego, kto szuka inspiracji do swojego ogrodu. Poznaliśmy już datę wydarzenia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332"/>
+</item>
+<item>
+<title><![CDATA[ Jest pierwsza gwiazda piotrkowskich juwenaliów. Kiedy impreza? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jest-pierwsza-gwiazda-piotrkowskich-juwenaliow-kiedy-impreza/tNWIBHzNWdifBNDytEXM</link>
+<guid isPermaLink="false">53f82c3d1f96d749d9d5626dc065f6a33f9bdd91</guid>
+<pubDate>Thu, 26 Mar 2026 13:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bf139a5f-d180-4f76-8735-0f4ab385c5db" alt="miniatura"/></p><p>Juwenalia zrzeszają środowiska studenckie poprzez zabawy, atrakcje i koncerty. W tym roku studenci Akademii Piotrkowskiej ponownie mogą spodziewać się imprezowej atmosfery na boisku uczelni. Co wiadomo na temat wydarzenia?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf139a5f-d180-4f76-8735-0f4ab385c5db" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf139a5f-d180-4f76-8735-0f4ab385c5db" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf139a5f-d180-4f76-8735-0f4ab385c5db"/>
+</item>
+<item>
+<title><![CDATA[ Jeden wyjazd zakończył się walką o życie. Trwa zbiórka dla mieszkańca naszego miasta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jeden-wyjazd-zakonczyl-sie-walka-o-zycie-trwa-zbiorka-dla-mieszkanca-naszego-miasta/b2yw647JH1hrSneGDyxy</link>
+<guid isPermaLink="false">0e1c890dd07428b4b78d15d20224240dc1f90f88</guid>
+<pubDate>Thu, 26 Mar 2026 13:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5edbd0ae-85e1-4fda-82bd-fdc234c658b8" alt="miniatura"/></p><p>Wypadek z 2024 roku odebrał Filipowi sprawność, pozostawiając go sparaliżowanego. Obecnie młody mężczyzna walczy o powrót do zdrowia. Aby wspomóc Piotrkowianina w tej nierównej walce, uruchomiono specjalną zbiórkę. Zebrane środki zostaną w całości przeznaczone na kosztowną rehabilitację.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5edbd0ae-85e1-4fda-82bd-fdc234c658b8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5edbd0ae-85e1-4fda-82bd-fdc234c658b8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5edbd0ae-85e1-4fda-82bd-fdc234c658b8"/>
+</item>
 <item>
 <title><![CDATA[ Starostwo w Piotrkowie Trybunalskim szuka pracownika. Tyle można zarobić ]]></title>
 <link>https://trybunalski.pl/wiadomosci/starostwo-w-piotrkowie-trybunalskim-szuka-pracownika-tyle-mozna-zarobic/cOpzHnroQ9e5x2q68X2h</link>
@@ -3477,45 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d3b15a3-d458-4ddf-852f-6ab98c093cfb" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d3b15a3-d458-4ddf-852f-6ab98c093cfb" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d3b15a3-d458-4ddf-852f-6ab98c093cfb"/>
-</item>
-<item>
-<title><![CDATA[ Utrudnienia dla kierowców. Przejazd kolejowy w Piotrkowie będzie zamknięty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/utrudnienia-dla-kierowcow-przejazd-kolejowy-w-piotrkowie-bedzie-zamkniety/o2zCdlhvEkd3sQCtYO9p</link>
-<guid isPermaLink="false">e0934e4b26b4a9fe9535e1593910ff0df48ba589</guid>
-<pubDate>Wed, 28 Jan 2026 11:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fb254009-8568-4858-86d6-16dbbe1b9a82" alt="miniatura"/></p><p>Jak informuje piotrkowski urząd miasta, szykują się utrudnienia dla kierowców. W czwartek, 29 stycznia wprowadzona zostanie tymczasowa organizacja ruchu. Zamknięty będzie przejazd kolejowo-drogowy w ciągu ulicy Granicznej w Piotrkowie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb254009-8568-4858-86d6-16dbbe1b9a82" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb254009-8568-4858-86d6-16dbbe1b9a82" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb254009-8568-4858-86d6-16dbbe1b9a82"/>
-</item>
-<item>
-<title><![CDATA[ Tragiczny wypadek na torach między Piotrkowem a Koluszkami. Ruch wstrzymany całkowicie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-wypadek-na-torach-miedzy-piotrkowem-a-koluszkami-ruch-wstrzymany-calkowicie/KEMmbTDHrIY9k0v3Ni7B</link>
-<guid isPermaLink="false">c807ac774ba220b2beb6a3fb80ea82e52148bed4</guid>
-<pubDate>Wed, 28 Jan 2026 10:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e04c54-1510-454e-89bc-149cd0b07fa5" alt="miniatura"/></p><p>W środę, 28 stycznia przed godziną 8:00 na trasie na odcinku Rokiciny - Baby doszło do śmiertelnego potrącenia mężczyzny. W związku z tym zdarzeniem wstrzymano ruch pociągów w regionie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e04c54-1510-454e-89bc-149cd0b07fa5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e04c54-1510-454e-89bc-149cd0b07fa5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e04c54-1510-454e-89bc-149cd0b07fa5"/>
-</item>
-<item>
-<title><![CDATA[ Nie tylko Krakowskie Przedmieście. Za piotrkowskimi murami rozwinęło się miasto [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nie-tylko-krakowskie-przedmiescie-za-piotrkowskimi-murami-rozwinelo-sie-miasto-zdjecia/hpqcEf5TkpdS8Sa7jIqC</link>
-<guid isPermaLink="false">949ba3a198dcd50e8d49c62642ebe4e32ea17196</guid>
-<pubDate>Tue, 27 Jan 2026 17:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3da64d9d-006b-4212-97e2-a055fda98470" alt="miniatura"/></p><p>To na piotrkowskich przedmieściach rozkwitało średniowieczne życie. Samo miasto zamknięte zostało w niewielkim obrębie murów nie mogło pomieścić wszystkich chętnych. Zabudowania powstawały jednak poza nim. Głównie wzdłuż traktów handlowych . Na przedmieściach wyrastały z czasem szlacheckie dworki i klasztory.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3da64d9d-006b-4212-97e2-a055fda98470" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3da64d9d-006b-4212-97e2-a055fda98470" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3da64d9d-006b-4212-97e2-a055fda98470"/>
-</item>
-<item>
-<title><![CDATA[ Miejscowość, która ożywa latem. To najmniejsza wieś w województwie łódzkim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miejscowosc-ktora-ozywa-latem-to-najmniejsza-wies-w-wojewodztwie-lodzkim/znebvxWq0DPmiTOb9rTc</link>
-<guid isPermaLink="false">750c5eb51e67ae3d342ac25bf963156d4e6baa82</guid>
-<pubDate>Tue, 27 Jan 2026 14:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/104d5b16-7bb2-48f5-9e65-aef0c5117a5e" alt="miniatura"/></p><p>Na koniec 2024 roku zameldowane były tu dwie osoby, chociaż śmieci odbierane są od trzech mieszkańców. Jednak od wiosny do jesieni, sezonowo mieszka tu więcej ludzi, praktycznie z całej Polski. To Kuźnica Żerechowska, najmniejsza wieś w województwie łódzkim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/104d5b16-7bb2-48f5-9e65-aef0c5117a5e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/104d5b16-7bb2-48f5-9e65-aef0c5117a5e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/104d5b16-7bb2-48f5-9e65-aef0c5117a5e"/>
 </item>
 </channel></rss>
