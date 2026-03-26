@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 26 Mar 2026 07:31:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 09:17:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Utrudnienia dla kierowców. Przejazd w Piotrkowie zamknięty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/utrudnienia-dla-kierowcow-przejazd-w-piotrkowie-zamkniety/MnRzUbT05aWy7sGrIzBP</link>
+<guid isPermaLink="false">d3d5668273452a5eae3b1ac46d85ea23c59cb8f7</guid>
+<pubDate>Thu, 26 Mar 2026 09:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107" alt="miniatura"/></p><p>Jak informuje piotrkowski urząd miasta, kierowcy mogą spodziewać się utrudnień w mieście. W czwartek, 26 marca wprowadzona została tymczasowa organizacja ruchu. Zamknięty jest przejazd kolejowo-drogowy w ciągu ulicy Granicznej w Piotrkowie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107"/>
+</item>
 <item>
 <title><![CDATA[ Puchar Polski Kobiet: KRASOŃ MKS Piotrcovia zagra w Final Four! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-krason-mks-piotrcovia-zagra-w-final-four/vqVfiZvVaKNYQaGq4MIG</link>
@@ -3487,15 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8b2f171-59c6-4ccf-ad9b-f94e55284acb" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8b2f171-59c6-4ccf-ad9b-f94e55284acb" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8b2f171-59c6-4ccf-ad9b-f94e55284acb"/>
-</item>
-<item>
-<title><![CDATA[ Gdzie są pieniądze ze studniówki w Piotrkowie? Wiemy, co z matką podejrzaną o kradzież ponad 13 tysięcy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/gdzie-sa-pieniadze-ze-studniowki-w-piotrkowie-wiemy-co-z-matka-podejrzana-o-kradziez-ponad-13-tysiecy/Dwjhx1kpjmdUY39fB4yh</link>
-<guid isPermaLink="false">6b192060675a53c4754dcd55f7546935b88e8b8c</guid>
-<pubDate>Tue, 27 Jan 2026 11:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523" alt="miniatura"/></p><p>Przypomnijmy. 12 stycznia informowaliśmy o tym, że w Piotrkowie doszło do skandalu. Rodzice maturzystów zawiadomili policję, że ich zdaniem matka jednej z uczennic ukradła pieniądze, które zbierała od innych na rzecz organizacji balu maturalnego. Do szokującej sytuacji doszło w Zespole Szkół Ponadpodstawowych nr 1, chwilę przed terminem wspomnianej imprezy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f30000ec-8eb8-42b5-b6cc-56596ee90523"/>
 </item>
 </channel></rss>
