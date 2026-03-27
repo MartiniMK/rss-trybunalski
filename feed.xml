@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Mar 2026 09:13:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 11:06:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wiadomo już, kto ugości rolników. Znamy gospodarza Dożynek Powiatowych 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wiadomo-juz-kto-ugosci-rolnikow-znamy-gospodarza-dozynek-powiatowych-2026/IpbCg0oXbutrvGU7v1EH</link>
+<guid isPermaLink="false">b67f6eccf794a460263444303589d5af99c4ba1e</guid>
+<pubDate>Fri, 27 Mar 2026 11:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" alt="miniatura"/></p><p>W czwartek, 26 marca odbyła się przedświąteczna Sesja Rady Powiatu w Piotrkowie Trybunalskim. Zebrani rozmawiali o zmianach w budżecie, programie działań na rzecz osób z niepełnosprawnościami czy funkcjonowaniu Rady Seniorów. Jednym z punktów było także oficjalne przekazanie dożynkowego kłosa na ręce gospodarza tegorocznego święta plonów w naszym powiecie. Kto ugości rolników?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265"/>
+</item>
+<item>
+<title><![CDATA[ Pożar domu pod Piotrkowem. Na miejscu 6 zastępów, straty są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-pod-piotrkowem-na-miejscu-6-zastepow-straty-sa-ogromne/TbEWArc4ArgIePHEJ4Qi</link>
+<guid isPermaLink="false">26ca27140291f13227afabcd5f0aced9832a2710</guid>
+<pubDate>Fri, 27 Mar 2026 10:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" alt="miniatura"/></p><p>Kilkanaście minut przed godz. 7:00 do straży pożarnej wpłynęło zgłoszenie o pożarze budynku mieszkalnego jednorodzinnego w m. Przygłów Las.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2"/>
+</item>
+<item>
+<title><![CDATA[ Niebezpieczne zdarzenie w Piotrkowie. Nastolatki jechały razem hulajnogą, jedna trafiła do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/niebezpieczne-zdarzenie-w-piotrkowie-nastolatki-jechaly-razem-hulajnoga-jedna-trafila-do-szpitala/GkvMQreGDYEsjW9QDf2o</link>
+<guid isPermaLink="false">7bf80d5e5a1bd9bb0d5dccb29a4c76bf386ee070</guid>
+<pubDate>Fri, 27 Mar 2026 10:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47884689-c2ae-4136-a4d4-5650969934f1" alt="miniatura"/></p><p>Około godz. 18:00 służby otrzymały zgłoszenie, że na ul. Broniewskiego w Piotrkowie Trybunalskim doszło do wypadku z udziałem nieletnich. Na miejsce wysłano patrol policji i zespół ratownictwa medycznego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47884689-c2ae-4136-a4d4-5650969934f1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47884689-c2ae-4136-a4d4-5650969934f1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47884689-c2ae-4136-a4d4-5650969934f1"/>
+</item>
 <item>
 <title><![CDATA[ Hades zasilił szeregi policji w Piotrkowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/hades-zasilil-szeregi-policji-w-piotrkowie/ni5qLLQuxoWXdxZHdyyd</link>
@@ -3487,25 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159"/>
-</item>
-<item>
-<title><![CDATA[ Oszuści grasują i wyłudzają pieniądze. Policjanci ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/oszusci-grasuja-i-wyludzaja-pieniadze-policjanci-ostrzegaja/e7P1io39V6d1IgZFGfmE</link>
-<guid isPermaLink="false">7c4d78624239a117a6506fff9bccb8f6d1321460</guid>
-<pubDate>Wed, 28 Jan 2026 15:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3bea2009-9a63-48a5-8840-3ed0f0466ba8" alt="miniatura"/></p><p>Jak przekazują policjanci, podszywanie się pod bliską osobę to obecnie jedna z najczęściej zgłaszanych metod oszustw internetowych. Po uzyskaniu kontroli nad kontem przestępca kontaktuje się ze znajomymi właściciela profilu i prosi o pilną pomoc finansową.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3bea2009-9a63-48a5-8840-3ed0f0466ba8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3bea2009-9a63-48a5-8840-3ed0f0466ba8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3bea2009-9a63-48a5-8840-3ed0f0466ba8"/>
-</item>
-<item>
-<title><![CDATA[ Piją, kradną i zakłócają porządek. W tych miejscach w mieście lepiej uważać ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pija-kradna-i-zaklocaja-porzadek-w-tych-miejscach-w-miescie-lepiej-uwazac/V7dE49cYiV85nHWFIFcG</link>
-<guid isPermaLink="false">e375361500e1bbaa30ef5a59116d5e1ad4966301</guid>
-<pubDate>Wed, 28 Jan 2026 15:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0af8acea-e81c-4d31-b390-7fc7ae1f617a" alt="miniatura"/></p><p>Co pół roku mundurowi przedstawiają plany działań priorytetowych dla swojej dzielnicy. Piotrków podzielony jest przez policjantów na 12 rejonów służbowych, a do każdego z terenów przypisany jest dzielnicowy. To właśnie oni najlepiej powinni orientować się w wykroczeniach, do jakich dochodzi na danym terenie. Mundurowi ustalają, jakie problemy doskwierają mieszkańcom i starają się je wyeliminować.…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0af8acea-e81c-4d31-b390-7fc7ae1f617a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0af8acea-e81c-4d31-b390-7fc7ae1f617a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0af8acea-e81c-4d31-b390-7fc7ae1f617a"/>
 </item>
 </channel></rss>
