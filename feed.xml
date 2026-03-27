@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Mar 2026 21:00:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 21:54:42 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Zaginął 43-letni mężczyzna. Piotrkowska policja prowadzi poszukiwania [AKTUALIZACJA] ]]></title>
@@ -3507,15 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie ma być "tanio jak u Skolima". Miejska stacja paliw zawstydzi Orlen i BP? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tania-benzyna-u-krola-latino-a-w-piotrkowie-drozyzna-rozwiazaniem-miejska-stacja-paliw/A8kGB7dN0SG0DmbDgTB0</link>
-<guid isPermaLink="false">321cf8cf7082fb59150ea3403c380e20fdd2bef8</guid>
-<pubDate>Thu, 29 Jan 2026 15:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/be82bbfa-675e-438a-842f-cc8787b96f97" alt="miniatura"/></p><p>W ostatnim czasie media obiegła informacja o otwarciu przez piosenkarza Skolima stacji paliw. Artysta utworzył pierwszy taki punkt w Czeremsze w województwie podlaskim. Duże zainteresowanie wzbudziły ceny, jakie Król Latino zaproponował kierowcom. Mowa tu o około 5,19 zł za litr benzyny. Skolimowski postawił na strategię opartą na skali, a nie wygórowanej cenie. Co to ma wspólnego z Piotrkowem? W…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/be82bbfa-675e-438a-842f-cc8787b96f97" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/be82bbfa-675e-438a-842f-cc8787b96f97" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/be82bbfa-675e-438a-842f-cc8787b96f97"/>
 </item>
 </channel></rss>
