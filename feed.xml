@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Mar 2026 11:06:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 11:58:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pierwsze takie urządzenia w Piotrkowie. Będą działać w dwóch miejscach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pierwsze-takie-urzadzenia-w-piotrkowie-beda-dzialac-w-dwoch-miejscach/vAOdanIzfPDIastUAgqy</link>
+<guid isPermaLink="false">cf480f6da4f4d5a37e2f99c5680f7e3295f9f103</guid>
+<pubDate>Fri, 27 Mar 2026 11:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" alt="miniatura"/></p><p>W dwóch lokalizacjach na terenie naszego miasta pojawiły się urządzenia, które na pierwszy rzut oka mogą przypominać popularne automaty kurierskie. Jednak ich zawartość i przeznaczenie odbiega od zwykłych paczek z zakupami internetowymi. Wiadomo, kiedy zostaną uruchomione.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4"/>
+</item>
 <item>
 <title><![CDATA[ Wiadomo już, kto ugości rolników. Znamy gospodarza Dożynek Powiatowych 2026 ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiadomo-juz-kto-ugosci-rolnikow-znamy-gospodarza-dozynek-powiatowych-2026/IpbCg0oXbutrvGU7v1EH</link>
@@ -3507,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59115a04-9b83-481f-a559-db82581ee0b0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59115a04-9b83-481f-a559-db82581ee0b0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59115a04-9b83-481f-a559-db82581ee0b0"/>
-</item>
-<item>
-<title><![CDATA[ Na ulicach Piotrkowa będą… przytulać ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-ulicach-piotrkowa-beda-przytulac/CcEgXe6a2HktjVovgbFz</link>
-<guid isPermaLink="false">2e5371e97477d010992aec4094706c6f4d127595</guid>
-<pubDate>Thu, 29 Jan 2026 11:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159" alt="miniatura"/></p><p>Mówi się, że dla zachowania zdrowia i szczęścia w życiu, ważne jest przytulanie. By przeżyć potrzeba nam 4 uścisków dziennie, by zachować zdrowie 8, by się rozwijać 12 – uważała amerykańska psychoterapeutka Virginia Satir. Co więcej, 31 stycznia obchodzony jest Międzynarodowy Dzień Przytulania. To okazja do szerzenia wiedzy, że zwykły uścisk jest naturalnym antydepresantem. W Piotrkowie mieszkańcy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2ac14-c592-4168-b1e3-931afff12159"/>
 </item>
 </channel></rss>
