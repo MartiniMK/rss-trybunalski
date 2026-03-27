@@ -6,17 +6,17 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Mar 2026 18:04:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Mar 2026 19:16:28 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Zaginął 43-letni mężczyzna. Piotrkowska policja prowadzi poszukiwania ]]></title>
+<title><![CDATA[ Zaginął 43-letni mężczyzna. Piotrkowska policja prowadzi poszukiwania [AKTUALIZACJA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginal-43-letni-mezczyzna-piotrkowska-policja-prowadzi-poszukiwania/lN9SF68LKcqW2bykjcMt</link>
 <guid isPermaLink="false">8fdb4541de57ce7211950334ac24eddde85db93e</guid>
 <pubDate>Fri, 27 Mar 2026 15:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e715a207-5f51-4486-91d2-a01d24fdfe0b" alt="miniatura"/></p><p>W piątek, 27 marca po godzinie 15:00 piotrkowscy policjanci przekazali informację o prowadzonych poszukiwaniach. Jak się okazuje, zaginął 43-latek. Marcin Rokita wyszedł z domu 23 marca około godziny 10:00. Do tej pory nie powrócił do miejsca zamieszkania.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e715a207-5f51-4486-91d2-a01d24fdfe0b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e715a207-5f51-4486-91d2-a01d24fdfe0b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e715a207-5f51-4486-91d2-a01d24fdfe0b"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5225b84c-94d9-4c59-bd12-7824802ebc41" alt="miniatura"/></p><p>W piątek, 27 marca po godzinie 15:00 piotrkowscy policjanci przekazali informację o prowadzonych poszukiwaniach. Jak się okazuje, zaginął 43-latek. Mężczyzna wyszedł z domu 23 marca około godziny 10:00. Do tej pory nie powrócił do miejsca zamieszkania.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5225b84c-94d9-4c59-bd12-7824802ebc41" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5225b84c-94d9-4c59-bd12-7824802ebc41" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5225b84c-94d9-4c59-bd12-7824802ebc41"/>
 </item>
 <item>
 <title><![CDATA[ Nielegalne rajdy na ulicach Piotrkowa? Służby ostrzegają ]]></title>
