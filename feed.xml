@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 06:16:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 08:00:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowe oferty pracy i staży Piotrkowie Trybunalskim. Przedstawiamy zarobki i wymagania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-i-stazy-piotrkowie-trybunalskim-przedstawiamy-zarobki-i-wymagania/LBIYWnucwrAuIxJ3cILA</link>
+<guid isPermaLink="false">d0b5334d2451620c9f46d7430569abc2cb0c67d5</guid>
+<pubDate>Sat, 28 Mar 2026 07:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" alt="miniatura"/></p><p>Wynagrodzenie brutto: od 7 000 PLN</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5"/>
+</item>
 <item>
 <title><![CDATA[ Zaginął 43-letni mężczyzna. Piotrkowska policja prowadzi poszukiwania [AKTUALIZACJA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginal-43-letni-mezczyzna-piotrkowska-policja-prowadzi-poszukiwania/lN9SF68LKcqW2bykjcMt</link>
