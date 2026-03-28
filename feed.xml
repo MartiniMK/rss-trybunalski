@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 16:53:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 17:46:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Piotrkowianin dzielnie walczył w Opolu, ale punktów nie zdobył ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-dzielnie-walczyl-w-opolu-ale-punktow-nie-zdobyl/spwXqCW8Y4pcStLanSXN</link>
+<guid isPermaLink="false">3b18f25c21053e479878296d6b9ede3ca1cb759f</guid>
+<pubDate>Sat, 28 Mar 2026 17:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/883910f7-f371-433e-a7f1-6157b4374949" alt="miniatura"/></p><p>Starcie Piotrkowianina z Gwardią było pojedynkiem sąsiadów w ligowej tabeli, ale drużyna gospodarza była w o tyle lepszej sytuacji, że miała dokładnie pięć punktów więcej na koncie, więc nie musiała obawiać się tzw. mijanki po ewentualnej porażce. Tymczasem szczypiorniści z naszego miasta cały czas musieli oglądać się za siebie, bo mieli tylko trzy oczka przewagi nad przedostatnimi w stawce Legion…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/883910f7-f371-433e-a7f1-6157b4374949" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/883910f7-f371-433e-a7f1-6157b4374949" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/883910f7-f371-433e-a7f1-6157b4374949"/>
+</item>
 <item>
 <title><![CDATA[ Policyjny pościg w Piotrkowie. Na widok mundurowych kierowca dał gaz do dechy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/policyjny-poscig-w-piotrkowie-na-widok-mundurowych-kierowca-dal-gaz-do-dechy/OmEk4nFRD1IjfhI841ZP</link>
