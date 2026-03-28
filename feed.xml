@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 08:00:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 09:02:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Duży nabór pod Piotrkowem. Znany producent szuka rąk do pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/duzy-nabor-pod-piotrkowem-znany-producent-szuka-rak-do-pracy/Bo7AXcawlHRJLkIOhwgH</link>
+<guid isPermaLink="false">15d07625676a9850273be58865b657a732779724</guid>
+<pubDate>Sat, 28 Mar 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" alt="miniatura"/></p><p>Polska marka meblowa rekrutuje w powiecie piotrkowskim. Sprawdziliśmy, kogo dokładnie poszukuje pracodawca, jakie stawia wymagania i co oferuje w zamian przyszłym członkom swojego zespołu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2"/>
+</item>
 <item>
 <title><![CDATA[ Nowe oferty pracy i staży Piotrkowie Trybunalskim. Przedstawiamy zarobki i wymagania ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-i-stazy-piotrkowie-trybunalskim-przedstawiamy-zarobki-i-wymagania/LBIYWnucwrAuIxJ3cILA</link>
