@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 10:50:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 11:44:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Spłonął dom strażaka pod Piotrkowem. Druhowie apelują ]]></title>
+<link>https://trybunalski.pl/wiadomosci/splonal-dom-strazaka-pod-piotrkowem-druhowie-apeluja/3ot3HhSvjML8o2C0xgol</link>
+<guid isPermaLink="false">fb6feac07f7e00bb291d19a227cf1c4929fbc80c</guid>
+<pubDate>Sat, 28 Mar 2026 12:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d" alt="miniatura"/></p><p>W piątek, 27 marca kilkanaście minut przed godz. 7:00 do strażaków wpłynęło zgłoszenie o pożarze budynku mieszkalnego jednorodzinnego w miejscowości Przygłów Las. Na miejscu działania prowadziło łącznie 6 zastępów straży pożarnej z Jednostek Ratowniczo Gaśniczych i Ochotniczych Straży Pożarnych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d"/>
+</item>
 <item>
 <title><![CDATA[ Duży nabór pod Piotrkowem. Znany producent szuka rąk do pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/duzy-nabor-pod-piotrkowem-znany-producent-szuka-rak-do-pracy/Bo7AXcawlHRJLkIOhwgH</link>
@@ -3507,25 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562"/>
-</item>
-<item>
-<title><![CDATA[ Pożar domków w Sulejowie. Na miejscu trwa akcja gaśnicza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domkow-w-sulejowie-na-miejscu-trwa-akcja-gasnicza/9vkdTNeWj5L46lilMHDz</link>
-<guid isPermaLink="false">977410582231f483695f06e2f7d339abf3cb35db</guid>
-<pubDate>Fri, 30 Jan 2026 10:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/46c61d3b-26d1-4c4a-95cb-9b03769377e3" alt="miniatura"/></p><p>Kilka minut po godz. 9:00 do służb wpłynęło zgłoszenie dotyczące pożaru domków letniskowych. Na miejscu trwają działania gaśnicze. Łącznie udało się tam 5 zastępów straży pożarnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/46c61d3b-26d1-4c4a-95cb-9b03769377e3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/46c61d3b-26d1-4c4a-95cb-9b03769377e3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/46c61d3b-26d1-4c4a-95cb-9b03769377e3"/>
-</item>
-<item>
-<title><![CDATA[ Resztki chińskiej rakiety mogą spaść nad Polską. Rządowa agencja wydała komunikat ]]></title>
-<link>https://trybunalski.pl/wiadomosci/resztki-rakiety-moga-spasc-nad-polska-rzadowa-agencja-wydala-komunikat/dtKXPZax63D3n1CitGjm</link>
-<guid isPermaLink="false">e6f9f37f14ca9771e975995ec350602c00fc6556</guid>
-<pubDate>Thu, 29 Jan 2026 20:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa" alt="miniatura"/></p><p>Europejski System Nadzoru i Śledzenia Przestrzeni Kosmicznej oraz Polska Agencja Kosmiczna potwierdzają, że Polska znajduje się w obszarze potencjalnego ryzyka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7478c718-af84-4806-8367-7e1e9be15caa"/>
 </item>
 </channel></rss>
