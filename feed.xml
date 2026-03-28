@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 14:49:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 15:48:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielka wygrana w Eurojackpot w Polsce. Jednak to rekord z naszego powiatu wciąż w TOP3 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-wygrana-w-eurojackpot-w-polsce-jednak-to-rekord-z-naszego-powiatu-wciaz-w-top3/nazgqsj3dDjYJvMuuTkH</link>
+<guid isPermaLink="false">b258b046e900be1c0597b39c6e15fe5a36aee15a</guid>
+<pubDate>Sat, 28 Mar 2026 16:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b71fcffb-6fdb-4f45-86ad-2df07b22ac39" alt="miniatura"/></p><p>W jednym z ostatnich losowań Eurojackpot Polak zgarnął nagrodę trzeciego stopnia. Wiadomo już, jaka jest jej wysokość. Jednak to właśnie w naszym regionie padła jedna z najbardziej spektakularnych wygranych w ogólnopolskim rankingu. Szczęśliwiec z powiatu piotrkowskiego znalazł się na trzecim stopniu podium najwyższych wygranych w Eurojackpot w Polsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b71fcffb-6fdb-4f45-86ad-2df07b22ac39" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b71fcffb-6fdb-4f45-86ad-2df07b22ac39" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b71fcffb-6fdb-4f45-86ad-2df07b22ac39"/>
+</item>
 <item>
 <title><![CDATA[ Spłonął dom strażaka pod Piotrkowem. Druhowie apelują ]]></title>
 <link>https://trybunalski.pl/wiadomosci/splonal-dom-strazaka-pod-piotrkowem-druhowie-apeluja/3ot3HhSvjML8o2C0xgol</link>
@@ -3507,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8"/>
-</item>
-<item>
-<title><![CDATA[ Dachowanie pod Piotrkowem. Wszystko wyjaśnił monitoring ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dachowanie-pod-piotrkowem-wszystko-wyjasnil-monitoring/9Z5HsM816kGVl94F3J6U</link>
-<guid isPermaLink="false">06826d308f8b1e6d9a909ae3ef7a00491831fe6e</guid>
-<pubDate>Fri, 30 Jan 2026 10:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562" alt="miniatura"/></p><p>W środę, 28 stycznia w Twardosławicach doszło do groźnego zdarzenia. Jak się okazuje, dachował tam samochód. Na miejsce ruszyli policjanci. Teraz kierowcy grozi kara do trzech lat pozbawienia wolności.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef625a85-fcf4-41e6-971b-132d96201562"/>
 </item>
 </channel></rss>
