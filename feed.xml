@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Mar 2026 15:48:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 16:53:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Policyjny pościg w Piotrkowie. Na widok mundurowych kierowca dał gaz do dechy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/policyjny-poscig-w-piotrkowie-na-widok-mundurowych-kierowca-dal-gaz-do-dechy/OmEk4nFRD1IjfhI841ZP</link>
+<guid isPermaLink="false">1b1e430bcbb007dbb2fcd0b5a4b54483c1bce715</guid>
+<pubDate>Sat, 28 Mar 2026 17:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94d0e38e-d0d3-4c46-b1f0-03deea5fb3a2" alt="miniatura"/></p><p>W poniedziałek, 23 marca, funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji prowadzili działania pod nazwą „Trzeźwy poranek”, podczas których sprawdzili stan trzeźwości 2255 kierujących.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94d0e38e-d0d3-4c46-b1f0-03deea5fb3a2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94d0e38e-d0d3-4c46-b1f0-03deea5fb3a2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94d0e38e-d0d3-4c46-b1f0-03deea5fb3a2"/>
+</item>
 <item>
 <title><![CDATA[ Wielka wygrana w Eurojackpot w Polsce. Jednak to rekord z naszego powiatu wciąż w TOP3 ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielka-wygrana-w-eurojackpot-w-polsce-jednak-to-rekord-z-naszego-powiatu-wciaz-w-top3/nazgqsj3dDjYJvMuuTkH</link>
@@ -3507,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa242b08-9a50-46a4-ad90-d905c93f598c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa242b08-9a50-46a4-ad90-d905c93f598c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa242b08-9a50-46a4-ad90-d905c93f598c"/>
-</item>
-<item>
-<title><![CDATA[ Uwaga, będzie głośno w powiecie piotrkowskim! Z jakiego powodu? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-bedzie-glosno-w-powiecie-piotrkowskim-z-jakiego-powodu/MmjR5hPFAM5hbGYuF4y0</link>
-<guid isPermaLink="false">f42da28d72a4aec7b5a2f0fb7d43e3760c55f600</guid>
-<pubDate>Fri, 30 Jan 2026 11:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8" alt="miniatura"/></p><p>W sobotę, 31 stycznia 2026 roku, na terenie powiatu piotrkowskiego odbędzie się test systemu ostrzegania i alarmowania ludności. W godzinach od 9:00 do 11:00 w wybranych gminach uruchomione zostaną syreny Ochotniczych Straży Pożarnych, które będą emitować dźwięki testowe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e292fa7-1fdb-4eed-a99e-b344683bb8f8"/>
 </item>
 </channel></rss>
