@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 29 Mar 2026 07:24:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 09:02:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Legendarna zupa chrzanowa z Golesz. Panie z KGW zdradzają przepis na wielkanocny hit ]]></title>
+<link>https://trybunalski.pl/wiadomosci/legendarna-zupa-chrzanowa-z-golesz-panie-z-kgw-zdradzaja-przepis-na-wielkanocny-hit/ADHxSmbk910krK5BdnXG</link>
+<guid isPermaLink="false">4fafb3bfc3ac258ed00f87ad8af7878be8a83a7b</guid>
+<pubDate>Sun, 29 Mar 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/95a2e65e-a676-49b9-92cf-9c4ba9b6f732" alt="miniatura"/></p><p>Podczas tegorocznego jarmarku w Proszeniu ustawiły się długie kolejki po ten przysmak – gospodynie przygotowały ponad 550 porcji. Co sprawia, że ich zupa jest tak wyjątkowa? Sekret tkwi w aksamitnej konsystencji i idealnym zbalansowaniu ostrości chrzanu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/95a2e65e-a676-49b9-92cf-9c4ba9b6f732" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/95a2e65e-a676-49b9-92cf-9c4ba9b6f732" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/95a2e65e-a676-49b9-92cf-9c4ba9b6f732"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin dzielnie walczył w Opolu, ale punktów nie zdobył ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-dzielnie-walczyl-w-opolu-ale-punktow-nie-zdobyl/spwXqCW8Y4pcStLanSXN</link>
