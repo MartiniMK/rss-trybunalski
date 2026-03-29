@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 29 Mar 2026 14:51:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 15:51:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia ponownie triumfuje w Koszalinie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-ponownie-triumfuje-w-koszalinie/H6SDvSv7m3Hso6buy3o7</link>
+<guid isPermaLink="false">583302554c810f564ed0699c5896a34092bb7959</guid>
+<pubDate>Sun, 29 Mar 2026 17:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f443de02-92c7-4474-9162-f69815d8ce66" alt="miniatura"/></p><p>Do wyjazdowego starcia Piotrkowianek z Koszaliniankami o ligowe punkty doszło zaledwie cztery dni po pojedynku tych drużyn w ćwierćfinale Pucharu Polski Kobiet, kiedy to KRASOŃ MKS Piotrcovia rozbiła zespół z województwa zachodniopomorskiego różnicą aż siedmiu goli (30:23).</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f443de02-92c7-4474-9162-f69815d8ce66" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f443de02-92c7-4474-9162-f69815d8ce66" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f443de02-92c7-4474-9162-f69815d8ce66"/>
+</item>
 <item>
 <title><![CDATA[ Nie zatrzymał się „na stopie”. Na tym jednak nie koniec ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/nie-zatrzymal-sie-na-stopie-na-tym-jednak-nie-koniec/sMcoD4awScFUdcRwOsPs</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/84502708-531a-4c8b-b196-100e77b0c0a6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/84502708-531a-4c8b-b196-100e77b0c0a6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/84502708-531a-4c8b-b196-100e77b0c0a6"/>
-</item>
-<item>
-<title><![CDATA[ Studniówka "Ekonomika" w Piotrkowie. Tak bawili się maturzyści [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/studniowka-ekonomika-w-piotrkowie-tak-bawili-sie-maturzysci-zdjecia/MGiyk6CR3J0fph748VIo</link>
-<guid isPermaLink="false">8bd996d2b6b9aafbfd9108e79e0eae1353b2f125</guid>
-<pubDate>Sat, 31 Jan 2026 09:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3" alt="miniatura"/></p><p>Dostojny polonez, w klasycznych i eleganckich strojach, oficjalne otwarcie wydarzenia, przemowy, tort i... zabawa do samego rana. Zobaczcie, jak podczas swojego balu maturalnego bawili się uczniowie ZSP nr 5 - Ekonomik w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3"/>
 </item>
 </channel></rss>
