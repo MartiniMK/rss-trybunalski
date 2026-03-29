@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 29 Mar 2026 13:23:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 14:51:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nie zatrzymał się „na stopie”. Na tym jednak nie koniec ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/nie-zatrzymal-sie-na-stopie-na-tym-jednak-nie-koniec/sMcoD4awScFUdcRwOsPs</link>
+<guid isPermaLink="false">990614602b742f8267480839fbfe5c511781e410</guid>
+<pubDate>Sun, 29 Mar 2026 15:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1" alt="miniatura"/></p><p>Wszystko działo się we wtorek, 24 marca, w Babach. Wówczas dzielnicowi z Komisariatu Policji w Wolborzu patrolowali miejscowość, a na ul. Wolborskiej zauważyli pojazd, którego kierowca nie zatrzymał się „na stopie”. Funkcjonariusze postanowili zatrzymać mężczyznę do kontroli drogowej. W trakcie rozmowy z kierowcą policjanci wyczuli od niego silną woń alkoholu. Badanie wykazało ponad 0,8 promila al…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1"/>
+</item>
 <item>
 <title><![CDATA[ Nocny skok na chłodnię. 42-latkowi z powiatu piotrkowskiego grozi teraz 5 lat więzienia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/nocny-skok-na-chlodnie-42-latkowi-z-powiatu-piotrkowskiego-grozi-teraz-5-lat-wiezienia/9VVCsJocq060DZfnSZrD</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/82579657-3d2c-4a85-9a85-9aa01b323ec3"/>
-</item>
-<item>
-<title><![CDATA[ Urząd w Piotrkowie zatrudni pracownika. Takie trzeba spełnić wymagania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-zatrudni-pracownika-takie-trzeba-spelnic-wymagania/h2QgMu29eVlC1YzSM6Ll</link>
-<guid isPermaLink="false">de8d39c3ee8f27626d726303052e9b00d7c3cbe5</guid>
-<pubDate>Sat, 31 Jan 2026 08:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd6a64dc-7f70-44ee-9e12-c9943642f585" alt="miniatura"/></p><p>Prezydent Piotrkowa Trybunalskiego ogłosił nabór na wolne stanowisko w urzędzie miasta. Poszukiwany jest kandydat na stanowisko Podinspektora/Podinspektorki ds. mediów i grafiki w Biurze Prasowym i Komunikacji Społecznej. Termin składania ofert upływa 9 lutego 2026 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd6a64dc-7f70-44ee-9e12-c9943642f585" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd6a64dc-7f70-44ee-9e12-c9943642f585" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd6a64dc-7f70-44ee-9e12-c9943642f585"/>
 </item>
 </channel></rss>
