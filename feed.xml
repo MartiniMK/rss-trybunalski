@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 30 Mar 2026 12:09:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 14:10:07 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowianin okradał market w sąsiednim powiecie. Grozi mu kilka lat więzienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkowianin-okradal-market-w-sasiednim-powiecie-grozi-mu-kilka-lat-wiezienia/xBIlN3Cce5bDFwlPYmZz</link>
+<guid isPermaLink="false">e597764dca6c6e24b3d647070eb7d571921f1287</guid>
+<pubDate>Mon, 30 Mar 2026 14:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e2558341-cff6-4e8f-9591-54753f38b32d" alt="miniatura"/></p><p>W sobotę, 28 marca łascy policjanci otrzymali wezwanie do sklepu przy ul. Jana Pawła II w Łasku. Pracownik ochrony zatrzymał mężczyznę, który próbował ukraść z marketu alkohol.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2558341-cff6-4e8f-9591-54753f38b32d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2558341-cff6-4e8f-9591-54753f38b32d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2558341-cff6-4e8f-9591-54753f38b32d"/>
+</item>
 <item>
 <title><![CDATA[ Droga Krzyżowa przejdzie ulicami Piotrkowa. Sprawdź trasę i godziny nabożeństwa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/droga-krzyzowa-przejdzie-ulicami-piotrkowa-sprawdz-trase-i-godziny-nabozenstwa/EAYRHXJnzf33VyjoAtFY</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0"/>
-</item>
-<item>
-<title><![CDATA[ Pijaństwo, demolka i zakłócanie porządku. W tych miejscach pod Piotrkowem lepiej uważać ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pijanstwo-demolka-i-zaklocanie-porzadku-w-tych-miejscach-pod-piotrkowem-lepiej-uwazac/UufBkMUYYGYTotVY65eb</link>
-<guid isPermaLink="false">ae5765f59653ec3d35c98e5bfa7aa392274362ba</guid>
-<pubDate>Mon, 02 Feb 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6678604-5cb1-411b-8cfa-4798244b9323" alt="miniatura"/></p><p>W powiecie piotrkowskim funkcjonuje 7 komisariatów policji. Do poszczególnych miejscowości przypisany jest dzielnicowy. To policjant, który najlepiej powinien orientować się w problemach, z jakimi borykają się mieszkańcy danego terenu. Mogą być to akty wandalizmu, zakłócanie porządku, ale też nieprawidłowe parkowanie. Co pół roku mundurowi przedstawiają plany działań priorytetowych dla swojej dzie…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6678604-5cb1-411b-8cfa-4798244b9323" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6678604-5cb1-411b-8cfa-4798244b9323" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6678604-5cb1-411b-8cfa-4798244b9323"/>
 </item>
 </channel></rss>
