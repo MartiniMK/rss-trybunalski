@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 30 Mar 2026 14:10:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 15:27:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Znana sieć rekrutuje w Piotrkowie. Sprawdź wymagania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/znana-siec-rekrutuje-w-piotrkowie-sprawdz-wymagania/8COnJFydpH5VVF1CP1vq</link>
+<guid isPermaLink="false">808181a3d7df005d159c301a6afef0fa57f52283</guid>
+<pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/77f4f755-439c-4dfb-9337-b1b44b3b4c56" alt="miniatura"/></p><p>Malezyjski gigant MR.DIY zadebiutował w Piotrkowie z początkiem 2025 roku, oferując mieszkańcom różnorodne artykuły: od elektroniki i zabawki, przez akcesoria sportowe, aż po biżuterię i kosmetyki. Okazuje się, że sieć poszukuje w naszym mieście pracowników. Sprawdź, jakie wymagania stawia kandydatom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/77f4f755-439c-4dfb-9337-b1b44b3b4c56" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/77f4f755-439c-4dfb-9337-b1b44b3b4c56" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/77f4f755-439c-4dfb-9337-b1b44b3b4c56"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowianin okradał market w sąsiednim powiecie. Grozi mu kilka lat więzienia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkowianin-okradal-market-w-sasiednim-powiecie-grozi-mu-kilka-lat-wiezienia/xBIlN3Cce5bDFwlPYmZz</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee"/>
-</item>
-<item>
-<title><![CDATA[ Miejskie grunty pod lupą. Piotrków wyprzedaje majątek? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miejskie-grunty-pod-lupa-piotrkow-wyprzedaje-majatek/3VivDwZFtpfOiR3YKCNw</link>
-<guid isPermaLink="false">2b7c55f949ff30afcb8a863f1596715332387846</guid>
-<pubDate>Mon, 02 Feb 2026 13:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0" alt="miniatura"/></p><p>Podczas XXX Sesji Rady Miasta Piotrkowa Trybunalskiego poruszono temat gospodarowania miejskim mieniem. W trakcie dyskusji jedna z radnych zwróciła uwagę na liczbę uchwał o sprzedaży kolejnych nieruchomości z majątku Piotrkowa. Jaka jest strategia magistratu i których działek „pozbywa się” urząd?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c5c59092-6e8b-474d-8936-d0bbf464a1a0"/>
 </item>
 </channel></rss>
