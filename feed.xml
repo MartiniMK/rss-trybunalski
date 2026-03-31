@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 31 Mar 2026 15:22:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 17:18:40 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Miał być przełom. Dlaczego akcja parkingowa w Piotrkowie nie wypaliła? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mial-byc-przelom-dlaczego-akcja-parkingowa-w-piotrkowie-nie-wypalila/8ExHmtH877rZtnkpORHP</link>
+<guid isPermaLink="false">bd2adab614e1ebf8a98097baac39e3a7ff1792f8</guid>
+<pubDate>Tue, 31 Mar 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62a7c112-7b69-407a-a934-ebd37780a527" alt="miniatura"/></p><p>Znalezienie miejsca parkingowego na piotrkowskich blokowiskach i nie tylko może być trudne. Tym bardziej, gdy są one zajęte przez nieużywane, porzucone samochody. Czasami to pojazdy, których właściciele po prostu nie używają, ale są też przypadki, kiedy osoba, do której należał zmarła. Na osiedlach można więc zobaczyć egzemplarze, w których po prostu z opon zeszło powietrze, ale też takie nadgryzi…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62a7c112-7b69-407a-a934-ebd37780a527" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62a7c112-7b69-407a-a934-ebd37780a527" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62a7c112-7b69-407a-a934-ebd37780a527"/>
+</item>
 <item>
 <title><![CDATA[ Kasa dla uczniów i studentów w Łódzkiem. Na liście także Piotrkowianie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kasa-dla-uczniow-i-studentow-w-lodzkiem-na-liscie-takze-piotrkowianie/ujr5rRLhlhXdCICQyng4</link>
