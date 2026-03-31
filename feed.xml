@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 31 Mar 2026 05:58:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 07:51:34 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Znana sieć rekrutuje w Piotrkowie. Sprawdź wymagania ]]></title>
@@ -3527,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e7910bc-573a-4b3d-b133-1b70141267c5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e7910bc-573a-4b3d-b133-1b70141267c5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e7910bc-573a-4b3d-b133-1b70141267c5"/>
-</item>
-<item>
-<title><![CDATA[ Najnowsze oferty pracy w Piotrkowie Trybunalskim. Ile można zarobić? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najnowsze-oferty-pracy-w-piotrkowie-trybunalskim-ile-mozna-zarobic/yKslbcNWR2vVwD3yFS1R</link>
-<guid isPermaLink="false">2922669ce7c77c36f9da46654f72f6cbef02eca8</guid>
-<pubDate>Mon, 02 Feb 2026 15:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee" alt="miniatura"/></p><p>Wynagrodzenie brutto: od 5 500 PLN</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/266e7d60-c9e7-486d-be6f-adac01b197ee"/>
 </item>
 </channel></rss>
