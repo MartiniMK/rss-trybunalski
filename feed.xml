@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Apr 2026 06:11:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 08:28:41 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Miał być przełom. Dlaczego akcja parkingowa w Piotrkowie nie wypaliła? ]]></title>
@@ -3537,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1970568-97f2-4f1a-bd7d-c60e4e8603fc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1970568-97f2-4f1a-bd7d-c60e4e8603fc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1970568-97f2-4f1a-bd7d-c60e4e8603fc"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy otrzymają wezwania. Za zignorowanie grożą kary ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-otrzymaja-wezwania-za-zignorowanie-groza-kary/VWI1eAoVhstVz64tjCqU</link>
-<guid isPermaLink="false">67b1e9c482525d89e402b8622e2116fa90b81f66</guid>
-<pubDate>Tue, 03 Feb 2026 11:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c62bf9cc-b88d-411d-b9d7-2cf722adc117" alt="miniatura"/></p><p>Wojskowe Centrum Rekrutacji w Tomaszowie Mazowieckim przekazało informacje na temat terminów tegorocznej kwalifikacji wojskowej. W Łódzkiem będzie ona przeprowadzana od 2 lutego do 30 kwietnia 2026 roku. Wezwania trafią do osób zameldowanych na pobyt stały lub czasowy na terenie naszego województwa i wysyłane są najpóźniej do 7 dni przed terminem stawiennictwa. Stawić się będą musieli także Piotrk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c62bf9cc-b88d-411d-b9d7-2cf722adc117" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c62bf9cc-b88d-411d-b9d7-2cf722adc117" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c62bf9cc-b88d-411d-b9d7-2cf722adc117"/>
 </item>
 </channel></rss>
