@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Apr 2026 22:01:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 22:58:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Modlitwa i tłumy wiernych na ulicach miasta. Droga Krzyżowa przeszła przez Piotrków [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/modlitwa-i-tlumy-wiernych-na-ulicach-miasta-droga-krzyzowa-przeszla-przez-piotrkow-zdjecia/AXo9uJvlM5Y4qKJorRbv</link>
+<guid isPermaLink="false">318a924f5c72e187d9b21ded612aeee48321add5</guid>
+<pubDate>Thu, 02 Apr 2026 00:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" alt="miniatura"/></p><p>Misterium Męki Pańskiej rozpoczęło się w środę, 1 kwietnia, o godzinie 19:00 pod kościołem Najświętszego Serca Jezusowego. To właśnie tam odegrano scenę I stacji, która wprowadziła uczestników w atmosferę zadumy. Zaraz potem procesja, prowadzona przez aktorów wcielających się w postacie biblijne ruszyła wraz z duchownymi i rzeszą wiernych ulicą Słowackiego. Wydarzenie od lat wpisuje się w kalendar…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e"/>
+</item>
 <item>
 <title><![CDATA[ Pożar w Piotrkowie Trybunalskim. Doszło do podpalenia? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-piotrkowie-trybunalskim-doszlo-do-podpalenia/4wR55MzRGWynnCDDYaWD</link>
@@ -3517,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73"/>
-</item>
-<item>
-<title><![CDATA[ Urząd w Piotrkowie ma nieruchomości na sprzedaż. Znamy ceny i wszystkie szczegóły ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-ma-nieruchomosci-na-sprzedaz-znamy-ceny-i-wszystkie-szczegoly/07KLDrP6LTDjSH27EHgK</link>
-<guid isPermaLink="false">3d5fd08b2d750a6a279b342aadccb28cfc83f398</guid>
-<pubDate>Wed, 04 Feb 2026 13:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a" alt="miniatura"/></p><p>Piotrków Trybunalski ogłosił pierwszy ustny przetarg nieograniczony na sprzedaż nieruchomości niezabudowanej położonej w Piotrkowie Trybunalskim, przy ul. Wierzejskiej 47-49. Nieruchomość stanowi własność miasta</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a"/>
 </item>
 </channel></rss>
