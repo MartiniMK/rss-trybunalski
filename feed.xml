@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Apr 2026 10:23:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 12:07:21 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Podbiły ogólnopolski festiwal. Jaskółki wróciły do Piotrkowa ze złotem ]]></title>
@@ -3527,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/721ed879-c2f9-43d2-b814-72ac9dd91437"/>
-</item>
-<item>
-<title><![CDATA[ Zmarł wieloletni dyrektor III LO w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zmarl-wieloletni-dyrektor-iii-lo-w-piotrkowie-trybunalskim/5bu585bdxb33jp8A49fm</link>
-<guid isPermaLink="false">bbec087b43cd310a5d2fe444fbe64a2e7daa7fd4</guid>
-<pubDate>Tue, 03 Feb 2026 19:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bdbbf224-7aac-47e5-ba42-da0f091cfbc4" alt="miniatura"/></p><p>III LO w Piotrkowie poinformowało, że w poniedziałek, 2 lutego zmarł pan Janusz Warakomski, wieloletni dyrektor piotrkowskiego liceum.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bdbbf224-7aac-47e5-ba42-da0f091cfbc4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bdbbf224-7aac-47e5-ba42-da0f091cfbc4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bdbbf224-7aac-47e5-ba42-da0f091cfbc4"/>
 </item>
 </channel></rss>
