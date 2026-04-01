@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Apr 2026 15:28:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 17:14:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar w Piotrkowie Trybunalskim. Doszło do podpalenia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-piotrkowie-trybunalskim-doszlo-do-podpalenia/4wR55MzRGWynnCDDYaWD</link>
+<guid isPermaLink="false">4139aa32aaa071e3af777953374e5dc438f63c56</guid>
+<pubDate>Wed, 01 Apr 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1dd9de60-3e64-4e03-b3bb-7b31a128a73b" alt="miniatura"/></p><p>Przed godz. 16:00 strażacy w Piotrkowie zostali wezwani do pożaru nieużytków przy ul. Dmowskiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1dd9de60-3e64-4e03-b3bb-7b31a128a73b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1dd9de60-3e64-4e03-b3bb-7b31a128a73b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1dd9de60-3e64-4e03-b3bb-7b31a128a73b"/>
+</item>
+<item>
+<title><![CDATA[ Pożar w Zakładzie Chemicznym niedaleko Piotrkowa. Trwa akcja gaśnicza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-zakladzie-chemicznym-niedaleko-piotrkowa-trwa-akcja-gasnicza/X1hCAnP9hW7Po012N9kP</link>
+<guid isPermaLink="false">364e34867a1b67ea95967dda553e88af72d3f03d</guid>
+<pubDate>Wed, 01 Apr 2026 18:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/73a2f740-894a-471f-8121-ad4a5db876dc" alt="miniatura"/></p><p>Przed godz. 18:00 piotrkowskie służby otrzymały zgłoszenie o pożarze kotłowni w zakładzie chemicznym w m. Dąbrowa nad Czarną. Akcja gaśnicza trwa, na miejscu działają 4 zastępy straży pożarnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a2f740-894a-471f-8121-ad4a5db876dc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a2f740-894a-471f-8121-ad4a5db876dc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a2f740-894a-471f-8121-ad4a5db876dc"/>
+</item>
+<item>
+<title><![CDATA[ "Sezam" w Piotrkowie. Dom handlowy przetrwał wiele zmian [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sezam-w-piotrkowie-dom-handlowy-przetrwal-wiele-zmian-zdjecia/zm3A9HZPQFGGWf84l6uF</link>
+<guid isPermaLink="false">319bb785e06ca2f45709863548ba2b5a9e976c46</guid>
+<pubDate>Wed, 01 Apr 2026 17:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/77e9daa3-86b0-4379-8146-aa37b307dc8d" alt="miniatura"/></p><p>Dom handlowy przy ulicy Sienkiewicza w Piotrkowie, choć przez kolejne dziesiątki lat przechodził różne koleje i remonty, zachował swoja pierwotną funkcję. Budynek powstał w latach 60. XX wieku i do dziś mieści sklepy. Co również nie takie częste "Sezam" zachował zarówno swoją nazwę, jak i charakterystyczny neon.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/77e9daa3-86b0-4379-8146-aa37b307dc8d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/77e9daa3-86b0-4379-8146-aa37b307dc8d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/77e9daa3-86b0-4379-8146-aa37b307dc8d"/>
+</item>
 <item>
 <title><![CDATA[ Sukces policjanta z Piotrkowa. Zdobył PAS WTKA w Kickboxingu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sukces-policjanta-z-piotrkowa-zdobyl-pas-wtka-w-kickboxingu/P7DrHajs57koJhCL0MH1</link>
@@ -3507,35 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16"/>
-</item>
-<item>
-<title><![CDATA[ Ogromna wygrana w Lotto w Piotrkowie. Padła sześciocyfrowa kwota ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromna-wygrana-w-lotto-w-piotrkowie-padla-szesciocyfrowa-kwota/aZi5mpgvdE2f6PErf2iP</link>
-<guid isPermaLink="false">97bd3cc01cc7cb9452dc848b24dca654f1aa9266</guid>
-<pubDate>Wed, 04 Feb 2026 11:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/889ee133-3cde-49a4-bd80-60bd4dd9e5d6" alt="miniatura"/></p><p>Chyba większość z nas choć raz w życiu wzięła udział w loterii. Tylko nielicznym udaje się trafić odpowiednie liczby i zdobyć często niemałą nagrodę pieniężną. Tutaj wszystko zależy od przypadku. Jak się okazuje, nowy rok przyniósł pierwszą wygraną szczęśliwcowi z Piotrkowa Trybunalskiego. W jednej z gier Lotto padła sześciocyfrowa kwota.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/889ee133-3cde-49a4-bd80-60bd4dd9e5d6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/889ee133-3cde-49a4-bd80-60bd4dd9e5d6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/889ee133-3cde-49a4-bd80-60bd4dd9e5d6"/>
-</item>
-<item>
-<title><![CDATA[ Stowarzyszenie z Radomska zajmie się bezdomnymi z Piotrkowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/stowarzyszenie-z-radomska-zajmie-sie-bezdomnymi-z-piotrkowa/fd1hTA74Y3rkconzcwuQ</link>
-<guid isPermaLink="false">3075cd1ef1dc2a719acc079f0171de530b3b3f34</guid>
-<pubDate>Wed, 04 Feb 2026 10:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1d9fd1d3-480c-4016-be4f-f483bcefd10b" alt="miniatura"/></p><p>Zwycięzcą postępowania zostało Stowarzyszenie Pomocy „Panaceum” z Radomska, które już wcześniej pełniło rolę operatora noclegowni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d9fd1d3-480c-4016-be4f-f483bcefd10b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d9fd1d3-480c-4016-be4f-f483bcefd10b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1d9fd1d3-480c-4016-be4f-f483bcefd10b"/>
-</item>
-<item>
-<title><![CDATA[ Poszukiwany wpadł w Sulejowie. Wszystko wydało się podczas kontroli ]]></title>
-<link>https://trybunalski.pl/wiadomosci/poszukiwany-wpadl-w-sulejowie-wszystko-wydalo-sie-podczas-kontroli/F52yjnP2vG317lwczMRv</link>
-<guid isPermaLink="false">28e09b162a6a169dc20e1341da9cb6e683824122</guid>
-<pubDate>Wed, 04 Feb 2026 10:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/be2a5c4f-f188-4db6-bb22-fb46c125ce93" alt="miniatura"/></p><p>W poniedziałek, 2 lutego Funkcjonariusze z Komisariatu Policji w Sulejowie zatrzymali pojazd do kontroli na ul. Leśnej. Podczas sprawdzenia w systemie okazało się, że 31-latek posiada cztery aktywne zakazy prowadzenia wszelkich pojazdów. To jednak nie wszystko, a mężczyźnie grozi teraz kilka lat odsiadki.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/be2a5c4f-f188-4db6-bb22-fb46c125ce93" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/be2a5c4f-f188-4db6-bb22-fb46c125ce93" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/be2a5c4f-f188-4db6-bb22-fb46c125ce93"/>
 </item>
 </channel></rss>
