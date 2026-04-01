@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Apr 2026 19:24:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 21:04:36 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Pożar w Piotrkowie Trybunalskim. Doszło do podpalenia? ]]></title>
@@ -3527,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8aab6103-b3c9-4446-8f98-55b08f8c7d0a"/>
-</item>
-<item>
-<title><![CDATA[ Alert zarządzania kryzysowego dla woj. łódzkiego. Pilne ostrzeżenie dla mieszkańców tych powiatów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/alert-zarzadzania-kryzysowego-dla-woj-lodzkiego-pilne-ostrzezenie-dla-mieszkancow-tych-powiatow/ptQRi2KOBe5byFLSDZuC</link>
-<guid isPermaLink="false">c52921e9453aeba68cb9033c02f275b4a491d34c</guid>
-<pubDate>Wed, 04 Feb 2026 12:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16" alt="miniatura"/></p><p>Ostrzeżenie IMGW obejmuje 19 powiatów w województwie łódzkim, w tym:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7c821d3-d116-4923-b115-bedc812bfe16"/>
 </item>
 </channel></rss>
