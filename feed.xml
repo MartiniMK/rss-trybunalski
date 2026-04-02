@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 02 Apr 2026 17:13:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 19:16:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar budynku w Piotrkowie. Na miejscu 4 zastępy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-budynku-w-piotrkowie-na-miejscu-4-zastepy/daElscw8jNXonl5lWzKW</link>
+<guid isPermaLink="false">263cb974f064aa9a32f8c5e7b5b814cb12462864</guid>
+<pubDate>Thu, 02 Apr 2026 19:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5b0192-044f-4676-8c54-45d6f5112d9e" alt="miniatura"/></p><p>Około godz. 16:36 strażacy zostali wezwani do gaszenia pożaru w pustostanie przy ul. Przedborskiej w Piotrkowie Trybunalskim. Na miejsce zadysponowano 4 zastępy straży pożarnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5b0192-044f-4676-8c54-45d6f5112d9e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5b0192-044f-4676-8c54-45d6f5112d9e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5b0192-044f-4676-8c54-45d6f5112d9e"/>
+</item>
 <item>
 <title><![CDATA[ Ponad 5 tys. zł na start. Areszt Śledczy w Piotrkowie szuka pracowników ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ponad-5-tys-zl-na-start-areszt-sledczy-w-piotrkowie-szuka-pracownikow/7q00v6a76BTIhEdeETqY</link>
@@ -3517,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1"/>
-</item>
-<item>
-<title><![CDATA[ Pomysły na ferie zimowe w Łódzkiem. To tylko 30 km od Piotrkowa [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pomysly-na-ferie-zimowe-w-lodzkiem-to-tylko-30-km-od-piotrkowa-zdjecia/uJ5qmO925ccOJO1RT2bm</link>
-<guid isPermaLink="false">0d6b233073357e0e3f3dd5f47ee0b37dfd5effc3</guid>
-<pubDate>Thu, 05 Feb 2026 15:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4b3870e0-1585-433f-8062-e9937fe2e5a8" alt="miniatura"/></p><p>Ferie zimowe to dobra okazja, by zwiedzić nie tylko odległe zakątki, ale też piękne tereny w naszej okolicy. Niedaleko Piotrkowa, na prawym brzegu Pilicy znajduje się jedno z najbardziej charakterystycznych miejsc na mapie województwa łódzkiego. Może być to dobry pomysł na weekendową wycieczkę, tym bardziej że to tylko 30 km od Piotrkowa Trybunalskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b3870e0-1585-433f-8062-e9937fe2e5a8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b3870e0-1585-433f-8062-e9937fe2e5a8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b3870e0-1585-433f-8062-e9937fe2e5a8"/>
 </item>
 </channel></rss>
