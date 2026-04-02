@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 02 Apr 2026 09:19:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 11:09:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie chcą ustanowić rekord Polski. Wszystko podczas dni miasta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-chca-ustanowic-rekord-polski-wszystko-podczas-dni-miasta/e6wudKUzdUO5GDfkWLWl</link>
+<guid isPermaLink="false">1a857b436ded29d4132f6ed49d79d3c0fcbf03c6</guid>
+<pubDate>Thu, 02 Apr 2026 12:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1660224c-1608-4bd7-bcdf-ee9de6712072" alt="miniatura"/></p><p>W naszym mieście ustanowiono już rekordy w różnych kategoriach. Był najdłuższy łańcuch z biustonoszy, a także największa liczba osób wykonała samobadanie piersi. Z kolei w Sulejowie utworzono największą paradę kajaków. Jak się okazuje, przed nami kolejna próba bicia rekordu Guinessa. Tym razem w ruch pójdą… nożyczki.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1660224c-1608-4bd7-bcdf-ee9de6712072" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1660224c-1608-4bd7-bcdf-ee9de6712072" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1660224c-1608-4bd7-bcdf-ee9de6712072"/>
+</item>
+<item>
+<title><![CDATA[ Prima Aprilis, to były tylko żarty... Daliście się nabrać? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/prima-aprilis-to-byly-tylko-zarty-daliscie-sie-nabrac/qpZS0OTRuGyayC8rNiJk</link>
+<guid isPermaLink="false">fe8d4a6a7903e794a7123c1166988aeee9f4079b</guid>
+<pubDate>Thu, 02 Apr 2026 12:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad" alt="miniatura"/></p><p>Parki w Piotrkowie Trybunalskim, w których obowiązuje nakaz chodzenia boso w celu ochrony wyjątkowej, prozdrowotnej roślinności oraz fabryka, która powstanie na terenach wyczerpującego się złoża kopalni Bełchatów - to tylko żarty.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad"/>
+</item>
+<item>
+<title><![CDATA[ Z TikToka na wielką scenę. Utalentowany duet z Piotrkowa powalczy o 250 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-tiktoka-na-wielka-scene-utalentowany-duet-z-piotrkowa-powalczy-o-250-tysiecy-zlotych/qVV0q6VdWU6gSXHA2Jvs</link>
+<guid isPermaLink="false">0a8d43dc994b72ff4f7de6fccd91d918c8dae1a7</guid>
+<pubDate>Thu, 02 Apr 2026 11:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" alt="miniatura"/></p><p>Siostry Kafar to duet z naszego miasta, który dzieli się swoją artystyczną wrażliwością na polskiej scenie muzycznej, łącząc w swojej twórczości siłę kobiecego głosu i folkowe klimaty. Ich twórczość można śledzić na TikToku, a znakiem rozpoznawczym dziewcząt są harmonie wokalne i towarzyszące im często dźwięki skrzypiec.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6"/>
+</item>
 <item>
 <title><![CDATA[ Nowy sklep w Piotrkowie. Ma powstać jeszcze w tym roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-ma-powstac-do-lipca/UNp6v347LQFRtDNA56JL</link>
@@ -63,7 +93,7 @@
 <link>https://trybunalski.pl/wiadomosci/sukces-policjanta-z-piotrkowa-zdobyl-pas-wtka-w-kickboxingu/P7DrHajs57koJhCL0MH1</link>
 <guid isPermaLink="false">ea14067128991558b77b0bb0af9cb48996438b95</guid>
 <pubDate>Wed, 01 Apr 2026 15:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6c04d85f-5416-4a0a-9425-3db82069c39e" alt="miniatura"/></p><p>Funkcjonariusz z Wydziału Patrolowo-Interwencyjnego Komendy Miejskiej Policji w Piotrkowie Trybunalskim, odniósł znaczący sukces sportowy na arenie międzynarodowej.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6c04d85f-5416-4a0a-9425-3db82069c39e" alt="miniatura"/></p><p>W zawodach, które odbyły się 28 marca w Arnsberg, w Niemczech policjant z Piotrkowa sierż. Jarosław Książczak wykazał się nie tylko doskonałym przygotowaniem fizycznym, ale także ogromnym wyszkoleniem technicznym i odpornością psychiczną.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c04d85f-5416-4a0a-9425-3db82069c39e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c04d85f-5416-4a0a-9425-3db82069c39e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c04d85f-5416-4a0a-9425-3db82069c39e"/>
@@ -3497,45 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/541d65df-4e10-4f02-8591-8cbd656e2569" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/541d65df-4e10-4f02-8591-8cbd656e2569" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/541d65df-4e10-4f02-8591-8cbd656e2569"/>
-</item>
-<item>
-<title><![CDATA[ Zimowe zabawy w czasach PRL-u. Jak spędzano ferie zimowe kilkadziesiąt lat temu? [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zimowe-zabawy-w-czasach-prl-u-jak-spedzano-ferie-zimowe-kilkadziesiat-lat-temu-zdjecia/cfWWJRs49HMzVPAkbSx2</link>
-<guid isPermaLink="false">f00b239fc9c23edf03558f78c4291e403c767d4b</guid>
-<pubDate>Wed, 04 Feb 2026 18:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cade73dc-2ce5-44c4-b50f-11a5f8baf6ed" alt="miniatura"/></p><p>Zimowe wyjazdy do kurortów nie były popularne i nie każdy mógł sobie na nie pozwolić. Zimowiska, bo tak nazywano feryjne kolonie, były organizowane i dofinansowywane przez zakłady pracy dla dzieci pracowników. Wyjazdy rodzinne należały do rzadkości.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cade73dc-2ce5-44c4-b50f-11a5f8baf6ed" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cade73dc-2ce5-44c4-b50f-11a5f8baf6ed" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cade73dc-2ce5-44c4-b50f-11a5f8baf6ed"/>
-</item>
-<item>
-<title><![CDATA[ To ostatnia okazja dla Piotrkowian. Urząd podał datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-ostatnia-okazja-dla-piotrkowian-urzad-podal-date/VYQKIyLqzq8TOucCdFgM</link>
-<guid isPermaLink="false">f6f7fc7143d5b622b592d30c17e1f1c5de700c97</guid>
-<pubDate>Wed, 04 Feb 2026 15:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5ecbe9db-8c51-4dca-b727-9c8cb2b71cff" alt="miniatura"/></p><p>Rozpoczęły się ferie zimowe w naszym województwie. Dla wielu to czas wyjazdów, ale są też tacy, którzy będą korzystać z atrakcji w naszym mieście. Jedną z nich jest lodowisko. Wiadomo, do kiedy potrwa sezon na ślizgawce. Przypominamy, w jakich godzinach można jeździć i po ile są bilety.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ecbe9db-8c51-4dca-b727-9c8cb2b71cff" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ecbe9db-8c51-4dca-b727-9c8cb2b71cff" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ecbe9db-8c51-4dca-b727-9c8cb2b71cff"/>
-</item>
-<item>
-<title><![CDATA[ Bezrobocie w Piotrkowie wzrosło, ale… w tych zawodach brakuje rąk do pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bezrobocie-w-piotrkowie-wzroslo-ale-w-tych-zawodach-brakuje-rak-do-pracy/VM9HrHFIUo2iEWseTtNX</link>
-<guid isPermaLink="false">01acfd081d1735353765a7fc0177e7740a1ccbbd</guid>
-<pubDate>Wed, 04 Feb 2026 14:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/49917e3f-a94d-43fb-8a7b-f8a3b7d2eb34" alt="miniatura"/></p><p>Pod koniec grudnia ubiegłego roku w Polsce bez pracy było 888,6 tys. osób, a stopa bezrobocia rejestrowanego wyniosła 5,7%. Takie dane podało Ministerstwo Rodziny, Pracy i Polityki Społecznej. Dla porównania w 2024 roku było to 5,1%. Sytuacja na rynku pracy jest dynamiczna i zmienia się z miesiąca na miesiąc. Sprawdzamy, jaki był ubiegły rok w Piotrkowie i powiecie. Jak się okazuje, wciąż mamy sp…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/49917e3f-a94d-43fb-8a7b-f8a3b7d2eb34" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/49917e3f-a94d-43fb-8a7b-f8a3b7d2eb34" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/49917e3f-a94d-43fb-8a7b-f8a3b7d2eb34"/>
-</item>
-<item>
-<title><![CDATA[ Walentynki w Hotelu Magellan - spraw, by ten luty był niezapomniany! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/walentynki-w-hotelu-magellan-spraw-by-ten-luty-byl-niezapomniany/Bgdbqr1AYGGXPxiRC3Y2</link>
-<guid isPermaLink="false">6346c313eec5974691a6e3405c73ce6b26f88566</guid>
-<pubDate>Wed, 04 Feb 2026 14:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73" alt="miniatura"/></p><p>Zafundujcie sobie odrobinę luksusu w atrakcyjnej cenie 899 zł / pobyt W pakiecie czeka na Was:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c7b8ca4-2402-4d40-a608-6212edd4fb73"/>
 </item>
 </channel></rss>
