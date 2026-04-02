@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 02 Apr 2026 05:18:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 07:34:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowy sklep w Piotrkowie. Ma powstać jeszcze w tym roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-ma-powstac-do-lipca/UNp6v347LQFRtDNA56JL</link>
+<guid isPermaLink="false">67faa097d50f96fdbb7a81649a2d349d397d7065</guid>
+<pubDate>Thu, 02 Apr 2026 08:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" alt="miniatura"/></p><p>W Piotrkowie pojawił się nowy plac budowy i wszystko wskazuje na to, że mieszkańcy mogą spodziewać się nowego sklepu. Co więcej, inwestycja ma być zakończona jeszcze w tym roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4"/>
+</item>
 <item>
 <title><![CDATA[ Modlitwa i tłumy wiernych na ulicach miasta. Droga Krzyżowa przeszła przez Piotrków [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/modlitwa-i-tlumy-wiernych-na-ulicach-miasta-droga-krzyzowa-przeszla-przez-piotrkow-zdjecia/AXo9uJvlM5Y4qKJorRbv</link>
