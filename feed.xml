@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 03 Apr 2026 05:54:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 07:32:39 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Pożar budynku w Piotrkowie. Na miejscu 4 zastępy ]]></title>
@@ -3517,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2"/>
-</item>
-<item>
-<title><![CDATA[ Kultowa kawiarnia na Rynku Trybunalskim. Dlaczego nosiła nazwę "Pod Ormianinem"? [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kultowa-kawiarnia-na-rynku-trybunalskim/qeZPvdODMMWw7FQLlLMm</link>
-<guid isPermaLink="false">7e04131b0ba5b1cfa769619a92a3bf562417d5d2</guid>
-<pubDate>Thu, 05 Feb 2026 18:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1" alt="miniatura"/></p><p>Kamienica pod adresem Rynek Trybunalski 9 w Piotrkowie Trybunalskim to tak zwana kamienica Dutkiewiczowska. Pochodzi XVIII wieku. To okres w dziejach Piotrkowa, gdy Ormianie w Piotrkowie posiadali nieruchomości, jak również pełnili ważne funkcje w samorządzie miejskim. Mieli także wpływ na życie gospodarcze i kulturalne Piotrkowa.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1431a83a-02a9-4df5-be83-33407797adf1"/>
 </item>
 </channel></rss>
