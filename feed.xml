@@ -6,8 +6,48 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 03 Apr 2026 07:32:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 09:15:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Czy w Wielką Sobotę obowiązuje post? Kościół mówi jasno ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-w-wielka-sobote-obowiazuje-post-kosciol-mowi-jasno/bbXPZgI6VoHbDZBU7pnH</link>
+<guid isPermaLink="false">7413d4569345e4256459cb669b751717449a0a97</guid>
+<pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" alt="miniatura"/></p><p>W kalendarzu liturgicznym Kościoła katolickiego obowiązek postu ścisłego występuje wyłącznie dwa razy w roku: w Środę Popielcową oraz w Wielki Piątek. Oznacza to zarówno ograniczenie liczby spożywanych posiłków, jak i całkowitą rezygnację z mięsa. Wielka Sobota nie została objęta tym rygorem, co oznacza, że wierni nie mają formalnego obowiązku zachowywania postu ani wstrzemięźliwości od pokarmów m…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716"/>
+</item>
+<item>
+<title><![CDATA[ Zmiany w kursowaniu MZK Piotrków. Jak pojadą autobusy w święta? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmiany-w-kursowaniu-mzk-piotrkow-jak-pojada-autobusy-w-swieta/mmVlnbB99hK0u2vDLsLe</link>
+<guid isPermaLink="false">f63b6a9cccb9a0d2fc6b8267c160d4eda285dbb0</guid>
+<pubDate>Fri, 03 Apr 2026 10:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf" alt="miniatura"/></p><p>W związku ze zbliżającymi się Świętami Wielkanocnymi, w dniach 5 i 6 kwietnia obowiązywać będą zmiany w kursowaniu autobusów komunikacji miejskiej . W te dni autobusy będą kursować zgodnie z rozkładem niedzielnym, w godzinach od 10:00 do 20:00.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf"/>
+</item>
+<item>
+<title><![CDATA[ Piotrków Trybunalski: W domu wybuchł gaz, doszło do pożaru. Na miejscu LPR ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkow-trybunalski-w-domu-wybuchl-gaz-doszlo-do-pozaru-na-miejscu-lpr/DCdYjdlZNwsnTLni1H8Y</link>
+<guid isPermaLink="false">960948a2673297f35f07a276be7bc7a0f95e9978</guid>
+<pubDate>Fri, 03 Apr 2026 10:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" alt="miniatura"/></p><p>W piątek, 3 kwietnia około godz. 6:30 doszło do wybuchu gazu, a następnie pożaru w domu jednorodzinnym przy ul. Scaleniowej w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d"/>
+</item>
+<item>
+<title><![CDATA[ Gmina Sulejów przygotowuje prawie 200 hektarów terenów inwestycyjnych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gmina-sulejow-przygotowuje-prawie-200-hektarow-terenow-inwestycyjnych/oCEvZEtCgXoGYr2HFMiW</link>
+<guid isPermaLink="false">832f102bb82abdd492c4cd3ceafc3f0450b96b70</guid>
+<pubDate>Fri, 03 Apr 2026 09:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" alt="miniatura"/></p><p>Pierwszy teren o powierzchni 90 ha znajduje się pomiędzy ulicami Opoczyńską i Konecką, gdzie możliwy będzie rozwój sektora przemysłowego i logistycznego. Drugi obszar to 100 ha w obrębie sulejowskiej "polanki", przeznaczone pod turystykę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da"/>
+</item>
 <item>
 <title><![CDATA[ Pożar budynku w Piotrkowie. Na miejscu 4 zastępy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-budynku-w-piotrkowie-na-miejscu-4-zastepy/daElscw8jNXonl5lWzKW</link>
@@ -3497,25 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3260bdf-d69f-423e-aaa0-2668aacb2150" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3260bdf-d69f-423e-aaa0-2668aacb2150" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3260bdf-d69f-423e-aaa0-2668aacb2150"/>
-</item>
-<item>
-<title><![CDATA[ To najzdrowsze miasta w Polsce. Które miejsce zajął Piotrków? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-najzdrowsze-miasta-w-polsce-ktore-miejsce-zajal-piotrkow/G8UvfIJiZTH4JeVZeEG7</link>
-<guid isPermaLink="false">e3b7528d8a7bf88a31ab3d33641969dc75cec70c</guid>
-<pubDate>Fri, 06 Feb 2026 13:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2daab-fffc-4b1d-87e7-a8f92fa30a3f" alt="miniatura"/></p><p>Gdzie w Polsce żyje się najlepiej? To kwestie subiektywne i pewnie nie ma jednej prawidłowej odpowiedzi na to pytanie. Dla zainteresowanych jednak pomocne mogą być rankingi i badania, w których specjaliści sprawdzają warunki życia w poszczególnych miastach na podstawie danych liczbowych. Jednym z takich zestawień jest Indeks Zdrowych Miast, w którym znajdziemy też Piotrków Trybunalski. Jak wypadło…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2daab-fffc-4b1d-87e7-a8f92fa30a3f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2daab-fffc-4b1d-87e7-a8f92fa30a3f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e2d2daab-fffc-4b1d-87e7-a8f92fa30a3f"/>
-</item>
-<item>
-<title><![CDATA[ Padła duża wygrana w naszym mieście. Dobra passa w Lotto trwa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-duza-wygrana-w-naszym-miescie-dobra-passa-w-lotto-trwa/yf4lq5oZ57IQl8YyVkFt</link>
-<guid isPermaLink="false">2d13ea5ce87a4b3edb2c3e54cd4dcc262cce1e81</guid>
-<pubDate>Fri, 06 Feb 2026 11:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2" alt="miniatura"/></p><p>4 lutego informowaliśmy o pierwszej wygranej w Lotto, która padła w naszym mieście. Ktoś wzbogacił się o sześciocyfrową kwotę. Z kolei 5 lutego na „mapie szczęścia” Lotto pojawiła się kolejna pinezka w naszym mieście. Ile tym razem udało się wygrać?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd280c3b-167c-478d-80b1-12da235ea2a2"/>
 </item>
 </channel></rss>
