@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 03 Apr 2026 15:55:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 17:02:33 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Chwila nieuwagi może skończyć się na komendzie. Policja ostrzega mieszkańców ]]></title>
@@ -199,7 +199,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1dd9de60-3e64-4e03-b3bb-7b31a128a73b"/>
 </item>
 <item>
-<title><![CDATA[ Pożar w Zakładzie Chemicznym niedaleko Piotrkowa. Trwa akcja gaśnicza ]]></title>
+<title><![CDATA[ Pożar w zakładzie chemicznym niedaleko Piotrkowa. Trwa akcja gaśnicza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-zakladzie-chemicznym-niedaleko-piotrkowa-trwa-akcja-gasnicza/X1hCAnP9hW7Po012N9kP</link>
 <guid isPermaLink="false">364e34867a1b67ea95967dda553e88af72d3f03d</guid>
 <pubDate>Wed, 01 Apr 2026 18:36:00 +0000</pubDate>
