@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 03 Apr 2026 17:51:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 19:07:50 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Chwila nieuwagi może skończyć się na komendzie. Policja ostrzega mieszkańców ]]></title>
@@ -3517,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Potentat z Kielc rozgromił Piotrkowianina w Hali Relax! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-potentat-z-kielc-rozgromil-piotrkowianina-w-hali-relax/EijvpQLmHc9UyPK7aCdW</link>
-<guid isPermaLink="false">953380e1d41d4e414328f74ae847cc1d681035ee</guid>
-<pubDate>Sun, 08 Feb 2026 17:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c10419e-af2c-4033-88aa-82af52db6a7e" alt="miniatura"/></p><p>Piotrkowianie do rywalizacji z krajowym potentatem przystępowali jako jedenasty zespół w tabeli, który mógł się pochwalić bilansem zaledwie 3 zwycięstw w 16 spotkaniach ORLEN Superligi 2025/2026, które przełożyły się na 10 punktów. To o dwa oczka więcej od przedostatnich w stawce Azotów-Puławy oraz o trzy oczka więcej od zamykającej stawkę drużyny Zagłębia Lubin. Dla porównania, Industria Kielce z…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c10419e-af2c-4033-88aa-82af52db6a7e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c10419e-af2c-4033-88aa-82af52db6a7e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c10419e-af2c-4033-88aa-82af52db6a7e"/>
 </item>
 </channel></rss>
