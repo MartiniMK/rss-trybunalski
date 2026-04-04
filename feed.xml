@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 04 Apr 2026 08:01:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 09:03:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielka Sobota 2026. Godziny otwarcia sklepów. Do której czynne Lidl, Biedronka, Aldi? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-sobota-2026-godziny-otwarcia-sklepow-do-ktorej-czynne-lidl-biedronka-aldi/hQfgX8JSuKLEEgXOqpC2</link>
+<guid isPermaLink="false">2a7e87f465afbfafcbfeb59aa71c26862b31dccb</guid>
+<pubDate>Sat, 04 Apr 2026 10:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef730847-4fc3-457b-a510-92d8b7385a16" alt="miniatura"/></p><p>W praktyce oznacza to wzmożony ruch w sklepach już od godzin porannych. Klienci, którzy odkładali zakupy na ostatnią chwilę, ruszają do marketów, co przekłada się na większe kolejki i szybsze znikanie produktów z półek. Zjawisko to powtarza się co roku i – jak wskazują dane branżowe – największe natężenie przypada właśnie na Wielki Piątek oraz poranek Wielkiej Soboty.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef730847-4fc3-457b-a510-92d8b7385a16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef730847-4fc3-457b-a510-92d8b7385a16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef730847-4fc3-457b-a510-92d8b7385a16"/>
+</item>
+<item>
+<title><![CDATA[ Nowe Dino w Piotrkowie. Kiedy otwarcie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-dino-w-piotrkowie-kiedy-otwarcie/H0j2GGCG2c2VPDsCDtme</link>
+<guid isPermaLink="false">2b5495ab0a5e19a3552eb14e0498b9d5cc2908df</guid>
+<pubDate>Sat, 04 Apr 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/00b84d1c-6788-4351-ba1e-84ae14c84603" alt="miniatura"/></p><p>Przy ulicy Litewskiej w Piotrkowie Trybunalskim powstał plac budowy. Jak się okazuje, ma tu powstać nowy sklep sieci Dino. Kiedy mieszkańcy moga spodziewać się zakończenia prac?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/00b84d1c-6788-4351-ba1e-84ae14c84603" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/00b84d1c-6788-4351-ba1e-84ae14c84603" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/00b84d1c-6788-4351-ba1e-84ae14c84603"/>
+</item>
 <item>
 <title><![CDATA[ Chwila nieuwagi może skończyć się na komendzie. Policja ostrzega mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/chwila-nieuwagi-moze-skonczyc-sie-na-komendzie-policja-ostrzega-mieszkancow/LAXbSil7mRmvJHuEkkxR</link>
@@ -3497,25 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8432c76-c2bb-4675-b27e-9e2a00b2f354" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8432c76-c2bb-4675-b27e-9e2a00b2f354" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8432c76-c2bb-4675-b27e-9e2a00b2f354"/>
-</item>
-<item>
-<title><![CDATA[ Nie będzie prądu w Piotrkowie i okolicy. Utrudnienia potrwają niemal tydzień ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-woj-lodzkim-utrudnienia-potrwaja-niemal-tydzien/lPdxiF5N8zP4cQdunvOx</link>
-<guid isPermaLink="false">08d51d16cd12edcdaf608ca1d688823a99fab2f7</guid>
-<pubDate>Mon, 09 Feb 2026 10:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/53a44b97-6b89-41b1-bcd5-fe40674c32d8" alt="miniatura"/></p><p>Ulica: ul. Błonie, numery: 1-26 29 dz. 6/2 dz. 6/3 dz. 6/4</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/53a44b97-6b89-41b1-bcd5-fe40674c32d8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/53a44b97-6b89-41b1-bcd5-fe40674c32d8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/53a44b97-6b89-41b1-bcd5-fe40674c32d8"/>
-</item>
-<item>
-<title><![CDATA[ Kompletnie pijany wjechał do rowu. Policyjna akcja zakończyła się... w łóżku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kompletnie-pijany-wjechal-do-rowu-policyjna-akcja-zakonczyla-sie-w-lozku/JXYgVriuxOcz66PN1EHN</link>
-<guid isPermaLink="false">b99cd6fdc36656d55fafff899281dbd2b8cd0ffa</guid>
-<pubDate>Mon, 09 Feb 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8" alt="miniatura"/></p><p>Jak informuje piotrkowska policja, 5 lutego przed godz. 18:00 do jednostki policji w Piotkrowie wpłynęło zgłoszenie, że w m. Piaski pijany kierowca wjechał do rowu i uciekł. Na miejsce udał się Jarosław Krasoń, dzielnicowy z posterunku w Rozprzy, który pełnił służbę razem z funkcjonariuszem z komisariatu policji w Gorzkowicach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7e67d59-edc6-40c0-9d5c-e1191029aea8"/>
 </item>
 </channel></rss>
