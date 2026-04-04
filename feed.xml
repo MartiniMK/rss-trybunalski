@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 04 Apr 2026 09:59:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 10:51:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkanocne wypieki last minute. Jak nie zepsuć babki, mazurka i tiramisu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkanocne-wypieki-last-minute-jak-nie-zepsuc-babki-mazurka-i-tiramisu/o6TtyDFpGzTSyp20MZRO</link>
+<guid isPermaLink="false">6474cb2ce8416438ece6eac830749c269c871ecf</guid>
+<pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c186d571-7577-4406-a2f9-06c1f55c3f2c" alt="miniatura"/></p><p>Jeśli brakuje Ci czasu lub cukiernicze umiejętności nie są Twoją mocną stroną, nie martw się! Podpowiadamy, jak w prosty i szybki sposób przygotować tradycyjne wielkanocne przysmaki – mazurek i babkę – oraz włoską alternatywę w postaci tiramisu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c186d571-7577-4406-a2f9-06c1f55c3f2c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c186d571-7577-4406-a2f9-06c1f55c3f2c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c186d571-7577-4406-a2f9-06c1f55c3f2c"/>
+</item>
 <item>
 <title><![CDATA[ Wielka Sobota 2026. Godziny otwarcia sklepów. Do której czynne Lidl, Biedronka, Aldi? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielka-sobota-2026-godziny-otwarcia-sklepow-do-ktorej-czynne-lidl-biedronka-aldi/hQfgX8JSuKLEEgXOqpC2</link>
