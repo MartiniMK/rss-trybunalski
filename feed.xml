@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 05 Apr 2026 05:58:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 07:29:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Życzenia na Wielkanoc 2026. Dłuższe, krótkie, oryginalne i wyjątkowe ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zyczenia-na-wielkanoc-2026-dluzsze-oryginalne-i-wyjatkowe/Q9ZhW1fjIJYLwQw7XdHk</link>
+<guid isPermaLink="false">900e15b112342c322b872eaa8ca3f5cffb1a056b</guid>
+<pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" alt="miniatura"/></p><p>Wielkanoc to święto pełne symboli – nadziei, odrodzenia i radości. To czas spotkań z bliskimi, wspólnego świętowania i dzielenia się dobrym słowem. Niezależnie od tego, czy obchodzisz je tradycyjnie, czy w nowoczesnym duchu, życzenia są ważnym elementem tego okresu. Przygotowaliśmy ściągę z gotowymi życzeniami.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792"/>
+</item>
 <item>
 <title><![CDATA[ Wielkanocne wypieki last minute. Jak nie zepsuć babki, mazurka i tiramisu? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkanocne-wypieki-last-minute-jak-nie-zepsuc-babki-mazurka-i-tiramisu/o6TtyDFpGzTSyp20MZRO</link>
