@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 05 Apr 2026 17:48:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 19:07:48 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wielkanoc bez granic. Zobacz, jak świętują w Kolumbii, USA, Holandii i Chinach ]]></title>
@@ -3487,25 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na A1 niedaleko Piotrkowa. Samochód przebił bariery ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-a1-niedaleko-piotrkowa-samochod-przebil-bariery/6AnANzbDbx5PxuDszdAK</link>
-<guid isPermaLink="false">9a8cf8ece7e5d29515fb895453eb9255dcdbfd4a</guid>
-<pubDate>Mon, 09 Feb 2026 21:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7ceaf57e-eaa7-4693-9df1-eb242a5dfa0c" alt="miniatura"/></p><p>W poniedziałkowy wieczór, 9 lutego doszło do groźnego zdarzenia na A1. Na miejsce ruszyły służby. Poznaliśmy już wstępne ustalenia dotyczące tego wypadku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ceaf57e-eaa7-4693-9df1-eb242a5dfa0c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ceaf57e-eaa7-4693-9df1-eb242a5dfa0c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ceaf57e-eaa7-4693-9df1-eb242a5dfa0c"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowski regionalista prowadził aptekę. To jemu Piotrkowianie zawdzięczają muzeum i bibliotekę [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowski-regionalista-prowadzil-apteke-to-jemu-piotrkowianie-zawdzieczaja-muzeum-i-biblioteke-zdjecia/7HTVaeZXmZFLgea0VxDF</link>
-<guid isPermaLink="false">a9f5cecde44e16f11dca7a0dd2ef426aa4a5dd4f</guid>
-<pubDate>Mon, 09 Feb 2026 18:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e6182aae-2c53-4ff1-ae7e-e8d65132e4a4" alt="miniatura"/></p><p>Opisywał region piotrkowski i sam Piotrków Trybunalski. Był wśród założycieli piotrkowskiego oddziału Polskiego Towarzystwa Krajoznawczego. Michał Rawita-Witanowski, choć urodzony w Częstochowie, to kojarzony jest z Piotrkowem, gdzie przez wiele lat mieszkał i gdzie dał się poznać jako działacz i autor przewodników.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6182aae-2c53-4ff1-ae7e-e8d65132e4a4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6182aae-2c53-4ff1-ae7e-e8d65132e4a4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6182aae-2c53-4ff1-ae7e-e8d65132e4a4"/>
 </item>
 </channel></rss>
