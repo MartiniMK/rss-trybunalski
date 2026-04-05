@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 05 Apr 2026 11:47:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 13:24:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkanoc bez granic. Zobacz, jak świętują w Kolumbii, USA, Holandii i Chinach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkanoc-bez-granic-zobacz-jak-swietuja-w-kolumbii-usa-holandii-i-chinach/rebpwtJvqKbts3VAm4FB</link>
+<guid isPermaLink="false">73da36628fa91b9ced98e98f8f47b2d887fbdf7d</guid>
+<pubDate>Sun, 05 Apr 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9" alt="miniatura"/></p><p>Wielkanoc to jedno z najważniejszych świąt chrześcijańskich, jednak sposób jej obchodzenia różni się w zależności od szerokości geograficznej. Tradycje wielkanocne bywają barwne, zaskakujące, a niekiedy – bardzo odległe od tych znanych w Polsce. Jak święta Wielkiej Nocy wyglądały oczami Polaków mieszkających w różnych zakątkach świata?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9"/>
+</item>
 <item>
 <title><![CDATA[ Pożar elektrowni wiatrowej pod Piotrkowem. Z góry spadały płonące elementy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-elektrowni-wiatrowej-pod-piotrkowem-z-gory-spadaly-plonace-elementy/f7tpeUOPxqbCpxLeQK8M</link>
