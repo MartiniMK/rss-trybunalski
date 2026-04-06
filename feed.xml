@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 06 Apr 2026 12:02:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 13:48:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Najwyższe wygrane w Lotto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-najwyzsze-wygrane-w-lotto/YTAbCaT99qemraKNCdOJ</link>
+<guid isPermaLink="false">ee0228d1128eb54f63473514406093919c0da7b5</guid>
+<pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" alt="miniatura"/></p><p>W jednym z marcowych losowań Eurojackpot Polak zgarnął nagrodę trzeciego stopnia. Wiadomo już, jaka jest jej wysokość. Jednak to właśnie w naszym regionie padła jedna z najbardziej spektakularnych wygranych w ogólnopolskim rankingu. Szczęśliwiec z powiatu piotrkowskiego znalazł się na trzecim stopniu podium najwyższych wygranych w Eurojackpot w Polsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad"/>
+</item>
 <item>
 <title><![CDATA[ Wielkanoc bez granic. Zobacz, jak świętują w Kolumbii, USA, Holandii i Chinach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkanoc-bez-granic-zobacz-jak-swietuja-w-kolumbii-usa-holandii-i-chinach/rebpwtJvqKbts3VAm4FB</link>
