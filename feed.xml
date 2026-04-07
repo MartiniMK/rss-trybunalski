@@ -6,17 +6,27 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 07 Apr 2026 07:53:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 09:24:17 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Najwyższe wygrane w Lotto ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-najwyzsze-wygrane-w-lotto/YTAbCaT99qemraKNCdOJ</link>
-<guid isPermaLink="false">ee0228d1128eb54f63473514406093919c0da7b5</guid>
-<pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" alt="miniatura"/></p><p>W jednym z marcowych losowań Eurojackpot Polak zgarnął nagrodę trzeciego stopnia. Wiadomo już, jaka jest jej wysokość. Jednak to właśnie w naszym regionie padła jedna z najbardziej spektakularnych wygranych w ogólnopolskim rankingu. Szczęśliwiec z powiatu piotrkowskiego znalazł się na trzecim stopniu podium najwyższych wygranych w Eurojackpot w Polsce.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59597f9a-3f1e-46a0-89ca-95d01dc9d6ad"/>
+<title><![CDATA[ Zagadka w Kole rozwiązana. Pingi zniosła „dowód” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zagadka-w-kole-rozwiazana-pingi-zniosla-dowod/SG0hCAIUmlIvDOCOFti9</link>
+<guid isPermaLink="false">db69bfdd0ad40e7a41074f884a0a50fe99706671</guid>
+<pubDate>Tue, 07 Apr 2026 11:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d977fc38-3ccc-44ae-8a5d-3b356c0d2e32" alt="miniatura"/></p><p>Leśny Ośrodek Rehabilitacji Zwierząt w Kole to miejsce na mapie naszego regionu, gdzie dzicy pacjenci dostają drugą szansę na życie. Tutaj, pod okiem troskliwych opiekunów, zwierzęta odzyskują zdrowie, by móc bezpiecznie wrócić na łono natury. Mieszkanką edukacyjnej części ośrodka jest Pingi, puchacz europejski. Drapieżniczka sprawiła wszystkim wielkanocną niespodziankę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d977fc38-3ccc-44ae-8a5d-3b356c0d2e32" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d977fc38-3ccc-44ae-8a5d-3b356c0d2e32" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d977fc38-3ccc-44ae-8a5d-3b356c0d2e32"/>
+</item>
+<item>
+<title><![CDATA[ Świętowali Śmingusa-Dyngusa i pomagali koledze. Akcja strażaków z Przygłowa na zdjęciach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swietowali-smingusa-dyngusa-i-pomagali-koledze-akcja-strazakow-z-przyglowa-na-zdjeciach/7b9CIRVx6pY0SwFwqD1E</link>
+<guid isPermaLink="false">b34725faa6a6748f34fa48b9c201be3a222a3070</guid>
+<pubDate>Tue, 07 Apr 2026 10:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2587453d-a8f8-4375-a69e-f22838b1e6d3" alt="miniatura"/></p><p>Przypomnijmy. W piątek, 27 marca w m. Przygłów Las w domu jednorodzinnym wybuchł pożar. Na miejscu interweniowało sześć zastępów straży. Najprawdopodobniej przyczyną tragedii była nieszczelność przewodu kominowego. Na szczęście domownicy zdążyli ewakuować się z budynku przed przybyciem na miejsce służb.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2587453d-a8f8-4375-a69e-f22838b1e6d3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2587453d-a8f8-4375-a69e-f22838b1e6d3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2587453d-a8f8-4375-a69e-f22838b1e6d3"/>
 </item>
 <item>
 <title><![CDATA[ Wielkanoc bez granic. Zobacz, jak świętują w Kolumbii, USA, Holandii i Chinach ]]></title>
@@ -3467,35 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3be7cd20-de63-495d-bdb5-ee9cc05f6448" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3be7cd20-de63-495d-bdb5-ee9cc05f6448" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3be7cd20-de63-495d-bdb5-ee9cc05f6448"/>
-</item>
-<item>
-<title><![CDATA[ Jest praca u łódzkiego przewoźnika. To ostatnie dni na zgłoszenia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-praca-u-lodzkiego-przewoznika-to-ostatnie-dni-na-zgloszenia/BX1DwMk2x4sK8P1ObBuG</link>
-<guid isPermaLink="false">095ad7f4d2a097d5da96ae1758802dbc249c90c5</guid>
-<pubDate>Tue, 10 Feb 2026 14:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/69035a40-9ac6-4134-966f-04bc93a22b37" alt="miniatura"/></p><p>Łódzki przewoźnik kolejowy poszukuje pracowników. Ogłoszenia dotyczą trzech stanowisk, a na przesłanie CV zostały ostatnie dni. Sprawdzamy, jakie wymagania muszą spełniać kandydaci i co oferuje Łódzka Kolej Aglomeracyjna swoim pracownikom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/69035a40-9ac6-4134-966f-04bc93a22b37" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/69035a40-9ac6-4134-966f-04bc93a22b37" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/69035a40-9ac6-4134-966f-04bc93a22b37"/>
-</item>
-<item>
-<title><![CDATA[ Likwidacja szkoły coraz bliżej? Do „zerówki” nie przyszło żadne dziecko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/likwidacja-szkoly-coraz-blizej-do-zerowki-nie-przyszlo-zadne-dziecko/c9hDp9Kqt71GpBRNp3xg</link>
-<guid isPermaLink="false">0492bad153e66d1faef8331e93594d23caec3350</guid>
-<pubDate>Tue, 10 Feb 2026 12:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ecd3f20e-b563-4da0-b618-13230e4fc0c1" alt="miniatura"/></p><p>Podczas grudniowej sesji Rady Gminy Wola Krzysztoporska przyjęto uchwałę w sprawie zamiaru likwidacji Szkoły Podstawowej w Bogdanowie. Powodem ma być demografia. Teraz gmina czeka na opinię łódzkiego kuratora oświaty.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ecd3f20e-b563-4da0-b618-13230e4fc0c1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ecd3f20e-b563-4da0-b618-13230e4fc0c1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ecd3f20e-b563-4da0-b618-13230e4fc0c1"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-piotrkowa-ktorzy-odeszli-w-ostatnim-czasie-nekrologi/WH441mxDcNflXIoOOw2G</link>
-<guid isPermaLink="false">1cfaf84437f2299c8234b3ad22c6e619b28e8af1</guid>
-<pubDate>Tue, 10 Feb 2026 10:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 11 lutego 2026 roku o godz. 11:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a44f7290-21c9-4443-ac15-252d323f7925"/>
 </item>
 </channel></rss>
