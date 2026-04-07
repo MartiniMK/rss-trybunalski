@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 07 Apr 2026 15:28:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 17:22:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tania drukarka z Action to hit. Tłumy chętnych. Ile trzeba zapłacić za to cudo? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tania-drukarka-z-action-to-hit-tlumy-chetnych-ile-trzeba-zaplacic-za-to-cudo/XrpQO5B4LGs374FqirsH</link>
+<guid isPermaLink="false">8ee4c197b0dc59e4c16a68788af66811aeea94ba</guid>
+<pubDate>Tue, 07 Apr 2026 17:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc53eaae-a0c2-4611-9d3a-678b1b8274de" alt="miniatura"/></p><p>Największą zaletą urządzenia Fichero A4 jest zastosowanie technologii druku termicznego. W praktyce oznacza to całkowitą rezygnację z klasycznych kartridży i tonerów, które od lat generują koszty i frustrację użytkowników. Zamiast tego wykorzystywany jest papier termiczny, na którym obraz powstaje pod wpływem wysokiej temperatury.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc53eaae-a0c2-4611-9d3a-678b1b8274de" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc53eaae-a0c2-4611-9d3a-678b1b8274de" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc53eaae-a0c2-4611-9d3a-678b1b8274de"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowianka walczy o półfinał. Głosowanie trwa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowianka-walczy-o-polfinal-glosowanie-trwa/cInSJEtXCbeBbgksFkZN</link>
@@ -3467,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc1b799b-51b4-42c0-9077-1ee1cb6a4008" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc1b799b-51b4-42c0-9077-1ee1cb6a4008" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc1b799b-51b4-42c0-9077-1ee1cb6a4008"/>
-</item>
-<item>
-<title><![CDATA[ Pożar pod Piotrkowem. Na miejscu 8 zastępów straży pożarnej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-pod-piotrkowem-na-miejscu-8-zastepow-strazy-pozarnej/Ex2qqnydRxAN89H4FZmQ</link>
-<guid isPermaLink="false">14da0901900e34619bbb5000f139f25705127f52</guid>
-<pubDate>Tue, 10 Feb 2026 19:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c575fed0-05a5-483c-a927-3f07dbcfd9dd" alt="miniatura"/></p><p>We wtorek, 10 lutego około godziny 17:00 w Korytnicy wybuchł pożar. Według wstępnych ustaleń doszło do eksplozji nagromadzonego gazu w jednym z lokali gastronomicznych, po czym obiekt zajął się ogniem. Jedna osoba została poszkodowana. Na miejsce ruszyli strażacy z Piotrkowa Trybunalskiego, OSP Uszczyn, a także OSP KSRG Przygłów. W sumie zadysponowano 8 zastępów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c575fed0-05a5-483c-a927-3f07dbcfd9dd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c575fed0-05a5-483c-a927-3f07dbcfd9dd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c575fed0-05a5-483c-a927-3f07dbcfd9dd"/>
 </item>
 </channel></rss>
