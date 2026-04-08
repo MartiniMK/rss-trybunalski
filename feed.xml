@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 08 Apr 2026 15:29:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 17:24:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Browar Braulińskiego w Piotrkowie. Legendarna marka piwowarów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/browar-braulinskiego-w-piotrkowie-legendarna-marka-piwowarow/O6Wg8I5wCgKKIZajfMGK</link>
+<guid isPermaLink="false">844dddd6d2ae8ed398e50d2820be68a7e01fea43</guid>
+<pubDate>Wed, 08 Apr 2026 19:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0954dd7e-f71a-4749-aa67-00216d923630" alt="miniatura"/></p><p>Przy ulicy Wojska Polskiego w Piotrkowie są jeszcze pozostałości dawnych zabudowań browaru Braulińskiego. To zabytkowa budowla z charakterystyczną instalacją. Nad dawnym browarem wznosi się wieżyczka suszarnicza z wiatromierzem. Tu był główny budynek dawnego browaru, który mieścił się przy ówczesnej ulicy Bykowskiej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0954dd7e-f71a-4749-aa67-00216d923630" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0954dd7e-f71a-4749-aa67-00216d923630" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0954dd7e-f71a-4749-aa67-00216d923630"/>
+</item>
 <item>
 <title><![CDATA[ Plaga pijanych kierowców w Piotrkowie i powiecie. Szokujące, ile osób zatrzymała policja ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/plaga-pijanych-kierowcow-w-piotrkowie-i-powiecie-szokujace-ile-osob-zatrzymala-policja/rRX92YmRcdx5is41F23G</link>
@@ -3477,15 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a562232-3f8e-49da-b0bb-0a550c52958a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a562232-3f8e-49da-b0bb-0a550c52958a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a562232-3f8e-49da-b0bb-0a550c52958a"/>
-</item>
-<item>
-<title><![CDATA[ Skazani z aresztu w Piotrkowie będą pomagać psom w schronisku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/skazani-z-aresztu-w-piotrkowie-beda-pomagac-psom-w-schronisku/C3d5xdRjHdEw4eMLGGow</link>
-<guid isPermaLink="false">793d33654bb1d07eeaa449cd910fa73ca582f055</guid>
-<pubDate>Thu, 12 Feb 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef41c44f-6589-456b-8a79-38ba9daaf2cc" alt="miniatura"/></p><p>Areszt Śledczy w Piotrkowie Trybunalskim nawiązał oficjalną współpracę ze Schroniskiem dla Bezdomnych Zwierząt w Piotrkowie Trybunalskim .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef41c44f-6589-456b-8a79-38ba9daaf2cc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef41c44f-6589-456b-8a79-38ba9daaf2cc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef41c44f-6589-456b-8a79-38ba9daaf2cc"/>
 </item>
 </channel></rss>
