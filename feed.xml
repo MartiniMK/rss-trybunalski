@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 08 Apr 2026 09:23:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 11:17:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sukces Kacpra z Wolborza. Mieszkaniec naszego powiatu mistrzem Polski ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sukces-kacpra-z-wolborza-mieszkaniec-naszego-powiatu-mistrzem-polski/Rm2NLjvdrQLEJ560EdjD</link>
+<guid isPermaLink="false">f92dcde71906208a1fc9f80daec5c9e0f052cbd8</guid>
+<pubDate>Wed, 08 Apr 2026 12:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c52f8c74-5dad-462c-bb9a-2a21399f76d1" alt="miniatura"/></p><p>27-29 marca w Raciborzu odbyły się XXVI Mistrzostwa Polski oraz Mistrzostwa Polski Amatorów w armwrestlingu. Turniej był nie tylko sprawdzianem techniki i wytrzymałości, ale też zgromadził środowisko tej dyscypliny z całej Polski. Przy stołach stanęło blisko 300 zawodników z całej Polski, w tym 180 reprezentantów 30 miast. Wśród nich znalazł się też mieszkaniec Wolborza w powiecie piotrkowskim. Co…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c52f8c74-5dad-462c-bb9a-2a21399f76d1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c52f8c74-5dad-462c-bb9a-2a21399f76d1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c52f8c74-5dad-462c-bb9a-2a21399f76d1"/>
+</item>
+<item>
+<title><![CDATA[ Meblowy gigant wchodzi do Piotrkowa. To część nowego parku handlowego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/meblowy-gigant-wchodzi-do-piotrkowa-to-czesc-nowego-parku-handlowego/JBUne5Avt21pkSZPGXlB</link>
+<guid isPermaLink="false">5f12e26c5d920d528cadd8a4ac5ed2aa23375bce</guid>
+<pubDate>Wed, 08 Apr 2026 11:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d6a73f06-c208-425e-b2c6-c2060548d51e" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6a73f06-c208-425e-b2c6-c2060548d51e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6a73f06-c208-425e-b2c6-c2060548d51e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d6a73f06-c208-425e-b2c6-c2060548d51e"/>
+</item>
 <item>
 <title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/zuUh8T7D8uniN92mzZkC</link>
@@ -3457,25 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/53ddc8f7-3a30-4ac3-bb0e-e5c9e1659747"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków na liście rankingowej. Szykują się zmiany przy szpitalu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkow-na-liscie-rankingowej-szykuja-sie-zmiany-przy-szpitalu/nXcE60Ydc09cyCoaE7Oy</link>
-<guid isPermaLink="false">8b7a35d21a931cec366688ee5cc13795e68c18a0</guid>
-<pubDate>Thu, 12 Feb 2026 11:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8241dedc-10ae-4ee1-9396-3ce9e780fc94" alt="miniatura"/></p><p>We wtorek, 10 lutego ogłoszono listę rankingową placówek medycznych, które otrzymają dofinansowanie na budowę lub modernizację lądowisk dla śmigłowców przy szpitalnych oddziałach ratunkowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8241dedc-10ae-4ee1-9396-3ce9e780fc94" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8241dedc-10ae-4ee1-9396-3ce9e780fc94" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8241dedc-10ae-4ee1-9396-3ce9e780fc94"/>
-</item>
-<item>
-<title><![CDATA[ Jechał po chodniku w Srocku. W samochodzie... dwie butelki wódki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-po-chodniku-w-srocku-w-samochodzie-dwie-butelki-wodki/PqK5BDRLaAEZjwC7N6Ou</link>
-<guid isPermaLink="false">9202618975c2040a8383146415f1f50b3b2a588d</guid>
-<pubDate>Wed, 11 Feb 2026 15:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870" alt="miniatura"/></p><p>Wszystko działo się w sobotę, 7 lutego około godziny 21:30 w Srocku. Wówczas dzielnicowy z Posterunku Policji w Moszczenicy sierżant Oskar Smolarczyk wraz z st. sierż. Łukaszem Grabowskim patrolowali tamtejsze ulice. W pewnym momencie zauważyli pojazd jadący po chodniku, wzdłuż przejścia dla pieszych, bez włączonych jakichkolwiek świateł. Mundurowi postanowili zatrzymać Mitsubishi do kontroli drog…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870"/>
 </item>
 </channel></rss>
