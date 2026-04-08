@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 08 Apr 2026 07:58:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 09:23:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/zuUh8T7D8uniN92mzZkC</link>
+<guid isPermaLink="false">f304e14a438e8c6ddbfb1a757fc4a0f8e4a0c4ad</guid>
+<pubDate>Wed, 08 Apr 2026 10:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dca512ef-0d48-41ad-8f39-7d08434f1656" alt="miniatura"/></p><p>Jeden z największych graczy w polskim sektorze e-commerce prowadzi rekrutacje w naszym mieście. Jak się okazuje, Allegro poszukuje pracowników. Sprawdzamy, o które stanowiska chodzi i jakie wymagania trzeba spełnić?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dca512ef-0d48-41ad-8f39-7d08434f1656" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dca512ef-0d48-41ad-8f39-7d08434f1656" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dca512ef-0d48-41ad-8f39-7d08434f1656"/>
+</item>
 <item>
 <title><![CDATA[ Rewolucja w MZK w Piotrkowie. Na ulice wyjadą nowoczesne pojazdy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-mzk-w-piotrkowie-na-ulice-wyjada-nowoczesne-pojazdy/pkiLIbznZW3GtxF4zizu</link>
@@ -3467,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4671e58f-67c3-4076-9166-00d46dcff870"/>
-</item>
-<item>
-<title><![CDATA[ Nietypowe urządzenia na ulicach Piotrkowa? Możliwe, ale... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nietypowe-urzadzenia-na-ulicach-piotrkowa-mozliwe-ale/ctXSxi35DUBHBogoMREF</link>
-<guid isPermaLink="false">7791131bd00ea2d9c1ca989fcf3921527f232125</guid>
-<pubDate>Wed, 11 Feb 2026 11:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef018bb6-b7ae-46fa-82a4-bb68a763fbbc" alt="miniatura"/></p><p>O tym, że woda i olej nie mieszają się ze sobą, uczą już w szkole podstawowej. Jednak ze względu na wygodę, olej spożywczy po smażeniu najczęściej ląduje w zlewie. Efekt? Zatory w kanalizacji, ale też negatywny wpływ na środowisko. Ten kuchenny odpad powinien być odpowiednio utylizowany, aby oszczędzić sobie kosztownej wizyty hydraulika. Najlepiej, wystudzony olej przelać do szczelnego pojemnika i…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef018bb6-b7ae-46fa-82a4-bb68a763fbbc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef018bb6-b7ae-46fa-82a4-bb68a763fbbc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef018bb6-b7ae-46fa-82a4-bb68a763fbbc"/>
 </item>
 </channel></rss>
