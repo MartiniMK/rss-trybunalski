@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 08 Apr 2026 14:01:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 15:29:29 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Plaga pijanych kierowców w Piotrkowie i powiecie. Szokujące, ile osób zatrzymała policja ]]></title>
