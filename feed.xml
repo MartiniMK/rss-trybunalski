@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 09 Apr 2026 16:31:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 18:12:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Niemiecki gigant inwestuje w Łódzkiem. Setki nowych miejsc pracy i ogromne centrum logistyczne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-inwestuje-w-lodzkiem-setki-nowych-miejsc-pracy-i-ogromne-centrum-logistyczne/j0xF2aWq6w89HCAspI8x</link>
+<guid isPermaLink="false">02600d9a67de950769e9da6020c13816878de82f</guid>
+<pubDate>Thu, 09 Apr 2026 19:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" alt="miniatura"/></p><p>Niemiecka sieć Lidl zapowiedziała budowę centrum magazynowego w miejscowości Gucin, w gminie Buczek, na terenie powiatu łaskiego. Jak poinformowała gmina Buczek, prace mają rozpocząć się w czerwcu 2026 roku. Planowana powierzchnia obiektu to 6,2 hektara.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599"/>
+</item>
 <item>
 <title><![CDATA[ Pobiegli i zwyciężyli. Za nami Mistrzostwa Powiatu Piotrkowskiego [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pobiegli-i-zwyciezyli-za-nami-mistrzostwa-powiatu-piotrkowskiego-zdjecia/aSq1qvT8OCSj7Rj0jxTm</link>
@@ -129,7 +139,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c52f8c74-5dad-462c-bb9a-2a21399f76d1"/>
 </item>
 <item>
-<title><![CDATA[ Meblowy gigant wchodzi do Piotrkowa. To część nowego parku handlowego ]]></title>
+<title><![CDATA[ Meblowy gigant wchodzi do naszego miasta. To część nowego parku handlowego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/meblowy-gigant-wchodzi-do-piotrkowa-to-czesc-nowego-parku-handlowego/JBUne5Avt21pkSZPGXlB</link>
 <guid isPermaLink="false">5f12e26c5d920d528cadd8a4ac5ed2aa23375bce</guid>
 <pubDate>Wed, 08 Apr 2026 11:36:00 +0000</pubDate>
@@ -1447,16 +1457,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7fc41d6-7ebb-4364-9c98-7fc1557e2168" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7fc41d6-7ebb-4364-9c98-7fc1557e2168" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7fc41d6-7ebb-4364-9c98-7fc1557e2168"/>
-</item>
-<item>
-<title><![CDATA[ Niemiecki gigant inwestuje w Łódzkiem. Setki nowych miejsc pracy i ogromne centrum logistyczne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-inwestuje-w-lodzkiem-setki-nowych-miejsc-pracy-i-ogromne-centrum-logistyczne/j0xF2aWq6w89HCAspI8x</link>
-<guid isPermaLink="false">02600d9a67de950769e9da6020c13816878de82f</guid>
-<pubDate>Thu, 19 Mar 2026 19:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" alt="miniatura"/></p><p>Niemiecka sieć Lidl zapowiedziała budowę centrum magazynowego w miejscowości Gucin, w gminie Buczek, na terenie powiatu łaskiego. Jak poinformowała gmina Buczek, prace mają rozpocząć się w czerwcu 2026 roku. Planowana powierzchnia obiektu to 6,2 hektara.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/42c97282-9b4e-480f-8bee-e23f4ef4a599"/>
 </item>
 <item>
 <title><![CDATA[ „Potężny chaos” przy szkole w Piotrkowie? Rozwiązaniem nowe rondo ]]></title>
