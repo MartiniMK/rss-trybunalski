@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 09 Apr 2026 03:26:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 06:03:12 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ IV Marsz Papieski w Piotrkowie. Wspólna modlitwa i pomoc dla Kacpra [ZDJĘCIA] ]]></title>
