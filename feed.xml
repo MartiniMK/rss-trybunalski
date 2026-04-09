@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 09 Apr 2026 07:59:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 09:29:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Uczeń dźgnął kolegę w szkole. Piotrkowska policja mówi o groźnym zdarzeniu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/uczen-dzgnal-kolege-w-szkole-piotrkowska-policja-mowi-o-groznym-zdarzeniu/S3ybKC1zqlPeviu2u2sZ</link>
+<guid isPermaLink="false">46c47f5178b99e90010b1a6454c643cfa4f6f07c</guid>
+<pubDate>Thu, 09 Apr 2026 11:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" alt="miniatura"/></p><p>Do niebezpiecznego incydentu doszło w Szkole Podstawowej w Ręcznie, w powiecie piotrkowskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca"/>
+</item>
 <item>
 <title><![CDATA[ IV Marsz Papieski w Piotrkowie. Wspólna modlitwa i pomoc dla Kacpra [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/iv-marsz-papieski-w-piotrkowie-wspolna-modlitwa-i-pomoc-dla-kacpra-zdjecia/XfkMU8Zg7p71V22LduxC</link>
@@ -179,7 +189,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d977fc38-3ccc-44ae-8a5d-3b356c0d2e32"/>
 </item>
 <item>
-<title><![CDATA[ Świętowali Śmingusa-Dyngusa i pomagali koledze. Akcja strażaków z Przygłowa na zdjęciach ]]></title>
+<title><![CDATA[ Świętowali Śmigusa-Dyngusa i pomagali koledze. Akcja strażaków z Przygłowa na zdjęciach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swietowali-smingusa-dyngusa-i-pomagali-koledze-akcja-strazakow-z-przyglowa-na-zdjeciach/7b9CIRVx6pY0SwFwqD1E</link>
 <guid isPermaLink="false">b34725faa6a6748f34fa48b9c201be3a222a3070</guid>
 <pubDate>Tue, 07 Apr 2026 10:34:00 +0000</pubDate>
@@ -3467,25 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/82428e14-40e4-4a43-bb49-10c10c085a85"/>
-</item>
-<item>
-<title><![CDATA[ „Farma” powraca na ekrany. Tu po zwycięstwo sięgnęła mieszkanka powiatu piotrkowskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/farma-powraca-na-ekrany-tu-po-zwyciestwo-siegnela-mieszkanka-powiatu-piotrkowskiego/wOIGP53nYEgvrAWauCpr</link>
-<guid isPermaLink="false">0815e44ecf4fcde90486315cb882ed3af433fa57</guid>
-<pubDate>Fri, 13 Feb 2026 10:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" alt="miniatura"/></p><p>Lada moment rusza 5. sezon popularnego telewizyjnego show pt. Farma. Uczestnicy zmagają się z codziennym, wiejskim życiem. Program to dla wielu wyjście ze swojej strefy komfortu i pokonywanie swoich słabości. Stawką w reality show jest oczywiście tytuł Farmera Roku, pieniądze i Złote Widły. W tej odsłonie show wprowadzono jednak kilka zmian.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3a9a7a1-cbcc-4a80-9d0b-146b11db88bc"/>
-</item>
-<item>
-<title><![CDATA[ Dziś piątek, 13-go. Według przesądów tego lepiej dziś nie robić! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dzis-piatek-13-go-wedlug-przesadow-tego-lepiej-dzis-nie-robic/LpQnJ5Be7f3Tmy6gdfiq</link>
-<guid isPermaLink="false">0cd163d747278829bbcb4343335522b7a88a60d0</guid>
-<pubDate>Fri, 13 Feb 2026 09:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d1da62ac-ce8c-4904-803d-3f142549a2a6" alt="miniatura"/></p><p>Najczęściej przywoływana teoria prowadzi do średniowiecza. 13 października 1307 roku , w piątek, król Francji Filip IV Piękny kazał aresztować templariuszy, oskarżając ich o herezję. W rzeczywistości chodziło o długi, których władca nie chciał spłacić. Wielu zakonników zostało skazanych na śmierć.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1da62ac-ce8c-4904-803d-3f142549a2a6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1da62ac-ce8c-4904-803d-3f142549a2a6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1da62ac-ce8c-4904-803d-3f142549a2a6"/>
 </item>
 </channel></rss>
