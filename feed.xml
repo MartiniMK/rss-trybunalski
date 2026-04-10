@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 10 Apr 2026 15:07:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 16:12:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Po zamku nad Pilicą została malownicza ruina. Warownia w Majkowicach ma szansę na renowację [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/po-zamku-nad-pilica-zostala-malownicza-ruina-warownia-w-majkowicach-ma-szanse-na-renowacje-zdjecia/bamPDdesr4blbobQeKNv</link>
+<guid isPermaLink="false">49a2eb4af0fc864da842e7dfafbe05358de4c6b3</guid>
+<pubDate>Fri, 10 Apr 2026 17:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/24ea8ad4-08ba-42fd-a76f-e8112beb4346" alt="miniatura"/></p><p>Majkowice były siedzibą rodu, z którym wiąże się legenda opisana w kronikach Jana Długosza. Pierwszy z rodu legendarny rycerz herbu Jelita został obdarowany tym herbem przez Władysława Łokietka po zwycięskiej bitwie z Krzyżakami pod Płowcami w 1331 roku. Wyróżnił tak Floriana Szarego, rycerza który dzielnie w bitwie stawał, a po bitwie król zastał go trzymającego własne wnętrzności w rękach. Rycer…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/24ea8ad4-08ba-42fd-a76f-e8112beb4346" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/24ea8ad4-08ba-42fd-a76f-e8112beb4346" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/24ea8ad4-08ba-42fd-a76f-e8112beb4346"/>
+</item>
 <item>
 <title><![CDATA[ Wydano alert dla mieszkańców województwa łódzkiego. Zacznie się już dziś w nocy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-mieszkancow-wojewodztwa-lodzkiego-zacznie-sie-juz-dzis-w-nocy/UdlB7pEgTA4KwGVHEGpn</link>
@@ -3467,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d60fed8a-5346-4858-a89c-ad6cbbee858d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d60fed8a-5346-4858-a89c-ad6cbbee858d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d60fed8a-5346-4858-a89c-ad6cbbee858d"/>
-</item>
-<item>
-<title><![CDATA[ Nadciąga silny mróz, a w planie wyłączenia prądu w Piotrkowie i powiecie. Gdzie dokładnie nie będzie energii? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wylacza-prad-w-piotrkowie-i-powiecie-pge-ostrzega-mieszkancow/j0Z0zGmJC0iogOStqCTQ</link>
-<guid isPermaLink="false">ea0beab65bfd272ae70f83baab84d81814348d81</guid>
-<pubDate>Mon, 16 Feb 2026 09:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881" alt="miniatura"/></p><p>Ulica: ul. Romana Dmowskiego, Numery: 65</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881"/>
 </item>
 </channel></rss>
