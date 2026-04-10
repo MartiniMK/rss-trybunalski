@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 10 Apr 2026 10:24:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 12:03:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wydano alert dla mieszkańców województwa łódzkiego. Zacznie się już dziś w nocy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wydano-alert-dla-mieszkancow-wojewodztwa-lodzkiego-zacznie-sie-juz-dzis-w-nocy/UdlB7pEgTA4KwGVHEGpn</link>
+<guid isPermaLink="false">cdce5d3b74add67eee812929183a57552144a732</guid>
+<pubDate>Fri, 10 Apr 2026 13:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b83fe56b-f66e-449b-84a4-7035bbc47b12" alt="miniatura"/></p><p>Pogoda wciąż zaskakuje mieszkańców województwa łódzkiego. W związku z tym Instytut Meteorologii i Gospodarki Wodnej wydał właśnie nowy alert, a ostrzeżenie dotyczy również naszego regionu i zacznie obowiązywać już dziś w nocy. Czego się spodziewać?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b83fe56b-f66e-449b-84a4-7035bbc47b12" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b83fe56b-f66e-449b-84a4-7035bbc47b12" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b83fe56b-f66e-449b-84a4-7035bbc47b12"/>
+</item>
 <item>
 <title><![CDATA[ Handlarz narkotyków zatrzymany. Nielegalne substancje wytropił pies ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/handlarz-narkotykow-zatrzymany-nielegalne-substancje-wytropil-pies/t6yx6rRjvFLmMG4ahBwb</link>
@@ -3467,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3ce92f1-3ff3-4707-a41b-e540afc4a881"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek pod Piotrkowem. Uwaga kierowcy, są utrudnienia! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-pod-piotrkowem-uwaga-kierowcy-sa-utrudnienia/1DwFfWacU4jk94zFhXbX</link>
-<guid isPermaLink="false">75c56ed157673427ce05e47f54f6d37076a2838a</guid>
-<pubDate>Mon, 16 Feb 2026 09:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056" alt="miniatura"/></p><p>Około godz. 8:00 na DK91 w m. Longinówka, w powiecie piotrkowskim zderzyły się ze sobą dwie osobówki.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056"/>
 </item>
 </channel></rss>
