@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 10 Apr 2026 08:34:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 10:24:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Handlarz narkotyków zatrzymany. Nielegalne substancje wytropił pies ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/handlarz-narkotykow-zatrzymany-nielegalne-substancje-wytropil-pies/t6yx6rRjvFLmMG4ahBwb</link>
+<guid isPermaLink="false">ae9bf62f43f0a72a59d44bc8362620c726dc257f</guid>
+<pubDate>Fri, 10 Apr 2026 11:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e61a98e6-4fd7-475f-a0bf-e2b5161bcd92" alt="miniatura"/></p><p>Narkotyki ukryte w kuchni i salonie. 48-latek zatrzymany</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e61a98e6-4fd7-475f-a0bf-e2b5161bcd92" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e61a98e6-4fd7-475f-a0bf-e2b5161bcd92" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e61a98e6-4fd7-475f-a0bf-e2b5161bcd92"/>
+</item>
+<item>
+<title><![CDATA[ Groźny wypadek w Piotrkowie. Dwie osoby trafiły do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-piotrkowie-dwie-osoby-trafily-do-szpitala/KzvlBO44EFF14yXSwtda</link>
+<guid isPermaLink="false">c6257acef0b359585ee4f493b3a858f3b70782bc</guid>
+<pubDate>Fri, 10 Apr 2026 11:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/182fb25c-d3be-4f4d-b778-b739af6261d6" alt="miniatura"/></p><p>10 kwietnia na drogach Piotrkowa Trybunalskiego rozpoczął się niespokojnie. Przed godziną 7:00 na skrzyżowaniu ulic Sikorskiego i Concordii doszło do groźnego zdarzenia. Niestety nie obyło się bez poszkodowanych. Pytamy służby o ustalenia dotyczące tego wypadku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/182fb25c-d3be-4f4d-b778-b739af6261d6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/182fb25c-d3be-4f4d-b778-b739af6261d6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/182fb25c-d3be-4f4d-b778-b739af6261d6"/>
+</item>
+<item>
+<title><![CDATA[ Legenda polskiego rocka gwiazdą juwenaliów? Sprawdź, kto zagra w naszym mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/legenda-polskiego-rocka-gwiazda-juwenaliow-sprawdz-kto-zagra-w-naszym-miescie/I53EDD8g83uQ7qTuAxNM</link>
+<guid isPermaLink="false">a341a23ccc8d24a6534daace1f98f16b2528b34b</guid>
+<pubDate>Fri, 10 Apr 2026 10:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b05b570-ad5c-42b4-9449-85017d096967" alt="miniatura"/></p><p>W maju akademicka energia przejmie stery nad miastem, a stosy notatek i godziny nauki ustąpią miejsca zabawie, kolorowym korowodom i muzyce. W tym roku studenci Akademii Piotrkowskiej ponownie mogą spodziewać się imprezowej atmosfery na boisku uczelni. Wiele wskazuje na to, że jedną z gwiazd studenckiej imprezy będzie legendarny zespół rockowy. Co już wiadomo o Juwenaliach Akademii Piotrkowskiej?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b05b570-ad5c-42b4-9449-85017d096967" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b05b570-ad5c-42b4-9449-85017d096967" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b05b570-ad5c-42b4-9449-85017d096967"/>
+</item>
 <item>
 <title><![CDATA[ Niemiecki gigant inwestuje w Łódzkiem. Setki nowych miejsc pracy i ogromne centrum logistyczne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-inwestuje-w-lodzkiem-setki-nowych-miejsc-pracy-i-ogromne-centrum-logistyczne/j0xF2aWq6w89HCAspI8x</link>
@@ -3447,35 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/89424b78-c00a-45e4-b13e-739d85e53056"/>
-</item>
-<item>
-<title><![CDATA[ Gorące serca w lodowatej wodzie. Walentynkowe morsowanie w Piotrkowie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gorace-serca-w-lodowatej-wodzie-walentynkowe-morsowanie-w-piotrkowie-zdjecia/aKxBH2nvL98ZQF5HcDld</link>
-<guid isPermaLink="false">0ae33968cf0dbadfb88b2eda0a93b198c0f1dadc</guid>
-<pubDate>Sun, 15 Feb 2026 14:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" alt="miniatura"/></p><p>Chociaż święto zakochanych przypada 14 lutego, w Piotrkowie Trybunalskim atmosferę tego dnia można było poczuć również dzień później. W niedzielę, 15 lutego, na piotrkowskim Słoneczku zebrały się morsy, którym niskie temperatury niestraszne. Zobacz, jak wyglądało Walentynkowe Morsowanie w Piotrkowie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bef99579-678b-46f7-8c45-9ea7e6c3db8f"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin z arcyważnym zwycięstwem we własnej hali! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-z-arcywaznym-zwyciestwem-we-wlasnej-hali/3ZoX0m8Z09DOJpTlzoE0</link>
-<guid isPermaLink="false">99b6aed2419d71eced8d83e7de7dab4790b16a65</guid>
-<pubDate>Sat, 14 Feb 2026 19:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dee283b8-8700-4fba-afd3-14203b04747f" alt="miniatura"/></p><p>Szczypiorniści Piotrkowianina do sobotniego spotkania przystępowali z dorobkiem dziesięciu punktów i jako jedenasty zespół ligowej tabeli. Pozostanie na tej pozycji do końca sezonu oznaczałoby konieczność rywalizacji o pozostanie w elicie w barażach z wicemistrzem Ligi Centralnej. LOTTO-Puławy zajmowały dwunastą pozycję z ośmioma punktami na koncie, co na koniec rozgrywek oznaczałoby pożegnanie z…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee283b8-8700-4fba-afd3-14203b04747f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee283b8-8700-4fba-afd3-14203b04747f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee283b8-8700-4fba-afd3-14203b04747f"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła fazę zasadniczą w Koszalinie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-zakonczyla-faze-zasadnicza-w-koszalinie/uOsRptuhgMqwVBIP5KyU</link>
-<guid isPermaLink="false">795249b24bd0432b81a500eb5b890051f9b17f9b</guid>
-<pubDate>Fri, 13 Feb 2026 21:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" alt="miniatura"/></p><p>Piotrkowianki do piątkowej konfrontacji w Koszalinie przystępowały w doskonałych nastrojach, bo po okresie słabszej gry dwukrotnie ograły będącą na fali Sośnicę Gliwice. Najpierw po rzutach karnych, w meczu którego stawką był awans do ćwierćfinału Pucharu Polski, a kilka dni później już w starciu o ligowe punkty różnicą aż dziewięciu trafień, czego nie spodziewali się nawet najwięksi optymiści w n…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec9a04f8-7601-4327-951b-939ab51b7545"/>
 </item>
 </channel></rss>
