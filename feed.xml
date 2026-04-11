@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 11 Apr 2026 22:51:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 23:53:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ 35-lecie Stowarzyszenia Pałacyk. Taneczna zabawa w OSP Gomulin [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/35-lecie-stowarzyszenia-palacyk-taneczna-zabawa-w-osp-gomulin-zdjecia/lIhO1soP5PlOGsxOZJaz</link>
+<guid isPermaLink="false">f69886552b4832edcdb9df5d1b47e89c4d7d7a74</guid>
+<pubDate>Sun, 12 Apr 2026 01:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a06b361d-a4b4-4238-b5b8-51b6b6d486e2" alt="miniatura"/></p><p>Stowarzyszenie Wzajemnej Pomocy Abstynenckiej „Pałacyk” z Piotrkowa Trybunalskiego świętuje w tym roku 35-lecie swojego istnienia. Jego członkowie niosą pomoc osobom uzależnionym i ich rodzinom. 10 kwietnia w Miejskim Ośrodku Kultury w naszym mieście odbyła się gala, podczas której wręczono statuetki tym, którzy przez lata wspierali działalność „Pałacyka”. Nie zabrakło tortu, a podsumowaniem wiecz…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a06b361d-a4b4-4238-b5b8-51b6b6d486e2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a06b361d-a4b4-4238-b5b8-51b6b6d486e2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a06b361d-a4b4-4238-b5b8-51b6b6d486e2"/>
+</item>
 <item>
 <title><![CDATA[ Przebił ogrodzenie i omal nie staranował domu. Groźny wypadek w powiecie piotrkowskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/przebil-ogrodzenie-i-omal-nie-staranowal-domu-grozny-wypadek-w-powiecie-piotrkowskim/7TncJewEKsoCH6z7EGmT</link>
@@ -3457,15 +3467,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/43d0e33e-e01f-46ec-9d4c-1f87d232d6ee" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/43d0e33e-e01f-46ec-9d4c-1f87d232d6ee" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/43d0e33e-e01f-46ec-9d4c-1f87d232d6ee"/>
-</item>
-<item>
-<title><![CDATA[ Zawodniczki z Piotrkowa w reprezentacji Polski. Kto otrzymał powołanie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/zawodniczki-z-piotrkowa-w-reprezentacji-polski-kto-otrzymal-powolanie/LCSfl75xvZNyqLJFGPZQ</link>
-<guid isPermaLink="false">82792312b4db650dda12962e381b3fa7ae0776c2</guid>
-<pubDate>Tue, 17 Feb 2026 11:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f" alt="miniatura"/></p><p>Przed polskimi szczypiornistkami intensywne tygodnie. W marcu rozpocznie się cykl akcji szkoleniowych w ramach EHF EURO Cup 2026. Związek Piłki Ręcznej w Polsce ogłosił, które zawodniczki otrzymały powołanie do kadry narodowej kobiet. Wśród nich znalazły się szczypiornistki z Piotrcovii.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f"/>
 </item>
 </channel></rss>
