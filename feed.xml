@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 11 Apr 2026 17:48:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 19:08:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Piotrkowianin zakończył sezon zasadniczy w Głogowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-zakonczyl-sezon-zasadniczy-w-glogowie/GlM7ytEqxFQHA9WqJslW</link>
+<guid isPermaLink="false">8e9341959b832f590c3a459b004410cb9b1ed301</guid>
+<pubDate>Sat, 11 Apr 2026 19:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3e7787ce-69bc-4670-92a2-44b19720759a" alt="miniatura"/></p><p>Szczypiorniści z naszego miasta do konfrontacji z KGHM Chrobrym Głogów przystępowali jako jedenasty zespół w tabeli i bez szans awansowania na wyższą pozycję przed fazą play-out, w której Piotrkowianin powalczy o pozostanie w elicie. Z kolei drużyna gospodarza była już pewna piątego miejsca przed fazą play-off, w której zagra o medale.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e7787ce-69bc-4670-92a2-44b19720759a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e7787ce-69bc-4670-92a2-44b19720759a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3e7787ce-69bc-4670-92a2-44b19720759a"/>
+</item>
 <item>
 <title><![CDATA[ Te obiekty w Piotrkowie zmienią się nie do poznania. Poszukiwany jest wykonawca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/te-obiekty-w-piotrkowie-zmienia-sie-nie-do-poznania-poszukiwany-jest-wykonawca/Fel7k5LQ7RaVRJpg0Wcd</link>
@@ -3447,15 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7bd8e35a-c41d-4726-ae78-1b9dc1ef835f"/>
-</item>
-<item>
-<title><![CDATA[ Na Starowarszawskiej w Piotrkowie jak po wybuchu bomby. Filmowcy korzystają z gotowego planu [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-starowarszawskiej-w-piotrkowie-mozna-krecic-horrory-filmowcy-korzystaja-z-gotowego-planu-zdjecia/0FAoezB4emtrOEqolTqq</link>
-<guid isPermaLink="false">c7f4c0263d779695773a1eb05ea1f76904fbd26e</guid>
-<pubDate>Mon, 16 Feb 2026 18:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7d98b333-e0a7-4351-9495-e1f536b77666" alt="miniatura"/></p><p>Ulica Starowarszawska niegdyś była częścią reprezentacyjną Piotrkowa Trybunalskiego. Od tego czasu minęło ponad sto lat i charakter ulicy i jej zabudowy znacznie się zmienił. W ostatnich kilkudziesięciu latach budynki chylą się ku ruinie. A z gotowego planu filmowego korzystają ekipy filmowe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d98b333-e0a7-4351-9495-e1f536b77666" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d98b333-e0a7-4351-9495-e1f536b77666" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d98b333-e0a7-4351-9495-e1f536b77666"/>
 </item>
 </channel></rss>
