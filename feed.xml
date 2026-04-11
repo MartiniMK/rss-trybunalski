@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 11 Apr 2026 10:56:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 11:48:23 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Te obiekty w Piotrkowie zmienią się nie do poznania. Poszukiwany jest wykonawca ]]></title>
@@ -3467,35 +3467,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3630f84d-54b3-4010-b9fd-adf2e61a8f05" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3630f84d-54b3-4010-b9fd-adf2e61a8f05" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3630f84d-54b3-4010-b9fd-adf2e61a8f05"/>
-</item>
-<item>
-<title><![CDATA[ Pies błąkał się przy jezdni niedaleko Piotrkowa. Udało się zapobiec tragedii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pies-blakal-sie-przy-jezdni-niedaleko-piotrkowa-udalo-sie-zapobiec-tragedii/P12otxA3V7ptL7dF2jk8</link>
-<guid isPermaLink="false">67db659d5ad145ca416ccb19b5d36f2998d35530</guid>
-<pubDate>Mon, 16 Feb 2026 13:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" alt="miniatura"/></p><p>W niedzielę, 15 lutego do sulejowskiego dzielnicowego, sierż. Wojciecha Bartosika zadzwoniła kobieta, która podczas spaceru zauważyła błąkającego się psa. Zwierzę podbiegało do nadjeżdżających samochodów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c298836-6722-427c-8707-e06121f0ffa8"/>
-</item>
-<item>
-<title><![CDATA[ Ogień strawił lokal pod Piotrkowem. Trwa zbiórka na jego odbudowę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogien-strawil-lokal-pod-piotrkowem-trwa-zbiorka-na-jego-odbudowe/vCsiG69GJIW8YAElrR2X</link>
-<guid isPermaLink="false">ca49130973f1ff72daeebd6183dc7cde6c7fb1ac</guid>
-<pubDate>Mon, 16 Feb 2026 13:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" alt="miniatura"/></p><p>Przympomnijmy. Około godz. 17:00 służby zostały zaalarmowane o pożarze w jednym z lokali gastronomicznych w gminie Sulejów. Wstępne ustalenia wskazują, że doszło do eksplozji nagromadzonego gazu, po czym obiekt stanął w płomieniach. Ranna została jedna osoba.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bec38fc-415d-4c1e-9460-b6cd062cc25d"/>
-</item>
-<item>
-<title><![CDATA[ Uderzyła w płot niedaleko Piotrkowa. Jechała po piwo ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uderzyla-w-plot-niedaleko-piotrkowa-jechala-po-piwo/1u7JRPoTno7qeMQfUqh3</link>
-<guid isPermaLink="false">efe0ebaad933287bcde81aa65f3362cb60798965</guid>
-<pubDate>Mon, 16 Feb 2026 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" alt="miniatura"/></p><p>Funkcjonariusze z Komisariatu Policji w Wolborzu zatrzymali 48-latkę, która uderzyła w płot i uciekła z miejsca zdarzenia. Jak się okazuje, kobieta była w stanie nietrzeźwości. Teraz grozi jej kara pozbawienia wolności do 3 lat.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/647f644a-6842-4d91-8e66-c8d0821b0073"/>
 </item>
 </channel></rss>
