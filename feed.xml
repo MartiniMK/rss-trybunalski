@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 11 Apr 2026 19:08:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 19:52:42 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Przebił ogrodzenie i omal nie staranował domu. Groźny wypadek w powiecie piotrkowskim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/przebil-ogrodzenie-i-omal-nie-staranowal-domu-grozny-wypadek-w-powiecie-piotrkowskim/7TncJewEKsoCH6z7EGmT</link>
+<guid isPermaLink="false">bd3e5ba3b25920875ad5eabb499dc8ae286f296b</guid>
+<pubDate>Sat, 11 Apr 2026 21:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34b9ed-b84b-4756-be69-742577f4e1e9" alt="miniatura"/></p><p>Około godz. 13:20 w Rozprzy doszło do bardzo poważnie wyglądającego wypadku. Kierowca w pewnym momencie zjechał z drogi i uderzył w ogrodzenie jednego z domów. Mało brakowało, a staranował by także budynek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34b9ed-b84b-4756-be69-742577f4e1e9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34b9ed-b84b-4756-be69-742577f4e1e9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34b9ed-b84b-4756-be69-742577f4e1e9"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Piotrkowianin zakończył sezon zasadniczy w Głogowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-zakonczyl-sezon-zasadniczy-w-glogowie/GlM7ytEqxFQHA9WqJslW</link>
