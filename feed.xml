@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 14 Apr 2026 10:32:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 12:12:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Za niepłacenie alimentów możesz stracić prawo jazdy. Piotrkowskie służby zatrzymały kierowcę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-nieplacenie-alimentow-mozesz-stracic-prawo-jazdy-piotrkowskie-sluzby-zatrzymaly-kierowce/P3Dj4odDVLrynACQjziJ</link>
+<guid isPermaLink="false">a22597a858c091b7fff56a5f5b4fbf75e47be7db</guid>
+<pubDate>Tue, 14 Apr 2026 13:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/01b9fea1-cc9f-4f49-a398-f4ed23686e60" alt="miniatura"/></p><p>Do kontroli doszło na drodze ekspresowej S8 w okolicach Rzgowa. Inspektorzy z Oddziału w Piotrkowie Trybunalskim WITD w Łodzi sprawdzali zespół pojazdów należący do krajowego przewoźnika.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/01b9fea1-cc9f-4f49-a398-f4ed23686e60" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/01b9fea1-cc9f-4f49-a398-f4ed23686e60" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/01b9fea1-cc9f-4f49-a398-f4ed23686e60"/>
+</item>
 <item>
 <title><![CDATA[ Polski gigant otwiera sklep w naszym mieście. Co będzie można kupić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polski-gigant-otwiera-sklep-w-naszym-miescie-co-bedzie-mozna-kupic/ef4yP8ZS5TWoHEkW0Mi1</link>
@@ -3467,25 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4"/>
-</item>
-<item>
-<title><![CDATA[ Ceny ciepła w mieście spadną? Zapowiedziano ogromną inwestycję ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ceny-ciepla-w-miescie-spadna-zapowiedziano-ogromna-inwestycje/02gBEZNlyjCdJSlaBGBM</link>
-<guid isPermaLink="false">529e57e0ae79752263d97284f638bb004e268cbb</guid>
-<pubDate>Thu, 19 Feb 2026 11:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" alt="miniatura"/></p><p>Budowa układu kogeneracyjego planowana była w Piotrkowie już w 2019 roku. Dotychczas nie zostały jednak podjęte ostateczne decyzje co do realizacji tej inwestycji zarówno przez piotrkowski urząd, jak i elektrociepłownię.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d"/>
-</item>
-<item>
-<title><![CDATA[ Jest kasa dla Piotrkowian. Program obejmie 550 osób ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-kasa-dla-piotrkowian-program-obejmie-550-osob/HVPZHWSIIjB5oORV9kga</link>
-<guid isPermaLink="false">dc27a295e5c34a587ad66f6c429236ef4ff77413</guid>
-<pubDate>Thu, 19 Feb 2026 11:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" alt="miniatura"/></p><p>Ruszyła kolejna edycja programu „Młodzi zawodowcy”. To okazja dla uczniów szkół na terenie województwa łódzkiego, by zdobyć stypendia. Pieniądze mogą przeznaczyć na sprzęt komputerowy czy materiały wspomagające w nauce. W ubiegłym roku szkolnym z programu Urzędu Marszałkowskiego Województwa Łódzkiego skorzystało 550 osób. Jakie warunki trzeba spełnić, by otrzymać stypendium?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd"/>
 </item>
 </channel></rss>
