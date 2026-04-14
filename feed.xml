@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 14 Apr 2026 08:57:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 10:32:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Polski gigant otwiera sklep w naszym mieście. Co będzie można kupić? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polski-gigant-otwiera-sklep-w-naszym-miescie-co-bedzie-mozna-kupic/ef4yP8ZS5TWoHEkW0Mi1</link>
+<guid isPermaLink="false">12b1aa5ccd6c5cd7900a0215df4d735f38cc83bc</guid>
+<pubDate>Tue, 14 Apr 2026 12:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fba13234-2fc3-4907-9f1d-eb68123b88f6" alt="miniatura"/></p><p>Wiemy, jaki sklep dołączy do grona najemców Focus Mall. Będzie to rozpoznawalna sieć oferująca odzież i obuwie topowych marek, należąca do grupy CCC. Według zapowiedzi nowość w miejskiej galerii ma przyciągać fanów sportowej elegancji i wygodnego stylu na co dzień. Co dokładnie znajdzie się na półkach i kiedy pierwsi klienci przekroczą próg nowego salonu?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fba13234-2fc3-4907-9f1d-eb68123b88f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fba13234-2fc3-4907-9f1d-eb68123b88f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fba13234-2fc3-4907-9f1d-eb68123b88f6"/>
+</item>
+<item>
+<title><![CDATA[ Miliony wyświetleń i multiplatyna. To on wystąpi na piotrkowskich juwenaliach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miliony-wyswietlen-i-multiplatyna-to-on-wystapi-na-piotrkowskich-juwenaliach/8S3VCBEPvL672sQOnLzg</link>
+<guid isPermaLink="false">5ec0231884a6b6f39360d058e1f5a933444b19a2</guid>
+<pubDate>Tue, 14 Apr 2026 11:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/151a79f8-8dce-4687-9d22-39d80b9af583" alt="miniatura"/></p><p>Samorząd Studencki Akademii Piotrkowskiej zdradza kolejne szczegóły dotyczące tegorocznych juwenaliów. Jak się okazuje, imprezę uświetni występ polskiego rapera. Sprawdź, kiedy studenci będą się bawić w Piotrkowie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/151a79f8-8dce-4687-9d22-39d80b9af583" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/151a79f8-8dce-4687-9d22-39d80b9af583" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/151a79f8-8dce-4687-9d22-39d80b9af583"/>
+</item>
+<item>
+<title><![CDATA[ Pożar niedaleko jeziora Bugaj. Na miejscu trzy zastępy straży pożarnej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-niedaleko-jeziora-bugaj-na-miejscu-trzy-zastepy-strazy-pozarnej/LxyNpk1VEYf1p8xw7nu8</link>
+<guid isPermaLink="false">723fcbba56628d8b7c1c0deda8c77ea193d4fd04</guid>
+<pubDate>Tue, 14 Apr 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/df2ae934-04a6-425f-b42d-768281111fe3" alt="miniatura"/></p><p>W poniedziałek, 13 kwietnia około godz. 11:00 do straży wpłynęło zgłoszenie o pożarze traw przy ul. Miast Partnerskich. Na miejsce udały się 3 zastępy straży pożarnej z JRG w Piotrkowie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/df2ae934-04a6-425f-b42d-768281111fe3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/df2ae934-04a6-425f-b42d-768281111fe3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/df2ae934-04a6-425f-b42d-768281111fe3"/>
+</item>
 <item>
 <title><![CDATA[ Dlaczego Lucyna Sobecka zasłabła na siłowni? Zawodniczka piotrkowskiej drużyny w poruszającej relacji ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dlaczego-lucyna-sobecka-zaslabla-na-silowni-zawodniczka-piotrkowskiej-druzyny-w-poruszajacej-relacji/ZKMfkQoRn7FthKeXVHU3</link>
@@ -169,16 +199,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -187,6 +207,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3457,35 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd"/>
-</item>
-<item>
-<title><![CDATA[ Auchan apeluje do klientów: oddajcie ten zakup. Może być niebezpieczny dla zdrowia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/auchan-apeluje-do-klientow-oddajcie-ten-towar-moze-byc-niebezpieczny-dla-zdrowia/HazEZawVKQTAqVu5XpAR</link>
-<guid isPermaLink="false">40f86fa88d01853799eb8044d31ebc4d51b3f5e6</guid>
-<pubDate>Wed, 18 Feb 2026 18:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" alt="miniatura"/></p><p>Powodem wycofania jest podejrzenie obecności odłamków szkła wewnątrz opakowań pochodzących z określonej partii. Tego rodzaju zanieczyszczenie stanowi bezpośrednie zagrożenie dla zdrowia i może doprowadzić do poważnych obrażeń w przypadku spożycia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56"/>
-</item>
-<item>
-<title><![CDATA[ Striptizerzy i skandal na balu walentynkowym. Szkoła zabiera głos w sprawie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/striptizerzy-i-skandal-na-balu-walentynkowym-szkola-zabiera-glos-w-sprawie/AEmgSxrAxAiTpeNz4SFd</link>
-<guid isPermaLink="false">184a1e4b6e121dc062c1e00ab2847c5aa8a84ee3</guid>
-<pubDate>Wed, 18 Feb 2026 15:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" alt="miniatura"/></p><p>Za nami czas karnawału, który obfituje w wiele wydarzeń o charakterze rozrywkowym. Po drodze przypadło także święto zakochanych, z okazji którego również organizowane są imprezy. Jedna z nich nie przeszła bez echa. Chodzi o bal karnawałowo-walentykowy, który odbył się 14 lutego w OSP Żywocin. Emocje zaś wywołał film, który pojawił się w mediach społecznościowych. Przedstawia on striptizerów, którz…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb"/>
-</item>
-<item>
-<title><![CDATA[ Sulejów dopracowuje plany rewitalizacyjne – mieszkańcy mają głos w kluczowych inwestycjach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sulejow-dopracowuje-plany-rewitalizacyjne-mieszkancy-maja-glos-w-kluczowych-inwestycjach/Ai4LHpi4Rn3q6PAxBbBM</link>
-<guid isPermaLink="false">419792991221b69066866008dd6526bea305a159</guid>
-<pubDate>Wed, 18 Feb 2026 14:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1899385f-8b68-4131-892a-4f360b9878ae" alt="miniatura"/></p><p>Głównym tematem rozmów były pierwsze wizualizacje nowego centrum przesiadkowego w Sulejowie . Projekt ten ma na celu poprawę komunikacji wewnątrz gminy, a także stworzenie nowoczesnej i funkcjonalnej przestrzeni dla podróżnych i mieszkańców. Wizualizacje są dostępne do obejrzenia na profilu Pani Burmistrz Doroty Jankowskiej na serwisie społecznościowym, co pozwala uczestnikom konsultacji dokładnie…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1899385f-8b68-4131-892a-4f360b9878ae" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1899385f-8b68-4131-892a-4f360b9878ae" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1899385f-8b68-4131-892a-4f360b9878ae"/>
 </item>
 </channel></rss>
