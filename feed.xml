@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 15 Apr 2026 16:21:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 18:18:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar tartaku w powiecie piotrkowskim. Pięć zastępów straży w akcji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-tartaku-w-powiecie-piotrkowskim-piec-zastepow-strazy-w-akcji/OBemYr4kFPrTIEh6F8kN</link>
+<guid isPermaLink="false">fcce05169bf4ee6a253f49ce983e69a3431decde</guid>
+<pubDate>Wed, 15 Apr 2026 19:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ba90bcde-f2be-4b56-9503-c90f85b59e0f" alt="miniatura"/></p><p>W środę, 15 kwietnia w Łękach Szlacheckich doszło do pożaru tartaku. Strażacy otrzymali zgłoszenie ok. 15:38 i ruszyli do akcji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba90bcde-f2be-4b56-9503-c90f85b59e0f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba90bcde-f2be-4b56-9503-c90f85b59e0f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba90bcde-f2be-4b56-9503-c90f85b59e0f"/>
+</item>
+<item>
+<title><![CDATA[ Historyczne bramy do Piotrkowa. Prowadziły do grodu z trzech stron ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historyczne-bramy-do-piotrkowa-prowadzily-do-grodu-z-trzech-stron/IADG6RyQqlWP9x3F2HaD</link>
+<guid isPermaLink="false">08866398ec389d99ac24d08b339ee45011cbbb7e</guid>
+<pubDate>Wed, 15 Apr 2026 18:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ce91fae5-3fd5-4b82-a431-8c09bd62fe44" alt="miniatura"/></p><p>Miasto od czasów średniowiecza posiadało trzy bramy: Krakowską na osi Krakowskiego Przedmieścia, Wolborską na obecnej ulicy Starowarszawskiej oraz dobudowaną jako ostatnią Bramę Sieradzką na ulicy Sieradzkiej. Bezpieczeństwa mieszkańców grodu strzegło 12 baszt. Najważniejsze funkcje obronne nadano Bramie Krakowskiej, która została przeniesiona prawdopodobnie z dawnego wylotu ul. Łaziennej Mokrej…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce91fae5-3fd5-4b82-a431-8c09bd62fe44" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce91fae5-3fd5-4b82-a431-8c09bd62fe44" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce91fae5-3fd5-4b82-a431-8c09bd62fe44"/>
+</item>
 <item>
 <title><![CDATA[ Piękna Natalia walczy o półfinał. Sprawdź, jak wesprzeć Piotrkowiankę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/natalia-walczy-o-polfinal-sprawdz-jak-wesprzec-piotrkowianke/nwgEqOzZohich1lHjGtK</link>
@@ -309,16 +329,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -327,6 +337,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3507,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771"/>
-</item>
-<item>
-<title><![CDATA[ O krok od tragedii. Na ratunek kobiecie ruszyli policjanci z Gorzkowic i jej sąsiadka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-lezala-na-ziemi-i-trzesla-z-zimna-przed-wychlodzeniem-uratowala-ja-sasiadka-i-policja/uQD8fjgE2yGt6c9o0DAI</link>
-<guid isPermaLink="false">2855d54b5c0a79e72de15977b28b9fa88a760680</guid>
-<pubDate>Fri, 20 Feb 2026 12:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" alt="miniatura"/></p><p>14 lutego 2026 roku, dzielnicowy asp. szt. Waldemar Kozłowski oraz st. post. Przemysław Turek zostali wezwani do jednego z domów w Rozprzy, gdzie miała przebywa koieta wołająca o pomoc.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e"/>
 </item>
 </channel></rss>
