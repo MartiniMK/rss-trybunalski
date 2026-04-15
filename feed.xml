@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 15 Apr 2026 10:34:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 12:11:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielka akcja policji. W Piotrkowie posypią się kary? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-akcja-policji-w-piotrkowie-posypia-sie-kary/CDfqc2Dy2JHqkmKXrVUM</link>
+<guid isPermaLink="false">5b7d9df3ee825832f7c5cb2fac502555a1f6f939</guid>
+<pubDate>Wed, 15 Apr 2026 13:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9e9fc395-a315-4ffe-a6a2-fed32e32ed0d" alt="miniatura"/></p><p>W środę, 15 kwietnia policja prowadzi działania kontrolno-prewencyjne pn. „Kaskadowy Pomiar Prędkości”. Akcja ma charakter międzynarodowy, a jej celem jest ujawnianie i eliminowanie nieprawidłowości związanych z przestrzeganiem ograniczeń prędkości. Kierowcy mogą spodziewać się wzmożonych patroli.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e9fc395-a315-4ffe-a6a2-fed32e32ed0d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e9fc395-a315-4ffe-a6a2-fed32e32ed0d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e9fc395-a315-4ffe-a6a2-fed32e32ed0d"/>
+</item>
 <item>
 <title><![CDATA[ Tragedia pod Piotrkowem. Strażak stracił dach nad głową, koledzy ruszyli z pomocą ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tragedia-pod-piotrkowem-strazak-stracil-dach-nad-glowa-koledzy-ruszyli-z-pomoca/FslY0axoGJZ20DgYWJ5a</link>
@@ -17,6 +27,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/872f3d90-950f-4f24-9d19-14fc7bd8753f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/872f3d90-950f-4f24-9d19-14fc7bd8753f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/872f3d90-950f-4f24-9d19-14fc7bd8753f"/>
+</item>
+<item>
+<title><![CDATA[ Magnesy na lodówce zwiększają rachunki i uszkodzą sprzęt? Poznaliśmy odpwiedź ]]></title>
+<link>https://trybunalski.pl/wiadomosci/magnesy-na-lodowce-zwiekszaja-rachunki-i-uszkodza-sprzet-poznalismy-odpwiedz/54bLxuAJ5l3o0gAwDeOz</link>
+<guid isPermaLink="false">15e8697f83ed90ac629e251a6497c375d033b1b0</guid>
+<pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a6595567-3e7c-44ec-bcff-95e2e9e495db" alt="miniatura"/></p><p>Nowoczesne lodówki to urządzenia wyposażone w rozbudowaną elektronikę: czujniki temperatury, moduły sterujące, a często także panele dotykowe i wyświetlacze. Teoretycznie można by zakładać, że pole magnetyczne mogłoby zakłócić ich pracę. W praktyce jednak nie ma takiego ryzyka.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6595567-3e7c-44ec-bcff-95e2e9e495db" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6595567-3e7c-44ec-bcff-95e2e9e495db" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6595567-3e7c-44ec-bcff-95e2e9e495db"/>
 </item>
 <item>
 <title><![CDATA[ Urządzenie ratujące życie pojawiło się w Piotrkowie. Każdy może z niego skorzystać ]]></title>
@@ -3497,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603"/>
-</item>
-<item>
-<title><![CDATA[ Pożar samochodu w Sulejowie. Znamy przyczyny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-samochodu-w-sulejowie-znamy-przyczyny/DGnUegGpw7f9PiNdvQFh</link>
-<guid isPermaLink="false">7e4c4ca3c0039b71eca795945e796c5fbc29a375</guid>
-<pubDate>Fri, 20 Feb 2026 09:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" alt="miniatura"/></p><p>Na ulicy Koneckiej w Sulejowie w ogniu stanął pojazd osobowy. Służby otrzymały zgłoszenie o pożarze ok. godz. 17:30.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444"/>
 </item>
 </channel></rss>
