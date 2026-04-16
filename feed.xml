@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Apr 2026 10:31:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 12:14:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kiedy odbędą się targi ogrodnicze w Piotrkowie Trybunalskim? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kiedy-odbeda-sie-targi-ogrodnicze-w-piotrkowie-trybunalskim/IV9f7zg1RJ7sO7bmHRdJ</link>
+<guid isPermaLink="false">82a64a65ae555bc9a0b57fba34677506581a84c6</guid>
+<pubDate>Thu, 16 Apr 2026 13:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aa0446c8-fa13-44b1-9307-3281307bdedb" alt="miniatura"/></p><p>Targi odbędą się w niedzielę, 19 kwietnia 2026 roku w godzinach 8:00-16:00, w malowniczym parku przy zamku w Bykach, w Piotrkowie Trybunalskim. Oficjalne otwarcie wydarzenia zaplanowane jest na godzinę 11:00. To doskonała okazja, by zobaczyć najnowsze trendy w ogrodnictwie oraz porozmawiać ze specjalistami z branży.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa0446c8-fa13-44b1-9307-3281307bdedb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa0446c8-fa13-44b1-9307-3281307bdedb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aa0446c8-fa13-44b1-9307-3281307bdedb"/>
+</item>
+<item>
+<title><![CDATA[ W naszym mieście zawyły syreny. Z jakiego powodu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyly-syreny-z-jakiego-powodu/KWH2u8gzs1iy5diGMgH5</link>
+<guid isPermaLink="false">75a0f93b5733f203eb559eecc694388853a54cde</guid>
+<pubDate>Thu, 16 Apr 2026 13:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a31133e6-9689-4444-a094-39ed333d54a0" alt="miniatura"/></p><p>Strażacy w całej Polsce, również w naszym regionie, oddali hołd tragicznie zmarłemu naczelnikowi z OSP Trąbki.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a31133e6-9689-4444-a094-39ed333d54a0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a31133e6-9689-4444-a094-39ed333d54a0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a31133e6-9689-4444-a094-39ed333d54a0"/>
+</item>
+<item>
+<title><![CDATA[ Oszuści podszywają się pod pracowników gminy. Urząd ostrzega mieszkańców! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oszusci-podszywaja-sie-pod-pracownikow-gminy-urzad-ostrzega-mieszkancow/xs979Pnuvpy1NG7aQQ38</link>
+<guid isPermaLink="false">a5a37ec186da78ce68b61964675fae4b0b58bf29</guid>
+<pubDate>Thu, 16 Apr 2026 12:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ee0b951e-905a-4fa0-ad63-6b921330f5ba" alt="miniatura"/></p><p>Do urzędu gminy Wola Krzysztoporska wpłynęło zgłoszenie, że w m. Poraj do drzwi mieszkańców pukali nieznani ludzie, podając się za urzędników gminy. Rzekomi kontrolerzy twierdzili, że chcą sprawdzić, czym mieszkańcy palą w piecu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee0b951e-905a-4fa0-ad63-6b921330f5ba" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee0b951e-905a-4fa0-ad63-6b921330f5ba" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee0b951e-905a-4fa0-ad63-6b921330f5ba"/>
+</item>
 <item>
 <title><![CDATA[ Utrudnienia w centrum miasta. Przejazd będzie zamknięty przez trzy dni ]]></title>
 <link>https://trybunalski.pl/wiadomosci/utrudnienia-w-centrum-miasta-przejazd-bedzie-zamkniety-przez-trzy-dni/gJ6UNakUuoqgKSKiwLhV</link>
@@ -3517,25 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin bezradny w Legionowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-bezradny-w-legionowie/cwoU0Qwpuj9vAUmW1zAc</link>
-<guid isPermaLink="false">56a92df4690987d64e207b1548098cc176befac7</guid>
-<pubDate>Sat, 21 Feb 2026 20:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3cdfa5a8-5815-44b3-981c-6f56f6af386c" alt="miniatura"/></p><p>Piłkarze ręczni z naszego miasta do rywalizacji na Mazowszu przystępowali jako jedenasty zespół w tabeli i kilka dni po zwycięstwie w arcyważnym meczu z LOTTO-Puławami, dzięki któremu udało się odskoczyć od tego przeciwnika na dystans pięciu oczek. Legionowianie przed rewanżową batalią mieli osiem punktów przewagi nad podopiecznymi trenera Vita Teleky'ego, który z powodu problemów zdrowotnych nie…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3cdfa5a8-5815-44b3-981c-6f56f6af386c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3cdfa5a8-5815-44b3-981c-6f56f6af386c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3cdfa5a8-5815-44b3-981c-6f56f6af386c"/>
-</item>
-<item>
-<title><![CDATA[ Burgerownia w Sulejowie zasługuje na tak wysokie opinie? Książulo wydał werdykt na YouTubie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/burgerownia-w-sulejowie-zasluguje-na-tak-wysokie-opinie-ksiazulo-wydal-werdykt-na-youtubie/28L38eTI131ALlSxIZvF</link>
-<guid isPermaLink="false">b3740fa30d9326a7e44ff08547fb8d0c3da5e4d3</guid>
-<pubDate>Sat, 21 Feb 2026 11:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" alt="miniatura"/></p><p>W środę, 18 lutego do Sulejowa przyjechał jeden z najpopularniejszych Youtuberów kulinarnych w Polsce. Do wizyty namówili go jego obserwujący, którzy od lat wspominali FOX Burger w Sulejowie, jako miejsce warte odwiedzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478"/>
 </item>
 </channel></rss>
