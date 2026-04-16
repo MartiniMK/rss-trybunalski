@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Apr 2026 08:59:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 10:31:28 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Utrudnienia w centrum miasta. Przejazd będzie zamknięty przez trzy dni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/utrudnienia-w-centrum-miasta-przejazd-bedzie-zamkniety-przez-trzy-dni/gJ6UNakUuoqgKSKiwLhV</link>
+<guid isPermaLink="false">b0e5d37d3ed92d5f4b32339e0ebf5aaf37f9b0e7</guid>
+<pubDate>Thu, 16 Apr 2026 11:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/533c0902-f706-405e-9053-e2a3e50c9e2b" alt="miniatura"/></p><p>Uwaga kierowcy! Modernizacja linii kolejowej nr 1 wciąż trwa, co wiąże się z utrudnieniami. Tym razem zmian w organizacji ruchu można spodziewać się w centrum Piotrkowa Trybunalskiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/533c0902-f706-405e-9053-e2a3e50c9e2b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/533c0902-f706-405e-9053-e2a3e50c9e2b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/533c0902-f706-405e-9053-e2a3e50c9e2b"/>
+</item>
 <item>
 <title><![CDATA[ Areszt Śledczy w Piotrkowie prowadzi nabór. Na start ponad 5 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/areszt-sledczy-w-piotrkowie-prowadzi-nabor-na-start-ponad-5-tysiecy-zlotych/4M8pDuXQ6qvzzuueO4k6</link>
@@ -3527,25 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478"/>
-</item>
-<item>
-<title><![CDATA[ GIS wydał alert w sprawie popularnego produktu spożywczego. Mógł być dostępny również w naszym mieście ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-wydal-alert-w-sprawie-popularnego-produktu-spozywczego-mogl-byc-dostepny-rowniez-w-naszym-miescie/P7XEx3Fx0YCyRN1CBBzD</link>
-<guid isPermaLink="false">da00ab8e682de4eab3b12910e9882ec6b4d4e47c</guid>
-<pubDate>Sat, 21 Feb 2026 09:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" alt="miniatura"/></p><p>Główny Inspektor Sanitarny wydał oficjalne ostrzeżenie publiczne dotyczące produktu spożywczego powszechnie używanego w polskich domach. Problem dotyczy nieprawidłowego oznakowania alergenu, który faktycznie znajdował się w składzie, ale nie został ujawniony na opakowaniu. W praktyce oznacza to, że osoby cierpiące na alergię na pszenicę lub nietolerancję glutenu mogły nieświadomie narazić swoje zd…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkaniec-powiatu-piotrkowskiego-swietuje-100-urodziny/RtqA9vlnkMbSnlr0Jonw</link>
-<guid isPermaLink="false">92f8f9fe6fb8882eee3bd37767f37b2b292d0650</guid>
-<pubDate>Fri, 20 Feb 2026 16:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" alt="miniatura"/></p><p>Pan Zygmunt Nowak przyszedł na świat 26 stycznia 1926 roku w Jeżowie. Jako młody chłopak uczęszczał do lokalnej szkoły, a po zakończeniu II wojny światowej kontynuował naukę w szkole w Rozprzy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4"/>
 </item>
 </channel></rss>
