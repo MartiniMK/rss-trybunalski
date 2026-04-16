@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Apr 2026 12:14:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 15:12:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie będzie bezpieczniej? Miasto szuka wykonawcy ważnej inwestycji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-bedzie-bezpieczniej-miasto-szuka-wykonawcy-waznej-inwestycji/NpasrbbnKkpIHCqHBHas</link>
+<guid isPermaLink="false">a5a648b012f1099af9e8aa6fce505742dd556767</guid>
+<pubDate>Thu, 16 Apr 2026 15:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0f000d5e-560c-4422-adb2-a4938238f798" alt="miniatura"/></p><p>Mieszkańcy mogą spodziewać się zmian na ulicach miasta. Jak się okazuje, urząd ogłosił właśnie przetargi na budowę i modernizację oświetlenia ulicznego. Sprawdzamy szczegóły postępowań: gdzie nastąpią zmiany, jaki będzie zakres prac i do kiedy potencjalni wykonawcy mogą składać dokumentację.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f000d5e-560c-4422-adb2-a4938238f798" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f000d5e-560c-4422-adb2-a4938238f798" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f000d5e-560c-4422-adb2-a4938238f798"/>
+</item>
 <item>
 <title><![CDATA[ Kiedy odbędą się targi ogrodnicze w Piotrkowie Trybunalskim? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kiedy-odbeda-sie-targi-ogrodnicze-w-piotrkowie-trybunalskim/IV9f7zg1RJ7sO7bmHRdJ</link>
@@ -3537,15 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789"/>
-</item>
-<item>
-<title><![CDATA[ Śmiertelny wypadek pod Piotrkowem. Nie żyje młoda kobieta ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/smiertelny-wypadek-pod-piotrkowem-nie-zyje-mloda-kobieta/LtxQYF3U2wYqrI89qyOg</link>
-<guid isPermaLink="false">dab7f1b5d69cbace6fa853e74541e135948cea18</guid>
-<pubDate>Sun, 22 Feb 2026 11:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27" alt="miniatura"/></p><p>Na miejscu interweniował zespół ratownictwa medycznego, policja oraz strażacy w tym m.in. druhowie z OSP Dąbrowa nad Czarną, którzy jako pierwsi dotarli na miejsce zdarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0f894eb-f78e-450b-8d44-267c67ddef27"/>
 </item>
 </channel></rss>
