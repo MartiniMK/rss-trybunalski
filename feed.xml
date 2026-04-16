@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Apr 2026 06:19:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 08:59:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Areszt Śledczy w Piotrkowie prowadzi nabór. Na start ponad 5 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/areszt-sledczy-w-piotrkowie-prowadzi-nabor-na-start-ponad-5-tysiecy-zlotych/4M8pDuXQ6qvzzuueO4k6</link>
+<guid isPermaLink="false">2c45dd82bcd04f672cd0a74814385504cb094c35</guid>
+<pubDate>Thu, 16 Apr 2026 10:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052" alt="miniatura"/></p><p>Trwa rekrutacja do Służby Więziennej w Piotrkowie Trybunalskim. Zainteresowani pracą w Areszcie Śledczym muszą się jednak pospieszyć, bo termin składania dokumentów upływa 24 kwietnia. Jakie wymagania trzeba spełnić, by zostać zatrudnionym?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowscy uczniowie z olimpijskimi sukcesami. Otrzymali nagrody i gratulacje ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowscy-uczniowie-z-olimpijskimi-sukcesami-otrzymali-nagrody-i-gratulacje/WYzxmZGEp2sHpxGGHQ6c</link>
+<guid isPermaLink="false">e7a448dc552ab4fea173e64bae439ed59a0f27e4</guid>
+<pubDate>Thu, 16 Apr 2026 10:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" alt="miniatura"/></p><p>Wśród wyróżnionych znalazły się osoby, które odniosły sukcesy w dziedzinach, takich jak matematyka, geografia, język niemiecki, sztuczna inteligencja oraz fizyka. W trakcie wydarzenia wręczono im upominki, a gratulacje przekazali prezydent Piotrkowa Trybunalskiego, Juliusz Wiernicki oraz dyrektor szkoły, Henryk Michalski.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c"/>
+</item>
 <item>
 <title><![CDATA[ Klucz w zamku na noc? To błąd, który może mieć poważne skutki ]]></title>
 <link>https://trybunalski.pl/wiadomosci/klucz-w-zamku-na-noc-to-blad-ktory-moze-miec-powazne-skutki/e5i1OnGscE3LxjxGPFGX</link>
@@ -3527,15 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4"/>
-</item>
-<item>
-<title><![CDATA[ Sebastian M. przed sądem w Piotrkowie Trybunalskim. Rodzina ofiar zabrała głos ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sebastian-m-przed-sadem-w-piotrkowie-trybunalskim-rodzina-ofiar-zabrala-glos/UKGM1E6rNcXpRXGOTCyf</link>
-<guid isPermaLink="false">e200b264b6c6badc881b66c7be750c3b16197e5a</guid>
-<pubDate>Fri, 20 Feb 2026 16:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" alt="miniatura"/></p><p>W piątek, 20 lutego odbyła się kolejna rozprawa w procesie Sebastiana M. oskarżonego o spowodowanie śmiertelnego wypadku na A1, w którym zginęła trzyosobowa rodzina. W Sądzie Rejonowym w Piotrkowie Trybunalskim zeznawali dziś następni strażacy, którzy interweniowali feralnej nocy. Oskarżonemu grozi do 8 lat pozbawienia wolności. Rodzina ofiar wydała podczas rozprawy oświadczenie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771"/>
 </item>
 </channel></rss>
