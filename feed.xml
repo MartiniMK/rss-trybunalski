@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Apr 2026 19:36:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 21:09:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia wygrywa w Kobierzycach i wraca na podium po 17 latach przerwy! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-wygrywa-w-kobierzycach-i-wraca-na-podium-po-17-latach-przerwy/oQMBBDYuCBZuBfJXhtKD</link>
+<guid isPermaLink="false">cec396c8ab7b0436a6d79047516f55b5ebd8b6f8</guid>
+<pubDate>Thu, 16 Apr 2026 22:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/389d3c06-7b25-49c0-bd4f-a213f88ddda3" alt="miniatura"/></p><p>Podopieczne trenera Horatiu Pasci do ligowej rywalizacji powróciły po blisko trzech tygodniach przerwy reprezentacyjnej, podczas której w zgrupowaniu drużyny narodowej i meczach ze Słowacją i Rumunią uczestniczyły Joanna Gadzina, Patrycja Noga, Natalia Pankowska oraz Marcelina Polańska. Czasu na przestawienie się w tryb klubowy nie było wiele, ale motywacja była ogromna, bo Piotrkowianki stanęły p…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/389d3c06-7b25-49c0-bd4f-a213f88ddda3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/389d3c06-7b25-49c0-bd4f-a213f88ddda3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/389d3c06-7b25-49c0-bd4f-a213f88ddda3"/>
+</item>
 <item>
 <title><![CDATA[ W Piotrkowie będzie bezpieczniej? Miasto szuka wykonawcy ważnej inwestycji ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-bedzie-bezpieczniej-miasto-szuka-wykonawcy-waznej-inwestycji/NpasrbbnKkpIHCqHBHas</link>
@@ -409,16 +419,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -427,6 +427,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3537,15 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2"/>
-</item>
-<item>
-<title><![CDATA[ Dachowanie na stacji benzynowej w Wolborzu. Kierowca uciekł, jest poszukiwany ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dachowanie-na-stacji-benzynowej-w-wolborzu-kierowca-uciekl-jest-poszukiwany/LsRO6aaCF4wU4CTYe1O1</link>
-<guid isPermaLink="false">7a35a2ec3e2ed7a36eb7e1f1615fc2cfc63186c4</guid>
-<pubDate>Sun, 22 Feb 2026 11:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789" alt="miniatura"/></p><p>Około godz. 3:40 na ul. Zwierzyniec w Wolborzu doszło do niebezpiecznej sytuacji z udziałem pojazdu osobowego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e59b43e7-f0a1-4d07-a922-68d629934789"/>
 </item>
 </channel></rss>
