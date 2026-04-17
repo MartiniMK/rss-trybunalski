@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 17 Apr 2026 21:05:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Apr 2026 22:03:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja ratunkowa w Piotrkowie. Konieczna była ewakuacja, poszkodowana 42-latka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-ratunkowa-w-piotrkowie-konieczna-byla-ewakuacja-poszkodowana-42-latka/Jd13dDpIwTFEBCIqGVca</link>
+<guid isPermaLink="false">bac6df5b6d019f5c4c0c1007c2c866d1165f3957</guid>
+<pubDate>Fri, 17 Apr 2026 23:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" alt="miniatura"/></p><p>W piątkowy wieczór, 17 kwietnia, w Piotrkowie Trybunalskim doszło do pożaru w kamienicy. Konieczna była ewakuacja mieszkańców. Zgłoszenie o zdarzeniu wpłynęło do strażaków o 19:35. Jak się okazało, pożar wybuchł w budynku przy ul. Polskiej Organizacji Wojskowej 10.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025"/>
+</item>
 <item>
 <title><![CDATA[ Ogólnopolska Karta Seniora w Piotrkowie? Mieszkańcy pytają o zniżki ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogolnopolska-karta-seniora-w-piotrkowie-mieszkancy-pytaja-o-znizki/F9UUy40mGft7juCxHwlM</link>
@@ -489,16 +499,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -507,6 +507,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3537,25 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/616f6d05-f11c-49a2-a46f-54f2cb39524b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/616f6d05-f11c-49a2-a46f-54f2cb39524b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/616f6d05-f11c-49a2-a46f-54f2cb39524b"/>
-</item>
-<item>
-<title><![CDATA[ Czy w Piotrkowie staną olejomaty? Do czego służą? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-w-piotrkowie-stana-olejomaty-do-czego-sluza/2XpD8vexZECbxzr1GQ1R</link>
-<guid isPermaLink="false">41f81546730f41ac11aafc737a78182567a6e904</guid>
-<pubDate>Mon, 23 Feb 2026 14:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/23846eee-e207-40c3-8f2c-8b8a7d20a4ea" alt="miniatura"/></p><p>O tym, że woda i olej nie mieszają się ze sobą, uczą już w szkole podstawowej. Jednak ze względu na wygodę, olej spożywczy po smażeniu najczęściej ląduje w zlewie. Efekt? Zatory w kanalizacji, ale też negatywny wpływ na środowisko. Ten kuchenny odpad powinien być odpowiednio utylizowany, aby oszczędzić sobie kosztownej wizyty hydraulika. Najlepiej, wystudzony olej przelać do szczelnego pojemnika i…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/23846eee-e207-40c3-8f2c-8b8a7d20a4ea" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/23846eee-e207-40c3-8f2c-8b8a7d20a4ea" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/23846eee-e207-40c3-8f2c-8b8a7d20a4ea"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie czekali na przebudowę tej drogi. Jest kasa na remont ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-czekali-na-przebudowe-tej-drogi-jest-kasa-na-remont/ryMNG0p06KM5FqsX5o1B</link>
-<guid isPermaLink="false">217bc96d96e8a1688bf0830be3ac377c64780548</guid>
-<pubDate>Mon, 23 Feb 2026 13:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d19160-fa9e-4de0-8e1a-c8568049e80f" alt="miniatura"/></p><p>Piotrkowianie długo czekali na remont tej ulicy. W czwartek, 19 lutego, Wojewoda Dorota Ryl ogłosiła wyniki Rządowego Funduszu Rozwoju Dróg na 2026 rok. Na liście znalazł się m.in. właśnie Piotrków Trybunalski. Miasto otrzyma blisko 7,5 mln złotych na wyczekiwaną rozbudowę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d19160-fa9e-4de0-8e1a-c8568049e80f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d19160-fa9e-4de0-8e1a-c8568049e80f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d19160-fa9e-4de0-8e1a-c8568049e80f"/>
 </item>
 </channel></rss>
