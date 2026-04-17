@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 17 Apr 2026 06:18:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Apr 2026 08:59:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Uwaga kierowcy i pasażerowie MZK! W sobotę zamkną skrzyżowanie w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-i-pasazerowie-mzk-w-sobote-zamkna-skrzyzowanie-w-piotrkowie/6Y4XkSu73mHHUTdeAWaR</link>
+<guid isPermaLink="false">6b18d35e793d261a5037aa8d8e0eccde36896cf2</guid>
+<pubDate>Fri, 17 Apr 2026 10:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9f66e0e1-adf2-4ee4-9f8d-190d93238e2d" alt="miniatura"/></p><p>Jak podaje urząd miasta, w sobotę, 18 kwietnia, zamknięte będzie skrzyżowanie ul. Zalesickiej z ul. Krótką. Tego dnia zmieni się także trasa przejazdu autobusu MZK na linii nr 8.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f66e0e1-adf2-4ee4-9f8d-190d93238e2d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f66e0e1-adf2-4ee4-9f8d-190d93238e2d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f66e0e1-adf2-4ee4-9f8d-190d93238e2d"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia wygrywa w Kobierzycach i wraca na podium po 17 latach przerwy! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-wygrywa-w-kobierzycach-i-wraca-na-podium-po-17-latach-przerwy/oQMBBDYuCBZuBfJXhtKD</link>
@@ -3537,15 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/32c1d532-cffc-461d-a541-8c088c466d75" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/32c1d532-cffc-461d-a541-8c088c466d75" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/32c1d532-cffc-461d-a541-8c088c466d75"/>
-</item>
-<item>
-<title><![CDATA[ Samochodem uderzył w betonowy przepust. Był pod wpływem alkoholu lub narkotyków? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/samochodem-uderzyl-w-betonowy-przepust-sprawdzaja-czy-byl-pod-wplywem-alkoholu-lub-narkotykow/59WNAYo7PyWxpEGjU5eu</link>
-<guid isPermaLink="false">0ea88849907b839d176d5f5336be0c4415acb77f</guid>
-<pubDate>Sun, 22 Feb 2026 12:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2" alt="miniatura"/></p><p>Około godz. 4:00 służby otrzymały zgłoszenie, że w gminie Rozprza miał miejsce groźny wypadek z udziałem samochodu osobowego. Na trasie między Straszowem a Lubieniem kierowca stracił panowanie nad swoim pojazdem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9a293e25-2661-48a7-8214-b278c64aa9a2"/>
 </item>
 </channel></rss>
