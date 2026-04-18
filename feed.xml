@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 18 Apr 2026 17:02:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 17:54:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sezon motocyklowy w Piotrkowie Trybunalskim 2026 rozpoczęty . Setki maszyn i parada ulicami miasta ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sezon-motocyklowy-w-piotrkowie-trybunalskim-2026-rozpoczety-setki-maszyn-i-parada-ulicami-miasta-zdjecia/KXhoxhgxmaxlHPSLaZkm</link>
+<guid isPermaLink="false">5b80e722748d22dae2bf502816d104c620094677</guid>
+<pubDate>Sat, 18 Apr 2026 18:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f" alt="miniatura"/></p><p>Rozpoczecie sezonu motocyklowego 2025 na placu przy ul. Narutowicza w Piotrkowie Trybunalskim. Impreza rozpoczęła się mszą świętą połączoną z poświęceniem motocykli w kościele św. Jana Pawła II. Następnie główne wydarzenia przeniosły się na teren przy Amfiteatrze Miejskim, gdzie oficjalnie wystartowała impreza. Jednym z najważniejszych punktów programu była uroczysta parada motocykli, która wyrusz…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f"/>
+</item>
 <item>
 <title><![CDATA[ Akcja ratunkowa w Piotrkowie. Konieczna była ewakuacja, poszkodowana 42-latka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-ratunkowa-w-piotrkowie-konieczna-byla-ewakuacja-poszkodowana-42-latka/Jd13dDpIwTFEBCIqGVca</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d71d93ec-76ea-48e7-844b-aff0570bca90" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d71d93ec-76ea-48e7-844b-aff0570bca90" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d71d93ec-76ea-48e7-844b-aff0570bca90"/>
-</item>
-<item>
-<title><![CDATA[ Piękne Lamborghini będzie za pół ceny!? Skarbówka licytuje majątek bogacza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piekne-lamborghini-bedzie-za-pol-ceny-skarbowka-licytuje-majatek-bogacza/tQKZACzCCGQd8W0zAClO</link>
-<guid isPermaLink="false">0c5bc360fca53be41158459773e420f8c30b89c6</guid>
-<pubDate>Mon, 23 Feb 2026 15:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/684c8fb7-f33b-4f69-b425-2389cc2d0cdc" alt="miniatura"/></p><p>Pierwsza licytacja odbyła się w siedzibie urzędu w Chojnicach. Cena wywoławcza wynosiła około 1,1 mln zł. Mimo zainteresowania i wpłaconych wadiów przez potencjalnych kupców, nikt nie zdecydował się przebić kwoty startowej. W efekcie przetarg zakończył się bez sprzedaży, a supersamochód pozostał w garażu administracji skarbowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/684c8fb7-f33b-4f69-b425-2389cc2d0cdc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/684c8fb7-f33b-4f69-b425-2389cc2d0cdc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/684c8fb7-f33b-4f69-b425-2389cc2d0cdc"/>
 </item>
 </channel></rss>
