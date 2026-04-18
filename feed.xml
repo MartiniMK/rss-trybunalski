@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 18 Apr 2026 20:58:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 21:54:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramatyczny wypadek w regionie. Osobówka zderzyła się z pociągiem! ]]></title>
+<link>https://ezdunska.pl/wiadomosci/na-sygnale/dramatyczny-wypadek-w-regionie-osobowka-zderzyla-sie-z-pociagiem/b6S8duoD3xEvv5jtn7WC</link>
+<guid isPermaLink="false">0c433908720b5c88dc0aa37d4f805040c7b12615</guid>
+<pubDate>Sat, 18 Apr 2026 21:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/ezdunska/articles/image/7a5c59a3-9fd5-4840-b822-34f1fa060a8a" alt="miniatura"/></p><p>Kierująca samochodem marki Kia, 58-letnia mieszkanka powiatu poddębickiego zatrzymała się przed przejazdem kolejowym i ustąpiła pierwszeństwa pociągowi technicznemu nadjeżdżającemu z lewej strony. Następnie wjechała na przejazd, gdzie doszło do zderzenia z pociągiem towarowym, nadjeżdżającym z prawej strony.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/ezdunska/articles/image/7a5c59a3-9fd5-4840-b822-34f1fa060a8a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/ezdunska/articles/image/7a5c59a3-9fd5-4840-b822-34f1fa060a8a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/ezdunska/articles/image/7a5c59a3-9fd5-4840-b822-34f1fa060a8a"/>
+</item>
 <item>
 <title><![CDATA[ Groźny wypadek na DK91. Ranne trzy osoby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-na-dk91-ranne-trzy-osoby/oBCtO0GLYVbBy2FTy1v1</link>
