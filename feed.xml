@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 19 Apr 2026 19:16:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 21:00:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek w gminie Czarnocin. Są ranni, stan dziecka jest poważny ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-gminie-czarnocin-sa-ranni-stan-dziecka-jest-powazny/xEpBKbCQM9qGfQyqB0Da</link>
+<guid isPermaLink="false">ca18faf45efca720671a0a48aaddb5c644fc9fe9</guid>
+<pubDate>Sun, 19 Apr 2026 22:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4a702ad6-5d34-4d0b-a12b-a3d883338ad7" alt="miniatura"/></p><p>Po godz. 15:00 służby interweniowały w Biskupiej Woli, gdzie doszło do wypadku z udziałem dwóch pojazdów. Siła uderzenia była na tyle duża, że ranne zostały cztery osoby, w tym dwoje dzieci. Stan jednego z nich jest poważny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a702ad6-5d34-4d0b-a12b-a3d883338ad7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a702ad6-5d34-4d0b-a12b-a3d883338ad7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a702ad6-5d34-4d0b-a12b-a3d883338ad7"/>
+</item>
 <item>
 <title><![CDATA[ Tłumy na XIX Piotrkowskich Targach Ogrodniczych 2026 "Pamiętajmy o ogrodach" przy Kasztelańskiej w Piotrkowie Trybunalskim - to jedno z najważniejszych wydarzeń w regionie ZDJĘCIA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tlumy-na-xix-piotrkowskich-targach-ogrodniczych-2026-pamietajmy-o-ogrodach-przy-kasztelanskiej-w-piotrkowie-trybunalskim-to-jedno-z-najwazniejszych-wydarzen-w-regionie-zdjecia/xRiiXpJcLGzK7niC1Hmc</link>
@@ -3527,15 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a884a9d-e7a2-4605-9422-680a6bac7478"/>
-</item>
-<item>
-<title><![CDATA[ Tłumy po wizycie Książula w Sulejowie. Zjechali się nawet z Warszawy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tlumy-po-wizycie-ksiazula-w-sulejowie-zjechali-sie-nawet-z-warszawy/CDneuGCea0KtAF23a80N</link>
-<guid isPermaLink="false">ed1d439309e0797f449c0f96460bb72a46ff286a</guid>
-<pubDate>Tue, 24 Feb 2026 11:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/149e717a-488b-48a8-8a98-9a3542cd5d44" alt="miniatura"/></p><p>W sulejowskiej burgerowni emocje jeszcze nie opadły. Po nagłej, niezapowiedzianej wizycie ekipy Książula w Sulejowie w nasze "skromne progi" zjechały się tłumy ludzi. Wszyscy chcieli spróbować burgerów i kurczaka, którymi zachwycał się Książulo wraz ze swoją ekipą w jednym z ostatnich filmów na kanale YouTube.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/149e717a-488b-48a8-8a98-9a3542cd5d44" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/149e717a-488b-48a8-8a98-9a3542cd5d44" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/149e717a-488b-48a8-8a98-9a3542cd5d44"/>
 </item>
 </channel></rss>
