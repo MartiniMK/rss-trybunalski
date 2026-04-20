@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 20 Apr 2026 14:15:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Apr 2026 16:28:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Apel do klientów popularnej w Polsce sieci marketów: "Oddajcie ten towar" ]]></title>
+<link>https://trybunalski.pl/wiadomosci/apel-do-klientow-popularnej-w-polsce-sieci-marketow-oddajcie-ten-towar/3Wbs1e5WIkurYU3pWhTo</link>
+<guid isPermaLink="false">27c83cdbf6279a35113a4e14596cd76be854f105</guid>
+<pubDate>Mon, 20 Apr 2026 17:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" alt="miniatura"/></p><p>Sieć sklepów Aldi ogłosiła decyzję o wycofaniu czterech partii wafli oblewanych kokosem, które były dostępne w jej sklepach. Klienci, którzy zakupili te produkty, proszeni są o niezwłoczny zwrot do punktów sprzedaży. Aldi zapewnia, że zwróci pieniądze za zakupiony towar, także w przypadku braku paragonu. Wycofanie dotyczy specyficznych partii produktów, a sklep podaje dwa główne powody tej decyzji…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead"/>
+</item>
 <item>
 <title><![CDATA[ Co idzie pod młotek? Licytacje komornicze w Piotrkowie i regionie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/co-idzie-pod-mlotek-licytacje-komornicze-w-piotrkowie-i-regionie/tYF5LQWQ3QmtGLhPR0tW</link>
@@ -669,16 +679,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -687,6 +687,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3517,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ffb1ce6-e72b-4ed0-9a74-c2e8a5ef4a73" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ffb1ce6-e72b-4ed0-9a74-c2e8a5ef4a73" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ffb1ce6-e72b-4ed0-9a74-c2e8a5ef4a73"/>
-</item>
-<item>
-<title><![CDATA[ Gdzie się podziały pieniądze ze studniówki w Piotrkowie? Nowe, zaskakujące fakty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-sie-podzialy-pieniadze-ze-studniowki-w-piotrkowie-nowe-zaskakujace-fakty/wHVTI3Ma88s2d57Jw5Oc</link>
-<guid isPermaLink="false">030e7505a2942726ea1e2d460142fdf5411e6baf</guid>
-<pubDate>Wed, 25 Feb 2026 18:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef657d54-dea6-4f60-8025-77b39d9209a7" alt="miniatura"/></p><p>Na początku roku media obiegła szokująca informacja. Jak przekazała policja, jedna z kobiet, która zajmowała się zbieraniem pieniędzy na bal maturalny jednej z klas Szkoły Ponadgimnazjalnej nr 1 w Piotrkowie Trybunalskim, zniknęła z pieniędzmi, zamiast wpłacić je na organizację studniówki.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef657d54-dea6-4f60-8025-77b39d9209a7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef657d54-dea6-4f60-8025-77b39d9209a7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef657d54-dea6-4f60-8025-77b39d9209a7"/>
 </item>
 </channel></rss>
