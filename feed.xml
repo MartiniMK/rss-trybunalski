@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Apr 2026 10:36:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 12:16:12 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Lewe przeglądy w powiecie piotrkowskim? Diagnosta może trafić za kraty na dekadę [FILM] ]]></title>
@@ -3507,15 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265"/>
-</item>
-<item>
-<title><![CDATA[ Uwaga kierowcy! Duże utrudnienia na S8, droga została zamknięta ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-duze-utrudnienia-na-s8-droga-zostala-zamknieta/kWYtQAQa6Ajl5CFdgA96</link>
-<guid isPermaLink="false">cd1e7d92ad2c4c8d9dfd1932a1006fa54aa7eefa</guid>
-<pubDate>Thu, 26 Feb 2026 13:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/15bb0298-c787-46ef-9b20-61e5b299ee8a" alt="miniatura"/></p><p>Generalna Dyrekcja Dróg Krajowych i Autostrad poinfromowała, że od 26 lutego 2026 roku ponownie wprowadzona zostanie czasowa organizacja ruchu na odcinku drogi ekspresowej S8 , który jest w trakcie remontu, pomiędzy Polichnem a Wolborzem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/15bb0298-c787-46ef-9b20-61e5b299ee8a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/15bb0298-c787-46ef-9b20-61e5b299ee8a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15bb0298-c787-46ef-9b20-61e5b299ee8a"/>
 </item>
 </channel></rss>
