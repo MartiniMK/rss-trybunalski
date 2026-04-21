@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Apr 2026 12:16:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 15:01:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ "Echo" to nowy utwór Sióstr Kafar. Piotrkowianki nie zwalniają tempa! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/echo-to-nowy-utwor-siostr-kafar-piotrkowianki-nie-zwalniaja-tempa/zBJmhTjY5YHpqS5HwCxx</link>
+<guid isPermaLink="false">a4a6f4c0b30d2ab5347fef6ea887b1f5661ff622</guid>
+<pubDate>Tue, 21 Apr 2026 15:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bb071f26-584d-4831-bb84-d3d24c29ea8c" alt="miniatura"/></p><p>Siostry Kafar opublikowały na kanale YouTube kolejny utwór. "Echo" swoją premierę miało w piątek, 17 kwietnia i doczekało się pozytywnego odbioru wśród fanów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb071f26-584d-4831-bb84-d3d24c29ea8c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb071f26-584d-4831-bb84-d3d24c29ea8c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb071f26-584d-4831-bb84-d3d24c29ea8c"/>
+</item>
+<item>
+<title><![CDATA[ Wielkie gwiazdy wystąpią w naszym powiecie. Przed nami jubileuszowe dni miasta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-gwiazdy-wystapia-pod-piotrkowem-przed-nami-jubileuszowe-dni-miasta/PhI8UGszETK7zrLvU9bM</link>
+<guid isPermaLink="false">4fc16c7811d6618c18dcf9d88431a5b8790f15ce</guid>
+<pubDate>Tue, 21 Apr 2026 14:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8ecc09dc-86a3-452f-a318-49434c8681b1" alt="miniatura"/></p><p>Wolborskie Centrum Kultury im. Andrzeja Frycza Modrzewskiego podzieliło się pierwszymi informacjami na temat tegorocznego święta miasta. Sprawdź, kiedy odbędzie się impreza i jacy artyści wystąpią na scenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ecc09dc-86a3-452f-a318-49434c8681b1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ecc09dc-86a3-452f-a318-49434c8681b1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ecc09dc-86a3-452f-a318-49434c8681b1"/>
+</item>
+<item>
+<title><![CDATA[ Nasze miasto na mapie rekordów drogowych. Ogromny wzrost natężenia ruchu na S8 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nasze-miasto-na-mapie-rekordow-drogowych-ogromny-wzrost-natezenia-ruchu-na-s8/YRG0CLD5FQDCdHBEF4MA</link>
+<guid isPermaLink="false">983d8e35c02c735b41b988e37bb9e02409495436</guid>
+<pubDate>Tue, 21 Apr 2026 14:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e85f1f98-dad8-4f63-920e-8d288ed5a518" alt="miniatura"/></p><p>Każdego dnia po drogach krajowych poza miastami przejeżdża średnio 14 880 pojazdów. To o około 10% więcej niż podczas poprzedniego badania z lat 2020-2021, kiedy licznik wskazywał 13 568 aut na dobę. Największy ruch panuje na autostradach i drogach ekspresowych. Generalna Dyrekcja Dróg Krajowych i Autostrad przedstawiła listę takich miejsc, a wśród wymienionych jest także odcinek S8 biegnący przez…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e85f1f98-dad8-4f63-920e-8d288ed5a518" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e85f1f98-dad8-4f63-920e-8d288ed5a518" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e85f1f98-dad8-4f63-920e-8d288ed5a518"/>
+</item>
 <item>
 <title><![CDATA[ Lewe przeglądy w powiecie piotrkowskim? Diagnosta może trafić za kraty na dekadę [FILM] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/lewe-przeglady-w-powiecie-piotrkowskim-diagnosta-moze-trafic-za-kraty-na-dekade-film/uVg2eTl8uBxMqnyZJhxL</link>
@@ -719,16 +749,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -737,6 +757,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3477,35 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie będą nowe sklepy i miejsca pracy. Sprawdzamy oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-beda-nowe-sklepy-i-nowe-miejsca-pracy-sprawdzamy-oferty/CbAIO2YIMdHgXvTsYeVc</link>
-<guid isPermaLink="false">e53fc4755c9e32cbe4dae00ae59aa91f5ba7aee9</guid>
-<pubDate>Thu, 26 Feb 2026 15:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" alt="miniatura"/></p><p>Wraz z nową powierzchnią w jednym z parków handlowych w mieście pojawiły się oferty pracy. Powstający obiekt już wkrótce wypełni się sklepowym towarem i rozpoczęły się poszukiwania personelu. Sprawdziliśmy, kto otworzył rekrutacje i na jakie stanowiska mogą aplikować mieszkańcy Piotrkowa.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/11c039c0-782d-4182-8bd4-3cb501bcf33d"/>
-</item>
-<item>
-<title><![CDATA[ Woleli telewizor niż dach nad głową. Piotrkowianin usłyszał groźby śmieci ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/woleli-telewizor-niz-dach-nad-glowa-piotrkowianin-uslyszal-grozby-smieci/rd0PJpCMqtawBhC5tutN</link>
-<guid isPermaLink="false">78e04bdd430efaf2f042303be0f68274d9e7ee3e</guid>
-<pubDate>Thu, 26 Feb 2026 14:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eb47803e-0aee-4694-8eb9-aeb880125254" alt="miniatura"/></p><p>Mieszkaniec Piotrkowa Trybunalskiego poznał pod koniec stycznia 2026 roku 37-latkę, której pozwolił od czasu do czasu pomieszkiwać w jednym ze swoich mieszkań na ul. Armii Krajowej. W tym samym lokalu co jakiś czas nocował u niego także 48-latek. W ten sposób piotrkowianin chciał pomóc potrzebującym. Niestety, nie wyszło mu to na dobre.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb47803e-0aee-4694-8eb9-aeb880125254" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb47803e-0aee-4694-8eb9-aeb880125254" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb47803e-0aee-4694-8eb9-aeb880125254"/>
-</item>
-<item>
-<title><![CDATA[ Nielegalne rajdy samochodowe i wandalizm? Piotrkowianie wskazują niebezpieczne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nielegalne-rajdy-samochodowe-i-wandalizm-piotrkowianie-wskazuja-niebezpieczne-miejsca/zduaIYkBW5zaBRIjo5ac</link>
-<guid isPermaLink="false">0165748d8338b989d38e3aa0ec965acfbba960f5</guid>
-<pubDate>Thu, 26 Feb 2026 13:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265" alt="miniatura"/></p><p>Spożywanie alkoholu w miejscach niedozwolonych, wandalizm, a także nielegalne rajdy samochodowe. To tylko niektóre z bolączek, jakie Piotrkowianie zgłaszają za pomocą Krajowej Mapy Zagrożeń Bezpieczeństwa. Ten system pozwala na łatwiejszy kontakt ze służbami odpowiedzialnymi za bezpieczeństwo. Swoim zasięgiem obejmuje całą Polskę i dostępny jest na stronie internetowej policji. Dzięki tej mapie ob…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d8032cdb-58aa-43d8-90a0-b4aa33379265"/>
 </item>
 </channel></rss>
