@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 16:26:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 18:15:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Zacięty bój Piotrkowianina z Zagłębiem! O wyniku przesądziła jedna bramka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-zaciety-boj-piotrkowianina-z-zaglebiem-o-wyniku-przesadzila-jedna-bramka/6VxuXeFONxUpKw7gg06n</link>
+<guid isPermaLink="false">f0642c7e6078375fc21b75b742ec0e2b8e1bd698</guid>
+<pubDate>Wed, 22 Apr 2026 19:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" alt="miniatura"/></p><p>Piłkarze ręczni z Piotrkowa Trybunalskiego fazę zasadniczą sezonu 2025/2026 zakończyli na jedenastym miejscu z dorobkiem 13 punktów na koncie i tym samym nie awansowali do fazy play-off, w której o medale walczy osiem najlepszych ekip. Piotrkowianom pozostała walka o utrzymanie w elicie, czyli tzw. faza play-out, w której zobaczymy pięć najsłabszych drużyn. Z tym, że Zepter KPR Legionowo (30 punkt…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2"/>
+</item>
 <item>
 <title><![CDATA[ Kraksa na S8 pod Piotrkowem. Na miejsce wezwano służby ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/kraksa-pod-piotrkowem-policjanci-wyznaczyli-objazdy/SGX6DdMLJsEJ0FcQfjUZ</link>
@@ -3507,15 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc"/>
-</item>
-<item>
-<title><![CDATA[ Mogło dojść do tragedii. Kompletnie pijany kierowca wjechał w słup ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/moglo-dojsc-do-tragedii-kompletnie-pijany-kierowca-wjechal-w-slup/IYRiOARLlGNLi1dj4ZKY</link>
-<guid isPermaLink="false">c832ab77048bc8551195bd6a6cbe2dfa60dd12a7</guid>
-<pubDate>Sat, 28 Feb 2026 12:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59594fc5-41ac-40b8-b58c-2a675ae6a40e" alt="miniatura"/></p><p>W piątkowy wieczór, 27 lutego, w Sulejowie doszło do zderzenia dwóch samochodów. Jeden z nich uderzył w przydrożny słup. Wszystko działo się około godz. 18:20 na ul. Koneckiej. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59594fc5-41ac-40b8-b58c-2a675ae6a40e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59594fc5-41ac-40b8-b58c-2a675ae6a40e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59594fc5-41ac-40b8-b58c-2a675ae6a40e"/>
 </item>
 </channel></rss>
