@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 15:01:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 16:26:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kraksa na S8 pod Piotrkowem. Na miejsce wezwano służby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kraksa-pod-piotrkowem-policjanci-wyznaczyli-objazdy/SGX6DdMLJsEJ0FcQfjUZ</link>
+<guid isPermaLink="false">1e8fc5a5d20fa6288d20d587b6eeb865957feee1</guid>
+<pubDate>Wed, 22 Apr 2026 17:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" alt="miniatura"/></p><p>W środę, 22 kwietnia pod Piotrkowem zderzyły się dwa samochody. Służby otrzymały automatyczne zgłoszenie z systemu alarmowego pojazdu o zdarzeniu na S8 o 15:11.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2"/>
+</item>
 <item>
 <title><![CDATA[ Wielka inwestycja w okolicach naszego miasta? Sprawdź szczegóły śmiałego pomysłu mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielka-inwestycja-w-okolicach-naszego-miasta-sprawdz-szczegoly-smialego-pomyslu-mieszkancow/T6ZnblHchOsjsyCHGRQT</link>
