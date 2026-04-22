@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 09:02:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 10:34:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sceny jak z filmu akcji w Sulejowie. 27-latek uciekał po dachu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sceny-jak-z-filmu-akcji-w-sulejowie-27-latek-uciekal-po-dachu/HgJ9mKIsWQOZixlnD0Lf</link>
+<guid isPermaLink="false">e13f4d98ae6ea4fc081a46636c5e60a2387918c0</guid>
+<pubDate>Wed, 22 Apr 2026 11:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" alt="miniatura"/></p><p>27-letni mężczyzna był poszukiwany za kradzież oraz kradzieże z włamaniem. Dzielnicowy z sulejowskiej jednostki policji uzyskał informację dotyczącą aktualnego miejsca pobytu 27-latka. Służby złożyły poszykowanemu wizytę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55"/>
+</item>
 <item>
 <title><![CDATA[ Urząd w naszym mieście poszukuje pracownika. Proponuje prawie 7 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzad-w-naszym-miescie-poszukuje-pracownika-proponuje-prawie-7-tysiecy-zlotych/EmHYs4CKE0i09WZBx4Bw</link>
@@ -3517,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09"/>
-</item>
-<item>
-<title><![CDATA[ Tak działają oszuści. Piotrkowscy policjanci ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/tak-dzialaja-oszusci-piotrkowscy-policjanci-ostrzegaja/ordFFR3La3IKh9t5BOt5</link>
-<guid isPermaLink="false">c45d236838fe0fb1cac620f4df234332e65ed2d6</guid>
-<pubDate>Fri, 27 Feb 2026 12:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4" alt="miniatura"/></p><p>Policjanci z Komendy Miejskiej Policji w Piotrkowie Trybunalskim ostrzegają przed oszustami i przybliżają ich sposoby działania. Chyba wszyscy słyszeli o metodach „na wnuczka”, „na policjanta” czy „na wypadek”. To jedne z najczęstszych przestępstw, których ofiarami padają osoby starsze.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4"/>
 </item>
 </channel></rss>
