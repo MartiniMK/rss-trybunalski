@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 10:34:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 12:13:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Autobusy pojadą inaczej. Zmiany w komunikacji miejskiej od 27 kwietnia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/autobusy-pojada-inaczej-zmiany-w-komunikacji-miejskiej-od-27-kwietnia/4h3L6DIARA7i4htt9pDQ</link>
+<guid isPermaLink="false">163cf095e8985f07985945a8b39ed3b034e551c9</guid>
+<pubDate>Wed, 22 Apr 2026 13:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2a15b223-9519-480e-a312-0e6fb5e2a87d" alt="miniatura"/></p><p>Miejski Zakład Komunikacyjny w Piotrkowie Trybunalskim poinformował o zmianach dla pasażerów. Sprawdź, jak pojadą piotrkowskie mzk-i.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a15b223-9519-480e-a312-0e6fb5e2a87d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a15b223-9519-480e-a312-0e6fb5e2a87d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2a15b223-9519-480e-a312-0e6fb5e2a87d"/>
+</item>
+<item>
+<title><![CDATA[ Co dalej z ul. Moryca? Na granicy gmin szykują się zmiany ]]></title>
+<link>https://trybunalski.pl/wiadomosci/co-dalej-z-ul-moryca-na-granicy-gmin-szykuja-sie-zmiany/veYK7R0rkpK8F7PZk3RT</link>
+<guid isPermaLink="false">18bc4db61558e66d9e9d1791c12a6722c61cd09c</guid>
+<pubDate>Wed, 22 Apr 2026 13:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2" alt="miniatura"/></p><p>Mieszkańcy ulicy Moryca w Piotrkowie Trybunalskim od lat narzekają na stan nawierzchni. Spowodowane jest to m.in. dużym natężeniem ruchu generowanym również przez pojazdy ciężarowe. Ulica ta mieści się na granicy Piotrkowa i gminy Rozprza. W sprawie jej modernizacji spotkali się 21 kwietnia wiceprezydent Piotr Kulbat oraz burmistrz Paweł Kowalczyk. Co udało się ustalić?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2"/>
+</item>
 <item>
 <title><![CDATA[ Sceny jak z filmu akcji w Sulejowie. 27-latek uciekał po dachu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sceny-jak-z-filmu-akcji-w-sulejowie-27-latek-uciekal-po-dachu/HgJ9mKIsWQOZixlnD0Lf</link>
@@ -3487,45 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4715ec2a-a05e-4ba6-abf8-77fe813bffcc"/>
-</item>
-<item>
-<title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł. Trwa seria wygranych w Lotto ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-200-mln-zl-trwa-seria-wygranych-w-lotto/btHhmyT4CfVpK6ppN3q3</link>
-<guid isPermaLink="false">22dc5de5c58dabd8c66ba5cb6d5eac9d89ca41ba</guid>
-<pubDate>Fri, 27 Feb 2026 15:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9f12925d-27c2-4da5-9ad0-7e30dc0b7498" alt="miniatura"/></p><p>W 2026 roku w Piotrkowie już trzech graczy może pochwalić się wygraną w Lotto. Ile udało się wygrać szczęśliwcom?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f12925d-27c2-4da5-9ad0-7e30dc0b7498" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f12925d-27c2-4da5-9ad0-7e30dc0b7498" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9f12925d-27c2-4da5-9ad0-7e30dc0b7498"/>
-</item>
-<item>
-<title><![CDATA[ Odeszli w ostatnim czasie. Pogrzeby w Piotrkowie [NEKROLOGI] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/odeszli-w-ostatnim-czasie-pogrzeby-w-piotrkowie-nekrologi/cnoaon0gFygRfwZdnZFW</link>
-<guid isPermaLink="false">b618dddf0abc6736ae39476f6d17138d3db4d946</guid>
-<pubDate>Fri, 27 Feb 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7098d931-fa65-43c5-9e55-c5294d3b1ccf" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 28 lutego 2026 roku o godz. 11:00 w kościele parafialnym w Krzepczowie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7098d931-fa65-43c5-9e55-c5294d3b1ccf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7098d931-fa65-43c5-9e55-c5294d3b1ccf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7098d931-fa65-43c5-9e55-c5294d3b1ccf"/>
-</item>
-<item>
-<title><![CDATA[ Awantura o wypłaty i materiały na budowie w Piotrkowie. Wkroczyła policja, są zatrzymani ]]></title>
-<link>https://trybunalski.pl/wiadomosci/awantura-o-wyplaty-i-materialy-na-budowie-w-piotrkowie-wkroczyla-policja-sa-zatrzymani-film/R8pSyAyHwKCaEzRCgB5h</link>
-<guid isPermaLink="false">f4c58bfb9ae7098a41bd8da35024c6224b539f07</guid>
-<pubDate>Fri, 27 Feb 2026 13:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fb8666ef-2d05-4e5d-9acd-c537e37d6e62" alt="miniatura"/></p><p>Trzech mężczyzn ukradło materiały z budowy w Piotrkowie Trybunalskim. Wartość skradzionego towaru to blisko 4000 zł. Miało być to… odebranie długu. Wszyscy zostali zatrzymani, usłyszeli zarzuty kradzieży. Teraz grozi im kara pozbawienia wolności do 5 lat.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb8666ef-2d05-4e5d-9acd-c537e37d6e62" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb8666ef-2d05-4e5d-9acd-c537e37d6e62" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb8666ef-2d05-4e5d-9acd-c537e37d6e62"/>
-</item>
-<item>
-<title><![CDATA[ Siłowe otwarcie mieszkania w Piotrkowie. Strażacy uratowali mężczyznę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/silowe-otwarcie-mieszkania-w-piotrkowie-strazacy-uratowali-czlowieka/lESk3CbE1YBncmFw9aKE</link>
-<guid isPermaLink="false">a80049497e8f49bf66f6b6e1960e046b43a0182d</guid>
-<pubDate>Fri, 27 Feb 2026 12:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09" alt="miniatura"/></p><p>Strażacy z Piotrkowa Trybunalskiego interweniowali przy ulicy Chrobrego. Zostali oni wezwani do siłowego otwarcia mieszkania. ​</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7507ab82-13a1-46be-a8db-b658a0068e09"/>
 </item>
 </channel></rss>
