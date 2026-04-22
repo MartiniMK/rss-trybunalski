@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 20:20:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 22:06:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia poległa w Gnieźnie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-polegla-w-gnieznie/Cuq0B9XUW34B5ij8CyAZ</link>
+<guid isPermaLink="false">356e0d477f103b4e88fbf043489c86ded2c7e222</guid>
+<pubDate>Wed, 22 Apr 2026 22:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564" alt="miniatura"/></p><p>Piłkarki ręczne z Piotrkowa Trybunalskiego do środowej konfrontacji przystępowały jako świeżo upieczone medalistki mistrzostw Polski w piłce ręcznej kobiet, które na cztery kolejki przed końcem zmagań zapewniły sobie miejsce na najniższym stopniu podium, po siedemnastu latach posuchy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Zacięty bój Piotrkowianina z Zagłębiem! O wyniku przesądziła jedna bramka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-zaciety-boj-piotrkowianina-z-zaglebiem-o-wyniku-przesadzila-jedna-bramka/6VxuXeFONxUpKw7gg06n</link>
@@ -849,16 +859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -867,6 +867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3497,25 +3507,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec"/>
-</item>
-<item>
-<title><![CDATA[ Bieg Pamięci „Gaja” w Piotrkowie. Wystartowały całe rodziny [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bieg-pamieci-gaja-w-piotrkowie-wystartowaly-cale-rodziny-zdjecia/1zkrh8rquNUthntZOAUk</link>
-<guid isPermaLink="false">ffccc6dc51f06b90f88bdfc81d0c68e17c4c52ff</guid>
-<pubDate>Sun, 01 Mar 2026 13:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6acd07ba-56b6-4fe5-b0dc-1e0ef85f9339" alt="miniatura"/></p><p>1 marca to Narodowy Dzień Pamięci „Żołnierzy Wyklętych”. Z tej okazji w Piotrkowie odbył się bieg na symboliczne 1963 metry. Niedzielne przedpołudnie Piotrkowianie spędzili w Parku im. ks. Józefa Poniatowskiego. Bieg Pamięci „Gaja” w Piotrkowie Start i meta zlokalizowane były przy alejce obok kortów tenisowych w parku. Trasa poprowadziła parkowymi alejkami w kierunku Stadionu Miejskiego OSiR i z p…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6acd07ba-56b6-4fe5-b0dc-1e0ef85f9339" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6acd07ba-56b6-4fe5-b0dc-1e0ef85f9339" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6acd07ba-56b6-4fe5-b0dc-1e0ef85f9339"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Piotrkowianin nie powtórzył sukcesu z Mielca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-podejmowal-stal-mielec/YndC5rDyq2NysQX7OIYu</link>
-<guid isPermaLink="false">26ffea972f78f794309d9c6ca64e86f2ea033c6f</guid>
-<pubDate>Sat, 28 Feb 2026 23:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc" alt="miniatura"/></p><p>Piotrkowianin do konfrontacji z mielczanami przystępował jako jedenasty zespół w tabeli ze stratą aż dziewięciu punktów do Handball Stali, która zajmowała dziewiątą pozycję w stawce i wciąż liczyła się w walce o awans do fazy play-off, w której zagra osiem najlepszych ekip sezonu zasadniczego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73bdc28-87d2-4c94-92d7-f700eb568cdc"/>
 </item>
 </channel></rss>
