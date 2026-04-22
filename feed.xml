@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Apr 2026 03:42:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 06:19:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja policji w Piotrkowie i powiecie piotrkowskim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-policji-w-piotrkowie-i-powiecie-piotrkowskim/ChFW6NUNQDeEISEPFmvN</link>
+<guid isPermaLink="false">558fc3b8a8de6c22fcd3333b509080fdaa9ff085</guid>
+<pubDate>Wed, 22 Apr 2026 07:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/555199fa-ba66-4745-bc98-34c448c5fac2" alt="miniatura"/></p><p>Policjanci skontrolowali stan trzeźwości 743 kierujących, a w trakcie kontroli zatrzymali 3 osoby, które zdecydowanie nie powinny siadać za kierownicą. Dwie osoby prowadziły pojazdy w stanie nietrzeźwości, natomiast jeden z kierujących był po użyciu alkoholu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/555199fa-ba66-4745-bc98-34c448c5fac2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/555199fa-ba66-4745-bc98-34c448c5fac2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/555199fa-ba66-4745-bc98-34c448c5fac2"/>
+</item>
+<item>
+<title><![CDATA[ Wyłączą prąd w Piotrkowie i powiecie piotrkowskim. Lista utrudnień ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wylacza-prad-w-piotrkowie-i-powiecie-piotrkowskim-lista-utrudnien/zbHk8Q5lkcOcTO9Hy1CS</link>
+<guid isPermaLink="false">16897fdc200179bc8fa151ad077653a792923b19</guid>
+<pubDate>Wed, 22 Apr 2026 07:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/43cbc28c-ffc2-4383-8ecf-379d1bbced33" alt="miniatura"/></p><p>Witów 1-31, 51 od 7:30 do 17:00</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/43cbc28c-ffc2-4383-8ecf-379d1bbced33" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/43cbc28c-ffc2-4383-8ecf-379d1bbced33" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/43cbc28c-ffc2-4383-8ecf-379d1bbced33"/>
+</item>
+<item>
+<title><![CDATA[ Przejazd kolejowy w Piotrkowie zamknięty. Do kiedy utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przejazd-kolejowy-w-piotrkowie-zamkniety-do-kiedy-utrudnienia/J1lXxoCnAa7QyVw5m1Up</link>
+<guid isPermaLink="false">d6e00a5cb41368c5d6c04aef8a86e1493c84790c</guid>
+<pubDate>Wed, 22 Apr 2026 07:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aca90369-6bc6-4557-9a08-3dbd078e1f80" alt="miniatura"/></p><p>Uwaga kierowcy! Modernizacja linii kolejowej nr 1 wciąż trwa, co wiąże się z utrudnieniami. Tym razem zmiany w organizacji ruchu nastąpią centrum Piotrkowa Trybunalskiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aca90369-6bc6-4557-9a08-3dbd078e1f80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aca90369-6bc6-4557-9a08-3dbd078e1f80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aca90369-6bc6-4557-9a08-3dbd078e1f80"/>
+</item>
 <item>
 <title><![CDATA[ "Echo" to nowy utwór Sióstr Kafar. Piotrkowianki nie zwalniają tempa! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/echo-to-nowy-utwor-siostr-kafar-piotrkowianki-nie-zwalniaja-tempa/zBJmhTjY5YHpqS5HwCxx</link>
@@ -749,16 +779,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -767,6 +787,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3487,25 +3517,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b412437-fe53-4909-8d91-f12096d620c4"/>
-</item>
-<item>
-<title><![CDATA[ Ogromna afera korupcyjna w Piotrkowie. Zatrzymano 4 osoby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromna-afera-korupcyjna-w-piotrkowie-zatrzymano-4-osoby/IkFI7DEJHJJeABstEd86</link>
-<guid isPermaLink="false">2163e8bd7862ddd3d362e5a8c592bd6e6cdf6fe7</guid>
-<pubDate>Fri, 27 Feb 2026 09:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/281e64ba-4761-4c45-81ca-77bef212f37e" alt="miniatura"/></p><p>W 2025 roku Policjanci z Wydziału do Walki z Korupcją Komendy Wojewódzkiej Policji w Łodzi wpadli na trop procederu korupcyjnego w jednej ze spółdzielni mieszkaniowych w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/281e64ba-4761-4c45-81ca-77bef212f37e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/281e64ba-4761-4c45-81ca-77bef212f37e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/281e64ba-4761-4c45-81ca-77bef212f37e"/>
-</item>
-<item>
-<title><![CDATA[ Wandal wybił szybę w sklepie pod Piotrkowem. Na ile oszacowano straty? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wandal-wybil-szybe-w-sklepie-pod-piotrkowem-na-ile-oszacowano-straty/QCHQvmIggcMJyQmdPeV4</link>
-<guid isPermaLink="false">bdf898ac19476d878058450efe28eead662f9a58</guid>
-<pubDate>Thu, 26 Feb 2026 21:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" alt="miniatura"/></p><p>W środę, 25 lutego około godz. 22:00 policja otrzymała zgłoszenie, że w Rakowie Dużym (gmina Moszczenica) mężczyzna wybija szybę w sklepie. Na miejsce udali się funkcjonariusze, którzy nie zastali podejrzanego. Udali się więc w teren na poszukiwania wandala.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50a05206-1c58-414f-9360-3499daf866dd"/>
 </item>
 </channel></rss>
