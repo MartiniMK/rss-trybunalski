@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Apr 2026 09:07:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 10:51:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Protest rolników w Piotrkowie Trybunalskim. Kiedy i gdzie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/protest-rolnikow-w-piotrkowie-trybunalskim-kiedy-i-gdzie/ViwqzEF2086xFKNtHQVP</link>
+<guid isPermaLink="false">c8ea7f965c6e6bfb6e6cc51254c195b876125fb0</guid>
+<pubDate>Thu, 23 Apr 2026 12:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c8bd7252-64ca-4d7a-b9bf-16e23113b01e" alt="miniatura"/></p><p>Wydarzenie rozpocznie się o godzinie 12:00 w Parku Śródmiejskim im. Jana Pawła II, na placu przed pomnikiem Jana Pawła II.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c8bd7252-64ca-4d7a-b9bf-16e23113b01e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c8bd7252-64ca-4d7a-b9bf-16e23113b01e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c8bd7252-64ca-4d7a-b9bf-16e23113b01e"/>
+</item>
+<item>
+<title><![CDATA[ Nowa szkoła II stopnia w Piotrkowie. Kiedy powstanie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-szkola-ii-stopnia-w-piotrkowie-kiedy-powstanie/Ye5oTYCRLbqc6aHuEbEx</link>
+<guid isPermaLink="false">f834b8fbc8a2fe296f2db92af55411227b2417f4</guid>
+<pubDate>Thu, 23 Apr 2026 12:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/02285d2e-0d52-43d4-ac8b-9fd47d5eb1a4" alt="miniatura"/></p><p>Podczas ostatniej sesji Rady Miasta Piotrkowa Trybunalskiego podjęto uchwałę w sprawie utworzenia Szkoły Branżowej II Stopnia nr 3 w Zespole Szkół Ponadpodstawowych i Placówek Opiekuńczo-Wychowawczych nr 3. Nowa placówka rozpocznie działalność 1 września 2026 roku i będzie kontynuować edukację zawodową młodzieży, która ukończyła Branżową Szkołę I Stopnia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/02285d2e-0d52-43d4-ac8b-9fd47d5eb1a4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/02285d2e-0d52-43d4-ac8b-9fd47d5eb1a4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/02285d2e-0d52-43d4-ac8b-9fd47d5eb1a4"/>
+</item>
+<item>
+<title><![CDATA[ Złe wieści dla zdających prawo jazdy. Zmiana zasad już w 2026 roku? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zle-wiesci-dla-zdajacych-prawo-jazdy-koniec-nieograniczonych-podejsc-do-egzaminu/9bK6JVxpCNWuB2AM2yPl</link>
+<guid isPermaLink="false">76fbc621dbcfe20451e2fdc7cf29e928e068ecc6</guid>
+<pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e5fd4030-ee5d-4d16-abc6-67d98d2ae375" alt="miniatura"/></p><p>Jednym z najważniejszych elementów reformy będzie wprowadzenie limitu podejść do egzaminu państwowego. Kandydat na kierowcę, który trzykrotnie nie zaliczy egzaminu praktycznego, nie będzie mógł po prostu zapisać się na kolejny termin. W takiej sytuacji konieczny stanie się powrót do ośrodka szkolenia kierowców i odbycie dodatkowych zajęć.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5fd4030-ee5d-4d16-abc6-67d98d2ae375" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5fd4030-ee5d-4d16-abc6-67d98d2ae375" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5fd4030-ee5d-4d16-abc6-67d98d2ae375"/>
+</item>
 <item>
 <title><![CDATA[ Ruszyła budowa parku handlowego w naszym mieście. Będą nowe sklepy i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ruszyla-budowa-parku-handlowego-w-naszym-miescie-beda-nowe-sklepy-i-miejsca-pracy/RX2xv7j525kcnQlXv7VF</link>
@@ -889,16 +919,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -907,6 +927,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3467,35 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ab244fde-ea52-46fe-b4f6-98941ce6ec0d"/>
-</item>
-<item>
-<title><![CDATA[ Nowe trasy rowerowe w powiecie piotrkowskim i całym województwie. Wiadomo, gdzie powstaną ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-trasy-rowerowe-w-powiecie-piotrkowskim-i-calym-wojewodztwie-wiadomo-gdzie-powstana/DcZQxH7bht8eWrut3c2n</link>
-<guid isPermaLink="false">958cffe108fc05da01f62bdea4080fefd00e075a</guid>
-<pubDate>Mon, 02 Mar 2026 11:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a4c98638-1da3-449e-a691-a14e3daeffea" alt="miniatura"/></p><p>Zaprezentowana w Urzędzie Marszałkowskim „Polityka Rozwoju Mobilności Rowerowej w Województwie Łódzkim” zakłada stworzenie jednolitego systemu tras, który połączy miasta, powiaty i gminy, a jednocześnie ograniczy wykluczenie komunikacyjne w mniejszych miejscowościach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4c98638-1da3-449e-a691-a14e3daeffea" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4c98638-1da3-449e-a691-a14e3daeffea" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a4c98638-1da3-449e-a691-a14e3daeffea"/>
-</item>
-<item>
-<title><![CDATA[ Nowe systemy kamer na drogach w Łódzkiem. Ile możesz przekroczyć prędkość bez mandatu? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-systemy-kamer-na-drogach-w-lodzkiem-ile-mozesz-przekroczyc-predkosc-bez-mandatu/JKNLxTiNcOGoOjuMbFmf</link>
-<guid isPermaLink="false">1e056dd5511171fcfbcc696aa128a446c14fd539</guid>
-<pubDate>Mon, 02 Mar 2026 11:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/efbc901a-e2dd-4191-bcb3-82401116f0cd" alt="miniatura"/></p><p>Województwo łódzkie znalazło się na liście regionów, w których system CANARD zostanie wzmocniony o nowe instalacje. Chodzi przede wszystkim o dwa nowe odcinki odcinkowego pomiaru prędkości na autostradzie A1, ale także o dalsze utrwalanie modelu kontroli opartego na fotoradarach i systemach RedLight. Skala inwestycji jest duża, a jej konsekwencje dla kierowców bardzo konkretne.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/efbc901a-e2dd-4191-bcb3-82401116f0cd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/efbc901a-e2dd-4191-bcb3-82401116f0cd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/efbc901a-e2dd-4191-bcb3-82401116f0cd"/>
-</item>
-<item>
-<title><![CDATA[ Tajemnicza śmierć 32-latki z Piotrkowa. Prokuratura o udziale osób trzecich ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tajemnicza-smierc-32-latki-z-piotrkowa-prokuratura-o-udziale-osob-trzecich/Y88JNhXVbTb6hZKlQeEl</link>
-<guid isPermaLink="false">9563b6cd8c6cebc66489f400e47febdbd9f59477</guid>
-<pubDate>Mon, 02 Mar 2026 11:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867" alt="miniatura"/></p><p>We wtorek, 1 lipca 2025 roku służby odnalazły ciało Anny O. Kobieta przez kilka dni była poszukiwana po tym, jak bliscy zgłosili jej zaginięcie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867"/>
 </item>
 </channel></rss>
