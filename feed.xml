@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Apr 2026 10:51:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 12:12:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Spacer po mieście przypomina tor przeszkód? Piotrkowianie mają dość zachowania sąsiadów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/spacer-po-miescie-przypomina-tor-przeszkod-piotrkowianie-maja-dosc-zachowania-sasiadow/XbJGhhhJjyvIGKw4dqD8</link>
+<guid isPermaLink="false">a93a2e206c986b40053e54005e4132858ef0fd69</guid>
+<pubDate>Thu, 23 Apr 2026 12:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/18adbe54-40e1-4c78-8575-52bdcda97f5e" alt="miniatura"/></p><p>Mieszkańcy bloków w rejonie ulic Doroszewskiego, Konopnickiej oraz Modrzewskiego w Piotrkowie Trybunalskim borykają się z problemem niesprzątanych psich odchodów. To właśnie tam, na trawnikach spacerowicze napotykają na skutki braku odpowiedzialności części właścicieli czworonogów. Piotrkowianie apelują o reakcję i właśnie z taką sprawą zwrócił się do urzędu radny Jan Dziemdziora.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18adbe54-40e1-4c78-8575-52bdcda97f5e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18adbe54-40e1-4c78-8575-52bdcda97f5e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18adbe54-40e1-4c78-8575-52bdcda97f5e"/>
+</item>
 <item>
 <title><![CDATA[ Protest rolników w Piotrkowie Trybunalskim. Kiedy i gdzie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/protest-rolnikow-w-piotrkowie-trybunalskim-kiedy-i-gdzie/ViwqzEF2086xFKNtHQVP</link>
@@ -3137,16 +3147,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f353149-539a-4bbc-a12a-143c230976d4"/>
-</item>
-<item>
-<title><![CDATA[ To była jedna z pierwszych galerii handlowych w Łódzkiem. Powstała ponad 100 lat temu za amerykańskie dolary [ZDJECIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/historia/to-byla-jedna-z-pierwszych-galerii-handlowych-w-lodzkiem-powstala-ponad-100-lat-temu-zdjecia/fRAjTtgv7xSQgXzhm3ZW</link>
-<guid isPermaLink="false">0f33e5cda53bbbf804e9f13c00dfec056775cbb6</guid>
-<pubDate>Sat, 07 Mar 2026 09:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" alt="miniatura"/></p><p>Pierwsza piotrkowska galeria handlowa - hala targowa wybudowana została przez amerykańską Spółkę Ulen & Company w latach 1925-1927. Obiekt powstał na kredyt i kosztował miasto około 1,7 mln dolarów . Kurs wynosił wówczas 8,9 zł za dolara. To tak zwana pożyczka ulenowska, jakiej udzielała firma Ulen & Company polskim miastom na rozwój infrastruktury. Była jedną z największych piotrkowskich inwesty…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff1f45b3-f8c5-44ef-8722-72da9405e746"/>
 </item>
 <item>
 <title><![CDATA[ Miała tylko zadzwonić. Finalnie zwiała z telefonem i grozi jej więzienie ]]></title>
