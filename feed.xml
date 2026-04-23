@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Apr 2026 17:49:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 19:33:37 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Echa ogromnej afery dotarły do naszego miasta. Sprawą zajmuje się policja ]]></title>
@@ -3477,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15dc85ea-3714-4da5-9d6a-0a0b04a098e2"/>
-</item>
-<item>
-<title><![CDATA[ Dziecko potrącone na pasach w Piotrkowie. Jechało na rowerze, jest ranne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-pasach-w-piotrkowie-jechalo-na-rowerze-jest-ranne/nzlbJhFHp53nHBdNQyZs</link>
-<guid isPermaLink="false">ff9b749f2f1bbdddb80d02bb45f5f567ce64132e</guid>
-<pubDate>Mon, 02 Mar 2026 16:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" alt="miniatura"/></p><p>Około godziny 14:00 u zbiegu ul. Dmowskiego i al. Armii Krajowej w Piotrkowie Trybunalskim doszło do niebezpieczne zdarzenia drogowego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9ccb983-ea21-43a2-b83e-640f8e525d59"/>
 </item>
 </channel></rss>
