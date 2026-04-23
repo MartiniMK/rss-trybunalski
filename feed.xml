@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 23 Apr 2026 06:23:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 09:07:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ruszyła budowa parku handlowego w naszym mieście. Będą nowe sklepy i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ruszyla-budowa-parku-handlowego-w-naszym-miescie-beda-nowe-sklepy-i-miejsca-pracy/RX2xv7j525kcnQlXv7VF</link>
+<guid isPermaLink="false">63168a392831ff38b2ec21f7fa8feb091ae5f67d</guid>
+<pubDate>Thu, 23 Apr 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0a394583-2486-4418-a33e-ef5f4027e9df" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim powstaje duży kompleks handlowy o powierzchni 26 tys. m². W jednym miejscu znajdą się: market budowlany, sklep meblowy, pasaż z wieloma sklepami oraz punkt drive-thru. Za inwestycję odpowiada Spółka Progress XVIII, a wykonawcą jest firma P.A. Nova. Wartość całego kontraktu opiewa na 22 mln zł. Park handlowy powstanie przy Alejach Generała Władysława Sikorskiego, w sąsiedz…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0a394583-2486-4418-a33e-ef5f4027e9df" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0a394583-2486-4418-a33e-ef5f4027e9df" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0a394583-2486-4418-a33e-ef5f4027e9df"/>
+</item>
+<item>
+<title><![CDATA[ Paryski wieczór w Piotrkowie Trybunalskim. Są już bilety na wyjątkowy spektakl ]]></title>
+<link>https://trybunalski.pl/wiadomosci/paryski-wieczor-w-piotrkowie-trybunalskim-sa-juz-bilety-na-wyjatkowy-spektakl/eWw1CA3C3UGR8N4qLfIA</link>
+<guid isPermaLink="false">6096f7468d52c10875b2243d02520971bd96e478</guid>
+<pubDate>Thu, 23 Apr 2026 09:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/327c1b72-950b-4a1b-af47-93d8d31bc717" alt="miniatura"/></p><p>Na scenie pojawia się ona: Nini Legs-in-the-Air – legendarna dawna gwiazda Moulin Rouge, która nigdy nie pozwoliła, aby blask jej sławy przygasł. Siedzi przy toaletce w peniuarze, z papierosem w dłoni, otoczona bibelotami, piórami i kurzem minionych dni. Czy jej czas przeminął? Może. Ale dla Nini ten wieczór to okazja, by jeszcze raz wywołać dawne czasy, kiedy paryskie noce były dłuższe, a histori…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/327c1b72-950b-4a1b-af47-93d8d31bc717" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/327c1b72-950b-4a1b-af47-93d8d31bc717" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/327c1b72-950b-4a1b-af47-93d8d31bc717"/>
+</item>
+<item>
+<title><![CDATA[ Nie zapłacisz za kaucję, a wodę dostarczą do domu lub firmy - rewolucyjny system w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-zaplacisz-za-kaucje-a-wode-dostarcza-do-domu-lub-firmy-rewolucyjny-system-w-piotrkowie/WAwVtim5gajh5KVuasVc</link>
+<guid isPermaLink="false">f312f8e8015a2b4cb4195d59c7a455d36aedd37b</guid>
+<pubDate>Thu, 23 Apr 2026 08:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/802699d0-be2b-4715-a521-7acad7d92020" alt="miniatura"/></p><p>Znana alternatywa - od lat także w województwie łódzkim</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/802699d0-be2b-4715-a521-7acad7d92020" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/802699d0-be2b-4715-a521-7acad7d92020" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/802699d0-be2b-4715-a521-7acad7d92020"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia poległa w Gnieźnie! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-krason-mks-piotrcovia-polegla-w-gnieznie/Cuq0B9XUW34B5ij8CyAZ</link>
@@ -3467,45 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/43e8888d-a638-4e58-b6e2-77b99ec3e867"/>
-</item>
-<item>
-<title><![CDATA[ Promocje w Action ruszyły 2 marca. Nawet 40% taniej - AGD, kosmetyki i zabawki. Oto lista hitów! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/promocje-w-action-ruszyly-2-marca-nawet-40-taniej-agd-kosmetyki-i-zabawki-oto-lista-hitow/GLQNm7ql7lYxLovoqbvR</link>
-<guid isPermaLink="false">1b9253b8646846b5c65fe5f719906e4275d2158f</guid>
-<pubDate>Mon, 02 Mar 2026 10:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2308311-559e-466b-9869-d193821640a9" alt="miniatura"/></p><p>Promocje w sieciach tego typu potrafią różnić się dostępnością w zależności od sklepu i dostawy. Ceny w gazetkach zwykle obowiązują do wyczerpania zapasów, a część produktów znika z półek szybciej niż inne (szczególnie drobna elektronika i artykuły sezonowe).</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2308311-559e-466b-9869-d193821640a9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2308311-559e-466b-9869-d193821640a9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2308311-559e-466b-9869-d193821640a9"/>
-</item>
-<item>
-<title><![CDATA[ Bezpłatna rehabilitacja i nowe zajęcia w gminie Sulejów. Ruszają kolejne programy dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bezplatna-rehabilitacja-i-nowe-zajecia-w-gminie-sulejow-ruszaja-kolejne-programy-dla-mieszkancow/rcctvecFBHo1fVVaAijY</link>
-<guid isPermaLink="false">606d53290a47d35ae68f00cf7fb082ef0cb5fb30</guid>
-<pubDate>Mon, 02 Mar 2026 09:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/317f1e08-1ba7-458d-bd8d-16208275247b" alt="miniatura"/></p><p>Umowy w tej sprawie podpisała Pani burmistrz Sulejowa Dorota Jankowska. Partnerami projektu są Stowarzyszenie Uwolnij Energię oraz sulejowski Sul-Med.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/317f1e08-1ba7-458d-bd8d-16208275247b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/317f1e08-1ba7-458d-bd8d-16208275247b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/317f1e08-1ba7-458d-bd8d-16208275247b"/>
-</item>
-<item>
-<title><![CDATA[ Nie będzie prądu w powiecie piotrkowskim. Harmonogram na najbliższe dni ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-powiecie-piotrkowskim-harmonogram-na-najblizsze-dni/oH3WeyGuQPjctnEZw67j</link>
-<guid isPermaLink="false">020f003e201220db024449099a1f449808e47aff</guid>
-<pubDate>Mon, 02 Mar 2026 09:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" alt="miniatura"/></p><p>Barkowice Mokre od 8:30 do 13:30</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c931cf-3ad2-40bd-b463-101b71f611de"/>
-</item>
-<item>
-<title><![CDATA[ Najmniejsza wieś w Łódzkiem leży w naszym powiecie. A mieszkają tu tylko… 2 osoby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-lodzkiem-lezy-w-naszym-powiecie-a-mieszkaja-tu-tylko-2-osoby/kvDk1k2VcDVZ7ZgD8D0a</link>
-<guid isPermaLink="false">0485bded7e4e0b3e3bf8d36c6b83b53fd403f9ac</guid>
-<pubDate>Sun, 01 Mar 2026 22:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" alt="miniatura"/></p><p>Główny Urząd Statystyczny podsumował dane liczbowe z 2024 roku. Wyróżniono cztery miejscowości w Łódzkiem pod względem liczby zameldowanych mieszkańców. Jak można się domyślić, Łódź ma ich najwięcej, bo prawie 650 tysięcy. Najmniejsza pod tym względem zaś jest wieś położona w powiecie piotrkowskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd497cd0-0d0b-4603-b512-77f91cc72dec"/>
 </item>
 </channel></rss>
