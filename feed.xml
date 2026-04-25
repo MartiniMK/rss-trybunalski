@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 25 Apr 2026 11:53:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 13:32:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek w powiecie piotrkowskim. Samochód wypadł z mostu [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-samochod-wypadl-z-mostu-zdjecia/nfABxoNga92no3wfGKFi</link>
+<guid isPermaLink="false">1af262f0651ca4574a73035cdbe66d8783df300a</guid>
+<pubDate>Sat, 25 Apr 2026 15:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/376aca23-7280-4323-a38a-53c9c1222e8c" alt="miniatura"/></p><p>W sobotę, 25 kwietnia w gminie Wolbórz, w powiecie piotrkowskim doszło do groźnego zdarzenia. Około godz. 13:00 służby otrzymały zgłoszenie o wypadku w Lubiatowie. Niedaleko granicy z gminą Będków samochód wyłamał barierki, wypadł z mostku nad rzeką Wolbórką i dachował. Na miejsce ruszyli strażacy i policjanci. Niezbędna okazała się również pomoc karetki pogotowia. Okoliczności zdarzenia są sprawd…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/376aca23-7280-4323-a38a-53c9c1222e8c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/376aca23-7280-4323-a38a-53c9c1222e8c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/376aca23-7280-4323-a38a-53c9c1222e8c"/>
+</item>
 <item>
 <title><![CDATA[ Tragiczny pożar w powiecie piotrkowskim. Zwierząt nie udało się uratować ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-pozar-w-powiecie-piotrkowskim-zwierzat-nie-udalo-sie-uratowac/T4EfHMqd3TIDyLBKGBzX</link>
@@ -3467,15 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b"/>
-</item>
-<item>
-<title><![CDATA[ Brazylijski przestępca wpadł pod Piotrkowem. Czeka go... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/brazylijski-przestepca-wpadl-pod-piotrkowem-czeka-go/8mYhXt8tH5EiaIwOS4Y0</link>
-<guid isPermaLink="false">50b8441b049be00258abfb44b24e77c0a5563a2d</guid>
-<pubDate>Wed, 04 Mar 2026 12:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8e855b2d-10c3-42d4-9dc7-22ef7ab5fe1d" alt="miniatura"/></p><p>2 i 3 marca 2026 roku policjanci z garnizonu łódzkiego przeprowadzili akcję, podczas której na terenie całego województwa zlokalizowali 121 osób poszukiwanych, w tym 14 obcokrajowców. Jeden z nich wpadł w powiecie piotrkowskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8e855b2d-10c3-42d4-9dc7-22ef7ab5fe1d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8e855b2d-10c3-42d4-9dc7-22ef7ab5fe1d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8e855b2d-10c3-42d4-9dc7-22ef7ab5fe1d"/>
 </item>
 </channel></rss>
