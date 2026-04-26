@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 26 Apr 2026 17:58:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 19:17:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Polska oszalała na punkcie zbiórki Łatwoganga. Największa akcja w polskim internecie dotarła do naszego powiatu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polska-oszalala-na-punkcie-zbiorki-latwoganga-najwieksza-akcja-w-polskim-internecie-dotarla-do-naszego-powiatu/BjywI5seJhUkvZNJR0X9</link>
+<guid isPermaLink="false">7a8ca66288b2bdb427f3cf585df9e3311afdf6ae</guid>
+<pubDate>Sun, 26 Apr 2026 20:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" alt="miniatura"/></p><p>Akcja Łatwoganga, która właśnie dziś (26 kwietnia 2026 r.) ma dobiec końca, to fenomen w historii polskiego internetu. Głównym bohaterem jest „Łatwogang”, influencer i streamer z Radomia, który zasłynął wcześniej nietypowymi wyzwaniami, m.in. piosenką "Azizam" nagraną z brytyjskim wokalistą Edem Sheeranem. Cała inicjatywa polega na nieprzerwanym, dziewięciodniowym streamie, podczas którego twórca…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1"/>
+</item>
 <item>
 <title><![CDATA[ To jedna z największych kwot w historii Polski. Rekordowy wynik w Lotto padł w naszym powiecie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-jedna-z-najwiekszych-kwot-w-historii-polski-rekordowy-wynik-w-lotto-padl-w-naszym-powiecie/nxfaQFzC6QUYxWhUQQqp</link>
@@ -1069,16 +1079,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1087,6 +1087,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3467,25 +3477,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929"/>
-</item>
-<item>
-<title><![CDATA[ Skuter, Volvo i domy w super cenach? Licytacje komornicze w Piotrkowie i regionie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/skuter-samochody-i-domy-pod-mlotek-licytacje-komornicze-w-piotrkowie-i-regionie/iRr6INOmCKKncTchgCkX</link>
-<guid isPermaLink="false">33011b2ccf66f18044604343c9875fcf97db58e2</guid>
-<pubDate>Wed, 04 Mar 2026 15:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6a5f047c-91ee-43c9-8aa4-ea2e09e4da49" alt="miniatura"/></p><p>Tradycyjnie, najwięcej ogłoszeń dotyczy nieruchomości, ale w najnowszych obwieszczeniach pojawiły się także samochody osobowe czy skuter. Dla osób szukających okazji to może być dobry moment na wpłatę wadium i przystąpienie do przetargu. Jakie przedmioty i nieruchomości będzie można nabyć w drodze licytacji w najbliższym czasie?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6a5f047c-91ee-43c9-8aa4-ea2e09e4da49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6a5f047c-91ee-43c9-8aa4-ea2e09e4da49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6a5f047c-91ee-43c9-8aa4-ea2e09e4da49"/>
-</item>
-<item>
-<title><![CDATA[ Pożar w powiecie piotrkowskim. Strażacy w akcji ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-powiecie-piotrkowskim-strazacy-w-akcji/MgtuCd7DmIn7NAJIOzbM</link>
-<guid isPermaLink="false">60b9e52c92e3e647b919adb08c6b5639ceb565f8</guid>
-<pubDate>Wed, 04 Mar 2026 14:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b" alt="miniatura"/></p><p>We wtorek, 3 marca o godzinie 13:52 dyżurny otrzymał zgłoszenie o pożarze nieużytków w miejscowości Stara Wieś, w powiecie piotrkowskim. Do akcji ruszył zastęp z Ochotniczej Straży Pożarnej w Rozprzy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50305394-867e-42a0-84bd-d4cbb7f7e70b"/>
 </item>
 </channel></rss>
