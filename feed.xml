@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 26 Apr 2026 06:24:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 08:29:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ To jedna z największych kwot w historii Polski. Rekordowy wynik w Lotto padł w naszym powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-jedna-z-najwiekszych-kwot-w-historii-polski-rekordowy-wynik-w-lotto-padl-w-naszym-powiecie/nxfaQFzC6QUYxWhUQQqp</link>
+<guid isPermaLink="false">d25175b0d8b59e9f665c997db3ad75f2ecfb7180</guid>
+<pubDate>Sun, 26 Apr 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" alt="miniatura"/></p><p>Lotto to najpopularniejsza gra liczbowa w naszym kraju i wiele osób chociaż raz spróbowało w niej swoich sił, kupując los na loterii. Tylko nielicznym dopisuje szczęście, a co ciekawe jedna z rekordowych wygranych padła w powiecie piotrkowskim. Szczęśliwiec znalazł się w TOP 3 w kraju w Eurojackpot.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek w powiecie piotrkowskim. Samochód wypadł z mostu [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-samochod-wypadl-z-mostu-zdjecia/nfABxoNga92no3wfGKFi</link>
