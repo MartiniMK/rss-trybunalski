@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 27 Apr 2026 06:47:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 09:35:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mistrzowskie tancerki z Piotrkowa. Wróciły z medalami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mistrzowskie-tancerki-z-piotrkowa-wrocily-z-medalami/uc2TM4VojORJoRXxt6hh</link>
+<guid isPermaLink="false">7c6a964835cf544714dbd066ec6c658deb207a22</guid>
+<pubDate>Mon, 27 Apr 2026 11:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028" alt="miniatura"/></p><p>Tancerki z Piotrkowa regularnie wracają do miasta z zawodów z sukcesami. Nie inaczej było tym razem. W sobotę, 18 kwietnia, w Hali Sportowo-Rehabilitacyjnej w Suchedniowie odbył się XVIII Ogólnopolski Turniej Formacji Tanecznych Suchedniów 2026. Jest to cykliczne wydarzenie cieszące się coraz większym zainteresowaniem wśród adeptów sztuki tańca.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028"/>
+</item>
+<item>
+<title><![CDATA[ Liczne wyłączenia prądu w powiecie piotrkowskim. Gdzie wystąpią utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/liczne-wylaczenia-pradu-w-powiecie-piotrkowskim-gdzie-wystapia-utrudnienia/C6OjjU27j0j5nfC60Nlq</link>
+<guid isPermaLink="false">f0ef967ba655986cf5efaae4774adb28712df398</guid>
+<pubDate>Mon, 27 Apr 2026 10:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" alt="miniatura"/></p><p>ul. Malinowa 3 4 5 15 17 19 24 29 30 31 32 33 34 35 36 40 dz. 1496/32 dz. 308/30 dz. 309/18 dz. 309/26 dz.308/16 dz.308/22 dz.309/7,</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c"/>
+</item>
 <item>
 <title><![CDATA[ Polska oszalała na punkcie zbiórki Łatwoganga. Największa akcja w polskim internecie dotarła do naszego powiatu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polska-oszalala-na-punkcie-zbiorki-latwoganga-najwieksza-akcja-w-polskim-internecie-dotarla-do-naszego-powiatu/BjywI5seJhUkvZNJR0X9</link>
@@ -3467,15 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d"/>
-</item>
-<item>
-<title><![CDATA[ Historyczna uchwała w Sulejowie. Wkrótce ruszy nabór do... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/historyczna-uchwala-w-sulejowie-wkrotce-ruszy-nabor-do/vYy3ZwYKVgi0hDr81hMU</link>
-<guid isPermaLink="false">2b9e8795f76e382dc0d612ea8eeef9f6be95dbb4</guid>
-<pubDate>Thu, 05 Mar 2026 09:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929" alt="miniatura"/></p><p>W budynku, w którym aktualnie znajduje się Zespół Centrum Kształcenia Ustawicznego w Sulejowie reaktywowane zostanie liceum ogólnokształcące. Taka decyzja zapadła podczas ostatniej sesji Rady Miejskiej. Burmistrz Sulejowa Dorota Jankowska podkreśla, że nie byłoby to możliwe, gdyby nie porozumienie z powiatem piotrkowskim, który nieodpłatnie przekazał gminie obiekt.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2232918e-8056-4488-81c1-d379024fa929"/>
 </item>
 </channel></rss>
