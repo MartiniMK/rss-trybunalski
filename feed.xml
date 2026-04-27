@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 27 Apr 2026 09:35:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 12:02:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowska jednostka szuka pracownika. Wiemy, ile można zarobić ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-jednostka-szuka-pracownika-wiemy-ile-mozna-zarobic/i4YEGS6AL88A0W9xXyAd</link>
+<guid isPermaLink="false">56aee2a627a50e2b3b6d170991d8eb55b4c2cc41</guid>
+<pubDate>Mon, 27 Apr 2026 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" alt="miniatura"/></p><p>Do obowiązków osoby zatrudnionej na tym stanowisku będzie należało prowadzenie wszelkich spraw kancelaryjnych Powiatowego Centrum Pomocy Rodzinie w Piotrkowie Trybunalskim. Wśród głównych zadań wymienia się także obsługę systemów e-Doręczeń, EZD oraz KSeF, a także przyjmowanie i weryfikację formalną i merytoryczną wniosków składanych przez osoby z niepełnosprawnością w ramach programu Aktywny Samo…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814"/>
+</item>
+<item>
+<title><![CDATA[ Przepiękne mieszkanki miasta i powiatu idą po koronę miss. Zobacz, kto walczy o wielki finał ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przepiekne-mieszkanki-miasta-i-powiatu-ida-po-korone-miss-zobacz-kto-walczy-o-wielki-final/Jqw9xs4PeNucmHsOhHF5</link>
+<guid isPermaLink="false">7e0636b4596042df4940b53dd2faeeda689eea61</guid>
+<pubDate>Mon, 27 Apr 2026 12:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" alt="miniatura"/></p><p>Trwa półfinał konkursu Polska Miss Woj. Łódzkiego 2026. Wśród wyróżnionych, które dostały się do tego etapu rywalizacji, są także mieszkanki naszego miasta i powiatu. Teraz piękne kandydatki potrzebują pomocy internautów, by móc trafić do finału.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e"/>
+</item>
+<item>
+<title><![CDATA[ Polska zmieni sposób liczenia czasu? Niespodziewany projekt w parlamencie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polska-zmieni-sposob-liczenia-czasu-niespodziewany-projekt-w-parlamencie/tueJ9LbGBpIJ0YhRJOoc</link>
+<guid isPermaLink="false">625ab636735bea6cd63412c55e4ce5c68e933ee7</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" alt="miniatura"/></p><p>27 marca 2026 roku do Senatu wpłynęła petycja przygotowana przez Fundację „Można Lepiej!”, która proponuje wprowadzenie stałego czasu pośredniego. Miałby on polegać na cofnięciu obowiązującego czasu letniego o 30 minut i utrzymaniu takiego rozwiązania przez cały rok.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e"/>
+</item>
 <item>
 <title><![CDATA[ Mistrzowskie tancerki z Piotrkowa. Wróciły z medalami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mistrzowskie-tancerki-z-piotrkowa-wrocily-z-medalami/uc2TM4VojORJoRXxt6hh</link>
@@ -1099,16 +1129,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1117,6 +1137,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3457,35 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ec777e-7f0c-43d3-a277-913d9d4d9700"/>
-</item>
-<item>
-<title><![CDATA[ Polski gigant rekrutuje pod Piotrkowem. Jakie są wymagania? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/polski-gigant-rekrutuje-pod-piotrkowem-jakie-sa-wymagania/h8l8wA6uwrOed3fkIN53</link>
-<guid isPermaLink="false">ac5edbdfd3772ed598d7344da82857caa7a69da3</guid>
-<pubDate>Thu, 05 Mar 2026 15:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" alt="miniatura"/></p><p>Polski gigant w branży meblowej i wyposażenia wnętrz poszukuje pracowników w powiecie piotrkowskim. Sprawdzamy oferty i wymagania stawiane przez pracodawcę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc45cd54-5c2e-4c49-bd57-26abe04c7468"/>
-</item>
-<item>
-<title><![CDATA[ Powstał ranking depopulacji. Na którym miejscu Piotrków? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powstal-ranking-depopulacji-na-ktorym-miejscu-piotrkow/L62DaHiJjUCugoEaGAs3</link>
-<guid isPermaLink="false">b7d08d7ec39b53fa377547de2243003adbaaea51</guid>
-<pubDate>Thu, 05 Mar 2026 14:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" alt="miniatura"/></p><p>Po 2020 roku liczba ludności Polski weszła w fazę spadkową, co przedstawia ranking depopulacji gmin za lata 2009-2024 . Takie zestawienie przygotowało pismo „Wspólnota”. W analizie ukazano, że depopulacja nie jest zjawiskiem jedynie miejscowym, a przerodziła się w trend ogólnokrajowy . O ile jeszcze dekadę temu można było mówić o lokalnych ogniskach wyludniania, dziś dotyczy ono już zdecydowanej w…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/16844785-2878-4169-b6d4-7984e3e7849d"/>
-</item>
-<item>
-<title><![CDATA[ Verba zagra dziś w Piotrkowie. Zostały jeszcze bilety ]]></title>
-<link>https://trybunalski.pl/wiadomosci/verba-zagra-dzis-w-piotrkowie-zostaly-jeszcze-bilety/5CdhTXX28mLNpHMzmb7n</link>
-<guid isPermaLink="false">ae5713456bbc5001d7694def70e70281c847a98c</guid>
-<pubDate>Thu, 05 Mar 2026 10:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d" alt="miniatura"/></p><p>Muzyka, która przed dwoma dekadami królowała w słuchawkach wielu nastolatków, wybrzmi na żywo w naszym mieście. Zespół Verba świętuje swój jubileusz 20-lecia działalności. Z tej okazji formacja z Piły zawita do Piotrkowa Trybunalskiego, by zabrać fanów w sentymentalną podróż do czasów pierwszych miłości i złamanych serc. To wieczór do przywołania wielu wspomnień i wyśpiewania tekstów, które wielu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/92c3ac9c-1a24-4c45-81b3-0777bdcd1d8d"/>
 </item>
 </channel></rss>
