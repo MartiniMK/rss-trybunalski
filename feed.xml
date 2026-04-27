@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 27 Apr 2026 14:30:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 17:00:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Policzono ile aut na dobę przejeżdża przez Piotrków. Która droga najbardziej oblegana? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/policzono-ile-aut-na-dobe-przejezdza-przez-piotrkow-ktora-droga-najbardziej-oblegana/fg4slXLdHngFCdvaLBtl</link>
+<guid isPermaLink="false">27b2fb871d10aef5ba32d931fabaa3c4894de4c3</guid>
+<pubDate>Mon, 27 Apr 2026 18:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d158f995-1b17-4c5d-9153-4bbe5743856f" alt="miniatura"/></p><p>Generalnego Pomiaru Ruchu, jaki został przeprowadzony w 2025 roku pokazał które drogi są najbardziej oblegane przez kierowców. Generalna Dyrekcja Dróg Krajowych i Autostrad pokazała opracowane wyniki z kilku tysięcy punktów, w których liczono pojazdy. W regionie piotrkowskim liczono je między innymi na autostradzie A1 oraz na ekspresowej S8. Wyniki pokazują, że to jedne z najczęściej wybieranych d…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d158f995-1b17-4c5d-9153-4bbe5743856f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d158f995-1b17-4c5d-9153-4bbe5743856f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d158f995-1b17-4c5d-9153-4bbe5743856f"/>
+</item>
 <item>
 <title><![CDATA[ „Złoty Płomień Kultury” dla Piotrkowianki. Mieszkanka z nagrodą za „Wezwanie Żmija” ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zloty-plomien-kultury-dla-piotrkowianki-mieszkanka-z-nagroda-za-wezwanie-zmija/mc57IOpDrgaq73RYErjO</link>
@@ -3477,15 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee3b3c8-06a8-4b15-b823-c78f08f8b9e1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee3b3c8-06a8-4b15-b823-c78f08f8b9e1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee3b3c8-06a8-4b15-b823-c78f08f8b9e1"/>
-</item>
-<item>
-<title><![CDATA[ Ekshibicjonista grasuje w Piotrkowie. Mieszkańcy ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ekshibicjonista-grasuje-w-piotrkowie-mieszkancy-ostrzegaja/M0yTiJYZNxuC3flf1hir</link>
-<guid isPermaLink="false">7900c3668dd1ab3038dd05d1af9d95ece77ef223</guid>
-<pubDate>Fri, 06 Mar 2026 11:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6005558a-2d87-4c57-89f3-a942bf2ce277" alt="miniatura"/></p><p>Na facebookowych grupach zrzeszających Piotrkowian pojawiły się posty przestrzegające przed ekshibicjonistą. Zamaskowany mężczyzna miał onanizować się w miejscu publicznym, również w okolicach szkół. Mieszkańcy martwią się o bezpieczeństwo swoje oraz dzieci i apelują o ostrożność.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6005558a-2d87-4c57-89f3-a942bf2ce277" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6005558a-2d87-4c57-89f3-a942bf2ce277" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6005558a-2d87-4c57-89f3-a942bf2ce277"/>
 </item>
 </channel></rss>
