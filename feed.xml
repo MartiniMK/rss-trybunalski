@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Apr 2026 15:32:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 17:54:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Top miejscówek do odwiedzenia w majówkę. Co warto zobaczyć blisko Piotrkowa? [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/top-miejscowek-do-odwiedzenia-w-majowke-co-warto-zobaczyc-blisko-piotrkowa-zdjecia/IZlTmLnD5K2HWqNIVGaO</link>
+<guid isPermaLink="false">21d46e3ba08c2d14646d6cc7b40a7c25db69bcf1</guid>
+<pubDate>Wed, 29 Apr 2026 17:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/668648d2-1fb6-4287-a033-c0528c8cd962" alt="miniatura"/></p><p>Sztuczne Jezioro Wapienniki w Sulejowie to akwen o cudownym lazurowym kolorze wody. Powstało w wyrobisku, które zostało zalane po zakończeniu wydobycia wapienia. Powstało na terenie dawnych Zakładów Przemysłu Wapienniczego w Sulejowie. Obecnie prowadzi do niego ulica Podkurnędz.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/668648d2-1fb6-4287-a033-c0528c8cd962" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/668648d2-1fb6-4287-a033-c0528c8cd962" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/668648d2-1fb6-4287-a033-c0528c8cd962"/>
+</item>
 <item>
 <title><![CDATA[ Niezwykłe nagranie z lasu niedaleko naszego miasta. Bielik broni piskląt przed kuną ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niezwykle-nagranie-z-lasu-niedaleko-naszego-miasta-bielik-broni-pisklat-przed-kuna/bc8jMKTzk21UwrfOB86F</link>
@@ -3447,15 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczny wypadek pod Piotrkowem. Wszyscy ranni, lądował śmigłowiec LPR! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczny-wypadek-pod-piotrkowem-wszyscy-ranni-ladowal-smiglowiec-lpr/eaLHDPlkI2vunuSefXFO</link>
-<guid isPermaLink="false">c4dd085085c313fa1aa4400c848524bce78a3cdb</guid>
-<pubDate>Mon, 09 Mar 2026 15:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1172211f-43e8-4fc3-99d6-b0edf93a0cf3" alt="miniatura"/></p><p>W poniedziałek, 9 marca ok. godz. 14:00 służby zostały wezwane do wypadku z udziałem dwóch samochodów osobowych w miejscowości Podolin.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1172211f-43e8-4fc3-99d6-b0edf93a0cf3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1172211f-43e8-4fc3-99d6-b0edf93a0cf3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1172211f-43e8-4fc3-99d6-b0edf93a0cf3"/>
 </item>
 </channel></rss>
