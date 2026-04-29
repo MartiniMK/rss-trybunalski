@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 29 Apr 2026 17:54:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 19:56:16 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Dramat Piotrkowianina w ostatnich sekundach meczu! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-dramat-piotrkowianina-w-ostatnich-sekundach-meczu/4Ex2KC9N9yG7l8DSgmOL</link>
+<guid isPermaLink="false">e2f21cf070b32adc4021e5cfc7dcb8e0b40629a9</guid>
+<pubDate>Wed, 29 Apr 2026 19:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5a2730dd-660a-41ab-9e97-684de930ce22" alt="miniatura"/></p><p>Do rywalizacji na Opolszczyźnie Piotrkowianie przystąpili po domowej porażce z Zagłębiem Lubin, ale wciąż jako jedenasty zespół w tabeli, a to utrzymanie tej właśnie pozycji jest celem podopiecznych Stanisława Makowiejewa i Kamila Wasilewskiego w fazie play-out. COROTOP Gwardia Opole gra już „tylko” o prestiż, bo utrzymanie zapewniła sobie jeszcze na etapie fazy zasadniczej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a2730dd-660a-41ab-9e97-684de930ce22" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a2730dd-660a-41ab-9e97-684de930ce22" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a2730dd-660a-41ab-9e97-684de930ce22"/>
+</item>
 <item>
 <title><![CDATA[ Top miejscówek do odwiedzenia w majówkę. Co warto zobaczyć blisko Piotrkowa? [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/top-miejscowek-do-odwiedzenia-w-majowke-co-warto-zobaczyc-blisko-piotrkowa-zdjecia/IZlTmLnD5K2HWqNIVGaO</link>
@@ -3447,15 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c374311d-3160-4c21-b6c1-ba4cdec13855" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c374311d-3160-4c21-b6c1-ba4cdec13855" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c374311d-3160-4c21-b6c1-ba4cdec13855"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska policjantka wyróżniona. Otrzymała nagrodę za... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-policjantka-wyrozniona-otrzymala-nagrode-za/Nzj0Cnhq4DGHEH9iT6BL</link>
-<guid isPermaLink="false">2ad89b1f119896b58278edcca74ce0514fb5116b</guid>
-<pubDate>Mon, 09 Mar 2026 16:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db" alt="miniatura"/></p><p>Uroczystość odbyła się 6 marca 2026 roku w Teatrze im. Stefana Jaracza w Łodzi. W wydarzeniu uczestniczyły funkcjonariuszki oraz pracownice cywilne służb mundurowych z regionu, które na co dzień wykonują odpowiedzialne zadania związane z bezpieczeństwem mieszkańców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f71f17d-3234-4872-a3d1-1935aeaf57db"/>
 </item>
 </channel></rss>
