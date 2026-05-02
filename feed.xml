@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 02 May 2026 12:02:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 13:48:50 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Co z remontem drogi między Zbyłowicami a Bąkową Górą w powiecie piotrkowskim? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/co-z-remontem-drogi-miedzy-zbylowicami-a-bakowa-gora-w-powiecie-piotrkowskim/CL1Y99KxszjcBZDAb2PB</link>
+<guid isPermaLink="false">63d80f7fd7dfa1c22a0eb649a2c1260067460c7d</guid>
+<pubDate>Sat, 02 May 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/194c2eb0-60a3-4e4e-9ea0-f6eab33dac1f" alt="miniatura"/></p><p>Inwestycja dotyczy odcinka o długości blisko jednego kilometra. W planie jest przede wszystkim wymiana warstw bitumicznych, co oznacza nową nawierzchnię na całej szerokości jezdni. Oprócz tego wykonawca zajmie się umocnieniem poboczy oraz profilowaniem rowów przydrożnych, co ma poprawić odwodnienie drogi.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c2eb0-60a3-4e4e-9ea0-f6eab33dac1f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c2eb0-60a3-4e4e-9ea0-f6eab33dac1f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c2eb0-60a3-4e4e-9ea0-f6eab33dac1f"/>
+</item>
 <item>
 <title><![CDATA[ Zenek Martyniuk wystąpi w naszym powiecie. Kiedy i gdzie koncert „króla disco polo”? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zenek-martyniuk-wystapi-w-naszym-powiecie-kiedy-i-gdzie-koncert-krola-disco-polo/dXO5SZEeRVZVfPBMUogK</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4"/>
-</item>
-<item>
-<title><![CDATA[ Dlaczego butelki oddawane do kaucjomatu muszą być idealne? Potem i tak są miażdżone ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dlaczego-butelki-oddawane-do-kaucjomatu-musza-byc-idealne-potem-i-tak-sa-miazdzone/fPjpFyxJptcgYf3qebZf</link>
-<guid isPermaLink="false">1d39c5a92a312a233a97b16fd3683b0c026ff828</guid>
-<pubDate>Thu, 12 Mar 2026 09:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c7983007-4891-4fae-bab9-041316d621ca" alt="miniatura"/></p><p>Najważniejszy powód jest prosty: kaucjomat najpierw musi rozpoznać opakowanie. Urządzenie sprawdza, czy dana butelka lub puszka rzeczywiście należy do systemu kaucyjnego, ma odpowiednie oznaczenie i czytelny kod kreskowy. Właśnie dlatego opakowanie nie powinno być zgniecione, mocno uszkodzone ani pozbawione etykiety. Bez tego automat może po prostu je odrzucić.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7983007-4891-4fae-bab9-041316d621ca" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7983007-4891-4fae-bab9-041316d621ca" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7983007-4891-4fae-bab9-041316d621ca"/>
 </item>
 </channel></rss>
