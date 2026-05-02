@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 02 May 2026 19:23:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 21:02:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia podejmowała wicelidera tabeli! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-podejmowala-wicelidera-tabeli/owL2HcJ9dRwBIMbI6oiB</link>
+<guid isPermaLink="false">7180765c5c40d06d66197bf2cc0894cfc793bccc</guid>
+<pubDate>Sat, 02 May 2026 22:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9040c2d2-1099-4eea-85b8-4477d021d132" alt="miniatura"/></p><p>Piłkarki ręczne z naszego miasta do rywalizacji z Lubliniankami przystępowały po dotkliwej porażce w Gnieźnie (31:36), która nie miała jednak żadnego znaczenia, bo już wcześniej podopieczne trenera Horatiu Pasci zapewniły sobie brązowe medale mistrzostw Polski, wracając na ligowe podium po 17 latach przerwy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9040c2d2-1099-4eea-85b8-4477d021d132" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9040c2d2-1099-4eea-85b8-4477d021d132" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9040c2d2-1099-4eea-85b8-4477d021d132"/>
+</item>
 <item>
 <title><![CDATA[ Co z remontem drogi między Zbyłowicami a Bąkową Górą w powiecie piotrkowskim? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/co-z-remontem-drogi-miedzy-zbylowicami-a-bakowa-gora-w-powiecie-piotrkowskim/CL1Y99KxszjcBZDAb2PB</link>
@@ -1479,16 +1489,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1497,6 +1497,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2"/>
-</item>
-<item>
-<title><![CDATA[ Próbowano porwać dziecko pod Piotrkowem? Policja wyjaśnia, jak było naprawdę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/probowano-porwac-dziecko-pod-piotrkowem-policja-wyjasnia-jak-bylo-naprawde/pDXlHSKaty9PIL6OKOFn</link>
-<guid isPermaLink="false">dca6c49a922856e7877878985dd56f5a652adf17</guid>
-<pubDate>Thu, 12 Mar 2026 10:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4" alt="miniatura"/></p><p>We wtorek, 10 marca w okolicy drogi ze szkoły w kierunku sklepu Dino w Czarnocinie miało dojść do próby porwania dziecka. O niebezpiecznej sytuacji w mediach społecznościowych poinformował Urząd Gminy Czarnocin.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/88897f2b-1c5a-4d42-b076-dad237878fb4"/>
 </item>
 </channel></rss>
