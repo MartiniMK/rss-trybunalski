@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 03 May 2026 06:44:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 09:01:40 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Allegro zatrudnia w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/allegro-zatrudnia-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/hLqPJGlEFpD2fdFPgZCV</link>
+<guid isPermaLink="false">831f2f7689ca36757cdc69535c45beb8bb586a6b</guid>
+<pubDate>Sun, 03 May 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/140d7fc8-90c1-4577-8fa0-31730d731ff4" alt="miniatura"/></p><p>Allegro rekrutuje w Piotrkowie Trybunalskim. Jeden z liderów handlu internetowego w Polsce poszukuje rąk do pracy, oferując dwa stanowiska w swoim hubie logistycznym. Sprawdziliśmy szczegóły trwającego naboru. Dowiedz się, kogo dokładnie poszukuje firma, jakie warunki oferuje nowym pracownikom i w jaki sposób można przesłać swoją aplikację.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/140d7fc8-90c1-4577-8fa0-31730d731ff4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/140d7fc8-90c1-4577-8fa0-31730d731ff4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/140d7fc8-90c1-4577-8fa0-31730d731ff4"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: Piotrcovia podejmowała wicelidera tabeli! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-piotrcovia-podejmowala-wicelidera-tabeli/owL2HcJ9dRwBIMbI6oiB</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3fc94053-5875-445b-afc4-58189aa705bf" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3fc94053-5875-445b-afc4-58189aa705bf" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3fc94053-5875-445b-afc4-58189aa705bf"/>
-</item>
-<item>
-<title><![CDATA[ Wielki remont w Piotrkowie. Rozpoczęły się pierwsze utrudnienia dla kierowców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielki-remont-w-piotrkowie-rozpoczely-sie-pierwsze-utrudnienia-dla-kierowcow/DAGZZrMw9DtFgHxNyx1l</link>
-<guid isPermaLink="false">147c1e5760463b9d4ff9d8a58edd6cbcef0a02cf</guid>
-<pubDate>Thu, 12 Mar 2026 11:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2" alt="miniatura"/></p><p>Remont długo wyczekiwanych ulic w Piotrkowie ruszył. Kierowcy muszą liczyć się z utrudnieniami. To początek dużej inwestycji drogowej, która obejmie łącznie pięć ulic w mieście. Zadanie realizuje Przedsiębiorstwo Robót Drogowo-Mostowych z Piotrkowa Trybunalskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a44dd80-d654-4e86-940a-93884a1ecbd2"/>
 </item>
 </channel></rss>
