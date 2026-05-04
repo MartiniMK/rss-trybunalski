@@ -6,8 +6,29 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 04 May 2026 20:32:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 22:20:37 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/osobowka-splonela-na-a1-na-wezle-piotrkow-poludnie/28wkV3RCgUKOesVnUsgW ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/osobowka-splonela-na-a1-na-wezle-piotrkow-poludnie/28wkV3RCgUKOesVnUsgW</link>
+<guid isPermaLink="false">eac564564d5d3d5d8ed1897c54766b45f128f46c</guid>
+<pubDate>Mon, 04 May 2026 22:20:37 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/sukces-zapasnikow-z-piotrkowa-wrocili-z-medalami/fzg9EpC7FwG9TJIjDKZH ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sukces-zapasnikow-z-piotrkowa-wrocili-z-medalami/fzg9EpC7FwG9TJIjDKZH</link>
+<guid isPermaLink="false">29f9914a2c1da66052dcc8e2ca46ac43444f1585</guid>
+<pubDate>Mon, 04 May 2026 22:20:37 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/gigant-e-commerce-rekrutuje-w-piotrkowie-co-oferuje/U2sw9OBuUkKHaG8CFc7d ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-e-commerce-rekrutuje-w-piotrkowie-co-oferuje/U2sw9OBuUkKHaG8CFc7d</link>
+<guid isPermaLink="false">494025b97764ccba00bdd78ade8025c8b5e3d547</guid>
+<pubDate>Mon, 04 May 2026 22:20:37 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
 <item>
 <title><![CDATA[ Wypadek niedaleko Piotrkowa. Ranny motocyklista ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-ranny-motocyklista/IKMPxdGKuBwRjNXgbO0t</link>
@@ -1599,16 +1620,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1617,6 +1628,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3309,16 +3330,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a"/>
 </item>
 <item>
-<title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Co oferuje? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-e-commerce-rekrutuje-w-piotrkowie-co-oferuje/U2sw9OBuUkKHaG8CFc7d</link>
-<guid isPermaLink="false">494025b97764ccba00bdd78ade8025c8b5e3d547</guid>
-<pubDate>Mon, 16 Mar 2026 12:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" alt="miniatura"/></p><p>Polski gigant rekrutuje w Piotrkowie. Sprawdziliśmy aktualne oferty w centrum logistycznym na obrzeżach miasta. Dowiedz się, na jakie stanowiska możesz aplikować już teraz i co firma oferuje nowym pracownikom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de"/>
-</item>
-<item>
 <title><![CDATA[ Emilia Z. ukradła pieniądze ze studniówki córki. Jest akt oskarżenia. Wiemy, ile grozi jej więzienia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/emilia-z-ukradla-pieniadze-ze-studniowki-corki-jest-akt-oskarzenia-wiemy-ile-grozi-jej-wiezienia/CPIurMLzuQR1CBI5d9F5</link>
 <guid isPermaLink="false">5ea104d8cb1f29fa15798d31bcdf8fb3056f409d</guid>
@@ -3349,16 +3360,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62a9184a-5e80-4158-b2de-283dcf6025d1"/>
 </item>
 <item>
-<title><![CDATA[ Sukces zapaśników z Piotrkowa. Wrócili z medalami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sukces-zapasnikow-z-piotrkowa-wrocili-z-medalami/fzg9EpC7FwG9TJIjDKZH</link>
-<guid isPermaLink="false">29f9914a2c1da66052dcc8e2ca46ac43444f1585</guid>
-<pubDate>Mon, 16 Mar 2026 11:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8a495b8f-2015-4583-9f54-0431764504a4" alt="miniatura"/></p><p>Czterech zawodników reprezentowało AKS Piotrków Trybunalski podczas eliminacji do finałów OOM i II Pucharze Polski juniorów młodszych, które odbyły się w Janowie Lubelskim. Wydarzenie zostało zorganizowane w dniach 13-15 marca i były to zapasy w stylu klasycznym. Jak poradzili sobie zawodnicy z naszego miasta?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a495b8f-2015-4583-9f54-0431764504a4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a495b8f-2015-4583-9f54-0431764504a4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a495b8f-2015-4583-9f54-0431764504a4"/>
-</item>
-<item>
 <title><![CDATA[ Afrykańskie zwierzęta uciekły z hodowli w woj. łódzkim. Wszczęto alarm ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pod-piotrkowem-uciekaja-nie-tylko-kangury-teraz-poszlo-o-jezozwierze/eBIcU3lxT9KUQMJzHp9R</link>
 <guid isPermaLink="false">387b06c366afcf1e7748771a91fae910dafe1aa6</guid>
@@ -3387,16 +3388,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7"/>
-</item>
-<item>
-<title><![CDATA[ Osobówka spłonęła na A1 na węźle Piotrków Południe ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/osobowka-splonela-na-a1-na-wezle-piotrkow-poludnie/28wkV3RCgUKOesVnUsgW</link>
-<guid isPermaLink="false">eac564564d5d3d5d8ed1897c54766b45f128f46c</guid>
-<pubDate>Sun, 15 Mar 2026 10:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" alt="miniatura"/></p><p>Pożar osobówki na węźle Piotrków Trybunalski Południe</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf"/>
 </item>
 <item>
 <title><![CDATA[ Akcja strażaków w Piotrkowie Trybunalskim. Doszło do pożaru w mieszkaniu ]]></title>
