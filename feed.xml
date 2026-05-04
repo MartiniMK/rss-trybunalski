@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 04 May 2026 18:30:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 20:32:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek niedaleko Piotrkowa. Ranny motocyklista ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-ranny-motocyklista/IKMPxdGKuBwRjNXgbO0t</link>
+<guid isPermaLink="false">12f1ffa52a56ef0545f19887da55a3b3f12ebde3</guid>
+<pubDate>Mon, 04 May 2026 21:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8d4cb4a2-e9f0-4e87-be0f-ddffd563488f" alt="miniatura"/></p><p>W poniedziałek, 4 maja po godzinie 17:00 doszło do wypadku na drodze pomiędzy Włodzimierzowem a Łęcznem. Jak się okazało, w zdarzeniu ucierpiał motocyklista. Na miejsce ruszyły służby, w tym strażacy, policjanci, a także zespół ratownictwa medycznego. Jak doszło do wypadku?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d4cb4a2-e9f0-4e87-be0f-ddffd563488f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d4cb4a2-e9f0-4e87-be0f-ddffd563488f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d4cb4a2-e9f0-4e87-be0f-ddffd563488f"/>
+</item>
 <item>
 <title><![CDATA[ Nowy podatek już pewny. Polacy zapłacą więcej niż się spodziewają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-podatek-juz-pewny-polacy-zaplaca-wiecej-niz-sie-spodziewaja/cXIrM7ZQYmwqD4pKNqYE</link>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/29d611ef-2f48-48d3-a6a4-1fbe225abe00"/>
-</item>
-<item>
-<title><![CDATA[ Taka plaża w centrum Polski. Obok stoi zabytkowa perełka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/taka-plaza-w-centrum-polski-obok-stoi-zabytkowa-perelka/WEzdxfdGHcNE7VaUTboj</link>
-<guid isPermaLink="false">66b8b9bc4ef681179f9bdf63fda3860e566cd3a5</guid>
-<pubDate>Fri, 13 Mar 2026 15:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5" alt="miniatura"/></p><p>Zalew Sulejowski powstał w latach 70. XX wieku na rzece Pilicy jako sztuczny zbiornik retencyjny, który miał zapewniać wodę dla Łodzi i okolicznych miast. Z czasem stał się ważnym ośrodkiem wypoczynkowym dla regionu, ale też przyjezdnych z innych regionów Polski. Wokół zbiornika powstały liczne plaże, przystanie i ośrodki wypoczynkowe, a zalew przyciąga żeglarzy, kajakarzy czy wędkarzy. Miejsce to…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5"/>
 </item>
 </channel></rss>
