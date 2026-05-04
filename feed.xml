@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 04 May 2026 14:34:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 17:04:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrków kurczy się coraz bardziej. Miasto w czołówce tracących mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkow-kurczy-sie-coraz-bardziej-miasto-w-czolowce-tracacych-mieszkancow/FAwu43jTFl3NBJbtHT59</link>
+<guid isPermaLink="false">36a9ca33cdbd4cbbebab2d66011e4fcc5a5b51ab</guid>
+<pubDate>Mon, 04 May 2026 18:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/a2907b76-ba75-4aae-ad65-835009ab3564" alt="miniatura"/></p><p>Piotrków Trybunalski wyludnia się z roku na rok coraz bardziej. Demografowie przewidują, że to zjawisko będzie jeszcze przyspieszać. Ostatnie narastać. W ciągu ostatnich pięciu lat w mieście ubyło blisko 2,7 tys. mieszkańców. Tylko w ostatnim roku zniknęło pół tysiąca Piotrkowian.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/galleries/a2907b76-ba75-4aae-ad65-835009ab3564" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/galleries/a2907b76-ba75-4aae-ad65-835009ab3564" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/galleries/a2907b76-ba75-4aae-ad65-835009ab3564"/>
+</item>
 <item>
 <title><![CDATA[ Miały służyć maksymalnie 70 lat, a nadal stoją. Co dalej z blokami z wielkiej płyty w naszym mieście? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mialy-sluzyc-maksymalnie-70-lat-a-nadal-stoja-co-dalej-z-blokami-z-wielkiej-plyty-w-naszym-miescie/h53Jkw1P08gD4W8i9lFw</link>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f"/>
-</item>
-<item>
-<title><![CDATA[ Zmiany na drogach w powiecie piotrkowskim. Będzie bezpieczniej? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zmiany-na-drogach-w-powiecie-piotrkowskim-bedzie-bezpieczniej/1002FhcQZIoXhH3aMdyr</link>
-<guid isPermaLink="false">208c32eadacc2544d6a45c06c267fef204a14195</guid>
-<pubDate>Fri, 13 Mar 2026 11:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c10f16d8-503e-4b5c-aa1a-eb904ea53d4a" alt="miniatura"/></p><p>W miejscowości Łęczno jednym z głównych punktów inwestycji będzie modernizacja istniejącego przejścia dla pieszych . W ramach tej inwestycji zostaną zainstalowane aktywne znaki D-6, które sygnalizują przejście, a także specjalne doświetlenie przejścia, które poprawi widoczność zarówno w dzień, jak i po zmroku. Dodatkowo, na nawierzchni jezdni pojawią się tzw. „kocie oczka” – odblaskowe elementy, k…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10f16d8-503e-4b5c-aa1a-eb904ea53d4a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10f16d8-503e-4b5c-aa1a-eb904ea53d4a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10f16d8-503e-4b5c-aa1a-eb904ea53d4a"/>
 </item>
 </channel></rss>
