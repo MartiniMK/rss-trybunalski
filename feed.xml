@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 04 May 2026 17:04:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 18:30:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowy podatek już pewny. Polacy zapłacą więcej niż się spodziewają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-podatek-juz-pewny-polacy-zaplaca-wiecej-niz-sie-spodziewaja/cXIrM7ZQYmwqD4pKNqYE</link>
+<guid isPermaLink="false">e7a9c8c2ac3bb41818fd72fe6899dcaacd862ce9</guid>
+<pubDate>Mon, 04 May 2026 19:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d50d6034-2079-41f7-b189-586aab2aad3c" alt="miniatura"/></p><p>Decyzja o rozszerzeniu opłaty reprograficznej została wprowadzona rozporządzeniem, a nie ustawą. Oznacza to brak klasycznej ścieżki legislacyjnej – bez debaty parlamentarnej i bez udziału prezydenta. Dokument podpisany przez minister kultury Martę Cienkowską aktualizuje listę urządzeń objętych opłatą, dostosowując ją do współczesnych realiów technologicznych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d50d6034-2079-41f7-b189-586aab2aad3c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d50d6034-2079-41f7-b189-586aab2aad3c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d50d6034-2079-41f7-b189-586aab2aad3c"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków kurczy się coraz bardziej. Miasto w czołówce tracących mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-kurczy-sie-coraz-bardziej-miasto-w-czolowce-tracacych-mieszkancow/FAwu43jTFl3NBJbtHT59</link>
@@ -3427,25 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bfcd429-60bb-4890-a845-5e9a9da4def5"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków najdroższy w regionie? Wiemy, co na to UOKiK ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkow-najdrozszy-w-regionie-wiemy-co-na-to-uokik/bjqA94y7hf3yPDsojESN</link>
-<guid isPermaLink="false">3185a2bcb41e28ff4c168dd7b77a5ef71acf9bce</guid>
-<pubDate>Fri, 13 Mar 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a6b40ed1-b323-4799-9c87-7c06ed8045a9" alt="miniatura"/></p><p>Eskalacja konfliktu na Bliskim Wschodzie odbija się również na portfelach kierowców. W ostatnim czasie na totemach przy stacjach benzynowych w całej Polsce można było zaobserwować skok cen, zwłaszcza w przypadku oleju napędowego. Pierwszy raz od 2022 roku koszt baryłki ropy przekroczył 100 dolarów amerykańskich. W Piotrkowie Trybunalskim o większych cenach paliw mówiło się już wcześniej, a przynaj…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6b40ed1-b323-4799-9c87-7c06ed8045a9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6b40ed1-b323-4799-9c87-7c06ed8045a9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6b40ed1-b323-4799-9c87-7c06ed8045a9"/>
-</item>
-<item>
-<title><![CDATA[ Groził śmiercią właścicielowi lokalu w Piotrkowie. To nie był pierwszy raz... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozil-smiercia-wlascicielowi-lokalu-w-piotrkowie-to-nie-byl-pierwszy-raz/682hINWaozXxnoWGUodQ</link>
-<guid isPermaLink="false">591d820021f51c645622f8baa076ab81e3bc4704</guid>
-<pubDate>Fri, 13 Mar 2026 15:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f" alt="miniatura"/></p><p>39-letni mężczyzna został zatrzymany po tym, jak groził śmiercią właścicielowi piotrkowskiego lokalu gastronomicznego. Jak się okazuje, nie był to pierwszy raz 39-latka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0ec30a72-46d6-4a86-bdc4-5bd4b8d8770f"/>
 </item>
 </channel></rss>
