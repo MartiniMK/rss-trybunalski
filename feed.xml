@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 05 May 2026 12:17:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 17:55:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gmina Sulejów zaprasza przedsiębiorców na spotkanie już w ten czwartek ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gmina-sulejow-zaprasza-przedsiebiorcow-na-spotkanie-juz-w-ten-czwartek/0955lPALCN6qWHqCKvA4</link>
+<guid isPermaLink="false">3ec771cd1146d273f04a8fb27c9d1bc5cbee52e0</guid>
+<pubDate>Tue, 05 May 2026 15:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b0acdbcf-a361-4608-b186-88a6688370be" alt="miniatura"/></p><p>Wydarzenie zaplanowano na 7 maja o godzinie 17:00. Odbędzie się w auli multimedialnej przy ulicy Rynek 1. Do udziału zaproszeni są przedsiębiorcy prowadzący działalność na terenie gminy Sulejów, a także osoby zainteresowane rozwojem biznesu w tym obszarze.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0acdbcf-a361-4608-b186-88a6688370be" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0acdbcf-a361-4608-b186-88a6688370be" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0acdbcf-a361-4608-b186-88a6688370be"/>
+</item>
 <item>
 <title><![CDATA[ Pożar w Piotrkowie. Na miejscu 4 zastępy straży ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-piotrkowie-na-miejscu-4-zastepy-strazy/p8Tgaq2UyTwY4uLgc4oE</link>
@@ -1659,16 +1669,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1677,6 +1677,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/75457196-ef26-43aa-9b0f-68c5085115ae" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/75457196-ef26-43aa-9b0f-68c5085115ae" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/75457196-ef26-43aa-9b0f-68c5085115ae"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowskie sądy szukają pracowników. Lista wymagań i zarobki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowskie-sady-szukaja-pracownikow-lista-wymagan-i-zarobki/bwLQ5p6Vq9WH6Z441gGD</link>
-<guid isPermaLink="false">dbc91691d72fd8829e7effae2d868f881b4cd54e</guid>
-<pubDate>Sun, 15 Mar 2026 10:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" alt="miniatura"/></p><p>Stypendium brutto: 2 755,10 zł</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7"/>
 </item>
 </channel></rss>
