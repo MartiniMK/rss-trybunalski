@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 05 May 2026 10:19:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 12:17:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar w Piotrkowie. Na miejscu 4 zastępy straży ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-piotrkowie-na-miejscu-4-zastepy-strazy/p8Tgaq2UyTwY4uLgc4oE</link>
+<guid isPermaLink="false">83ee49f1baed20d3ba24d84afac3f24df881e97d</guid>
+<pubDate>Tue, 05 May 2026 13:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d3cccd08-9bf0-48ba-b474-d8b4f9255f40" alt="miniatura"/></p><p>W poniedziałek, 4 maja, na terenie Piotrkowa doszło do pożaru. Do akcji wkroczyli strażacy. Jak się okazało, ogień objął zsyp na śmieci przy ul. Wojska Polskiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3cccd08-9bf0-48ba-b474-d8b4f9255f40" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3cccd08-9bf0-48ba-b474-d8b4f9255f40" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3cccd08-9bf0-48ba-b474-d8b4f9255f40"/>
+</item>
+<item>
+<title><![CDATA[ Nowe termy niedaleko Piotrkowa. W regionie powstanie kompleks basenów, kiedy otwarcie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/termy-niedaleko-piotrkowa-w-regionie-powstanie-kompleks-basenow-kiedy-otwarcie/EAv5BYu8vXki0iZMk8G7</link>
+<guid isPermaLink="false">db9eb1e9f6bef80bf6e4df416be94d3d813df6b1</guid>
+<pubDate>Tue, 05 May 2026 12:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/89c4d271-2e67-48ea-ad43-389eb183d90a" alt="miniatura"/></p><p>Pod koniec kwietnia prezydent Tomaszowa Mazowieckiego Marcin Witko wspólnie z radnymi miejskimi zaprezentował koncepcję kompleksu term na Szymanówku, czyli na tomaszowskich Błoniach. To kontynuacja projektu z 2024 roku – tym razem w wersji rozłożonej na dwa etapy, co według samorządowców ma uczynić inwestycję bardziej przewidywalną dla budżetu miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/89c4d271-2e67-48ea-ad43-389eb183d90a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/89c4d271-2e67-48ea-ad43-389eb183d90a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/89c4d271-2e67-48ea-ad43-389eb183d90a"/>
+</item>
 <item>
 <title><![CDATA[ Matura 2026 w Piotrkowie. Ilu uczniów podchodzi do egzaminów? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/matura-2026-w-piotrkowie-ilu-uczniow-podchodzi-do-egzaminow/hDwHch3Pk3txNAmlRicY</link>
@@ -1639,16 +1659,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1657,6 +1667,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3427,25 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/727019e9-0123-4fe9-b3ff-da5a1f911ad7"/>
-</item>
-<item>
-<title><![CDATA[ Osobówka spłonęła na A1 na węźle Piotrków Południe ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/osobowka-splonela-na-a1-na-wezle-piotrkow-poludnie/28wkV3RCgUKOesVnUsgW</link>
-<guid isPermaLink="false">eac564564d5d3d5d8ed1897c54766b45f128f46c</guid>
-<pubDate>Sun, 15 Mar 2026 10:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" alt="miniatura"/></p><p>Pożar osobówki na węźle Piotrków Trybunalski Południe</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2ae4e2f-88b9-4859-8c6c-d2762053acdf"/>
-</item>
-<item>
-<title><![CDATA[ Akcja strażaków w Piotrkowie Trybunalskim. Doszło do pożaru w mieszkaniu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-strazakow-w-piotrkowie-trybunalskim-doszlo-do-pozaru-w-mieszkaniu/Yv7XaqXU1vnawqWYIQAv</link>
-<guid isPermaLink="false">2c2c2286536dbb8affe07e531d7b2a15f7636625</guid>
-<pubDate>Sat, 14 Mar 2026 21:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/37bf30a3-6650-4127-9d63-10bfb939311c" alt="miniatura"/></p><p>Przed godz. 19:0o służby potrzymały wezwanie, że przy ul. Rudowskiego w Piotrkowie doszło do pożaru mieszkania.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/37bf30a3-6650-4127-9d63-10bfb939311c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/37bf30a3-6650-4127-9d63-10bfb939311c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/37bf30a3-6650-4127-9d63-10bfb939311c"/>
 </item>
 </channel></rss>
