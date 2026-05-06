@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 06 May 2026 12:04:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 14:45:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wizytówka miasta czy powód do wstydu? Centrum Przesiadkowe w Piotrkowie opanowane przez bezdomnych i… buty w toalecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wizytowka-miasta-czy-powod-do-wstydu-centrum-przesiadkowe-w-piotrkowie-opanowane-przez-bezdomnych-i-buty-w-toalecie/rngvo0qqpOrOU0HEInHz</link>
+<guid isPermaLink="false">de91beed959bf95836e94083a202af93eee7b31c</guid>
+<pubDate>Wed, 06 May 2026 16:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/279eb515-21e7-46f4-beef-9f7a9c5b2ab1" alt="miniatura"/></p><p>Oczekiwanie na transport regionalny w Piotrkowie miało odbywać się w komfortowych warunkach, dzięki odnowionemu Centrum Przesiadkowemu przy ul. Polskiej Organizacji Wojskowej 12. To jednak nie udaje się każdemu. Dlaczego? Jak się okazuje, w wyremontowanej przestrzeni można napotkać osoby pijące alkohol, a w muszlach toaletowych… buty. Z tego powodu część pasażerów decyduje się na oczekiwanie na ze…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/279eb515-21e7-46f4-beef-9f7a9c5b2ab1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/279eb515-21e7-46f4-beef-9f7a9c5b2ab1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/279eb515-21e7-46f4-beef-9f7a9c5b2ab1"/>
+</item>
 <item>
 <title><![CDATA[ Wielka wygrana w naszym mieście! Gracz trafił „szóstkę” w Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielka-wygrana-w-naszym-miescie-gracz-trafil-szostke-w-lotto/lq7XnfVUKVEdqSsZDEYY</link>
@@ -1719,16 +1729,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1737,6 +1737,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a"/>
-</item>
-<item>
-<title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Co oferuje? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-e-commerce-rekrutuje-w-piotrkowie-co-oferuje/U2sw9OBuUkKHaG8CFc7d</link>
-<guid isPermaLink="false">494025b97764ccba00bdd78ade8025c8b5e3d547</guid>
-<pubDate>Mon, 16 Mar 2026 12:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" alt="miniatura"/></p><p>Polski gigant rekrutuje w Piotrkowie. Sprawdziliśmy aktualne oferty w centrum logistycznym na obrzeżach miasta. Dowiedz się, na jakie stanowiska możesz aplikować już teraz i co firma oferuje nowym pracownikom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d529a123-7b0a-44b3-8b23-0c060e6315de"/>
 </item>
 </channel></rss>
