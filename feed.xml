@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 06 May 2026 18:34:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 20:50:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Miłe złego początki Piotrkowianina w Legionowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-mile-zlego-poczatki-piotrkowianina-w-legionowie/l0eFS9AC3CFRBzNw56y3</link>
+<guid isPermaLink="false">d1a0b6503a06b0d03b2a39a23f97fc5a27f1528e</guid>
+<pubDate>Wed, 06 May 2026 21:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/86c72b0e-4ccd-44e6-9ff7-ee6e0fdb6964" alt="miniatura"/></p><p>Po pechowej i minimalnej przegranej w Opolu zespół Stanisława Makowiejewa i Kamila Wasilewskiego, który nie zaznał smaku zwycięstwa w żadnym z ostatnich ośmiu meczów o ligowe punkty, pojechał do Legionowa sprawić niespodziankę. Piotrkowianie nie byli faworytem spotkania z drużyną Tomasza Strząbały, ale nie zamierzali składać broni przed startem rywalizacji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/86c72b0e-4ccd-44e6-9ff7-ee6e0fdb6964" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/86c72b0e-4ccd-44e6-9ff7-ee6e0fdb6964" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/86c72b0e-4ccd-44e6-9ff7-ee6e0fdb6964"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek niedaleko Piotrkowa. Samochód uderzył w bariery ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-niedaleko-piotrkowa-samochod-uderzyl-w-bariery/etHgiLTPjivyuKnHACzf</link>
+<guid isPermaLink="false">79bb6ecb2d3d39b3a95a2bdbcfaa7b2776feb9f1</guid>
+<pubDate>Wed, 06 May 2026 20:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b1947dac-2086-41f2-9100-49c668373894" alt="miniatura"/></p><p>W środę, 6 maja przed godziną 20:00 strażacy otrzymali zgłoszenie o zdarzeniu na autostradzie A1 na wysokości miejscowości Sierosław. Jak się okazało, kierowca samochodu marki Renault Trafic, z nieznanych na tę chwilę przyczyn, uderzył w bariery energochłonne. Na miejsce ruszyły służby. Jak podaje strona Raporty Drogowe Autostrada A1, droga jest obecnie przyblokowana na 339. kilometrze w kierunku…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1947dac-2086-41f2-9100-49c668373894" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1947dac-2086-41f2-9100-49c668373894" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b1947dac-2086-41f2-9100-49c668373894"/>
+</item>
 <item>
 <title><![CDATA[ Pięć lat temu przestała istnieć. Droga przez Piotrków miała być pierwszą autostradą PRL [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piec-lat-temu-przestala-istniec-droga-przez-piotrkow-miala-byc-pierwsza-autostrada-prl-zdjecia/HbSQVa8AaXFFcMtRZ8X2</link>
@@ -1739,16 +1759,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1757,6 +1767,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3407,35 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b"/>
-</item>
-<item>
-<title><![CDATA[ Zawodniczka MKS Piotrcovia reanimowana podczas treningu. Klub informuje o jej stanie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zawodniczka-mks-piotrcovia-reanimowana-podczas-treningu-klub-informuje-o-jej-stanie/R1iVYtoAAfCu6XRBEHc4</link>
-<guid isPermaLink="false">cef7efde797e60204e3933390fcb0251a3460e8b</guid>
-<pubDate>Tue, 17 Mar 2026 11:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d1add3ec-ac04-4f12-8814-91becfacecd2" alt="miniatura"/></p><p>W poniedziałek, 16 marca zawodniczka klubu piłkarek ręcznych Krasoń MKS Piotrcovia gorzej się poczuła i straciła przytomność. Na ratunek ruszyli jej inni trenujący. Na miejsce wysłano zespół ratownictwa medycznego, który kontynuował udzielanie pierwszej pomocy. Dziewczyna przytomność straciła kilkukrotnie, dlatego wezwano jeszcze jedną karetkę pogotowia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1add3ec-ac04-4f12-8814-91becfacecd2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1add3ec-ac04-4f12-8814-91becfacecd2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1add3ec-ac04-4f12-8814-91becfacecd2"/>
-</item>
-<item>
-<title><![CDATA[ Tancerki z Piotrkowa na mistrzostwach. Do miasta wróciły z medalami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-na-mistrzostwach-do-miasta-wrocily-z-medalami/UDk7K8uEWMhP89yeHzge</link>
-<guid isPermaLink="false">4d8f78680b07c3cfc6f9c2d8f2414e5326dc742e</guid>
-<pubDate>Tue, 17 Mar 2026 10:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c254807-89b8-492e-9fdf-68c168d1e749" alt="miniatura"/></p><p>W sobotę, 14 marca, w hali widowiskowo-sportowej w Kamieńsku odbyły się III Eliminacje Mistrzostw Polski PZTSport w Tańcu Sportowym. Były to też bezpośrednie kwalifikacje do mistrzostw świata. W wydarzeniu wzięły udział tancerki z Piotrkowa i nie wróciły z pustymi rękami.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c254807-89b8-492e-9fdf-68c168d1e749" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c254807-89b8-492e-9fdf-68c168d1e749" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c254807-89b8-492e-9fdf-68c168d1e749"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczne chwile w Piotrkowie. Wystraszona kobieta zawiadomiła służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczne-chwile-w-piotrkowie-wystraszona-kobieta-zawiadomila-sluzby/VOW5vtEQFBqNZBHSDOJR</link>
-<guid isPermaLink="false">68aabcf954b2a65aac3c7c41299c5e44d795935e</guid>
-<pubDate>Mon, 16 Mar 2026 15:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" alt="miniatura"/></p><p>Wszystko działo się w sobotę, 14 marca. 83-letni mężczyzna około godziny 10:00 wyjechał z domu rowerem na zakupy, na pobliski bazar. Gdy długo nie wracał, żona postanowiła do niego zadzwonić. Z rozmowy wyniknęło, że senior znajduje się na polu poza Piotrkowem, jednak nie był w stanie określić, gdzie dokładnie. W takiej sytuacji kobieta postanowiła zadzwonić po pomoc. Ze względu na choroby męża bał…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104"/>
 </item>
 </channel></rss>
