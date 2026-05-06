@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 06 May 2026 14:45:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 16:59:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pięć lat temu przestała istnieć. Droga przez Piotrków miała być pierwszą autostradą PRL [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piec-lat-temu-przestala-istniec-droga-przez-piotrkow-miala-byc-pierwsza-autostrada-prl-zdjecia/HbSQVa8AaXFFcMtRZ8X2</link>
+<guid isPermaLink="false">460a4d47e2d3e541b400a92cbe5aa8fe5d83d475</guid>
+<pubDate>Wed, 06 May 2026 18:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/85f9ed22-cb22-436c-b071-a1bd842079e4" alt="miniatura"/></p><p>Od pięciu lat kierowcy pokonują trasę przez Polskę z północy na południe korzystając z autostrady A1. Trasa zastąpiła legendarną "gierkówkę", czyli drogę krajową nr 1, jaka od 1976 roku służyła jadącym z Warszawy do Katowic. Oddano ją do użytku 50 lat temu, a przez 45 lat pozwalała szybko przemieszczać się ze stolicy na południe kraju.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/85f9ed22-cb22-436c-b071-a1bd842079e4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/85f9ed22-cb22-436c-b071-a1bd842079e4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/85f9ed22-cb22-436c-b071-a1bd842079e4"/>
+</item>
 <item>
 <title><![CDATA[ Wizytówka miasta czy powód do wstydu? Centrum Przesiadkowe w Piotrkowie opanowane przez bezdomnych i… buty w toalecie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wizytowka-miasta-czy-powod-do-wstydu-centrum-przesiadkowe-w-piotrkowie-opanowane-przez-bezdomnych-i-buty-w-toalecie/rngvo0qqpOrOU0HEInHz</link>
@@ -1729,16 +1739,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1747,6 +1747,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f22476-d5f5-4a1d-8c9e-1e0a4e08a104"/>
-</item>
-<item>
-<title><![CDATA[ Problemy z parkowaniem w Piotrkowie. Rozwiązaniem parkingi wielopoziomowe? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/problemy-z-parkowaniem-w-piotrkowie-rozwiazaniem-parkingi-wielopoziomowe/jPsjlSpY6HFHb33GgmlI</link>
-<guid isPermaLink="false">e2a23e8f4705d3561a5d3029a8b1ec108552e61e</guid>
-<pubDate>Mon, 16 Mar 2026 14:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a" alt="miniatura"/></p><p>Samochodów jest coraz więcej, w przeciwieństwie do miejsc parkingowych. Problem ten nie omija Piotrkowian, którzy na osiedlach czasami kilkanaście minut szukają miejsc, by zostawić swój pojazd. Nie inaczej jest w centrum miasta. Na problem zwrócił uwagę miejski radny, a rozwiązaniem mógłby być… parking wielopoziomowy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d7def865-a3b4-443a-99db-af2d7888fb7a"/>
 </item>
 </channel></rss>
