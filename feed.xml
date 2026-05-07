@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 06 May 2026 22:14:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 00:07:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Z Piotrkowa Trybunalskiego na pierwszą linię ognia. Strażacy z Łódzkiego ruszyli na pomoc Lubelszczyźnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-piotrkowa-trybunalskiego-na-pierwsza-linie-ognia-strazacy-z-lodzkiego-ruszyli-na-pomoc-lubelszczyznie/nS7fMUdC8OFrE6ECJwSe</link>
+<guid isPermaLink="false">f0e4a94d0251e8f3d2dcd1ab934dfde072e50b1f</guid>
+<pubDate>Thu, 07 May 2026 00:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ebc215a8-3dcc-4547-8878-8084a8e138de" alt="miniatura"/></p><p>Pożar wybuchł w okolicach miejscowości Kozaki w gminie Łukowa, w powiecie biłgorajskim i błyskawicznie objął rozległy kompleks leśny w Nadleśnictwie Józefów, na terenie Puszczy Solskiej. Według informacji Państwowej Straży Pożarnej oraz lokalnych mediów, ogień rozprzestrzenił się na blisko 250 hektarów lasu, a pas zabezpieczany przez ratowników objął nawet 500 hektarów. Sprzyjały mu silny wiatr or…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebc215a8-3dcc-4547-8878-8084a8e138de" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebc215a8-3dcc-4547-8878-8084a8e138de" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebc215a8-3dcc-4547-8878-8084a8e138de"/>
+</item>
 <item>
 <title><![CDATA[ ORLEN Superliga: Miłe złego początki Piotrkowianina w Legionowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-mile-zlego-poczatki-piotrkowianina-w-legionowie/l0eFS9AC3CFRBzNw56y3</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1"/>
-</item>
-<item>
-<title><![CDATA[ Niemiecki gigant otwiera nowy sklep. Konkurencja dla Pepco i Action w naszym mieście ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niemiecki-gigant-otwiera-nowy-sklep-konkurencja-dla-pepco-i-action-w-naszym-miescie/o3bP0jejl8Scf8zd8yOP</link>
-<guid isPermaLink="false">009658968db95806e6f434f26332468c2dbe81d4</guid>
-<pubDate>Tue, 17 Mar 2026 11:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b" alt="miniatura"/></p><p>Już w tym tygodniu szykuje się otwarcie nowych sklepów w naszym mieście. W powiększonym parku handlowym pojawią się nowe placówki znanych już w Piotrkowie marek, ale będzie to też debiut niemieckiego giganta. To konkurencja dla takich sieci jak Pepco i Action.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e54bfa2c-11a5-4bdd-a6b4-79a0e282428b"/>
 </item>
 </channel></rss>
