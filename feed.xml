@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 07 May 2026 12:04:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 14:47:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ To wibrator z czasów PRL z Piotrkowa. Produkowała go spółdzielnia inwalidów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-wibrator-z-czasow-prl-z-piotrkowa-produkowala-go-spoldzielnia-inwalidow/anPrCBstGLutZdQkHW9h</link>
+<guid isPermaLink="false">fb5e245267b440355a08c8bfe8c925cea7ff580e</guid>
+<pubDate>Thu, 07 May 2026 16:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/568168f1-4e06-42b8-9f35-0b5f18082aae" alt="miniatura"/></p><p>Spółdzielnia inwalidów w Piotrkowie produkowała w czasach PRL nietypowe urządzenie. Masażer marki Telsin trafiał do sklepów z artykułami gospodarstwa domowego. Tam można było nabyć przedmiot, który mógł być pierwszym na polskim rynku wibratorem, ukrywającym się pod płaszczykiem urządzenie do masażu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/568168f1-4e06-42b8-9f35-0b5f18082aae" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/568168f1-4e06-42b8-9f35-0b5f18082aae" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/568168f1-4e06-42b8-9f35-0b5f18082aae"/>
+</item>
+<item>
+<title><![CDATA[ Uczeń z Piotrkowa pojedzie do Szanghaju. Będzie reprezentował Polskę podczas finałów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uczen-z-piotrkowa-pojedzie-do-szanghaju-bedzie-reprezentowal-polske-podczas-finalow/zlvwCNu5eYNslnF9TVf2</link>
+<guid isPermaLink="false">86eb6526f8ac2a08d8d99f19384d729b0cda89c9</guid>
+<pubDate>Thu, 07 May 2026 14:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/35911e2d-f8cf-4b14-acaa-e72e0b783dee" alt="miniatura"/></p><p>WorldSkills Poland 2026 to największa w Polsce inicjatywa skierowana do uczniów szkół branżowych, techników oraz studentów kierunków technicznych. Podczas konkursu młodzież ma okazję, by sprawdzić i rozwinąć swoje umiejętności. Jak się okazuje, podczas 48. edycji światowych finałów WorldSkills Shanghai 2026 zobaczymy ucznia z piotrkowskiej szkoły.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35911e2d-f8cf-4b14-acaa-e72e0b783dee" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35911e2d-f8cf-4b14-acaa-e72e0b783dee" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35911e2d-f8cf-4b14-acaa-e72e0b783dee"/>
+</item>
+<item>
+<title><![CDATA[ Wielkie gwiazdy wystąpią w naszym powiecie. Przed nami gminne święto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-gwiazdy-wystapia-w-naszym-powiecie-przed-nami-gminne-swieto/jywn1MLKa1zt1Rcjk3aH</link>
+<guid isPermaLink="false">578ac9c0681d6563edf08cd61f77fae4e85e86f5</guid>
+<pubDate>Thu, 07 May 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/70130d23-5263-4047-ac4d-f3a30662db2c" alt="miniatura"/></p><p>Nadchodzące miesiące zapowiadają się intensywnie pod względem ilości imprez pod chmurką. Mieszkańcy powiatu piotrkowskiego mają w czym wybierać. Właśnie ogłoszono program kolejnego wydarzenia, tym razem chodzi o Święto Gminy Wola Krzysztoporska.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/70130d23-5263-4047-ac4d-f3a30662db2c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/70130d23-5263-4047-ac4d-f3a30662db2c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/70130d23-5263-4047-ac4d-f3a30662db2c"/>
+</item>
 <item>
 <title><![CDATA[ Nocna walka z żywiołem. Strażacy z naszego regionu w akcji [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nocna-walka-z-zywiolem-strazacy-z-naszego-regionu-w-akcji-zdjecia/v8TG1CqxME49E7pFpeCQ</link>
@@ -1799,16 +1829,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1817,6 +1837,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,45 +3417,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a2d59c70-d9ec-4bf1-b7dc-de55d83872cc"/>
-</item>
-<item>
-<title><![CDATA[ Złodziejski najazd na market w Piotrkowie. Nalot policji, w tle narkotyki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kradziez-w-piotrkowie-po-lupy-przyjechali-az-ze-zgierza/VDAdPlXA41Y9miRz2wel</link>
-<guid isPermaLink="false">fc657b2de06db2f834c714aa5aa5e8a20280c2ce</guid>
-<pubDate>Wed, 18 Mar 2026 16:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" alt="miniatura"/></p><p>Wszystko zaczęło się 9 marca 2026 r. 41-letni mężczyzna, mimo aktywnego zakazu prowadzenia pojazdów, umówił się ze znajomymi w Zgierzu i przywiózł ich do jednego ze sklepów budowlanych w Piotrkowie. 35-latka oraz 39-latek udali się do marketu, a 41-latek czekał na nich blisko drzwi wejściowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bf418125-b530-4a9e-85ed-1b78020ec582"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w Piotrkowie. Osobówka zderzyła się z motocyklem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-osobowka-zderzyla-sie-z-motocyklem/FR2SeAl6WqzuojD2HwAk</link>
-<guid isPermaLink="false">e32bf2bb784663a022822c48e6c9c049f39f3787</guid>
-<pubDate>Wed, 18 Mar 2026 09:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" alt="miniatura"/></p><p>Około godz. 8:00 na skrzyżowaniu ul. Dmowskiego z ul. Kostromską w Piotrkowie doszło do kolizji dwóch pojazdów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e35bf521-f7b4-459a-8c63-b6dd43d243d1"/>
-</item>
-<item>
-<title><![CDATA[ Nowe informacje w sprawie stanu zdrowia zawodniczki MKS Piotrcovia. Szczypiornistka była w śpiączce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-informacje-w-sprawie-stanu-zdrowia-zawodniczki-mks-piotrcovia-szczypiornistka-byla-w-spiaczce/Z47qzc9VWcRmpyEqey7M</link>
-<guid isPermaLink="false">a53d3731afb3952009986fff281f81f3679dddea</guid>
-<pubDate>Wed, 18 Mar 2026 06:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" alt="miniatura"/></p><p>Do dramatycznych chwil doszło w poniedziałek, 16 marca podczas rutynowego treningu siłowego. Jedna ze szczypiornistek klubu Krasoń MKS Piotrcovia nagle źle się poczuła i straciła przytomność. Pierwszej pomocy udzielili jej inni ćwiczący tego dnia na siłowni. Następnie reanimację przejęli wezwani na miejsce ratownicy medyczni. Dziewczyna kilkukrotnie traciła przytomność, w związku z czym konieczne…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/51cc0fe8-10d0-45f4-92b6-5d9127940679"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska Krzywda. Park jak blizna w sercu miasta [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-krzywda-park-jak-blizna-w-sercu-miasta-zdjecia/81iY6qDTNkwWJl1f2PGj</link>
-<guid isPermaLink="false">135744ae5f97b96f62463dfdfdb11bb663bba68e</guid>
-<pubDate>Tue, 17 Mar 2026 18:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" alt="miniatura"/></p><p>Nazwa Krzywda jest w Piotrkowie powszechnie znana i używana. Park śródmiejski zapewne jest mniej kojarzony z terenem przy ul. Słowackiego. Dla Piotrkowian oczywista jest też nazwa "Jajo", którą określają amfiteatr piotrkowski zbudowany w parku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81259630-5832-4612-9e02-a95a09c8f14b"/>
 </item>
 </channel></rss>
