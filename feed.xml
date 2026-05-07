@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 07 May 2026 04:05:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 06:55:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sąd Okręgowy w Piotrkowie Trybunalskim szuka pracowników. Można zarobić ponad 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sad-okregowy-w-piotrkowie-trybunalskim-szuka-pracownikow-mozna-zarobic-ponad-8-tys-zl/oO2OCs0cmsZBKVuhadFM</link>
+<guid isPermaLink="false">66cbaebe0bcf7abcd6516bc1208e06e717dc3932</guid>
+<pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" alt="miniatura"/></p><p>Pierwsza z ofert dotyczy zatrudnienia w pełnym wymiarze, w systemie jednozmianowym. Wynagrodzenie zasadnicze ustalono na poziomie minimum 8 000 zł brutto miesięcznie. Pracodawcą jest Sąd Okręgowy w Piotrkowie Trybunalskim, a miejscem wykonywania pracy – Opiniodawczy Zespół Sądowych Specjalistów (OZSS), działający przy sądzie, z siedzibą przy ul. Juliusza Słowackiego 5.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7"/>
+</item>
 <item>
 <title><![CDATA[ Z Piotrkowa Trybunalskiego na pierwszą linię ognia. Strażacy z Łódzkiego ruszyli na pomoc Lubelszczyźnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-piotrkowa-trybunalskiego-na-pierwsza-linie-ognia-strazacy-z-lodzkiego-ruszyli-na-pomoc-lubelszczyznie/nS7fMUdC8OFrE6ECJwSe</link>
@@ -3417,15 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/642afc12-eaf6-4acc-89e5-a9c7812e1249"/>
-</item>
-<item>
-<title><![CDATA[ Te urządzenia są w Piotrkowie bardzo potrzebne? Kolejny głos w sprawie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/te-urzadzenia-sa-w-piotrkowie-bardzo-potrzebne-kolejny-glos-w-sprawie/yGIfghHx1Y6CHa2s0p2E</link>
-<guid isPermaLink="false">380233ae57adb9a5d4347ccc1a57c340ea870595</guid>
-<pubDate>Tue, 17 Mar 2026 12:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" alt="miniatura"/></p><p>Choć już w szkole podstawowej uczymy się, że woda i olej się nie mieszają, w codziennym pośpiechu często o tym zapominamy. Efektem wylewania zużytego tłuszczu prosto do zlewu są nie tylko fatalne dla środowiska zanieczyszczenia, ale i kosztowne zatory w domowej kanalizacji. Aby uniknąć wizyty hydraulika, wystudzony olej najlepiej przelać do szczelnego pojemnika i przekazać do Punktu Selektywnej Zb…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac0a2c57-f701-418c-be39-969ff3bc92b1"/>
 </item>
 </channel></rss>
