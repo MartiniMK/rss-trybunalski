@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 08 May 2026 12:24:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 15:10:52 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Z domu prosto do urzędu. Szykuje się nowa usługa w naszym mieście? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/z-domu-prosto-do-urzedu-szykuje-sie-nowa-usluga-w-naszym-miescie/LRsbkdaM9rDHiawN6H2H</link>
+<guid isPermaLink="false">ddca60c7985e86c14ccaf849795f6bd251291286</guid>
+<pubDate>Fri, 08 May 2026 14:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a8ba4b2b-953b-4ac3-8767-141feda8bbe5" alt="miniatura"/></p><p>Na platformie zakupowej magistratu pojawiło się postępowanie w sprawie usługi transportowej typu „door-to-door”. Na czym polegałoby to rozwiązanie?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8ba4b2b-953b-4ac3-8767-141feda8bbe5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8ba4b2b-953b-4ac3-8767-141feda8bbe5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8ba4b2b-953b-4ac3-8767-141feda8bbe5"/>
+</item>
 <item>
 <title><![CDATA[ Ta strefa inwestycyjna w Sulejowie ma potencjał   Sprawdź dlaczego! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ta-strefa-inwestycyjna-w-sulejowie-ma-potencjal-sprawdz-dlaczego/hQGelt2X8C0SgLmBa7LN</link>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986"/>
-</item>
-<item>
-<title><![CDATA[ Castorama szuka pracowników, kusi oryginalnym bonusem. Na jakie stanowiska nabór? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/castorama-szuka-pracownikow-kusi-oryginalnym-bonusem-na-jakie-stanowiska-nabor/dJsbsGLGBLFXuVEu295E</link>
-<guid isPermaLink="false">f1d320e1621f04239b264ff8c3b797c9fce97974</guid>
-<pubDate>Fri, 20 Mar 2026 11:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/105f655e-ad37-4e57-ac7d-068de5d6d9cf" alt="miniatura"/></p><p>Jeden ze sklepów budowlanych w Piotrkowie Trybunalskim rozpoczął rekrutację. Poszukiwani są kandydaci na różne stanowiska. Chodzi o Castoramę przy ul. Aleje Generała Władysława Sikorskiego 51. Marka została założona we Francji, ale od 2002 roku w całości należy do brytyjskiej grupy Kingfisher. Sprawdziliśmy, jakie warunki sieć oferuje nowym pracownikom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/105f655e-ad37-4e57-ac7d-068de5d6d9cf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/105f655e-ad37-4e57-ac7d-068de5d6d9cf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/105f655e-ad37-4e57-ac7d-068de5d6d9cf"/>
 </item>
 </channel></rss>
