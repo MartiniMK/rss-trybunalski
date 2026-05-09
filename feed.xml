@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 09 May 2026 07:24:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 09:35:52 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Ktoś z naszego miasta właśnie został milionerem. Padła wielka wygrana w Lotto ]]></title>
@@ -3397,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da"/>
-</item>
-<item>
-<title><![CDATA[ Narkotyki w Piotrkowie. Akcja policji, zatrzymano dilera? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/narkotyki-w-piotrkowie-akcja-policji-zatrzymano-dilera/yX0DEnxMAO8kbZSW70ax</link>
-<guid isPermaLink="false">0ec618540584ed105e406b111c6c93b918017a41</guid>
-<pubDate>Fri, 20 Mar 2026 12:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40" alt="miniatura"/></p><p>Do zdarzenia doszło 16 marca 2026 roku podczas patrolu funkcjonariuszy Wydziału Wywiadowczego na terenie Piotrkowa Trybunalskiego. Policjanci zauważyli mężczyznę, który energicznie wsiadł do zaparkowanego Audi . Gdy radiowóz mijał pojazd, pasażer siedzący na tylnym siedzeniu uważnie obserwował funkcjonariuszy. Samochód ruszył w kierunku ulicy Sulejowskiej. Policjanci postanowili przeprowadzić kont…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40"/>
 </item>
 </channel></rss>
