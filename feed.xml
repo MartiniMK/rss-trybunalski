@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 09 May 2026 21:04:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 22:05:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Puchar Polski Kobiet: Piotrcovia wyeliminowała zespół gospodarza i zagra w wielkim finale! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-piotrcovia-wyeliminowala-zespol-gospodarza-i-zagra-w-wielkim-finale/ceCaFyt1gR4kBNiNyM9L</link>
+<guid isPermaLink="false">0baaa966b35bb9cc814f86ba9c7cd593362a18e3</guid>
+<pubDate>Sat, 09 May 2026 23:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5c944802-2073-4857-9376-9f4e9b5acb1c" alt="miniatura"/></p><p>Tegoroczny turniej finałowy Pucharu Polski Kobiet zapowiadał się wyjątkowo nie tylko ze względu na prestiż rozgrywek i stawkę, ale także na obsadę. Podczas sobotnich półfinałów na parkiecie mogliśmy zobaczyć wiele reprezentantek Polski, które walczą o miejsce w składzie na grudniowe Mistrzostwa Europy Kobiet 2026 w naszym kraju oraz zawodniczek znajdujących się pod stałą obserwacją selekcjonera Ar…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c944802-2073-4857-9376-9f4e9b5acb1c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c944802-2073-4857-9376-9f4e9b5acb1c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c944802-2073-4857-9376-9f4e9b5acb1c"/>
+</item>
 <item>
 <title><![CDATA[ Ranking zawodów, którymi gardzą polacy. Zaskakujące, kto wyprzedza polityków... ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ranking-zawodow-ktorymi-gardza-polacy-zaskakujace-kto-wyprzedza-politykow/RYROhAhzSvbqMMnBCO2G</link>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46"/>
-</item>
-<item>
-<title><![CDATA[ Stopnie alarmowe w województwie łódzkim. Służby w gotowości ]]></title>
-<link>https://trybunalski.pl/wiadomosci/stopnie-alarmowe-w-wojewodztwie-lodzkim-sluzby-w-gotowosci/Kvj43b190C8qyoGBoAHK</link>
-<guid isPermaLink="false">1507bd8173926e9d320460fad7871308d11343bd</guid>
-<pubDate>Fri, 20 Mar 2026 14:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/59239c50-5666-4da1-a445-776e878c6fdd" alt="miniatura"/></p><p>Premier przedłużył obowiązywanie stopni alarmowych BRAVO i CHARLIE-CRP do 31 maja. W całym kraju, również w województwie łódzkim, nadal obowiązywać będą stopnie alarmowe. Sprawdzamy, jakie zasady będą obowiązywać od 1 marca i czy wpłyną one na codzienne życie mieszkańców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/59239c50-5666-4da1-a445-776e878c6fdd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/59239c50-5666-4da1-a445-776e878c6fdd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/59239c50-5666-4da1-a445-776e878c6fdd"/>
 </item>
 </channel></rss>
