@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 09 May 2026 04:38:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 07:24:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ktoś z naszego miasta właśnie został milionerem. Padła wielka wygrana w Lotto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ktos-z-naszego-miasta-wlasnie-zostal-milionerem-padla-wielka-wygrana-w-lotto/ZKJAmq4BndgSLyMYiyxV</link>
+<guid isPermaLink="false">c649bb29f0fcb17f491f36509cebea670097fbce</guid>
+<pubDate>Sat, 09 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e361df18-509a-48e1-8e6d-55d481cf6db0" alt="miniatura"/></p><p>Jak podaje Totalizator Sportowy, pierwsze majowe „szóstki” w Lotto Plus padły we wtorek, 5 maja w Olsztynie i Piotrkowie Trybunalskim. Graczom szczęście przyniosły następujące liczby: 3, 6, 13, 14, 24, 37. Która z kolektur w naszym mieście okazała się trafiona?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e361df18-509a-48e1-8e6d-55d481cf6db0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e361df18-509a-48e1-8e6d-55d481cf6db0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e361df18-509a-48e1-8e6d-55d481cf6db0"/>
+</item>
 <item>
 <title><![CDATA[ Z domu prosto do urzędu. Szykuje się nowa usługa w naszym mieście? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-domu-prosto-do-urzedu-szykuje-sie-nowa-usluga-w-naszym-miescie/LRsbkdaM9rDHiawN6H2H</link>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc59135d-f699-4710-8dca-fa3ab231dd40"/>
-</item>
-<item>
-<title><![CDATA[ Nowy funkcjonariusz piotrkowskiej komendy. Będzie tropił przestępców i nie tylko... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-funkcjonariusz-piotrkowskiej-komendy-bedzie-tropil-przestepcow-i-nie-tylko/3GLnJCn3PIgTuCbSN5Zf</link>
-<guid isPermaLink="false">b2cc74cbc43e5786ac6a18cd72ac47301f70a2a1</guid>
-<pubDate>Fri, 20 Mar 2026 11:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986" alt="miniatura"/></p><p>Hades jest owczarkiem belgijskim. Został wyszkolony do działań patrolowo-tropiących bez kagańca i po odbyciu 4,5 miesięcznego szkolenia trafił do domu swojego opiekuna - sierż. Macieja Stępień.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d9cd74b7-4bfa-4c4c-b073-c0b6888f4986"/>
 </item>
 </channel></rss>
