@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 09 May 2026 09:35:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 11:13:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gminne święto z królem disco polo. Kiedy wystąpi Zenek Martyniuk w naszym powiecie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gminne-swieto-z-krolem-disco-polo-kiedy-wystapi-zenek-martyniuk-w-naszym-powiecie/e7vnDQYh52aBYfdmC5kd</link>
+<guid isPermaLink="false">e9ee2ae43813f4d4fb02bbee46ded4b866abd2de</guid>
+<pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" alt="miniatura"/></p><p>Wiosna rozkręca się na dobre, a wraz z nią nadchodzi fala imprez plenerowych w okolicach Piotrkowa. W kalendarzu wydarzeń pod chmurką pojawiła się właśnie pozycja obowiązkowa dla fanów gatunku disco polo. Niedaleko miasta wystąpi jeden z najpopularniejszych artystów w kraju. Nie przegapcie okazji do wspólnej zabawy przy największych hitach!</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299"/>
+</item>
 <item>
 <title><![CDATA[ Ktoś z naszego miasta właśnie został milionerem. Padła wielka wygrana w Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ktos-z-naszego-miasta-wlasnie-zostal-milionerem-padla-wielka-wygrana-w-lotto/ZKJAmq4BndgSLyMYiyxV</link>
@@ -1929,16 +1939,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -1947,6 +1947,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f1db0c0-c0fb-4b40-a53d-bf7368112782" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f1db0c0-c0fb-4b40-a53d-bf7368112782" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f1db0c0-c0fb-4b40-a53d-bf7368112782"/>
-</item>
-<item>
-<title><![CDATA[ Prawo jazdy już dla 17-latków! Co mówią nowe przepisy? Przygotuj się i zdaj z TOM-CAR  w Piotrkowie Trybunalskim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/prawo-jazdy-juz-dla-17-latkow-co-mowia-nowe-przepisy-przygotuj-sie-i-zdaj-z-tom-car-w-piotrkowie-trybunalskim/WGTCPu3FRjR0hXiwHPBN</link>
-<guid isPermaLink="false">afa6380bac2f424b6dbbe441bcd677039ac296ce</guid>
-<pubDate>Fri, 20 Mar 2026 12:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da" alt="miniatura"/></p><p>OSK TOM-CAR Juliusza Słowackiego 77 / lok. 12 Piotrków Trybunalski tel. 721 403 102</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed24d559-4f5d-4a63-91b3-4e8489a2e3da"/>
 </item>
 </channel></rss>
