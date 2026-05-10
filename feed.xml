@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 10 May 2026 13:56:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 15:11:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Puchar Polski Kobiet: Ambitna postawa Piotrkowianek w finale, ale trofeum pojedzie do Lubina! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-ambitna-postawa-piotrkowianek-finale-ale-trofeum-pojedzie-do-lubina/gRBPiqgk1IzEBJuSpJor</link>
+<guid isPermaLink="false">8cbdc0f719a1d05c6a27154b86abd8584463a53d</guid>
+<pubDate>Sun, 10 May 2026 16:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84" alt="miniatura"/></p><p>Pojedynek podopiecznych Horatiu Pasci z KGHM Zagłębiem Lubin był swoistą nagrodą za cały sezon 2025/2026, który jest dla KRASOŃ MKS Piotrcovii niezwykle udany, czego widomym znakiem jest pierwszy medal (brązowy) mistrzostw Polski po siedemnastu latach przerwy. Piotrkowianki po raz kolejny mogły zmierzyć się z krajowym potentatem, który w pięciu ostatnich latach wygrywał ligowe złoto oraz zwyciężył…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84"/>
+</item>
 <item>
 <title><![CDATA[ Pierwsza Komunia Święta w parafii NMP Królowej Pokoju w Piotrkowie. Dzieci przystąpiły do sakramentu [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pierwsza-komunia-swieta-w-parafii-nmp-krolowej-pokoju-w-piotrkowie-dzieci-przystapily-do-sakramentu-zdjecia/TIa1VLLowN8NBWXNU5C8</link>
@@ -1989,16 +1999,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2007,6 +2007,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/197e8d46-f128-457f-9b7e-f417a5c125fa" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/197e8d46-f128-457f-9b7e-f417a5c125fa" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/197e8d46-f128-457f-9b7e-f417a5c125fa"/>
-</item>
-<item>
-<title><![CDATA[ Przestępczy duet działał na terenie całego województwa. Padło 49 zarzutów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/przestepczy-duet-dzialal-na-terenie-calego-wojewodztwa-padlo-49-zarzutow/RUFUKy05Tfzjn5iNOZeu</link>
-<guid isPermaLink="false">649437b9e9fbe78be205408e0ec1c671ff9ba033</guid>
-<pubDate>Fri, 20 Mar 2026 15:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6984f88b-4886-4c1d-b969-e4d63def3054" alt="miniatura"/></p><p>W całym kraju odnotowuje się coraz więcej przypadków kradzieży kabli ze stacji ładowania samochodów elektrycznych. Tak wynika z danych przekazanych przez policjantów. Część tych zdarzeń miała miejsce nawet w naszym mieście. Przestępczy duet wpadł w ręce służb. Łącznie usłyszeli 49 zarzutów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6984f88b-4886-4c1d-b969-e4d63def3054" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6984f88b-4886-4c1d-b969-e4d63def3054" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6984f88b-4886-4c1d-b969-e4d63def3054"/>
 </item>
 </channel></rss>
