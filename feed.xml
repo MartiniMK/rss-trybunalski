@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 10 May 2026 04:15:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 07:40:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Brytyjski gigant rekrutuje w naszym mieście. Jakie stawia wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/brytyjski-gigant-rekrutuje-w-naszym-miescie-jakie-stawia-wymagania/2SehE4eSxROrn6GjiziR</link>
+<guid isPermaLink="false">03de9f9964d66523dce684790f1aaf28b1f15e7e</guid>
+<pubDate>Sun, 10 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" alt="miniatura"/></p><p>Castorama w Piotrkowie Trybunalskim szuka rąk do pracy. Sieć należąca do brytyjskiego giganta Kingfisher prowadzi nabór do marketu przy Al. Sikorskiego 51. Dowiedz się, kogo dokładnie poszukuje pracodawca i jakie benefity oferuje nowym pracownikom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1"/>
+</item>
 <item>
 <title><![CDATA[ Puchar Polski Kobiet: Piotrcovia wyeliminowała zespół gospodarza i zagra w wielkim finale! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-piotrcovia-wyeliminowala-zespol-gospodarza-i-zagra-w-wielkim-finale/ceCaFyt1gR4kBNiNyM9L</link>
@@ -1969,16 +1979,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -1987,6 +1987,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/02191dba-6d44-4c83-becd-981dd04f1c5c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/02191dba-6d44-4c83-becd-981dd04f1c5c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/02191dba-6d44-4c83-becd-981dd04f1c5c"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie chcą poprawy bezpieczeństwa. Rozwiązaniem nowa inwestycja? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-chca-poprawy-bezpieczenstwa-rozwiazaniem-nowa-inwestycja/HUYFvvwFlcXW2m9TRUzs</link>
-<guid isPermaLink="false">e42cb7e4d8f8876598fd503f7ab7b055ded80121</guid>
-<pubDate>Fri, 20 Mar 2026 15:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46" alt="miniatura"/></p><p>To ulica, która służy pieszym za łącznik między dwiema ruchliwymi drogami. Poruszają się tamtędy pracownicy pobliskim firm, ale kiedy tylko pogoda sprzyja, można zaobserwować spacerowiczów, rowerzystów, a także użytkowników pobliskich Rodzinnych Ogrodów Działkowych. Trudno więc dziwić się, że niechronieni uczestnicy ruchu drogowego chcieliby, by ich bezpieczeństwo na tym odcinku się poprawiło. Czy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62d2b36b-efa9-4251-b7e1-92c15fc60f46"/>
 </item>
 </channel></rss>
