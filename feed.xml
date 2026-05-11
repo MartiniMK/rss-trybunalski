@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 11 May 2026 12:55:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 16:18:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wyprawa do szkoły jak bieg z przeszkodami? Mieszkańcy Longinówki walczą o bezpieczne przejście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wyprawa-do-szkoly-jak-bieg-z-przeszkodami-mieszkancy-longinowki-walcza-o-bezpieczne-przejscie/0xDkUUqlRHVEUEJCclSP</link>
+<guid isPermaLink="false">77a426fa6fb08640326ac78518c18eb655371d7b</guid>
+<pubDate>Mon, 11 May 2026 15:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1c51428-d409-46fb-8f23-8a4b75e25133" alt="miniatura"/></p><p>Mieszkańcy Longinówki nie kryją niezadowolenia. Droga krajowa 91 charakteryzuje się codziennym, dużym obciążeniem samochodowym, a brak wyznaczonego miejsca do przejścia na drugą stronę jezdni ma być sporym utrudnieniem dla dzieci, seniorów oraz osób z niepełnosprawnościami.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1c51428-d409-46fb-8f23-8a4b75e25133" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1c51428-d409-46fb-8f23-8a4b75e25133" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1c51428-d409-46fb-8f23-8a4b75e25133"/>
+</item>
 <item>
 <title><![CDATA[ Sławomir Mentzen w Piotrkowie. Gdzie i kiedy spotkanie? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/slawomir-mentzen-w-piotrkowie-gdzie-i-kiedy-spotkanie/qceMIKOXK1AdmTZmxTFi</link>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ce2916cc-d66d-49e0-a4df-477f804e9a88"/>
-</item>
-<item>
-<title><![CDATA[ Tenisista z Piotrkowa podbija Miami! Kamil Majchrzak sensacyjnie wyeliminował faworyta gospodarzy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/tenisista-z-piotrkowa-podbija-miami-kamil-majchrzak-sensacyjnie-wyeliminowal-faworyta-gospodarzy/KcuTgNDA9fbJl5os78IP</link>
-<guid isPermaLink="false">9c57545a2f5b359cae6a14924af6d6cc95d4871a</guid>
-<pubDate>Sat, 21 Mar 2026 18:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" alt="miniatura"/></p><p>Kamil Majchrzak przygodę z imprezą na Florydzie rozpoczął w czwartek, kiedy to wyeliminował Serba Miomira Kecmanovicia, biorąc rewanż za zeszłoroczną porażkę w Atenach. Reprezentant Polski nie był faworytem tego pojedynku, ale po raz kolejny pokazał, jaki z niego walczak i ograł niewygodnego rywala.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e"/>
 </item>
 </channel></rss>
