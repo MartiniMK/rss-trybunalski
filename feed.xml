@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 11 May 2026 19:13:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 21:34:25 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Pożar budynku w Piotrkowie. Na miejscu działali strażacy ]]></title>
@@ -39,7 +39,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0c59e05-d6f5-4a31-848b-9fa6bc29f069"/>
 </item>
 <item>
-<title><![CDATA[ Powstaje trasa z Piotrkowa aż po Ukrainę. Jak idą prace nad nową "eską"? ]]></title>
+<title><![CDATA[ Powstaje trasa z Łódzkiego aż po Ukrainę. Jak idą prace nad nową "eską"? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/powstaje-trasa-z-piotrkowa-az-po-ukraine-jak-ida-prace-nad-nowa-eska/WD7ACYujrNm972vSaqc2</link>
 <guid isPermaLink="false">a25b87f0ae535af76700d50592d2ce458dd13c74</guid>
 <pubDate>Mon, 11 May 2026 19:17:00 +0000</pubDate>
