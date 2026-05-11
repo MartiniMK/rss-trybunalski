@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 11 May 2026 10:05:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 11 May 2026 12:55:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Sławomir Mentzen w Piotrkowie. Gdzie i kiedy spotkanie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/slawomir-mentzen-w-piotrkowie-gdzie-i-kiedy-spotkanie/qceMIKOXK1AdmTZmxTFi</link>
+<guid isPermaLink="false">73030023127fb3e99b8a9e94a4423f41aa5c922a</guid>
+<pubDate>Mon, 11 May 2026 13:49:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1e8a2b1-9793-486a-88c9-b75628162278" alt="miniatura"/></p><p>Słąwomir Mentzen pojawi się w Piotrkowie w środę, 13 maja 2026 roku, w ramach trasy „Zapytaj Mentzena!”. Spotkanie zaplanowano o godzinie 17.00 na Rynku Starego Miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1e8a2b1-9793-486a-88c9-b75628162278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1e8a2b1-9793-486a-88c9-b75628162278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1e8a2b1-9793-486a-88c9-b75628162278"/>
+</item>
+<item>
+<title><![CDATA[ Przejdą ulicami miasta. Start pod centrum przesiadkowym ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przejda-ulicami-miasta-start-pod-centrum-przesiadkowym/NZ1pMhzB3ikGkUV2IRTM</link>
+<guid isPermaLink="false">e0ca35967d9c5fd4f7159a92a06d7059c615443d</guid>
+<pubDate>Mon, 11 May 2026 12:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4" alt="miniatura"/></p><p>Już w piątek, 15 maja, ruszają Juwenalia Akademii Piotrkowskiej. Na otwarcie tego wydarzenia, miasto wypełni barwny korowód, który przejdzie głównymi ulicami, zwiastując początek wielkiej zabawy. Sprawdź godzinę startu studenckiego marszu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4"/>
+</item>
 <item>
 <title><![CDATA[ Poparzeni Kawą Trzy wystąpią w naszym mieście. Kiedy i gdzie koncert? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/poparzeni-kawa-trzy-wystapia-w-naszym-miescie-kiedy-i-gdzie-koncert/KVUshcuBYxB30svhqjGl</link>
@@ -3387,25 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0f1671b-71b9-478a-a96f-2c20eb9bd05e"/>
-</item>
-<item>
-<title><![CDATA[ Najdroższa autostrada w Polsce znów podniosła ceny. Aktualne stawki to już absurd? [LISTA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najdrozsza-autostrada-w-polsce-znow-podniosla-ceny-aktualne-stawki-to-juz-absurd-lista/a1FPHG1Mq6ZvTm7hO2fJ</link>
-<guid isPermaLink="false">fa02a209d5a5328e8a7b3d47a104b228c1e0ec05</guid>
-<pubDate>Sat, 21 Mar 2026 17:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" alt="miniatura"/></p><p>Od 11 marca wzrosły stawki za przejazd koncesyjnym fragmentem autostrady A2 pomiędzy Nowym Tomyślem a Koninem . Odcinek ten liczy około 150 kilometrów i jest podzielony na trzy fragmenty po około 50 kilometrów, z oddzielnymi punktami poboru opłat.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1a2208b-3e99-4c58-a623-4f1e2aa36dad"/>
-</item>
-<item>
-<title><![CDATA[ Zarządzeni kryzysowe ostrzega w woj. łódzkim. Zacznie się w nocy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zarzadzeni-kryzysowe-ostrzega-w-woj-lodzkim-zacznie-sie-w-nocy/J1F5SGBSKU5YecCIQvqA</link>
-<guid isPermaLink="false">1aa841120a4cf3c7440a90cdadb67d73eeeaec8a</guid>
-<pubDate>Sat, 21 Mar 2026 13:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a26aa933-a611-4a32-ac72-22ca89f4af89" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenie meteorologiczne pierwszego stopnia dotyczące przymrozków. Alert obejmuje wszystkie powiaty województwa łódzkiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a26aa933-a611-4a32-ac72-22ca89f4af89" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a26aa933-a611-4a32-ac72-22ca89f4af89" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a26aa933-a611-4a32-ac72-22ca89f4af89"/>
 </item>
 </channel></rss>
