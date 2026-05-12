@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 12 May 2026 15:52:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 18:16:16 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Morski kolos wyrzucony na brzeg w Polsce. Pobrano DNA, naukowcy chcą rozwiązać zagadkę [VIDEO] ]]></title>
@@ -3397,5 +3397,15 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312"/>
+</item>
+<item>
+<title><![CDATA[ Powiat piotrkowski rusza z wielką modernizacją. Gdzie pojawią się utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/powiat-piotrkowski-rusza-z-wielka-modernizacja-gdzie-pojawia-sie-utrudnienia/IBFtWEm7bBd0gMrZ3eV7</link>
+<guid isPermaLink="false">9d9631be0a78200c387e6e3fc0196f71486a9b27</guid>
+<pubDate>Tue, 24 Mar 2026 11:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" alt="miniatura"/></p><p>Wicestarosta Michał Tokarski wspólnie z Przewodniczącym Rady Powiatu Bernardem Matyszewskim oraz radnym Mateuszem Dębskim omówił szczegóły dotyczące modernizacji dróg powiatowych. W planach znalazły się m.in. trasy Niechcice–Wroników oraz Siomki–Wygoda , które od lat czekały na naprawę. Celem spotkania było dopięcie szczegółów i przygotowanie inwestycji do realizacji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c"/>
 </item>
 </channel></rss>
