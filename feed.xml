@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 12 May 2026 12:12:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 15:52:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Morski kolos wyrzucony na brzeg w Polsce. Pobrano DNA, naukowcy chcą rozwiązać zagadkę [VIDEO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/morski-kolos-wyrzucony-na-brzeg-w-polsce-pobrano-dna-naukowcy-chca-rozwiazac-zagadke-video/if7aMGNq3QBz8FlaEKrO</link>
+<guid isPermaLink="false">4c34e4222acdba817ed338765d47f9270508aa5a</guid>
+<pubDate>Tue, 12 May 2026 16:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" alt="miniatura"/></p><p>Do odkrycia doszło w rejonie Mikoszewa, na terenie rezerwatu Mewia Łacha przy ujściu Wisły. Martwe zwierzę zauważył strażnik pełniący dyżur na chronionym obszarze. Informacja bardzo szybko obiegła Pomorze i wzbudziła zainteresowanie zarówno mieszkańców, jak i turystów odwiedzających okolice Gdańska.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a"/>
+</item>
+<item>
+<title><![CDATA[ Pokona na rowerze 400 km. Rusza z naszego miasta w szczytnym celu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pokona-na-rowerze-400-km-rusza-z-naszego-miasta-w-szczytnym-celu/Ewm1KXbX9II6cs8ePBGi</link>
+<guid isPermaLink="false">eb8e6f3ce941994780db946422f4c396864cb54b</guid>
+<pubDate>Tue, 12 May 2026 15:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" alt="miniatura"/></p><p>Jeszcze nie tak dawno Piotrków Trybunalski żył wielką zbiórką Łatwogangu, której pamiątką stało się kolorowe graffiti. Nie minęło wiele czasu, a już mamy przykład kolejnej wyjątkowej inicjatywy skierowanej do tych, którzy najbardziej potrzebują wsparcia. Tym razem chęć niesienia pomocy przybrała formę wyzwania sportowego, które wystawi na próbę ludzką wytrzymałość.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e"/>
+</item>
+<item>
+<title><![CDATA[ Kiedy nowa trasa PKP z naszego miasta? Wielka inwestycja odmieni nasz region ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kiedy-nowa-trasa-pkp-z-naszego-miasta-wielka-inwestycja-odmieni-nasz-region/XxyPhCVMZdcIlfBw9s1X</link>
+<guid isPermaLink="false">caead415a862b99fd06b9b148430e59a79c2ce48</guid>
+<pubDate>Tue, 12 May 2026 14:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/141fb078-f1c7-4a95-97a0-1ab25c2fa6cc" alt="miniatura"/></p><p>O tym, że do Bełchatowa będzie można dojechać koleją, mówi się już od 2023 roku. Nowe połączenie miałoby pozwolić Piotrkowianom i Bełchatowianom na szybkie podróże między miastami. To także udogodnienie dla mieszkańców mniejszych miejscowości na terenie obu powiatów. Co dalej z linią nr 24?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/141fb078-f1c7-4a95-97a0-1ab25c2fa6cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/141fb078-f1c7-4a95-97a0-1ab25c2fa6cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/141fb078-f1c7-4a95-97a0-1ab25c2fa6cc"/>
+</item>
 <item>
 <title><![CDATA[ Młodzi mistrzowie ortografii rywalizowali w Piotrkowie. Znamy laureatów konkursu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mlodzi-mistrzowie-ortografii-rywalizowali-w-piotrkowie-znamy-laureatow-konkursu/G2hEvnA1mRoxsFUn26NX</link>
@@ -2139,16 +2169,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2157,6 +2177,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3367,35 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312"/>
-</item>
-<item>
-<title><![CDATA[ Powiat piotrkowski rusza z wielką modernizacją. Gdzie pojawią się utrudnienia? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powiat-piotrkowski-rusza-z-wielka-modernizacja-gdzie-pojawia-sie-utrudnienia/IBFtWEm7bBd0gMrZ3eV7</link>
-<guid isPermaLink="false">9d9631be0a78200c387e6e3fc0196f71486a9b27</guid>
-<pubDate>Tue, 24 Mar 2026 11:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" alt="miniatura"/></p><p>Wicestarosta Michał Tokarski wspólnie z Przewodniczącym Rady Powiatu Bernardem Matyszewskim oraz radnym Mateuszem Dębskim omówił szczegóły dotyczące modernizacji dróg powiatowych. W planach znalazły się m.in. trasy Niechcice–Wroników oraz Siomki–Wygoda , które od lat czekały na naprawę. Celem spotkania było dopięcie szczegółów i przygotowanie inwestycji do realizacji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc033535-577b-46f8-a533-69129f6ffe7c"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków dostał kilkaset tysięcy na zabytki. Zyskają głównie kościoły ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkow-dostal-kilkaset-tysiecy-na-zabytki-zyskaja-glownie-koscioly/9q4J6YIABzO4andF6veh</link>
-<guid isPermaLink="false">801592b8b092ca521f33b04b61dfd77d2881ee5a</guid>
-<pubDate>Tue, 24 Mar 2026 11:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fbb5b8f5-a362-4bd0-90b8-6b871e0d0be6" alt="miniatura"/></p><p>Poznaliśmy listę zabytków zarekomendowanych do dofinansowania w konkursie „Łódzkie dla zabytków”. Przyznanie dotacji pozwala na przeprowadzenie prac restauratorskich i konserwatorskich przy zabytkach. W tym roku wprowadzono zmiany, bowiem zwiększono pulę środków, a także wnioski można było składać tylko w formie elektronicznej. Maksymalna kwota dotacji, o jaką można było się ubiegać to 200 tysięcy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbb5b8f5-a362-4bd0-90b8-6b871e0d0be6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbb5b8f5-a362-4bd0-90b8-6b871e0d0be6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fbb5b8f5-a362-4bd0-90b8-6b871e0d0be6"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na S8 pod Piotrkowem. Zderzyły się dwie ciężarówki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-s8-pod-piotrkowem-zderzyly-sie-dwie-ciezarowki/RqHlkc9QzcZs8hfQJjf9</link>
-<guid isPermaLink="false">461af51937b8b006b6cc56ecda968e99478fdd8f</guid>
-<pubDate>Mon, 23 Mar 2026 15:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9" alt="miniatura"/></p><p>W poniedziałek, 23 marca około godziny 13:28 doszło do zderzenia dwóch ciężarówek na trasie S8 na wysokości miejscowości Polichno. Do akcji wkroczyły służby. Wypadek miał miejsce na 338 km trasy w kierunku Warszawy. Poznaliśmy wstępne ustalenia policji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9"/>
 </item>
 </channel></rss>
