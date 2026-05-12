@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 12 May 2026 09:55:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 12:12:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Młodzi mistrzowie ortografii rywalizowali w Piotrkowie. Znamy laureatów konkursu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mlodzi-mistrzowie-ortografii-rywalizowali-w-piotrkowie-znamy-laureatow-konkursu/G2hEvnA1mRoxsFUn26NX</link>
+<guid isPermaLink="false">c1b5bf31eb34eac1764702e5bd79a5f0d201a463</guid>
+<pubDate>Tue, 12 May 2026 11:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cf2ab1cf-839f-450a-b5de-7c4e073e76a4" alt="miniatura"/></p><p>W sobotę, 9 maja w Szkole Podstawowej nr 5 z Oddziałami Integracyjnymi im. Andrzeja Frycza Modrzewskiego odbył się Powiatowy Konkurs Ortograficzny. W wydarzeniu udział wzięli uczniowie szkół z Piotrkowa Trybunalskiego oraz powiatu piotrkowskiego, którzy postanowili sprawdzić swoje umiejętności poprawnego posługiwania się językiem polskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf2ab1cf-839f-450a-b5de-7c4e073e76a4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf2ab1cf-839f-450a-b5de-7c4e073e76a4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf2ab1cf-839f-450a-b5de-7c4e073e76a4"/>
+</item>
 <item>
 <title><![CDATA[ „Polski koliber” pojawił się w naszym mieście. Jeśli go zobaczysz, masz spore szczęście ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polski-koliber-pojawil-sie-w-naszym-miescie-jesli-go-zobaczysz-masz-spore-szczescie/LdEb2cD63O38TNpi6djl</link>
@@ -2129,16 +2139,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2147,6 +2147,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,25 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ec8cc046-76a7-40bc-898d-a729292b3ab9"/>
-</item>
-<item>
-<title><![CDATA[ 18-latek uderzył w krawężnik i słup. Na miejsce ruszyły służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/18-latek-uderzyl-w-kraweznik-i-slup-na-miejsce-ruszyly-sluzby/RkTR0uBec3yD8hFoRLM5</link>
-<guid isPermaLink="false">d94bb5d31f2581f7f7188a9d3e8622b66fdac920</guid>
-<pubDate>Mon, 23 Mar 2026 15:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5ec1d224-290f-4304-bca7-f5f7b748b9d1" alt="miniatura"/></p><p>W poniedziałek, 23 marca około godziny 13:40 doszło do groźnego zdarzenia w Moszczenicy. Na miejsce ruszyły służby i jak się okazuje, w wypadku uczestniczył jeden pojazd.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ec1d224-290f-4304-bca7-f5f7b748b9d1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ec1d224-290f-4304-bca7-f5f7b748b9d1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ec1d224-290f-4304-bca7-f5f7b748b9d1"/>
-</item>
-<item>
-<title><![CDATA[ Milionowa wygrana w Eurojackpot w Polsce. Ale to mieszkaniec naszego powiatu wygrał prawdziwą fortunę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/milionowa-wygrana-w-eurojackpot-w-polsce-ale-to-mieszkaniec-naszego-powiatu-wygral-prawdziwa-fortune/oud1EKJwEJF9ICcsBVv8</link>
-<guid isPermaLink="false">01255ecedce2ae4d221823521576ed719859108e</guid>
-<pubDate>Mon, 23 Mar 2026 15:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aabb1868-c105-470f-a0ca-2037a6ed8ef6" alt="miniatura"/></p><p>W piątkowym losowaniu Eurojackpot Polak zgarnął nagrodę trzeciego stopnia. Wiadomo już, jaka jest jej wysokość. Jednak to właśnie w naszym regionie padła jedna z najbardziej spektakularnych wygranych w ogólnopolskim rankingu. Szczęśliwiec z powiatu piotrkowskiego znalazł się na trzecim stopniu podium najwyższych wygranych w Eurojackpot w Polsce.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabb1868-c105-470f-a0ca-2037a6ed8ef6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabb1868-c105-470f-a0ca-2037a6ed8ef6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabb1868-c105-470f-a0ca-2037a6ed8ef6"/>
 </item>
 </channel></rss>
