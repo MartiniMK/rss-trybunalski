@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 13 May 2026 16:37:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 19:11:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Powietrze w Piotrkowie nie trzyma norm. Kto nas najbardziej truje? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/powietrze-w-piotrkowie-nie-trzyma-norm-kto-nas-najbardziej-truje/yq4ai7pMeW9TuO823bDE</link>
+<guid isPermaLink="false">106401ba56b95176f3dd4f234a2e68765d2f38c2</guid>
+<pubDate>Wed, 13 May 2026 19:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" alt="miniatura"/></p><p>Piotrków znalazł się wśród najbardziej zanieczyszczonych miast w województwie łódzkim. W najnowszej publikacji Głównego Inspektoratu Ochrony Środowiska dokonano oceny za rok 2025 a także analizy ostatnich 10 lat. Miasto wypada w nich blado. Jest jednym z dwóch z największą liczbą dni rocznie z przekroczeniem stężenia pyłów PM10.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c"/>
+</item>
 <item>
 <title><![CDATA[ Polacy ruszyli do lasu po "zielone złoto". Okazja jest tylko raz w roku, właśnie teraz ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polacy-ruszyli-do-lasu-po-zielone-zloto-okazja-jest-tylko-raz-w-roku-wlasnie-teraz/aUbyTHS3LyFlFcdiQWnA</link>
@@ -2259,16 +2269,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2277,6 +2277,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f51bfff7-edab-4e19-928b-315b3248e318" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f51bfff7-edab-4e19-928b-315b3248e318" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f51bfff7-edab-4e19-928b-315b3248e318"/>
-</item>
-<item>
-<title><![CDATA[ Kłusownik w lesie pod Piotrkowem. Strażnicy zastawili pułapkę - wszystko widać na filmie [VIDEO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/rozstawil-w-lesie-pod-piotrkowem-wnyki-wszystko-widac-na-filmie/5FqFYbo3RA04zwmXleT3</link>
-<guid isPermaLink="false">dedce1bf19df58cecdb59785e8036443392d1560</guid>
-<pubDate>Wed, 25 Mar 2026 10:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9" alt="miniatura"/></p><p>Wszystko zaczęło się w styczniu, kiedy podczas patrolu Strażnicy Państwowej Straży Łowieckiej i Straży Leśnej ujawnili wnyki na ścieżce migracji zwierzyny leśnej. Pułapkę zneutralizowali, a w lesie zamontowali monitoring, który obejmował to miejsce i drogi dojazdowe. Sytuacja powtórzyła się dwa miesiące później. 23 marca na terenie lasu w okolicach miejscowości Polichno, strażnik leśny Nadleśnict…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9"/>
 </item>
 </channel></rss>
