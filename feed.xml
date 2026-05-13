@@ -6,14 +6,67 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 13 May 2026 08:07:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 10:48:02 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/w-piotrkowie-wreczono-medale-prezydenta-rp/f5Ja4ORAhxsh62jkSbgR ]]></title>
+<title><![CDATA[ Nowe atrakcje w naszym powiecie. Przyciągną turystów? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-atrakcje-w-powiecie-piotrkowskim-przyciagna-turystow/gMuxhLfsQyclDeYiLDU7</link>
+<guid isPermaLink="false">37b4f094b34b53dbe4bbeff2c217d85a89a49a56</guid>
+<pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70" alt="miniatura"/></p><p>Urząd Marszałkowski Województwa Łódzkiego przekazał informacje o środkach, które będą przeznaczone na rozwój turystyki w naszym regionie. Jak się okazuje, ponad 11 milionów trafi do dwóch gmin w naszym powiecie. Jakie atrakcje pojawią się niedaleko Piotrkowa?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70"/>
+</item>
+<item>
+<title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/F07DbbC7ZHHNqrDHizKi</link>
+<guid isPermaLink="false">66c0cfb0fe1f415812c972ef1d9c4264b986b8f8</guid>
+<pubDate>Wed, 13 May 2026 11:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" alt="miniatura"/></p><p>Piotrków Trybunalski, poprzez swoje położenie, od lat stanowi ważny punkt na mapie logistycznej Polski. Pojawiła się oferta pracy w hubie logistycznym giganta e-commerce w naszym mieście. Tym razem to Allegro zdecydowało się na wzmocnienie lokalnego zespołu. Sprawdzamy szczegóły oferty.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc"/>
+</item>
+<item>
+<title><![CDATA[ Pielęgniarki z Piotrkowa świętowały swój dzień. Od lipca będą zarabiać więcej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pielegniarki-z-piotrkowa-swietowaly-swoj-dzien-od-lipca-beda-zarabiac-wiecej/lWsawxNXvvnnWtExA83n</link>
+<guid isPermaLink="false">e5ff8ee758f4dba4bb4ffc486ee5c8affc741fe7</guid>
+<pubDate>Wed, 13 May 2026 11:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" alt="miniatura"/></p><p>12 maja obchodzony jest Międzynarodowy Dzień Pielęgniarki i Położnej . Z tej okazji w Samodzielnym Szpitalu Wojewódzkim im. Mikołaja Kopernika w Piotrkowie Trybunalskim nagrodzono ponad 40 pielęgniarek . To osoby, które na co dzień pracują przy pacjentach m.in. na szpitalnym oddziale ratunkowym, intensywnej terapii, oddziałach neurologicznym, kardiologicznym, urazowym i neonatologicznym.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2"/>
+</item>
+<item>
+<title><![CDATA[ Urząd poszukuje dyrektora miejskiej jednostki. Jakie są wymagania? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzad-poszukuje-dyrektora-miejskiej-jednostki-jakie-sa-wymagania/yvEZJCCG441xeVzTmysW</link>
+<guid isPermaLink="false">0806f3a12e5ff6600049ecdc8e9711b2b2387163</guid>
+<pubDate>Wed, 13 May 2026 10:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" alt="miniatura"/></p><p>Urząd Miasta Piotrkowa Trybunalskiego opublikował ogłoszenie dotyczące naboru na stanowisko dyrektora Pogotowia Opiekuńczego w Piotrkowie Trybunalskim. Chodzi o pełnoetatową funkcję kierownika miejskiej jednostki organizacyjnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5"/>
+</item>
+<item>
+<title><![CDATA[ Zamknięty przejazd w Piotrkowie. Do kiedy utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zamkniety-przejazd-w-piotrkowie-do-kiedy-utrudnienia/Q9i8ZA4ZFjdUIj8VtPxA</link>
+<guid isPermaLink="false">35455c32b0315a482f0197817493ecc71b23b65d</guid>
+<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" alt="miniatura"/></p><p>Uwaga kierowcy! Modernizacja linii kolejowej nr 1 wciąż trwa, co wiąże się z utrudnieniami. Tym razem zmiany w organizacji ruchu zajdą w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie wręczono medale Prezydenta RP ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-wreczono-medale-prezydenta-rp/f5Ja4ORAhxsh62jkSbgR</link>
 <guid isPermaLink="false">9eb0d5eb8007830fd1413dbf1a603f62161dbe40</guid>
-<pubDate>Wed, 13 May 2026 08:07:16 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<pubDate>Wed, 13 May 2026 07:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042" alt="miniatura"/></p><p>W gronie jubilatów znaleźli się Wanda i Lucjan Próbowie , którzy wspólnie przeżyli już 63 lata, a także Bogusława i Andrzej Banaszczykowie obchodzący złote gody, czyli 50-lecie małżeństwa.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042"/>
 </item>
 <item>
 <title><![CDATA[ Morski kolos wyrzucony na brzeg w Polsce. Pobrano DNA, naukowcy chcą rozwiązać zagadkę [VIDEO] ]]></title>
@@ -176,14 +229,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741"/>
 </item>
 <item>
-<title><![CDATA[ Zaginął młody piotrkowianin. Policja apeluje o pomoc w poszukiwaniach! ]]></title>
+<title><![CDATA[ Aktualizacja: Zaginął młody piotrkowianin. Policja apeluje o pomoc w poszukiwaniach! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zaginal-mlody-piotrkowianin-policja-apeluje-o-pomoc-w-poszukiwaniach/wEMT6dD6DbUooFHq5Ctc</link>
 <guid isPermaLink="false">ba9ab5f841bef6fc7e50b18a74bcbbc6fbe4ccca</guid>
 <pubDate>Mon, 11 May 2026 10:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e4641253-755f-4978-9b33-2bec0b98b779" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/zaginal-mlody-piotrkowianin-policja-apeluje-o-pomoc-w-poszukiwaniach/wEMT6dD6DbUooFHq5Ctc is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4641253-755f-4978-9b33-2bec0b98b779" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4641253-755f-4978-9b33-2bec0b98b779" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4641253-755f-4978-9b33-2bec0b98b779"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" alt="miniatura"/></p><p>Jak informuje piotrkowska policja, mężczyzna został odnaleziony cały i zdrowy. Służby nie podają, w jakich okolicznościach znaleziono poszukiwanego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2"/>
 </item>
 <item>
 <title><![CDATA[ Puchar Polski Kobiet: Ambitna postawa Piotrkowianek w finale, ale trofeum pojedzie do Lubina! ]]></title>
@@ -2176,16 +2229,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2194,6 +2237,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3354,55 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673"/>
-</item>
-<item>
-<title><![CDATA[ Odeszli w ostatnim czasie. Pogrzeby w Piotrkowie i powiecie [NEKROLOGI] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/odeszli-w-ostatnim-czasie-pogrzeby-w-piotrkowie-i-powiecie-nekrologi/VClixpYh2mNfqEpT4FYA</link>
-<guid isPermaLink="false">375b8510ceed33072d0911daf7c8c9db212c65d4</guid>
-<pubDate>Tue, 24 Mar 2026 15:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/056e1760-d7d0-4fd0-942b-d5d35e11362e" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 25 marca 2026 roku o godz. 10:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/056e1760-d7d0-4fd0-942b-d5d35e11362e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/056e1760-d7d0-4fd0-942b-d5d35e11362e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/056e1760-d7d0-4fd0-942b-d5d35e11362e"/>
-</item>
-<item>
-<title><![CDATA[ Oto szklane dziedzictwo Piotrkowa. Z Huty Hortensja szkło trafiało na stoły [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/oto-szklane-dziedzictwo-piotrkowa-z-huty-hortensja-szklo-trafialo-na-stoly-zdjecia/h0xiYQMlUXLQL0ugSlAV</link>
-<guid isPermaLink="false">5571b99a99fc9fdda4dcdd2d8325317ac3b0dcf4</guid>
-<pubDate>Tue, 24 Mar 2026 15:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e90f36a8-eba7-472e-b55b-45e7d2afdb5c" alt="miniatura"/></p><p>Huta wytwarzająca wyroby galanteryjne istniała w Piotrkowie Trybunalskim przez sto lat. Założona została w 1889 roku. Początkowo produkowała cylindry do lamp naftowych. Z czasem asortyment się poszerzał, a świetność Hortensja przeżywała w dwudziestoleciu międzywojennym.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e90f36a8-eba7-472e-b55b-45e7d2afdb5c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e90f36a8-eba7-472e-b55b-45e7d2afdb5c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e90f36a8-eba7-472e-b55b-45e7d2afdb5c"/>
-</item>
-<item>
-<title><![CDATA[ „Rzeźnicy” w piotrkowskim WORD-ie? Rekordowo niska zdawalność pod lupą ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rzeznicy-w-piotrkowskim-word-rekordowo-niska-zdawalnosc-pod-lupa/LNBQ8aoCfFZkzK88CUFK</link>
-<guid isPermaLink="false">5952d6c22879068294e0bd3f155f8dc7b551e934</guid>
-<pubDate>Tue, 24 Mar 2026 15:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/096b4832-acc6-4f30-83d6-ac0edf4e2854" alt="miniatura"/></p><p>W ubiegłym miesiącu w przestrzeni medialnej zaczęto mówić o „rzeźnikach” z Wojewódzkiego Ośrodka Ruchu Drogowego w Piotrkowie Trybunalskim. Miano to przypadło im po opublikowaniu przez instruktora nauki jazdy z Jastrzębia-Zdroju danych dotyczących egzaminów na prawo jazdy. Wynika z nich, że w niektórych WORD-ach pracują egzaminatorzy, u których tylko niewielka grupa szczęśliwców może pochwalić się…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/096b4832-acc6-4f30-83d6-ac0edf4e2854" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/096b4832-acc6-4f30-83d6-ac0edf4e2854" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/096b4832-acc6-4f30-83d6-ac0edf4e2854"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/e7GR0ren6yD7kNaVpzkS</link>
-<guid isPermaLink="false">25f93d828b88ac1c076ad1a3e5f3b7b7aca22d0e</guid>
-<pubDate>Tue, 24 Mar 2026 13:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" alt="miniatura"/></p><p>We wtorek, 24 marca piotrkowski magistrat poinformował o rozpoczęciu corocznego przeglądu miejskich syren alarmowych. To oznacza, że mieszkańcy mogą spodziewać się nadania sygnałów alarmowych. Do kiedy potrwają prace?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ae80642-ea3c-43f0-bc26-c24b90f7e9bd"/>
-</item>
-<item>
-<title><![CDATA[ Jest praca w miejskiej jednostce w Piotrkowie. Kogo potrzebują i ile płacą? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-praca-w-miejskiej-jednostce-w-piotrkowie-kogo-potrzebuja-i-ile-placa/TIddIPuJwmgHAKoe6fkf</link>
-<guid isPermaLink="false">abde0fa0240eddf6f61ebf80acc8a4b907685249</guid>
-<pubDate>Tue, 24 Mar 2026 11:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" alt="miniatura"/></p><p>Osoba zatrudniona na stanowisku Specjalista/Specjalistka ds. księgowości będzie odpowiedzialna za prowadzenie ewidencji finansowo-księgowej związanej z dochodami i wydatkami jednostki. Będzie także współuczestniczyć w tworzeniu projektów budżetowych oraz sporządzaniu sprawozdań budżetowych, zarówno miesięcznych, kwartalnych, jak i rocznych. Dodatkowo do zadań pracownika będzie należała windykacja…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f7e3f656-1d63-4d2d-9ba7-8d7c5c5d7312"/>
 </item>
 </channel></rss>
