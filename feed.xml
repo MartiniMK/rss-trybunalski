@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 13 May 2026 10:48:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 13:31:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowa inwestycja w Piotrkowie. Prace ruszą w tym tygodniu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-w-piotrkowie-prace-rusza-w-tym-tygodniu/dGXCJ6rXclORdMQr3S1S</link>
+<guid isPermaLink="false">0d63b43c08c3401ab0bc3703ef9a0b7113d7d3ad</guid>
+<pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ee516722-50ee-48e0-8dea-a69324c76a9b" alt="miniatura"/></p><p>O tym, że w Piotrkowie ma powstać nowe lodowisko, informowaliśmy już w 2025 roku. Wiadomo było, że obiekt zostanie wybudowany przy ul. Żwirki w sąsiedztwie miejskiego stadionu i kompleksu letnich basenów. Jak się okazuje, 13 maja piotrkowski magistrat podpisał umowę z wykonawcą, a pierwsze prace ruszą jeszcze w tym tygodniu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee516722-50ee-48e0-8dea-a69324c76a9b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee516722-50ee-48e0-8dea-a69324c76a9b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee516722-50ee-48e0-8dea-a69324c76a9b"/>
+</item>
+<item>
+<title><![CDATA[ Gratka dla łowców skarbów. Sprawdź, kiedy upolujesz antyki w naszym mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gratka-dla-lowcow-skarbow-sprawdz-kiedy-upolujesz-antyki-w-naszym-miescie/NOlUHM4YGu7iYCfqRZnP</link>
+<guid isPermaLink="false">ed338d46232e851a0d9444d6f15cf46a8b5d1b51</guid>
+<pubDate>Wed, 13 May 2026 12:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dacb4177-1d3c-4f78-bdcf-832c2bda14e4" alt="miniatura"/></p><p>Piotrkowska Giełda Staroci na stałe wpisała się w kalendarz wydarzeń kulturalno-handlowych miasta, każdorazowo gromadząc wielu wystawców i kupujących. Muzeum w Piotrkowie Trybunalskim oraz Piotrkowski Klub Kolekcjonera zapraszają na kolejną edycję giełdy. Co będzie można tam kupić?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dacb4177-1d3c-4f78-bdcf-832c2bda14e4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dacb4177-1d3c-4f78-bdcf-832c2bda14e4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dacb4177-1d3c-4f78-bdcf-832c2bda14e4"/>
+</item>
 <item>
 <title><![CDATA[ Nowe atrakcje w naszym powiecie. Przyciągną turystów? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-atrakcje-w-powiecie-piotrkowskim-przyciagna-turystow/gMuxhLfsQyclDeYiLDU7</link>
@@ -3377,35 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665"/>
-</item>
-<item>
-<title><![CDATA[ Sąd w Piotrkowie zdecyduje w głośnej sprawie o oszustwa urzędnicze ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sad-w-piotrkowie-zdecyduje-w-glosnej-sprawie-o-oszustwa-urzednicze/Bs9D8M0CXBIQklKcbKTZ</link>
-<guid isPermaLink="false">542695c56ee83f59146d687678da09adb373fb9b</guid>
-<pubDate>Wed, 25 Mar 2026 08:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b9dce1d1-500e-46db-a86a-bb485e19931c" alt="miniatura"/></p><p>Sekretarz, który przez wiele lat pracował w Sądzie Okręgowym w Łodzi jest oskarżony o szereg przestępstw związanych z oszustwami na szkodę sądu , w którym pełnił funkcję. Sąd w Łodzi występuje w tej sprawie jako pokrzywdzony i oskarżyciel posiłkowy, a świadkami są sędziowie tego sądu. W związku z tym, Sąd Najwyższy uznał, że dla zapewnienia obiektywnego rozpoznania sprawy konieczne jest jej przeni…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9dce1d1-500e-46db-a86a-bb485e19931c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9dce1d1-500e-46db-a86a-bb485e19931c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b9dce1d1-500e-46db-a86a-bb485e19931c"/>
-</item>
-<item>
-<title><![CDATA[ ZUS ujawnia wyliczenia. Są różnice w trzynastej emeryturze - ile na rękę w 2026 r? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zus-ujawnia-wyliczenia-sa-roznice-w-trzynastej-emeryturze-ile-na-reke-w-2026-r/c0LY79MG10YvPio7Gfrk</link>
-<guid isPermaLink="false">e3e9a0244507f8a9572b4bc00c632e332d26e09a</guid>
-<pubDate>Tue, 24 Mar 2026 18:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ea9bec58-3e5f-4dbe-933e-b97aad227e92" alt="miniatura"/></p><p>Dodatkowe roczne świadczenie pieniężne, czyli tzw. trzynasta emerytura, wypłacane jest razem z emeryturą lub rentą – w jednym przelewie albo przekazie pocztowym. Nie oznacza to jednak, że jest wolne od obciążeń fiskalnych. Zakład Ubezpieczeń Społecznych stosuje wobec niej standardowe zasady.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea9bec58-3e5f-4dbe-933e-b97aad227e92" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea9bec58-3e5f-4dbe-933e-b97aad227e92" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea9bec58-3e5f-4dbe-933e-b97aad227e92"/>
-</item>
-<item>
-<title><![CDATA[ Wielki Piątek i 2 maja będą wolne od pracy? Jest petycja i możliwe zmiany ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielki-piatek-i-2-maja-beda-wolne-od-pracy-jest-petycja-i-mozliwe-zmiany/GPmUhthkFjASeuWmajwc</link>
-<guid isPermaLink="false">c57e924be886da3f8c9f261a1fffb667d494fdef</guid>
-<pubDate>Tue, 24 Mar 2026 17:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673" alt="miniatura"/></p><p>Podstawą regulacji pozostaje ustawa z 18 stycznia 1951 roku, która w sposób zamknięty określa listę dni wolnych od pracy. W 2026 roku obejmuje ona 14 dat:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6fe19653-fc22-4e2e-a1a9-44288da2f673"/>
 </item>
 </channel></rss>
