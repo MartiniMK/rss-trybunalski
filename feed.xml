@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 13 May 2026 13:31:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 16:37:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Polacy ruszyli do lasu po "zielone złoto". Okazja jest tylko raz w roku, właśnie teraz ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polacy-ruszyli-do-lasu-po-zielone-zloto-okazja-jest-tylko-raz-w-roku-wlasnie-teraz/aUbyTHS3LyFlFcdiQWnA</link>
+<guid isPermaLink="false">39a6827df0e23ad8a9230621b50ff5de96863567</guid>
+<pubDate>Wed, 13 May 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cc1b6dab-c01e-4c68-a244-3e7b9a2bb430" alt="miniatura"/></p><p>Maj od lat uchodzi za najlepszy moment na zbieranie młodych przyrostów sosny zwyczajnej. To właśnie wtedy jasnozielone pędy są miękkie, pełne żywicy i zawierają największe stężenie substancji aktywnych. W wielu regionach Polski można zauważyć wzrost zainteresowania leśnymi zbiorami, choć tym razem nie chodzi ani o grzyby, ani o owoce runa leśnego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cc1b6dab-c01e-4c68-a244-3e7b9a2bb430" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cc1b6dab-c01e-4c68-a244-3e7b9a2bb430" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cc1b6dab-c01e-4c68-a244-3e7b9a2bb430"/>
+</item>
 <item>
 <title><![CDATA[ Nowa inwestycja w Piotrkowie. Prace ruszą w tym tygodniu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-w-piotrkowie-prace-rusza-w-tym-tygodniu/dGXCJ6rXclORdMQr3S1S</link>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18159445-b555-4893-879d-e2e68f8c70c9"/>
-</item>
-<item>
-<title><![CDATA[ Sulejowski Budżet Obywatelski 2026: Termin na zgłaszanie projektów do 27 marca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sulejowski-budzet-obywatelski-2026-termin-na-zglaszanie-projektow-do-27-marca/frfO6nUhyy5XqcVDUqtu</link>
-<guid isPermaLink="false">8d96769db23b42dbf2e40128586d3a2b8ab76789</guid>
-<pubDate>Wed, 25 Mar 2026 09:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665" alt="miniatura"/></p><p>Zgłoszenia przyjmowane są w Biurze Obsługi Mieszkańców Urzędu Miejskiego w Sulejowie, przy ulicy Koneckiej 42. Aby zgłosić projekt, należy wypełnić formularz dostępny w urzędzie lub tutaj do pobrania . Zgłoszenia można składać tylko w wersji papierowej. Warto pamiętać, że czas na złożenie wniosków upływa już w piątek, 27 marca.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9360c7e3-bbe2-4824-a297-fcb0e7eec665"/>
 </item>
 </channel></rss>
