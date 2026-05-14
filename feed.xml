@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 14 May 2026 13:08:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 15:36:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielka gwiazda wystąpi w naszym powiecie. Znamy datę i szczegóły wydarzenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-gwiazda-wystapi-w-naszym-powiecie-znamy-date-i-szczegoly-wydarzenia/DHD9DTrqe6rg7vS4N0cA</link>
+<guid isPermaLink="false">35a2ab7b3777f970683554eb4b1a29512502587d</guid>
+<pubDate>Thu, 14 May 2026 15:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/da0fd1b9-a8d8-4656-aab8-306202561862" alt="miniatura"/></p><p>Czas plenerowych imprez rozkręca się na dobre. Wiadomo już, że Piotrkowianie będą bawić się podczas juwenaliów, a także dni miasta, a na scenie staną tacy artyści jak Kayah czy O.S.T.R. Z kolei w powiecie odbędzie się koncert Zenka Martyniuka i Piotra Cugowskiego. Na tym nie koniec. Wiadomo już, kto uświetni tegoroczny Dzień Rozprzy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/da0fd1b9-a8d8-4656-aab8-306202561862" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/da0fd1b9-a8d8-4656-aab8-306202561862" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/da0fd1b9-a8d8-4656-aab8-306202561862"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowianie, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowianie-ktorzy-odeszli-w-ostatnim-czasie-nekrologi/3DPfIg4qSapnBmVa4V77</link>
@@ -2329,16 +2339,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2347,6 +2347,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/592dabf0-a7bf-425e-85d0-162d2016a107"/>
-</item>
-<item>
-<title><![CDATA[ Puchar Polski Kobiet: KRASOŃ MKS Piotrcovia zagra w Final Four! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/puchar-polski-kobiet-krason-mks-piotrcovia-zagra-w-final-four/vqVfiZvVaKNYQaGq4MIG</link>
-<guid isPermaLink="false">a09e427ff0ea0408965bc700c24bef3c646c8c99</guid>
-<pubDate>Wed, 25 Mar 2026 20:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" alt="miniatura"/></p><p>Do rywalizacji w ćwierćfinale Pucharu Polski Kobiet szczypiornistki z Piotrkowa Trybunalskiego przystępowały kilka dni po spektakularnym zwycięstwie nad KGHM Zagłębiem w Lubinie (30:23) i pełne nadziei na kolejne sukcesy. Wszyscy w klubie mieli jednak świeżo w pamięci porażkę w Koszalinie (24:25) poniesioną w połowie lutego, więc nikt nie zamierzał lekceważyć niżej notowanego rywala.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ac1974e-8a93-4d01-b070-c2a1a20ae1f0"/>
 </item>
 </channel></rss>
