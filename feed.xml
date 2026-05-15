@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 15 May 2026 14:35:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 17:04:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Legendarne kino Hawana w Piotrkowie. Grano tu filmowe premiery [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/legendarne-kino-hawana-w-piotrkowie-grano-tu-filmowe-premiery-zdjecia/1ho3BDW0QUoq1za6XNSc</link>
+<guid isPermaLink="false">b44f36614888c9db2ba079895d61662b8f17eb11</guid>
+<pubDate>Fri, 15 May 2026 18:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539" alt="miniatura"/></p><p>Kino Hawana to pierwsze panoramiczne kino w Piotrkowie wybudowane w 1963 roku. Przetrwało do 2009 roku. Modernistyczny budynek otwarto 22 lipca, w obchodzone wówczas hucznie Święto Odrodzenia Polski.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539"/>
+</item>
 <item>
 <title><![CDATA[ Noc Muzeów w Piotrkowie Trybunalskim. Będą rycerze, duchy, marcepan i nocne pociągi ŁKA ]]></title>
 <link>https://trybunalski.pl/wiadomosci/noc-muzeow-w-piotrkowie-trybunalskim-beda-rycerze-duchy-marcepan-i-nocne-pociagi-lka/o9FOVmePEMB92wzPiHN0</link>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0676b21-3e87-4951-becb-5583bcd61237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0676b21-3e87-4951-becb-5583bcd61237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f0676b21-3e87-4951-becb-5583bcd61237"/>
-</item>
-<item>
-<title><![CDATA[ Wielkie targi ogrodnicze w naszym mieście. Jest już data ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielkie-targi-ogrodnicze-w-naszym-miescie-jest-juz-data/ApoGXJgO7fC2iuemMI0g</link>
-<guid isPermaLink="false">f6128e6ad60ea5cda5228f1c07426664a34b04d1</guid>
-<pubDate>Thu, 26 Mar 2026 14:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" alt="miniatura"/></p><p>Szykuje się wielkie święto ogrodników w naszym mieście. Targi „Pamiętajmy o ogrodach” powracają do parku przy zamku w Bykach. Ulica Kasztelańska wypełni się setkami roślin i żywnością prosto od rolnika. To obowiązkowy przystanek dla każdego, kto szuka inspiracji do swojego ogrodu. Poznaliśmy już datę wydarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ed14873-29dc-4686-81b1-2de090139332"/>
 </item>
 </channel></rss>
