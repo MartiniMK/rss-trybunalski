@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 16 May 2026 19:26:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 21:08:39 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Kupujesz teraz truskawki? Sanepid ostrzegają żeby zwracać uwagę na jedną rzecz ]]></title>
@@ -3397,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4"/>
-</item>
-<item>
-<title><![CDATA[ Wiadomo już, kto ugości rolników. Znamy gospodarza Dożynek Powiatowych 2026 ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wiadomo-juz-kto-ugosci-rolnikow-znamy-gospodarza-dozynek-powiatowych-2026/IpbCg0oXbutrvGU7v1EH</link>
-<guid isPermaLink="false">b67f6eccf794a460263444303589d5af99c4ba1e</guid>
-<pubDate>Fri, 27 Mar 2026 11:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" alt="miniatura"/></p><p>W czwartek, 26 marca odbyła się przedświąteczna Sesja Rady Powiatu w Piotrkowie Trybunalskim. Zebrani rozmawiali o zmianach w budżecie, programie działań na rzecz osób z niepełnosprawnościami czy funkcjonowaniu Rady Seniorów. Jednym z punktów było także oficjalne przekazanie dożynkowego kłosa na ręce gospodarza tegorocznego święta plonów w naszym powiecie. Kto ugości rolników?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265"/>
 </item>
 </channel></rss>
