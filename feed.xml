@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 16 May 2026 09:04:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 10:31:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kupujesz teraz truskawki? Sanepid ostrzegają żeby zwracać uwagę na jedną rzecz ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kupujesz-teraz-truskawki-sanepid-ostrzegaja-zeby-zwracac-uwage-na-jedna-rzecz/EzVlZPLCOdpHEa5psFX0</link>
+<guid isPermaLink="false">fd816044d4b1c1be3364b6d04925b15771c48de8</guid>
+<pubDate>Sat, 16 May 2026 11:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" alt="miniatura"/></p><p>Eksperci Państwowej Inspekcji Sanitarnej przypominają, że świeże truskawki powinny być jędrne, intensywnie czerwone i pozbawione uszkodzeń. Już na etapie zakupów warto zwrócić uwagę nie tylko na sam owoc, ale również na jego szypułkę. To właśnie ona bardzo często zdradza, czy truskawki są świeże.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03"/>
+</item>
 <item>
 <title><![CDATA[ Za nami pierwszy dzień Juwenaliów Akademii Piotrkowskiej. Studenci przejęli klucz do miasta ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-nami-pierwszy-dzien-juwenaliow-akademii-piotrkowskiej-studenci-przejeli-klucz-do-miasta/8in4EkRZ5FJJqOfMTj6U</link>
@@ -2449,16 +2459,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2467,6 +2467,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3397,15 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/35ab375d-3c30-411d-88fd-c10250bca265"/>
-</item>
-<item>
-<title><![CDATA[ Pożar domu pod Piotrkowem. Na miejscu 6 zastępów, straty są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-pod-piotrkowem-na-miejscu-6-zastepow-straty-sa-ogromne/TbEWArc4ArgIePHEJ4Qi</link>
-<guid isPermaLink="false">26ca27140291f13227afabcd5f0aced9832a2710</guid>
-<pubDate>Fri, 27 Mar 2026 10:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" alt="miniatura"/></p><p>Kilkanaście minut przed godz. 7:00 do straży pożarnej wpłynęło zgłoszenie o pożarze budynku mieszkalnego jednorodzinnego w m. Przygłów Las.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/64bd1465-b7fb-4fe6-95cf-01c76ebc0bf2"/>
 </item>
 </channel></rss>
