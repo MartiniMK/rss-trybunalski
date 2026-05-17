@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 17 May 2026 10:05:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 11:27:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowa usługa w Piotrkowie. Będą darmowe podwózki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-usluga-w-piotrkowie-beda-darmowe-podwozki/6hSmr2lMJNwNyzHsVUGu</link>
+<guid isPermaLink="false">4eebfb0429d763dcc3ff675200c572052860ac81</guid>
+<pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3" alt="miniatura"/></p><p>Dla niektórych Piotrkowian bariera transportowa może być główną przyczyną wykluczenia społecznego. Usługa „door to door” polega na przewiezieniu mieszkańca bezpośrednio z jego domu do punktu docelowego i z powrotem. Może to być wizyta w urzędzie, przychodni lekarskiej, ośrodku rehabilitacyjnym czy innej instytucji użyteczności publicznej. Jak się okazuje, wdrożenie takiego rozwiązania planuje urzą…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3"/>
+</item>
 <item>
 <title><![CDATA[ Kupujesz teraz truskawki? Sanepid ostrzegają żeby zwracać uwagę na jedną rzecz ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kupujesz-teraz-truskawki-sanepid-ostrzegaja-zeby-zwracac-uwage-na-jedna-rzecz/EzVlZPLCOdpHEa5psFX0</link>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887"/>
-</item>
-<item>
-<title><![CDATA[ Pierwsze takie urządzenia w Piotrkowie. Będą działać w dwóch miejscach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pierwsze-takie-urzadzenia-w-piotrkowie-beda-dzialac-w-dwoch-miejscach/vAOdanIzfPDIastUAgqy</link>
-<guid isPermaLink="false">cf480f6da4f4d5a37e2f99c5680f7e3295f9f103</guid>
-<pubDate>Fri, 27 Mar 2026 11:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" alt="miniatura"/></p><p>W dwóch lokalizacjach na terenie naszego miasta pojawiły się urządzenia, które na pierwszy rzut oka mogą przypominać popularne automaty kurierskie. Jednak ich zawartość i przeznaczenie odbiega od zwykłych paczek z zakupami internetowymi. Wiadomo, kiedy zostaną uruchomione.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/200b882f-2edd-4358-a8c2-30ea28c48cb4"/>
 </item>
 </channel></rss>
