@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 17 May 2026 13:58:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 15:13:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pierwsza Komunia Święta 2026 w kościele Najświętszej Maryi Panny Królowej Pokoju w Piotrkowie Trybunalskim. Uroczystość dzieci ze Szkoły Podstawowej nr 12 ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pierwsza-komunia-swieta-2026-w-kosciele-najswietszej-maryi-panny-krolowej-pokoju-w-piotrkowie-trybunalskim-uroczystosc-dzieci-ze-szkoly-podstawowej-nr-12-zdjecia/3HBNU1Ku9x1GFWJTzrDC</link>
+<guid isPermaLink="false">83e3964898f96440d5acb4789b6a01e4077307fb</guid>
+<pubDate>Sun, 17 May 2026 16:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/galleries/bf293b9e-a7eb-47ff-9f26-d93505736735" alt="miniatura"/></p><p>Odświętnie udekorowana świątynia wypełniła się rodzinami, bliskimi oraz parafianami, którzy uczestniczyli w uroczystej mszy świętej. Dzieci, przygotowujące się do tego wydarzenia przez wiele miesięcy, po raz pierwszy w pełni uczestniczyły w Eucharystii, przyjmując sakrament Komunii Świętej. Nie zabrakło podniosłej atmosfery, wspólnego śpiewu oraz słów skierowanych do dzieci przez duchownych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/galleries/bf293b9e-a7eb-47ff-9f26-d93505736735" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/galleries/bf293b9e-a7eb-47ff-9f26-d93505736735" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/galleries/bf293b9e-a7eb-47ff-9f26-d93505736735"/>
+</item>
 <item>
 <title><![CDATA[ Nowa usługa w Piotrkowie. Będą darmowe podwózki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowa-usluga-w-piotrkowie-beda-darmowe-podwozki/6hSmr2lMJNwNyzHsVUGu</link>
@@ -2469,16 +2479,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2487,6 +2487,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/715274ec-2cd9-499a-beba-2eaed0847ade" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/715274ec-2cd9-499a-beba-2eaed0847ade" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/715274ec-2cd9-499a-beba-2eaed0847ade"/>
-</item>
-<item>
-<title><![CDATA[ Parafia pod Piotrkowem w żałobie. Zmarł wieloletni proboszcz ]]></title>
-<link>https://trybunalski.pl/wiadomosci/parafia-pod-piotrkowem-w-zalobie-zmarl-wieloletni-proboszcz/zeoQAHxvw465DfWgaSnj</link>
-<guid isPermaLink="false">914dce33f668bb3d8e3095c27c27d8f17aed1a47</guid>
-<pubDate>Fri, 27 Mar 2026 13:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887" alt="miniatura"/></p><p>W środę, 25 marca, Archidiecezja Łódzka przekazała smutną informację. Zmarł ksiądz kanonik Bogumił Bylinka. Posługę pełnił m.in. w naszym powiecie, bowiem był wieloletnim proboszczem w parafii pw. Podwyższenia Świętego Krzyża w Moszczenicy. Poznaliśmy datę ostatniego pożegnania.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b207f6d9-8e03-4f3d-a6f0-131c49493887"/>
 </item>
 </channel></rss>
