@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 18 May 2026 20:07:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 21:29:28 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Rozróba w McDonald's w Piotrkowie. Latały krzesła i gaz pieprzowy ]]></title>
@@ -19,7 +19,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e7b4ab94-83bf-4b29-ba43-a46d1b96121c"/>
 </item>
 <item>
-<title><![CDATA[ Od lipca wielkie podwyżki dla setek Polaków. Nawet ponad 12 tys. zł miesięcznie ]]></title>
+<title><![CDATA[ Od lipca wielkie podwyżki dla tysięcy Polaków. Nawet ponad 12 tys. zł miesięcznie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/od-lipca-wielkie-podwyzki-dla-setek-polakow-nawet-ponad-12-tys-zl-miesiecznie/Ph7aaQC9WJLOyTUsQ0MP</link>
 <guid isPermaLink="false">fba0fb7897d24c09c7372a2f5500a41ed1ab13c2</guid>
 <pubDate>Mon, 18 May 2026 20:04:00 +0000</pubDate>
