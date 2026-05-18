@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 18 May 2026 05:23:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 10:30:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Myślał, że mu się upiecze. Ukrył narkotyki w… piekarniku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/myslal-ze-mu-sie-upiecze-ukryl-narkotyki-w-piekarniku/C9nfET4sIzbWjMCNhD53</link>
+<guid isPermaLink="false">7577e267aca0667b0b5c673326d35de96c1fad66</guid>
+<pubDate>Mon, 18 May 2026 12:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/33acdb5b-3cd3-4748-b44f-667a226dbb4c" alt="miniatura"/></p><p>W środę, 13 maja kryminalni z piotrkowskiej jednostki zauważyli 24-latka, który od dłuższego czasu był „pod ich lupą”. Kiedy mężczyzna spostrzegł funkcjonariuszy, próbował zatrzasnąć przed nimi drzwi. Policjantom udało się wejść do mieszkania, a wtedy ich przypuszczenia się potwierdziły.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/33acdb5b-3cd3-4748-b44f-667a226dbb4c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/33acdb5b-3cd3-4748-b44f-667a226dbb4c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/33acdb5b-3cd3-4748-b44f-667a226dbb4c"/>
+</item>
+<item>
+<title><![CDATA[ Roboty drogowe niedaleko Piotrkowa. Do kiedy utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/roboty-drogowe-niedaleko-piotrkowa-do-kiedy-utrudnienia/ELOm9qJcXmTjKFLBbstq</link>
+<guid isPermaLink="false">bb95d46946897c43959c2a7601ba4989a90770b7</guid>
+<pubDate>Mon, 18 May 2026 11:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f2b8b8a5-9b0e-4b16-8c91-db663c4cf6ea" alt="miniatura"/></p><p>Generalna Dyrekcja Dróg Krajowych i Autostrad poinformowała o pracach prowadzonych w rejonie Piotrkowa Trybunalskiego. Kierowcy muszą tam liczyć się z pewnymi ograniczeniami. Wiadomo, w jakich godzinach będą pracowały ekipy remontowe i do kiedy planowo potrwają remonty.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f2b8b8a5-9b0e-4b16-8c91-db663c4cf6ea" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f2b8b8a5-9b0e-4b16-8c91-db663c4cf6ea" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f2b8b8a5-9b0e-4b16-8c91-db663c4cf6ea"/>
+</item>
+<item>
+<title><![CDATA[ Tysiące telefonów przestanie działać. Ta ogromna sieć znika z Polski ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tysiace-telefonow-przestanie-dzialac-ta-ogromna-siec-znika-z-polski/SdpasUTaDphGr62mZ9VO</link>
+<guid isPermaLink="false">d68ff2884830e0aa38a77d0f83c2a7ca12aa73de</guid>
+<pubDate>Mon, 18 May 2026 11:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/540f41fd-a6fc-4beb-b57b-76674141f345" alt="miniatura"/></p><p>Problem dotyczy przede wszystkim starszych smartfonów i klasycznych telefonów, które nie obsługują technologii 4G/LTE. W praktyce oznacza to, że po zakończeniu procesu wygaszania dotychczasowej infrastruktury sieci 3G urządzenia będą mogły wykonywać połączenia głosowe i wysyłać SMS-y jedynie w ograniczonym zakresie i całkowicie utracą dostęp do mobilnego internetu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/540f41fd-a6fc-4beb-b57b-76674141f345" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/540f41fd-a6fc-4beb-b57b-76674141f345" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/540f41fd-a6fc-4beb-b57b-76674141f345"/>
+</item>
 <item>
 <title><![CDATA[ Dziecko potrącone na hulajnodze w Piotrkowie. To kolejny wypadek w tym samym miejscu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-hulajnodze-w-piotrkowie-to-kolejny-wypadek-w-tym-samym-miejscu/wV0Ee7n7LkbpaKPYDX2R</link>
@@ -2499,16 +2529,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2517,6 +2537,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3367,25 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/21835461-3819-4a5f-bb4e-0f2e2456b50d"/>
-</item>
-<item>
-<title><![CDATA[ Duży nabór pod Piotrkowem. Znany producent szuka rąk do pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/duzy-nabor-pod-piotrkowem-znany-producent-szuka-rak-do-pracy/Bo7AXcawlHRJLkIOhwgH</link>
-<guid isPermaLink="false">15d07625676a9850273be58865b657a732779724</guid>
-<pubDate>Sat, 28 Mar 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" alt="miniatura"/></p><p>Polska marka meblowa rekrutuje w powiecie piotrkowskim. Sprawdziliśmy, kogo dokładnie poszukuje pracodawca, jakie stawia wymagania i co oferuje w zamian przyszłym członkom swojego zespołu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0012d79b-9d44-472b-aa00-6e4d8f0c42e2"/>
-</item>
-<item>
-<title><![CDATA[ Nowe oferty pracy i staży Piotrkowie Trybunalskim. Przedstawiamy zarobki i wymagania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-i-stazy-piotrkowie-trybunalskim-przedstawiamy-zarobki-i-wymagania/LBIYWnucwrAuIxJ3cILA</link>
-<guid isPermaLink="false">d0b5334d2451620c9f46d7430569abc2cb0c67d5</guid>
-<pubDate>Sat, 28 Mar 2026 07:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" alt="miniatura"/></p><p>Wynagrodzenie brutto: od 7 000 PLN</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/98dbc442-7468-4df2-bc7d-25436fdf6fe5"/>
 </item>
 </channel></rss>
