@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 18 May 2026 17:43:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 20:07:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Rozróba w McDonald's w Piotrkowie. Latały krzesła i gaz pieprzowy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/rozroba-w-mcdonalds-w-piotrkowie-lataly-krzesla-i-gaz-pieprzowy/HvJnZA4HSbjC57TF9i0h</link>
+<guid isPermaLink="false">1402d4949d0d0e6a40dd618b45910451813382e4</guid>
+<pubDate>Mon, 18 May 2026 21:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e7b4ab94-83bf-4b29-ba43-a46d1b96121c" alt="miniatura"/></p><p>W piątkowy wieczór (15 maja) policjanci w Piotrkowie otrzymali niecodzienne zgłoszenie. Z informacji wynikało, że grupa osób zachowywała się agresywnie, rzucała krzesłami i rozpylała gaz pieprzowy w piotrkowskim McDonaldzie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e7b4ab94-83bf-4b29-ba43-a46d1b96121c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e7b4ab94-83bf-4b29-ba43-a46d1b96121c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e7b4ab94-83bf-4b29-ba43-a46d1b96121c"/>
+</item>
+<item>
+<title><![CDATA[ Od lipca wielkie podwyżki dla setek Polaków. Nawet ponad 12 tys. zł miesięcznie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/od-lipca-wielkie-podwyzki-dla-setek-polakow-nawet-ponad-12-tys-zl-miesiecznie/Ph7aaQC9WJLOyTUsQ0MP</link>
+<guid isPermaLink="false">fba0fb7897d24c09c7372a2f5500a41ed1ab13c2</guid>
+<pubDate>Mon, 18 May 2026 20:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2fa77436-7965-44d7-9c0b-599074ac5759" alt="miniatura"/></p><p>Ponad 12,9 tys. zł dla lekarzy specjalistów, ponad 11,4 tys. zł dla pielęgniarek z magistrem i specjalizacją oraz ponad 8,4 tys. zł dla lekarzy stażystów. Rząd ostatecznie wycofał się z planu przesunięcia podwyżek w ochronie zdrowia, a nowe minimalne wynagrodzenia zaczną obowiązywać od 1 lipca 2026 roku. Podstawą wyliczeń stała się najnowsza kwota przeciętnego wynagrodzenia ogłoszona przez GUS — 8…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fa77436-7965-44d7-9c0b-599074ac5759" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fa77436-7965-44d7-9c0b-599074ac5759" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fa77436-7965-44d7-9c0b-599074ac5759"/>
+</item>
 <item>
 <title><![CDATA[ Sąd w Piotrkowie Trybunalskim rekrutuje. Pracownik może otrzymać nawet 8 tysięcy wynagrodzenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sad-w-piotrkowie-trybunalskim-rekrutuje-pracownik-moze-otrzymac-nawet-8-tysiecy-wynagrodzenia/blIdoBdMaDciuAkJzzTL</link>
@@ -19,7 +39,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/60e2a47a-718d-4fa1-9588-802584d453b7"/>
 </item>
 <item>
-<title><![CDATA[ Zaklinacz koni spod Piotrkowa. Czym się zajmował i dlaczego potrzebował go Andrzej Wajda? ]]></title>
+<title><![CDATA[ Zaklinacz koni spod Piotrkowa. Czym się zajmuje i dlaczego potrzebował go Andrzej Wajda? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zaklinacz-koni-spod-piotrkowa-czym-sie-zajmowal-i-dlaczego-potrzebowal-go-andrzej-wajda/2iMbRWOErxI7z1jXfkvn</link>
 <guid isPermaLink="false">33a6f57ad8252b4534b0a4dd04882cb49cb243e9</guid>
 <pubDate>Mon, 18 May 2026 15:53:00 +0000</pubDate>
@@ -2579,16 +2599,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2597,6 +2607,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3367,25 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c"/>
-</item>
-<item>
-<title><![CDATA[ Taka plaża w centrum Polski. Tuż obok kryje się barokowa perełka z niezwykłą legendą ]]></title>
-<link>https://trybunalski.pl/wiadomosci/taka-plaza-w-centrum-polski-tuz-obok-kryje-sie-barokowa-perelka-z-niezwykla-legenda/wPOkKqstyDoIJw9m6ccm</link>
-<guid isPermaLink="false">3ae49693b96150d9e3004bfe0ee6d2d6b8606351</guid>
-<pubDate>Sun, 29 Mar 2026 15:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b390d058-1e51-4d48-bf27-24bf46f7c964" alt="miniatura"/></p><p>Choć większość przyjezdnych kojarzy Smardzewice z plażami i ośrodkami wypoczynkowymi, miejscowość ta ma drugie, duchowe oblicze. To właśnie tutaj, według lokalnych podań, doszło do spotkania, które na zawsze zmieniło mapę religijną regionu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b390d058-1e51-4d48-bf27-24bf46f7c964" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b390d058-1e51-4d48-bf27-24bf46f7c964" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b390d058-1e51-4d48-bf27-24bf46f7c964"/>
-</item>
-<item>
-<title><![CDATA[ Niedziela Palmowa w Piotrkowie. Wierni przeszli w procesji [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niedziela-palmowa-w-piotrkowie-wierni-przeszli-w-procesji-zdjecia/TG9FkAO1fmUvCr0Fgj92</link>
-<guid isPermaLink="false">38b3c9a68528a7fcd87e009095531c52188aeb3d</guid>
-<pubDate>Sun, 29 Mar 2026 14:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/42d4766c-dcd5-425e-8be1-1c72711f88e5" alt="miniatura"/></p><p>Uroczystości odbyły w niedzielę, 29 marca, przy pomniku św. Jana Pawła II na ul. Słowackiego. Krótko po godzinie 11:00 nastąpiło poświęcenie palm – od tych skromnych, wierzbowych gałązek, po bogato zdobione rękodzieła. Tuż po odczytaniu Ewangelii, wierni ruszyli w procesji, która przeszła przez ul. Narutowicza oraz Plac Kościuszki, by powrócić w mury klasztorne.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/42d4766c-dcd5-425e-8be1-1c72711f88e5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/42d4766c-dcd5-425e-8be1-1c72711f88e5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/42d4766c-dcd5-425e-8be1-1c72711f88e5"/>
 </item>
 </channel></rss>
