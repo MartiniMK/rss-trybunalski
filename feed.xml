@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 19 May 2026 04:26:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 08:43:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Prawie 15 milionów złotych na turystyczne projekty w gminie Sulejów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/prawie-15-milionow-zlotych-na-turystyczne-projekty-w-gminie-sulejow/Uw7PFCWUCcGBG2hg6lMQ</link>
+<guid isPermaLink="false">bc9019404eb4592a1c27175b826868cf64fb1064</guid>
+<pubDate>Tue, 19 May 2026 09:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/942a87e8-6089-4dcc-9f2d-fe695031abb6" alt="miniatura"/></p><p>Gmina Sulejów ma szansę na znaczące wsparcie finansowe na rozwój turystyki i uporządkowanie ruchu w najcenniejszych przyrodniczo miejscach. Chodzi o dwa projekty, których łączna wartość dofinansowania wynosi prawie 15 milionów złotych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/942a87e8-6089-4dcc-9f2d-fe695031abb6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/942a87e8-6089-4dcc-9f2d-fe695031abb6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/942a87e8-6089-4dcc-9f2d-fe695031abb6"/>
+</item>
 <item>
 <title><![CDATA[ Rozróba w McDonald's w Piotrkowie. Latały krzesła i gaz pieprzowy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/rozroba-w-mcdonalds-w-piotrkowie-lataly-krzesla-i-gaz-pieprzowy/HvJnZA4HSbjC57TF9i0h</link>
@@ -2599,16 +2609,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2617,6 +2617,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3377,15 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/00dedff8-2769-4d65-b3bb-387b2aed1ce1"/>
-</item>
-<item>
-<title><![CDATA[ Nocny skok na chłodnię. 42-latkowi z powiatu piotrkowskiego grozi teraz 5 lat więzienia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/nocny-skok-na-chlodnie-42-latkowi-z-powiatu-piotrkowskiego-grozi-teraz-5-lat-wiezienia/9VVCsJocq060DZfnSZrD</link>
-<guid isPermaLink="false">7ee5ccc938bae24175928bca39a1d00a21d6fd3e</guid>
-<pubDate>Sun, 29 Mar 2026 15:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c" alt="miniatura"/></p><p>W czwartek, 26 marca, przedstawiciel firmy drobiarskiej zauważył podczas kontroli chłodni brak artykułów mięsnych i opakowań na łączną kwotę 1700 złotych. Postanowił sprawdzić zainstalowany tam monitoring.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eaba1b09-a689-487b-bb45-62a01da8299c"/>
 </item>
 </channel></rss>
