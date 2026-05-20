@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 20 May 2026 08:42:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 12:04:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Od dziś nowe promocje w Dino. Bogata oferta specjalna na Dzień Matki [LISTA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/od-dzis-nowe-promocje-w-dino-bogata-oferta-specjalna-na-dzien-matki-lista/ryM7mbhGrOdk5Vdy1Bom</link>
+<guid isPermaLink="false">566133c30a72ac29077103efdf1de3c8e320aafa</guid>
+<pubDate>Wed, 20 May 2026 12:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4f9693-6492-4069-8779-ab911f582bad" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim można zrobić zakupy w kilku sklepach Dino:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4f9693-6492-4069-8779-ab911f582bad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4f9693-6492-4069-8779-ab911f582bad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4f9693-6492-4069-8779-ab911f582bad"/>
+</item>
+<item>
+<title><![CDATA[ Łódka zatonęła w Zalewie Sulejowskim. Strażacy ruszyli do akcji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/lodka-zatonela-w-zalewie-sulejowskim-strazacy-ruszyli-do-akcji/JNCxCETpEQo2MqGHfoTX</link>
+<guid isPermaLink="false">67239d9cbea368951221018280f414d0bbea9443</guid>
+<pubDate>Wed, 20 May 2026 11:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb" alt="miniatura"/></p><p>We wtorek, 19 maja po godzinie 15:00 strażacy z Komendy Miejskiej Państwowej Straży Pożarnej w Piotrkowie Trybunalskim otrzymali zgłoszenie o łodzi, która zatonęła.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb"/>
+</item>
+<item>
+<title><![CDATA[ Nowa zdrapka Lotto i od razu rozbity bank! Ogromna wygrana padła w naszym mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-zdrapka-lotto-i-od-razu-rozbity-bank-ogromna-wygrana-padla-w-naszym-miescie/hEunssIUCouwuV9ZFLrH</link>
+<guid isPermaLink="false">71e71738f31c6307a89b7536b33b73fc34c52135</guid>
+<pubDate>Wed, 20 May 2026 10:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" alt="miniatura"/></p><p>W naszym mieście w maju padły aż dwie wygrane w grach Lotto i to w tej samej kolekturze. Tym razem zastrzyk gotówki graczowi przyniosła jedna ze zdrapek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0"/>
+</item>
 <item>
 <title><![CDATA[ Metallica 39 lat temu w drodze na koncert. Zespół sfotografował się na dawnej gierkówce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/metallica-39-lat-temu-w-drodze-na-koncert-zespol-sfotografowal-sie-na-dawnej-gierkowce/iUL5K5CEZZy7vfYE9GsP</link>
@@ -2699,16 +2729,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2717,6 +2737,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3357,35 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a883865c-55dc-41b9-b0a6-be48b409f254" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a883865c-55dc-41b9-b0a6-be48b409f254" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a883865c-55dc-41b9-b0a6-be48b409f254"/>
-</item>
-<item>
-<title><![CDATA[ Dlaczego nowy prezes MZK zmienił logo spółki? Związkowcy: „Nie ma pieniędzy na wypłaty, a na to było” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dlaczego-nowy-prezes-mzk-zmienil-logo-spolki-zwiazkowcy-nie-ma-pieniedzy-na-wyplaty-a-na-to-bylo/jppaPTtfNLr31S1VEpfQ</link>
-<guid isPermaLink="false">47391518090d270e68ecc52841c0d0496a149610</guid>
-<pubDate>Tue, 31 Mar 2026 14:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/82ce8b84-2a66-4262-8826-4549dc1aa353" alt="miniatura"/></p><p>Wraz z objęciem posady prezesa Miejskiego Zakładu Komunikacji Cezary Włodarczyk podjął decyzję o zmianie loga spółki. Pomysł ten spotkał się z krytyką wśród niektórych radnych, ale przede wszystkim osób bezpośrednio związanych z piotrkowskim MZK. Związkowcy zwrócili uwagę, że był to kolejny zbędny wydatek nowego szefa, który jednocześnie odmawia wypłacenia pracownikom należytej podwyżki, a dokładn…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/82ce8b84-2a66-4262-8826-4549dc1aa353" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/82ce8b84-2a66-4262-8826-4549dc1aa353" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/82ce8b84-2a66-4262-8826-4549dc1aa353"/>
-</item>
-<item>
-<title><![CDATA[ Sterta opon wyrzuconych w lesie. Nadleśnictwo w Piotrkowie szuka sprawcy! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sterta-opon-wyrzuconych-w-lesie-nadlesnictwo-w-piotrkowie-szuka-sprawcy/4ChqFxjAulrUd8F2GLS5</link>
-<guid isPermaLink="false">4f85ab83469c8b219d4031295b53da0e33b5c3c9</guid>
-<pubDate>Tue, 31 Mar 2026 10:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/20236bbf-e381-4504-9311-e629886317b3" alt="miniatura"/></p><p>W nocy z soboty na niedzielę (28/29 marca) w lesie na terenie Leśnictwa Wierzeje, w okolicach miejscowości Stefanówka (gmina Rozprza) nieznani sprawcy porzucili odpady w postaci opon. To nieodpowiedzialne zachowanie stwarza zagrożenie dla środowiska oraz narusza zasady ochrony przyrody.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/20236bbf-e381-4504-9311-e629886317b3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/20236bbf-e381-4504-9311-e629886317b3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/20236bbf-e381-4504-9311-e629886317b3"/>
-</item>
-<item>
-<title><![CDATA[ Sławomir Mentzen przyjedzie do Piotrkowa. Zapowiada gościa specjalnego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/slawomir-mentzen-przyjedzie-do-piotrkowa-zapowiada-goscia-specjalnego/fQKfZthkP87j32yqA3P3</link>
-<guid isPermaLink="false">c1ce615c6902aa8ec23b1897741454f15932d23e</guid>
-<pubDate>Tue, 31 Mar 2026 10:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b73addac-f064-4f7d-a30e-03ea567ff02d" alt="miniatura"/></p><p>Sławomir Mentzen zapowiedział nową trasę objazdową po Polsce. Polityk zawita również do naszego miasta. Spotkanie w Piotrkowie Trybunalskim odbędzie się w środę, 13 maja. Formuła trasy „Zapytaj Mentzena” ma pozwolić zainteresowanym na zadanie większej ilości pytań, na co nie było czasu podczas kampanii do wyborów prezydenckich.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73addac-f064-4f7d-a30e-03ea567ff02d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73addac-f064-4f7d-a30e-03ea567ff02d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b73addac-f064-4f7d-a30e-03ea567ff02d"/>
 </item>
 </channel></rss>
