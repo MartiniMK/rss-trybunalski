@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 21 May 2026 16:31:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 19:14:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Genialne! Kupisz w spożywczym za grosze. Mech i chwasty znikają szybciej niż myślisz ]]></title>
+<link>https://trybunalski.pl/wiadomosci/genialne-kupisz-w-spozywczym-za-grosze-mech-i-chwasty-znikaja-szybciej-niz-myslisz/RE5BbjU9GMAhFiBUWlaw</link>
+<guid isPermaLink="false">440b6c520e75a390948fe0b12f593b9d4b6ea716</guid>
+<pubDate>Thu, 21 May 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef" alt="miniatura"/></p><p>Właściciele domów bardzo często reagują dopiero wtedy, gdy mech zaczyna dominować między fugami, a chwasty wyrastają niemal z każdej szczeliny. Problem polega na tym, że wtedy czyszczenie staje się znacznie trudniejsze i bardziej czasochłonne. Co gorsza, część osób sięga od razu po mocne środki chemiczne albo ustawia myjkę ciśnieniową na maksymalną moc, co potrafi przynieść więcej szkody niż pożyt…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef"/>
+</item>
+<item>
+<title><![CDATA[ Uszkodzony gazociąg w Piotrkowie. Na miejscu 5 zastępów straży pożarnej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/uszkodzony-gazociag-w-piotrkowie-na-miejscu-5-zastepow-strazy-pozarnej/yCPx435MXokB698yE2U0</link>
+<guid isPermaLink="false">2c6c244c7fcd2ad606dff73930e6bfdd8a8c9ca4</guid>
+<pubDate>Thu, 21 May 2026 18:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" alt="miniatura"/></p><p>W czwartek, 21 maja około godziny 14:00 w Piotrkowie doszło do uszkodzenia gazociągu. Zdarzenie miało miejsce na ulicy Niecałej. Do akcji ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b"/>
+</item>
 <item>
 <title><![CDATA[ Miejska jednostka w Łódzkiem szuka pracownika. Wystarczy wykształcenie zawodowe, ile można zarobić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miejska-jednostka-w-lodzkiem-szuka-pracownika-wystarczy-wyksztalcenie-zawodowe-ile-mozna-zarobic/NgaiP4A0XEgcS2fbqbF9</link>
@@ -83,7 +103,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Miejska jednostka w Piotrkowie szuka pracownika.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Kupisz w spożywczym za grosze.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2839,16 +2859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2857,6 +2867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3367,35 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae58a154-5216-4926-af5d-0183194681ad"/>
-</item>
-<item>
-<title><![CDATA[ Z TikToka na wielką scenę. Utalentowany duet z Piotrkowa powalczy o 250 tysięcy złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/z-tiktoka-na-wielka-scene-utalentowany-duet-z-piotrkowa-powalczy-o-250-tysiecy-zlotych/qVV0q6VdWU6gSXHA2Jvs</link>
-<guid isPermaLink="false">0a8d43dc994b72ff4f7de6fccd91d918c8dae1a7</guid>
-<pubDate>Thu, 02 Apr 2026 11:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" alt="miniatura"/></p><p>Siostry Kafar to duet z naszego miasta, który dzieli się swoją artystyczną wrażliwością na polskiej scenie muzycznej, łącząc w swojej twórczości siłę kobiecego głosu i folkowe klimaty. Ich twórczość można śledzić na TikToku, a znakiem rozpoznawczym dziewcząt są harmonie wokalne i towarzyszące im często dźwięki skrzypiec.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/05a107df-438a-4181-91ce-515c76003be6"/>
-</item>
-<item>
-<title><![CDATA[ Nowy sklep w Piotrkowie. Ma powstać jeszcze w tym roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-ma-powstac-do-lipca/UNp6v347LQFRtDNA56JL</link>
-<guid isPermaLink="false">67faa097d50f96fdbb7a81649a2d349d397d7065</guid>
-<pubDate>Thu, 02 Apr 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" alt="miniatura"/></p><p>W Piotrkowie pojawił się nowy plac budowy i wszystko wskazuje na to, że mieszkańcy mogą spodziewać się nowego sklepu. Co więcej, inwestycja ma być zakończona jeszcze w tym roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/549ff0cd-ff93-4bd2-96f2-3d22332994b4"/>
-</item>
-<item>
-<title><![CDATA[ Modlitwa i tłumy wiernych na ulicach miasta. Droga Krzyżowa przeszła przez Piotrków [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/modlitwa-i-tlumy-wiernych-na-ulicach-miasta-droga-krzyzowa-przeszla-przez-piotrkow-zdjecia/AXo9uJvlM5Y4qKJorRbv</link>
-<guid isPermaLink="false">318a924f5c72e187d9b21ded612aeee48321add5</guid>
-<pubDate>Thu, 02 Apr 2026 00:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" alt="miniatura"/></p><p>Misterium Męki Pańskiej rozpoczęło się w środę, 1 kwietnia, o godzinie 19:00 pod kościołem Najświętszego Serca Jezusowego. To właśnie tam odegrano scenę I stacji, która wprowadziła uczestników w atmosferę zadumy. Zaraz potem procesja, prowadzona przez aktorów wcielających się w postacie biblijne ruszyła wraz z duchownymi i rzeszą wiernych ulicą Słowackiego. Wydarzenie od lat wpisuje się w kalendar…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/67181767-9bd7-4772-8a94-3e2f5f79368e"/>
 </item>
 </channel></rss>
