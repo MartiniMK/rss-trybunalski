@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 22 May 2026 12:00:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 15:03:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja policji na drogach Piotrkowa. Kierowca pożegnał się z prawem jazdy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-policji-na-drogach-piotrkowa-kierowca-pozegnal-sie-z-prawem-jazdy/KfxIIBMz5LDys8J3SfwT</link>
+<guid isPermaLink="false">0c0a7530a2d2fd70fdfa51d24cada30e9a7abe2f</guid>
+<pubDate>Fri, 22 May 2026 14:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d628c506-d83a-41a7-b94f-7ac20c1545a7" alt="miniatura"/></p><p>W czwartek, 21 maja funkcjonariusze Wydziału Ruchu Drogowego prowadzili działania kontrolne „Prędkość”. Akcja miała na celu egzekwowanie przestrzegania ograniczeń prędkości przez kierujących. Policjanci ujawnili 111 przekroczeń dozwolonej prędkości.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d628c506-d83a-41a7-b94f-7ac20c1545a7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d628c506-d83a-41a7-b94f-7ac20c1545a7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d628c506-d83a-41a7-b94f-7ac20c1545a7"/>
+</item>
 <item>
 <title><![CDATA[ Strażacy pokazali film spod Piotrkowa. Uważajcie głównie o świcie i o zmroku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/strazacy-pokazali-film-spod-piotrkowa-uwazajcie-glownie-o-swicie-i-o-zmroku/4fyrwjElQWzTituQETLM</link>
@@ -143,7 +153,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Strażacy pokazali film spod Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Pierwsze myśliwce F-35 lądują dziś w województwie łódzkim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2899,16 +2909,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2917,6 +2917,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3377,25 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1acf0b52-ece9-4e76-90e3-66131c74839e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1acf0b52-ece9-4e76-90e3-66131c74839e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1acf0b52-ece9-4e76-90e3-66131c74839e"/>
-</item>
-<item>
-<title><![CDATA[ W naszym mieście ktoś zgarnął sporą nagrodę. Padła wygrana w Lotto ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-naszym-miescie-ktos-zgarnal-spora-nagrode-padla-wygrana-w-lotto/XtyVtJsclZhDco5rmfmL</link>
-<guid isPermaLink="false">9a8219eecedcbbb115b98a02f02805ff0fa4e97d</guid>
-<pubDate>Thu, 02 Apr 2026 14:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc1e93b-a75a-49b3-aa6e-21f665015abc" alt="miniatura"/></p><p>Do tej pory rok 2026 jest trafionym dla graczy Lotto z naszego miasta. Dowodem na to jest już 5 punktów na „mapie szczęścia”. Najnowszy z nich pojawił się w ostatnich dniach. Sprawdzamy, jaka wygrana przypadła graczowi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc1e93b-a75a-49b3-aa6e-21f665015abc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc1e93b-a75a-49b3-aa6e-21f665015abc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc1e93b-a75a-49b3-aa6e-21f665015abc"/>
-</item>
-<item>
-<title><![CDATA[ Diametralna poprawa stanu zdrowia zawodniczki Krasoń MKS Piotrcovia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/diametralna-poprawa-stanu-zdrowia-zawodniczki-krason-mks-piotrcovia/0pEhUJqakpkM9R7dHFTi</link>
-<guid isPermaLink="false">75e361e0516a74cd129f1a98f453eaa5dcd1fa0e</guid>
-<pubDate>Thu, 02 Apr 2026 13:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d" alt="miniatura"/></p><p>Przypomnijmy, że dramatyczne wydarzenia miały miejsce 16 marca, kiedy to podczas rutynowego treningu na piotrkowskiej siłowni zawodniczka straciła przytomność. Natychmiastową pierwszą pomoc udzielili się obecni na miejscu ćwiczący policjanci, a później akcję ratunkową przejęli ratownicy medyczni. Dzięki ich błyskawicznej reakcji i profesjonalizmowi udało się przywrócić czynności życiowe Lucyny Sob…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d"/>
 </item>
 </channel></rss>
