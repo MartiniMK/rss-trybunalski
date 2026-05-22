@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 22 May 2026 08:38:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 12:00:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Strażacy pokazali film spod Piotrkowa. Uważajcie głównie o świcie i o zmroku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/strazacy-pokazali-film-spod-piotrkowa-uwazajcie-glownie-o-swicie-i-o-zmroku/4fyrwjElQWzTituQETLM</link>
+<guid isPermaLink="false">f656dbada3d1047b6aff1e2b82bd48598f89b5f3</guid>
+<pubDate>Fri, 22 May 2026 12:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" alt="miniatura"/></p><p>Do sieci trafiło nagranie zarejestrowane na drogach powiatu piotrkowskiego, które powinno stać się przestrogą dla każdego kierowcy. Na filmie widać skrajnie niebezpieczną sytuację, do jakiej doszło w miejscowości Przygłów, w gminie Sulejów. Z pobliskiego pola, prosto na ruchliwą jezdnię wybiegają dzikie zwierzęta. Wszystko dzieje się w ułamku sekundy, zaledwie kilka metrów przed maską prawidłowo j…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc"/>
+</item>
+<item>
+<title><![CDATA[ Zapowiadali „zieloną falę” w Piotrkowie. Co dalej z nowym systemem? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zapowiadali-zielona-fale-w-piotrkowie-co-dalej-z-nowym-systemem/EPaEHGz0U4paR7Pun1ZR</link>
+<guid isPermaLink="false">14a37c8621aae8b181a102dbce9e635a8643ae7e</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3229888b-0e5d-49a0-9ee9-e5be6e1dc742" alt="miniatura"/></p><p>Zmotoryzowani pytają, kiedy w Piotrkowie zacznie działać zapowiadany system, czyli „zielona fala”. Według planów miałby on poprawić płynność w mieście. Pierwsze wzmianki o unowocześnieniu pojawiły się w naszym mieście w 2025 roku. Co dalej z „zieloną falą”?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3229888b-0e5d-49a0-9ee9-e5be6e1dc742" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3229888b-0e5d-49a0-9ee9-e5be6e1dc742" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3229888b-0e5d-49a0-9ee9-e5be6e1dc742"/>
+</item>
 <item>
 <title><![CDATA[ Produkty znanej marki i elektronarzędzia od Parkside na promocji w Lidlu. Kiedy wielka obniżka cen? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/produkty-znanej-marki-i-elektronarzedzia-od-parkside-na-promocji-w-lidlu-kiedy-wielka-obnizka-cen/aHSlKDFu66CXE6UtmVUi</link>
@@ -123,7 +143,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Produkty znanej marki i elektronarzędzia od Parkside na promocji w Lidlu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Strażacy pokazali film spod Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2879,16 +2899,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2897,6 +2907,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3377,15 +3397,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e40bd33-54dc-4a02-a5df-8ec2600a419d"/>
-</item>
-<item>
-<title><![CDATA[ Nowy kierunek kształcenia w Piotrkowie. Czego uczyć będzie się młodzież? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-kierunek-ksztalcenia-w-piotrkowie-czego-uczyc-bedzie-sie-mlodziez/5EpPbGwLi2pceQge15Nh</link>
-<guid isPermaLink="false">0aff234993b41ac2b86dc88cf1254852645f7745</guid>
-<pubDate>Thu, 02 Apr 2026 13:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/167277c6-c752-4e00-b67f-eea81a048c04" alt="miniatura"/></p><p>Głównym elementem współpracy jest uruchomienie klasy patronackiej w Branżowej Szkole I Stopnia ZSP nr 2 , która będzie oferować program nauczania dualnego. Uczniowie, oprócz zajęć teoretycznych, będą zdobywać praktyczne umiejętności w nowoczesnym centrum szkoleniowym Haering Polska, wyposażonym w profesjonalne maszyny sterowane numerycznie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/167277c6-c752-4e00-b67f-eea81a048c04" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/167277c6-c752-4e00-b67f-eea81a048c04" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/167277c6-c752-4e00-b67f-eea81a048c04"/>
 </item>
 </channel></rss>
