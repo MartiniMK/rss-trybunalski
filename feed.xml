@@ -6,17 +6,17 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 23 May 2026 09:17:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 11:27:42 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
-<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+<title><![CDATA[ PKP Intercity wydało pilny komunikat. Pasażerowie mają duży problem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pkp-intercity-wydalo-pilny-komunikat-pasazerowie-maja-duzy-problem/pghAuDb3m075CM8bGRuY</link>
+<guid isPermaLink="false">a72d5c2ae1775ecf78a7c2328736f61c898e39ba</guid>
+<pubDate>Sat, 23 May 2026 11:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" alt="miniatura"/></p><p>Problemy dotyczą internetowego systemu sprzedaży biletów PKP Intercity. Pasażerowie od czwartkowego wieczoru zgłaszają trudności z zakupem przejazdów przez stronę internetową oraz aplikacje obsługujące sprzedaż online. Przewoźnik potwierdził, że doszło do poważnej awarii infrastruktury odpowiedzialnej za obsługę transakcji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
 <title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
@@ -27,6 +27,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
+</item>
+<item>
+<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
+<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -183,7 +193,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Padła główna wygrana Lotto w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>GIS ostrzega: nie jedz tych polskich suplementów.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2939,16 +2949,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
-<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
-</item>
-<item>
 <title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
 <guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
@@ -2957,6 +2957,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
+</item>
+<item>
+<title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
+<guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" alt="miniatura"/></p><p>Piotrków przeznaczy blisko 7,5 mln zł na dokończenie modernizacji ostatniego, kluczowego odcinka ul. Roosevelta. Inwestycja o długości 1,490 km zostanie podzielona na dwa etapy:</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3377,25 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/16b063bf-a3ee-4827-81c5-2909a634aebf"/>
-</item>
-<item>
-<title><![CDATA[ Piotrków Trybunalski: W domu wybuchł gaz, doszło do pożaru. Na miejscu LPR ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/piotrkow-trybunalski-w-domu-wybuchl-gaz-doszlo-do-pozaru-na-miejscu-lpr/DCdYjdlZNwsnTLni1H8Y</link>
-<guid isPermaLink="false">960948a2673297f35f07a276be7bc7a0f95e9978</guid>
-<pubDate>Fri, 03 Apr 2026 10:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" alt="miniatura"/></p><p>W piątek, 3 kwietnia około godz. 6:30 doszło do wybuchu gazu, a następnie pożaru w domu jednorodzinnym przy ul. Scaleniowej w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eea53b9b-90ea-48f0-8dae-4a33573fbc9d"/>
-</item>
-<item>
-<title><![CDATA[ Gmina Sulejów przygotowuje prawie 200 hektarów terenów inwestycyjnych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gmina-sulejow-przygotowuje-prawie-200-hektarow-terenow-inwestycyjnych/oCEvZEtCgXoGYr2HFMiW</link>
-<guid isPermaLink="false">832f102bb82abdd492c4cd3ceafc3f0450b96b70</guid>
-<pubDate>Fri, 03 Apr 2026 09:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" alt="miniatura"/></p><p>Pierwszy teren o powierzchni 90 ha znajduje się pomiędzy ulicami Opoczyńską i Konecką, gdzie możliwy będzie rozwój sektora przemysłowego i logistycznego. Drugi obszar to 100 ha w obrębie sulejowskiej "polanki", przeznaczone pod turystykę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a3231db1-3859-429f-999c-f4083453f9da"/>
 </item>
 </channel></rss>
