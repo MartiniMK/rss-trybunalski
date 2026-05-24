@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 24 May 2026 05:17:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 08:51:33 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Odpalają bat na kierowców pod naszym miastem. Tutaj uważajcie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/odpalaja-bat-na-kierowcow-pod-naszym-miastem-tutaj-uwazajcie/Bh3qLPrCU9tgQsZKqnCe</link>
+<guid isPermaLink="false">eb3833613762d0247a26fe154192861b4c0c3793</guid>
+<pubDate>Sun, 24 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" alt="miniatura"/></p><p>Przypomnijmy, że Główny Inspektorat Transportu Drogowego rozszerza sieć odcinkowych pomiarów prędkości o 43 nowe miejsca. Nowe restrykcje obejmą także region łódzki i okolice Piotrkowa, gdzie na autostradzie A1 ruszyły już prace instalacyjne. Nowoczesny system ma zacząć rejestrować wykroczenia kierowców na tym odcinku w najbliższym czasie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559"/>
+</item>
+<item>
+<title><![CDATA[ Kurier odbierze puszki i butelki spod drzwi. Wchodzi rewolucja w systemie kaucyjnym ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kurier-odbierze-puszki-i-butelki-spod-drzwi-wchodzi-rewolucja-w-systemie-kaucyjnym/qHsnL53pAEd7zK0nsE1T</link>
+<guid isPermaLink="false">d94647bb2ab97a49b61532b28d722f634705a4af</guid>
+<pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" alt="miniatura"/></p><p>Nową usługę uruchomił internetowy supermarket Frisco . Firma poinformowała, że klienci zamawiający zakupy online mogą przekazywać kurierowi puszki oraz butelki objęte systemem kaucyjnym bez wychodzenia z domu. Rozwiązanie ma ograniczyć problemy, z którymi już teraz mierzą się konsumenci przygotowujący się do wejścia systemu kaucyjnego w Polsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76"/>
+</item>
 <item>
 <title><![CDATA[ Zapach palonej gumy i tłumy w amfiteatrze. Pierwszy dzień 14. Motofestynu w Moszczenicy za nami [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zapach-palonej-gumy-i-tlumy-w-amfiteatrze-pierwszy-dzien-14-motofestynu-w-moszczenicy-za-nami-zdjecia/rYMf0IIredTo7kpi4eGC</link>
@@ -203,7 +223,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Zapach palonej gumy i tłumy w amfiteatrze.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Odpalają bat na kierowców pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3367,25 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie przejdą ulicami miasta. Upamiętnią Jana Pawła II i pomogą Kacprowi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-przejda-ulicami-miasta-upamietnia-jana-pawla-ii-i-pomoga-kacprowi/ZtR7cT2dFcPN5gw5JNpQ</link>
-<guid isPermaLink="false">0e4966202061cf5ed51c96703db17462b2a2dfb2</guid>
-<pubDate>Fri, 03 Apr 2026 11:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/55c0261d-86e1-43e1-ad9a-33257603f290" alt="miniatura"/></p><p>Ulicami Piotrkowa przejdzie marsz ku pamięci św. Jana Pawła II. Wydarzenie odbędzie się w środę, 8 kwietnia. Zwykle wierni spotykali się w dzień rocznicy śmierci papieża, jednak w tym roku wypadł on w Wielki Czwartek. Stąd zmiana daty marszu. O 20:00 w Kaplicy Rzymskokatolickiej pw. św. Jana Pawła II rozpocznie się msza święta, a po niej wierni przejdą w marszu do pomnika papieża na ul. Słowackieg…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/55c0261d-86e1-43e1-ad9a-33257603f290" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/55c0261d-86e1-43e1-ad9a-33257603f290" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/55c0261d-86e1-43e1-ad9a-33257603f290"/>
-</item>
-<item>
-<title><![CDATA[ Czy w Wielką Sobotę obowiązuje post? Kościół mówi jasno ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-w-wielka-sobote-obowiazuje-post-kosciol-mowi-jasno/bbXPZgI6VoHbDZBU7pnH</link>
-<guid isPermaLink="false">7413d4569345e4256459cb669b751717449a0a97</guid>
-<pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" alt="miniatura"/></p><p>W kalendarzu liturgicznym Kościoła katolickiego obowiązek postu ścisłego występuje wyłącznie dwa razy w roku: w Środę Popielcową oraz w Wielki Piątek. Oznacza to zarówno ograniczenie liczby spożywanych posiłków, jak i całkowitą rezygnację z mięsa. Wielka Sobota nie została objęta tym rygorem, co oznacza, że wierni nie mają formalnego obowiązku zachowywania postu ani wstrzemięźliwości od pokarmów m…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/60eeb0e4-2ef9-4e00-b784-beb369500716"/>
 </item>
 </channel></rss>
