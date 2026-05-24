@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 24 May 2026 08:51:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 10:55:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Śmiertelny wypadek niedaleko Piotrkowa. Jedna osoba zginęła, trzy ranne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/smiertelny-wypadek-niedaleko-piotrkowa-jedna-osoba-zginela-trzy-ranne/sqrYbypB7bMJcbakTr0F</link>
+<guid isPermaLink="false">0ee1dba6382396b5cf3ccb1a2b187b18866227e4</guid>
+<pubDate>Sun, 24 May 2026 12:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b" alt="miniatura"/></p><p>W niedzielę, 24 maja po godzinie 2:00 doszło do wypadku na autostradzie A1. Zdarzenie miało miejsce w Tuszynie, a do akcji ruszyły służby w tym straż pożarna, policjanci oraz zespół ratownictwa medycznego. Jak się okazuje, zderzyły się dwa pojazdy. Niestety, z tragicznym skutkiem.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b"/>
+</item>
 <item>
 <title><![CDATA[ Odpalają bat na kierowców pod naszym miastem. Tutaj uważajcie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/odpalaja-bat-na-kierowcow-pod-naszym-miastem-tutaj-uwazajcie/Bh3qLPrCU9tgQsZKqnCe</link>
@@ -223,7 +233,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Odpalają bat na kierowców pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Śmiertelny wypadek niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2979,16 +2989,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -2997,6 +2997,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3377,15 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01"/>
-</item>
-<item>
-<title><![CDATA[ Nie będzie prądu w Piotrkowie i okolicy. Utrudnienia wystąpią na kilkunastu ulicach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-piotrkowie-i-okolicy-utrudnienia-wystapia-na-kilkunastu-ulicach/QadHMSpf63lxKNdz5grd</link>
-<guid isPermaLink="false">3e81380779a7e5ad984e0bfccb14055ddd9bb97f</guid>
-<pubDate>Fri, 03 Apr 2026 12:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61" alt="miniatura"/></p><p>Piotrków Trybunalski od 8:00 do 13:30</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8ff07ed-be17-431e-9057-c666acab1b61"/>
 </item>
 </channel></rss>
