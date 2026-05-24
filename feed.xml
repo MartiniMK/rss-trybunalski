@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 24 May 2026 18:12:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 20:22:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ ORLEN Superliga: Piotrkowianin bliżej pozostania w elicie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-piotrkowianin-blizej-pozostania-w-elicie/fjLzVkvZ4sCqdzgjw48N</link>
+<guid isPermaLink="false">be6c72903fee046f4e5372ee90042abac3654cff</guid>
+<pubDate>Sun, 24 May 2026 20:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/93629b1c-d660-4c93-815f-fc3225cce222" alt="miniatura"/></p><p>Na wstępie warto przypomnieć, że szczypiorniści Piotrkowianina zajęli jedenastce miejsce w klasyfikacji końcowej rozgrywek ORLEN Superligi 2025/2026, dzięki czemu uniknęli bezpośredniej degradacji do niższej klasy rozgrywkowej. O prawo gry w kolejnej edycji tych rozgrywek Piotrkowianie muszą jednak rywalizować w barażach z drugim zespołem Ligi Centralnej Mężczyzn, Sandra Spa Pogonią Szczecin.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/93629b1c-d660-4c93-815f-fc3225cce222" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/93629b1c-d660-4c93-815f-fc3225cce222" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/93629b1c-d660-4c93-815f-fc3225cce222"/>
+</item>
 <item>
 <title><![CDATA[ Śmiertelny wypadek niedaleko Piotrkowa. Jedna osoba zginęła, trzy ranne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/smiertelny-wypadek-niedaleko-piotrkowa-jedna-osoba-zginela-trzy-ranne/sqrYbypB7bMJcbakTr0F</link>
@@ -59,16 +69,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
-<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
-</item>
-<item>
 <title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
 <guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
@@ -77,6 +77,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
+</item>
+<item>
+<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
+<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -233,7 +243,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Śmiertelny wypadek niedaleko Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Cenne zwycięstwo Piotrkowianina!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3377,15 +3387,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad3178e4-ceef-4feb-975f-be58a9d67627" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad3178e4-ceef-4feb-975f-be58a9d67627" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad3178e4-ceef-4feb-975f-be58a9d67627"/>
-</item>
-<item>
-<title><![CDATA[ Te pisanki to prawdziwe dzieła sztuki. Zobacz fascynujące zbiory kolekcjonerek z naszego regionu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/te-pisanki-to-prawdziwe-dziela-sztuki-zobacz-fascynujace-zbiory-kolekcjonerek-z-naszego-regionu/l2AlK7aJ2VuUTBlAlf3H</link>
-<guid isPermaLink="false">a4bb68b0b9f3f667dcd6b4afd7c08e23278186eb</guid>
-<pubDate>Fri, 03 Apr 2026 13:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01" alt="miniatura"/></p><p>Hanna Bieniek-Goska, Jolanta Kaleta i Beata Śniegula bez wątpienia mogą pochwalić się niecodziennymi kolekcjami. Niektórzy zbierają znaczki, monety lub pamiątki z podróży. One są pasjonatkami pisanek. Jak podaje Urząd Marszałkowski Województwa Łódzkiego, w ich zbiorach znajdują się najróżniejsze okazy: malowane, obklejone, dziergane na szydełku, rzeźbione w drewnie, ozdobione muliną i kamieniami.…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e1db08a-f548-4f5a-b189-de8b9d7dfe01"/>
 </item>
 </channel></rss>
