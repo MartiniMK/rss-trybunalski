@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 25 May 2026 10:33:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 14:23:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dzień Dziecka w Piotrkowie. Co się będzie działo w mieście? Program wydarzeń ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dzien-dziecka-w-piotrkowie-co-sie-bedzie-dzialo-w-miescie-program-wydarzen/w5Gb5GoIhcg856OvLqtU</link>
+<guid isPermaLink="false">d8f0f2f500997dd061b2d36a7fae18134afd37be</guid>
+<pubDate>Mon, 25 May 2026 15:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" alt="miniatura"/></p><p>Główne miejskie wydarzenie z okazji Dnia Dziecka odbędzie się w niedzielę, 31 maja w parku linowym Linarium przy ul. Belzackiej 108. Zabawa potrwa od godziny 12:00 do 15:00.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221"/>
+</item>
+<item>
+<title><![CDATA[ Złowił „rybę życia” w naszym powiecie. Wiadomo, ile ważył olbrzym ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zlowil-rybe-zycia-w-naszym-powiecie-wiadomo-ile-wazyl-olbrzym/Q3y0EGcuALNq7p7N2f0i</link>
+<guid isPermaLink="false">2aef85aeb73316562e83b4a9f514e2e3af6d77b9</guid>
+<pubDate>Mon, 25 May 2026 14:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" alt="miniatura"/></p><p>Czasami w najmniej spodziewanych momentach tworzą się historie, które pamięta się do końca życia. Przekonał się o tym Damian, członek lokalnego koła wędkarskiego, dla którego pewien kwietniowy dzień zamienił się w niesamowite przeżycie. Poławiacz po dniu w pracy postanowił spontanicznie pojechać nad Zalew Sulejowski w okolice Murowańca. Wyjazd, który miał być jedynie chwilą relaksu i ucieczką od c…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b"/>
+</item>
 <item>
 <title><![CDATA[ Zenek Martyniuk w naszym powiecie. Tyle kosztował występ króla disco polo ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zenek-martyniuk-w-naszym-powiecie-tyle-kosztowal-wystep-krola-disco-polo/t9sXJYAs3A3oUwzUYYWB</link>
@@ -303,7 +323,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Policja oferuje pracę bez munduru.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Złowił „rybę życia” niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3059,16 +3079,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -3077,6 +3087,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3387,25 +3407,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c34734f0-e2c5-458e-a70f-a791d843aff9"/>
-</item>
-<item>
-<title><![CDATA[ Pożar elektrowni wiatrowej pod Piotrkowem. Z góry spadały płonące elementy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-elektrowni-wiatrowej-pod-piotrkowem-z-gory-spadaly-plonace-elementy/f7tpeUOPxqbCpxLeQK8M</link>
-<guid isPermaLink="false">4a2fb38deed18b7eb056cb52e851eb5277be108e</guid>
-<pubDate>Sun, 05 Apr 2026 10:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/910b1979-c2c7-4cef-b5ca-f14527613c13" alt="miniatura"/></p><p>W Niedzielę Wielkanocną, 5 kwietnia w. m. Kalska Wola, w gminie Czarnocin doszło do pożaru elektrowni wiatrowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/910b1979-c2c7-4cef-b5ca-f14527613c13" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/910b1979-c2c7-4cef-b5ca-f14527613c13" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/910b1979-c2c7-4cef-b5ca-f14527613c13"/>
-</item>
-<item>
-<title><![CDATA[ Życzenia na Wielkanoc 2026. Dłuższe, krótkie, oryginalne i wyjątkowe ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zyczenia-na-wielkanoc-2026-dluzsze-oryginalne-i-wyjatkowe/Q9ZhW1fjIJYLwQw7XdHk</link>
-<guid isPermaLink="false">900e15b112342c322b872eaa8ca3f5cffb1a056b</guid>
-<pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" alt="miniatura"/></p><p>Wielkanoc to święto pełne symboli – nadziei, odrodzenia i radości. To czas spotkań z bliskimi, wspólnego świętowania i dzielenia się dobrym słowem. Niezależnie od tego, czy obchodzisz je tradycyjnie, czy w nowoczesnym duchu, życzenia są ważnym elementem tego okresu. Przygotowaliśmy ściągę z gotowymi życzeniami.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3402f7ce-4c1a-44da-ae64-85459cfe0792"/>
 </item>
 </channel></rss>
