@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 28 May 2026 05:24:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 10:29:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ MZK Piotrków: zmiany w kursowaniu. Ruszy dodatkowa linia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-zmiany-w-kursowaniu-ruszy-dodatkowa-linia/2SgYVaKL03oJPEkAxq2o</link>
+<guid isPermaLink="false">a1997e145230b28a3693f42e90521d7e8e6c4114</guid>
+<pubDate>Thu, 28 May 2026 11:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" alt="miniatura"/></p><p>Remont ulicy Jeziornej w Piotrkowie Trybunalskim wchodzi w ostatni etap. W związku z tym urząd poinformował o zmianach w organizacji ruchu. Ponadto miejskie autobusy pojadą inaczej, a pasażerowie mogą spodziewać się całkiem nowej linii na ulicach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7"/>
+</item>
+<item>
+<title><![CDATA[ Potrącenie na przejściu w powiecie piotrkowskim. Mężczyzna przetransportowany do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/potracenie-na-przejsciu-w-powiecie-piotrkowskim-mezczyzna-przetransportowany-do-szpitala/BuUY78ZCvCbBBUL1WjdO</link>
+<guid isPermaLink="false">ddcaefb79b6716253b931d1d6c9d879a682811c9</guid>
+<pubDate>Thu, 28 May 2026 10:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" alt="miniatura"/></p><p>W środę, 27 maja około godz. 18:30 w Gomulinie doszło do wypadku z udziałem samochodu i hulajnogi. Poszkodowany został 28-letni mężczyzna, który przejeżdzał hulajnogą przez przejście.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756"/>
+</item>
+<item>
+<title><![CDATA[ Areszt Śledczy poszukuje pracownika. Na start ponad 5 tysięcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/areszt-sledczy-poszukuje-pracownika-na-start-ponad-5-tysiecy/G0PUvDyBlmOaPIHrKH91</link>
+<guid isPermaLink="false">8fd0717630327918cd9760c4953fa9b82d2ec386</guid>
+<pubDate>Thu, 28 May 2026 09:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2541def9-f249-45f6-b565-44d0d5eb334c" alt="miniatura"/></p><p>Areszt Śledczy w Piotrkowie Trybunalskim prowadzi rekrutację. Zainteresowani kandydaci mają czas na złożenie dokumentów do 10 czerwca. Jakie kwalifikacje są niezbędne, by ubiegać się o stanowisko?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2541def9-f249-45f6-b565-44d0d5eb334c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2541def9-f249-45f6-b565-44d0d5eb334c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2541def9-f249-45f6-b565-44d0d5eb334c"/>
+</item>
 <item>
 <title><![CDATA[ Komunikat w sprawie owoców w marketach. Tych 4 nawet nie dotykaj ]]></title>
 <link>https://trybunalski.pl/wiadomosci/komunikat-w-sprawie-owocow-w-marketach-tych-4-nawet-nie-dotykaj/jQJuESA72McuyVaOWvg4</link>
@@ -193,7 +223,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Naukowcy biją na alarm w sprawie owoców w marketach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>MZK Piotrków: zmiany w kursowaniu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -523,7 +553,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Naukowcy biją na alarm w sprawie owoców w marketach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>MZK Piotrków: zmiany w kursowaniu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3279,16 +3309,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e2d64-6a4c-469b-a282-7bb209d71669"/>
 </item>
 <item>
-<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
-<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
-<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
-</item>
-<item>
 <title><![CDATA[ Gigantyczna kwota dla Piotrkowa. Miasto dokończy za nią remont ważnej drogi ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigantyczna-kwota-dla-piotrkowa-miasto-dokonczy-za-nia-remont-waznej-drogi/7kDkeCvfz2MKP72lZYR3</link>
 <guid isPermaLink="false">c06b171a494eb619b7a47c3a4bfa85754527d20f</guid>
@@ -3297,6 +3317,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c22d8477-3f06-4d07-a58b-285922ffda80"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym mieście. Powstanie nowe centrum handlowe i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-miescie-powstanie-nowe-centrum-handlowe-i-miejsca-pracy/TpmmqGANmfDqevBLD1tG</link>
+<guid isPermaLink="false">de496f1949d2f95910eba3562a0f5913a61b4222</guid>
+<pubDate>Sat, 11 Apr 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" alt="miniatura"/></p><p>Spółka Progress XVIII wybuduje w Piotrkowie Trybunalskim nowy park handlowy. Wykonawcą prac będzie firma P.A. Nova, a wartość całego kontraktu opiewa na 22 mln zł. Umowę w tej sprawie podpisano 20 marca 2026 roku. Według harmonogramu budowa kompleksu rozpoczęła się 1 kwietnia 2026 roku. Tego samego dnia Rank Progress sprzedał część nieruchomości gigantowi w branży meblowej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cecead44-e28b-4754-89cf-92532e3ae820"/>
 </item>
 <item>
 <title><![CDATA[ Wyburzono pomnik pamięci żołnierzy AK. Stanie tu stacja paliw. Kontrowersje wokół inwestycji przy S8 ]]></title>
@@ -3397,35 +3427,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8715466d-08c6-4f2a-a512-739dc043f59e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8715466d-08c6-4f2a-a512-739dc043f59e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8715466d-08c6-4f2a-a512-739dc043f59e"/>
-</item>
-<item>
-<title><![CDATA[ Złodzieje splądrowali siedzibę w Piotrkowie. Ruszyła zbiórka na odbudowę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zlodzieje-spladrowali-siedzibe-w-piotrkowie-ruszyla-zbiorka-na-odbudowe/gdD3eMiyRrGoC68LFdsU</link>
-<guid isPermaLink="false">dce233b85f3082e0fbd8b802090d28d3736a8eb5</guid>
-<pubDate>Thu, 09 Apr 2026 11:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/048b17b1-6c02-4971-9549-431ae1ba9afc" alt="miniatura"/></p><p>To, co buduje się latami, można stracić w jedną noc. Niestety, przekonali się o tym członkowie jednej z piotrkowskich organizacji. W nocy, z 2 na 3 kwietnia ktoś włamał się do siedziby Jednostki Strzeleckiej 1031 imienia Obrońców Lwowa przy ul. Spacerowej w naszym mieście. Zdarzenie potwierdza oficer prasowy w Komendzie Miejskiej Policji w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/048b17b1-6c02-4971-9549-431ae1ba9afc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/048b17b1-6c02-4971-9549-431ae1ba9afc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/048b17b1-6c02-4971-9549-431ae1ba9afc"/>
-</item>
-<item>
-<title><![CDATA[ Uczeń dźgnął kolegę w szkole. Piotrkowska policja mówi o groźnym zdarzeniu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/uczen-dzgnal-kolege-w-szkole-piotrkowska-policja-mowi-o-groznym-zdarzeniu/S3ybKC1zqlPeviu2u2sZ</link>
-<guid isPermaLink="false">46c47f5178b99e90010b1a6454c643cfa4f6f07c</guid>
-<pubDate>Thu, 09 Apr 2026 11:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" alt="miniatura"/></p><p>Do niebezpiecznego incydentu doszło w Szkole Podstawowej w Ręcznie, w powiecie piotrkowskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd03eb21-76e3-4c8a-a63c-600050224aca"/>
-</item>
-<item>
-<title><![CDATA[ IV Marsz Papieski w Piotrkowie. Wspólna modlitwa i pomoc dla Kacpra [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/iv-marsz-papieski-w-piotrkowie-wspolna-modlitwa-i-pomoc-dla-kacpra-zdjecia/XfkMU8Zg7p71V22LduxC</link>
-<guid isPermaLink="false">d40b0caee7559d1e24b48c4746a8f2eb390a2252</guid>
-<pubDate>Thu, 09 Apr 2026 01:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3189f332-bf4b-44a8-8f32-44260f53b376" alt="miniatura"/></p><p>W środę, 8 kwietnia ulicami Piotrkowa przeszedł marsz ku pamięci św. Jana Pawła II. Zwykle wierni spotykali się w dzień rocznicy śmierci papieża, jednak w tym roku wypadł on w Wielki Czwartek. Stąd zmiana daty marszu. O 20:00 w Parafii Rzymskokatolickiej pw. św. Jana Pawła II rozpoczęła się msza święta, a po niej wierni przeszli ulicami miasta do pomnika papieża na ul. Słowackiego. Trasa, którą po…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3189f332-bf4b-44a8-8f32-44260f53b376" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3189f332-bf4b-44a8-8f32-44260f53b376" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3189f332-bf4b-44a8-8f32-44260f53b376"/>
 </item>
 </channel></rss>
