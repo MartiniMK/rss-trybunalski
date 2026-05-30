@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 30 May 2026 07:54:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 10:16:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Piotrkowie pojedziemy autobusami za darmo. Ale tylko w konkretne dni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-pojedziemy-autobusami-za-darmo-ale-tylko-w-konkretne-dni/pQb4ANYJGycSwkmvHCAR</link>
+<guid isPermaLink="false">a733b4cd41231f5958b459b1cdc4be30d49d8a5a</guid>
+<pubDate>Sat, 30 May 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7562565d-d265-4f05-90f9-1d47443bfb49" alt="miniatura"/></p><p>Podczas sesji we wtorek, 26 maja, oficjalnie przegłosowano wprowadzenie bezpłatnych przejazdów autobusami MZK w Piotrkowie Trybunalskim. Nowe udogodnienie dla mieszkańców obwarowane jest jednak istotnym warunkiem. Darmowe kursy będą obowiązywać wyłącznie w konkretne, wyznaczone dni roku. Dowiedz się, kiedy pojedziesz „emzetką” bez biletu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7562565d-d265-4f05-90f9-1d47443bfb49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7562565d-d265-4f05-90f9-1d47443bfb49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7562565d-d265-4f05-90f9-1d47443bfb49"/>
+</item>
 <item>
 <title><![CDATA[ Pilna ewakuacja w Piotrkowie. Było duże ryzyko wybuchu! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pilna-ewakuacja-w-piotrkowie-bylo-duze-ryzyko-wybuchu/IWiTF9WRNjfgXNhv8HQI</link>
@@ -453,7 +463,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Sezon sie zaczął, grzybiarze ruszyli do lasów.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>W Piotrkowie pojedziemy autobusami za darmo.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -783,7 +793,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Sezon sie zaczął, grzybiarze ruszyli do lasów.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>W Piotrkowie pojedziemy autobusami za darmo.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3447,15 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9af5c90c-03bd-4c0e-9fa1-3990881b35ee" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9af5c90c-03bd-4c0e-9fa1-3990881b35ee" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9af5c90c-03bd-4c0e-9fa1-3990881b35ee"/>
-</item>
-<item>
-<title><![CDATA[ To najdroższy chodnik w regionie? W powiecie piotrkowskim trwa kosztowna budowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-najdrozszy-chodnik-w-regionie-w-powiecie-piotrkowskim-trwa-kosztowna-budowa/5nzidnMQDyUtKDtHKXfI</link>
-<guid isPermaLink="false">0f28d5ab13ebf10e8d9544c5d834954738f563ca</guid>
-<pubDate>Mon, 13 Apr 2026 11:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd9ec914-d5ae-4666-9b98-7e1daef2f4bc" alt="miniatura"/></p><p>Roboty w Szydłowie rozpoczęły się jeszcze pod koniec ubiegłego 2025 roku. Obecnie wykonawca prowadzi prace związane z budową kanalizacji deszczowej oraz rozbiórką starego chodnika. Ten, jak wynika z przekazanych informacji, był już w złym stanie technicznym i występował tylko na części odcinka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd9ec914-d5ae-4666-9b98-7e1daef2f4bc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd9ec914-d5ae-4666-9b98-7e1daef2f4bc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd9ec914-d5ae-4666-9b98-7e1daef2f4bc"/>
 </item>
 </channel></rss>
