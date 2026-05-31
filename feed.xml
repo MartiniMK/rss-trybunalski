@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 31 May 2026 05:34:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 09:24:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gigant inwestuje pod naszym miastem. Będzie nowe centrum i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-pod-naszym-miastem-bedzie-nowe-centrum-i-miejsca-pracy/7ZrVfzQzTtsCkQ9aliGF</link>
+<guid isPermaLink="false">8bdb1535cdc963a3ccaf77978188b28521f579dc</guid>
+<pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" alt="miniatura"/></p><p>Rozpoczęła się budowa nowoczesnego centrum dystrybucyjnego typu built-to-suit dla Agata S.A. w Majkowie Dużym pod Piotrkowem Trybunalskim. Inwestycja obejmuje ok. 41 800 m² powierzchni logistycznej i stanowi część największej transakcji najmu powierzchni magazynowej w Polsce w 2025 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowianin wywalczył miejsce w elicie na kolejny sezon! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-wywalczyl-miejsce-w-elicie-na-kolejny-sezon/GfsBXmQB0l5q3XKYB7P3</link>
@@ -473,7 +483,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Powstanie nowa strefa przemysłowa koło Bełchatowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Gigant inwestuje pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -803,7 +813,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Powstanie nowa strefa przemysłowa koło Bełchatowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Gigant inwestuje pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy pytają o zniżki. Kiedy program zawita do Piotrkowa? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-pytaja-o-znizki-kiedy-program-zawita-do-piotrkowa/1kDfzN3oZCatTQYd5fJT</link>
-<guid isPermaLink="false">e58df250156c89f7bdfc184dc6b96df4d9f10611</guid>
-<pubDate>Mon, 13 Apr 2026 15:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0242b47c-9eb8-4f4f-aa9e-5d0d5d4a37ce" alt="miniatura"/></p><p>Każda osoba, która ukończyła 60. rok życia, może zostać posiadaczem Ogólnopolskiej Karty Seniora. Do programu można dołączyć poprzez pobranie i wypełnienie formularza oraz opłacenie składki. To jednak niejedyny sposób. Karta jest wydawana bezpłatnie w samorządach, które przystąpiły do programu partnerskiego. Na jakie korzyści mogą liczyć użytkownicy OKS?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0242b47c-9eb8-4f4f-aa9e-5d0d5d4a37ce" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0242b47c-9eb8-4f4f-aa9e-5d0d5d4a37ce" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0242b47c-9eb8-4f4f-aa9e-5d0d5d4a37ce"/>
 </item>
 </channel></rss>
