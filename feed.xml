@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 31 May 2026 11:55:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 14:13:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Miejski Dzień Dziecka w Piotrkowie pełen uśmiechu - Park Linowy zamienił się w krainę dziecięcej radości ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miejski-dzien-dziecka-w-piotrkowie-pelen-usmiechu-park-linowy-zamienil-sie-w-kraine-dzieciecej-radosci-zdjecia/3HMpAcqywogLl817femH</link>
+<guid isPermaLink="false">3cffaad72733d27277ae03d679cf8ed0dfeb4725</guid>
+<pubDate>Sun, 31 May 2026 15:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" alt="miniatura"/></p><p>DzieńDziecka w parku linowym w Piotrkowie Trybunalskim, 31.05.2026</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788"/>
+</item>
 <item>
 <title><![CDATA[ Gigant inwestuje pod naszym miastem. Będzie nowe centrum i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-pod-naszym-miastem-bedzie-nowe-centrum-i-miejsca-pracy/7ZrVfzQzTtsCkQ9aliGF</link>
@@ -483,7 +493,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Gigant inwestuje pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Miejski Dzień Dziecka w parku linowym w Piotrkowie pełen atrakcji i radości ZDJĘCIA</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -813,7 +823,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Gigant inwestuje pod Piotrkowem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Miejski Dzień Dziecka w parku linowym w Piotrkowie pełen atrakcji i radości ZDJĘCIA</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e87cade-fbf1-4051-bcdb-33a46752538d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e87cade-fbf1-4051-bcdb-33a46752538d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e87cade-fbf1-4051-bcdb-33a46752538d"/>
-</item>
-<item>
-<title><![CDATA[ Praca w centrum logistycznym przy S8. Polski gigant e-commerce rekrutuje w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/praca-w-centrum-logistycznym-przy-s8-polski-gigant-e-commerce-rekrutuje-w-piotrkowie/HBX3EhcUpdPU1JRfDx0L</link>
-<guid isPermaLink="false">fe520c5ad4e8f8e989ee965520ab804cf63933c8</guid>
-<pubDate>Mon, 13 Apr 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd" alt="miniatura"/></p><p>Polski gigant poszukuje rąk do pracy w centrum logistycznym na obrzeżach naszego miasta. Na jakie stanowiska można aplikować? Prześwietlamy aktualne oferty pracy i sprawdzamy, na co mogą liczyć przyszli pracownicy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d2dfaf7b-f5d6-4c00-becd-5fadf2d2c9bd"/>
 </item>
 </channel></rss>
