@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 01 Jun 2026 18:54:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 22:22:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ogromne szczęście w grze Lotto - padłą 6-cyfrowa kwota! Kolejna wielka wygrana w naszym powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-szczescie-w-grze-lotto-padla-6-cyfrowa-kwota-kolejna-wielka-wygrana-w-naszym-powiecie/hEunssIUCouwuV9ZFLrH</link>
+<guid isPermaLink="false">173fb389829e5f5ff1ae0d6e3bd143cbad04dc9b</guid>
+<pubDate>Mon, 01 Jun 2026 21:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" alt="miniatura"/></p><p>W naszym mieście w maju padły aż dwie wygrane w grach Lotto i to w tej samej kolekturze. Tym razem zastrzyk gotówki graczowi przyniosła jedna ze zdrapek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0"/>
+</item>
 <item>
 <title><![CDATA[ Zachwycające zjawisko wkrótce zagości na niebie. Kiedy zobaczymy "truskawkowy księżyc"? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zachwycajace-zjawisko-wkrotce-zagosci-na-niebie-kiedy-zobaczymy-truskawkowy-ksiezyc/YtwKDmjJkRE7HZhf2Ge1</link>
@@ -977,16 +987,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/58b96739-6614-45a0-81a6-7eba20141beb"/>
-</item>
-<item>
-<title><![CDATA[ Nowa zdrapka Lotto i od razu rozbity bank! Ogromna wygrana padła w naszym mieście ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowa-zdrapka-lotto-i-od-razu-rozbity-bank-ogromna-wygrana-padla-w-naszym-miescie/hEunssIUCouwuV9ZFLrH</link>
-<guid isPermaLink="false">71e71738f31c6307a89b7536b33b73fc34c52135</guid>
-<pubDate>Wed, 20 May 2026 10:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" alt="miniatura"/></p><p>W naszym mieście w maju padły aż dwie wygrane w grach Lotto i to w tej samej kolekturze. Tym razem zastrzyk gotówki graczowi przyniosła jedna ze zdrapek.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aabcf661-09a5-4079-bb0d-0c997242a6c0"/>
 </item>
 <item>
 <title><![CDATA[ Metallica 39 lat temu w drodze na koncert. Zespół sfotografował się na dawnej gierkówce ]]></title>
