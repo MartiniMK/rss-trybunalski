@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 31 May 2026 22:16:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 00:23:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramat pod Piotrkowem. W pożarze zginął mężczyzna ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-pod-piotrkowem-w-pozarze-zginal-mezczyzna/MGQipwaY345R5pIkZrKX</link>
+<guid isPermaLink="false">1abc75a6c8562f16c5083e456659173a9e898fab</guid>
+<pubDate>Mon, 01 Jun 2026 00:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18" alt="miniatura"/></p><p>W godzinach popołudniowych w m. Świątniki, w gminie Wolbórz doszło do tragicznego zdarzenia. W suterenie domu jednorodzinnego pojawił się ogień. W wyniku pożaru zginął 53-letni mężczyzna, który przebywał w tym czasie w budynku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18"/>
+</item>
 <item>
 <title><![CDATA[ Rewolucja w dziedziczeniu i darowiznach już działa. Spadkobiercy odczują zmiany od razu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-dziedziczeniu-i-darowiznach-juz-dziala-spadkobiercy-odczuja-zmiany-od-razu/0UyPb4LlDoJjwHP7w0Dn</link>
@@ -659,16 +669,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -677,6 +677,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -3437,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/121e9b69-3715-44aa-8d34-e7480c27c94f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/121e9b69-3715-44aa-8d34-e7480c27c94f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/121e9b69-3715-44aa-8d34-e7480c27c94f"/>
-</item>
-<item>
-<title><![CDATA[ Zaginął 55-letni mężczyzna. Piotrkowska policja prowadzi poszukiwania [AKTUALIZACJA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginal-55-letni-mezczyzna-piotrkowska-policja-prowadzi-poszukiwania/XehS763rfzBh5kSYVsj4</link>
-<guid isPermaLink="false">22cc4a8e69a764a38c00f0c35c3ab91b09864ff2</guid>
-<pubDate>Tue, 14 Apr 2026 09:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/33268d2e-f89f-4de6-bb15-4e15be90e886" alt="miniatura"/></p><p>We wtorek, 14 kwietnia o godzinie 9:00 piotrkowscy policjanci przekazali informację o prowadzonych poszukiwaniach. Jak się okazuje, zaginął 55-latek. Ostatni raz kontaktował się z rodziną 8 marca.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/33268d2e-f89f-4de6-bb15-4e15be90e886" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/33268d2e-f89f-4de6-bb15-4e15be90e886" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/33268d2e-f89f-4de6-bb15-4e15be90e886"/>
 </item>
 </channel></rss>
