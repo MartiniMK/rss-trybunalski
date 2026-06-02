@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 02 Jun 2026 15:10:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 18:59:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek w powiecie piotrkowskim. Czołówka dwóch aut, są ranni [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-czolowka-dwoch-aut-sa-ranni-zdjecia/smAcbNxzWneeLUL0nnE7</link>
+<guid isPermaLink="false">9ca41bffeb62c0446fedd7b1e43bd0aed1cbc130</guid>
+<pubDate>Tue, 02 Jun 2026 17:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5970eb20-15dc-4447-80c1-57ee1a8678c4" alt="miniatura"/></p><p>We wtorkowe popołudnie, 2 czerwca, około godziny 15:50 doszło do groźnego wypadku. W Niechcicach, na DK91 zderzyły się dwa samochody. Na miejsce ruszyły służby, w tym policjanci i strażacy. Niezbędna okazała się także pomoc zespołu ratownictwa medycznego. Mundurowi przedstawili pierwsze informacje dotyczące okoliczności tego zdarzenia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5970eb20-15dc-4447-80c1-57ee1a8678c4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5970eb20-15dc-4447-80c1-57ee1a8678c4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5970eb20-15dc-4447-80c1-57ee1a8678c4"/>
+</item>
+<item>
+<title><![CDATA[ Od jutra ważna zmiana. "Polecą" prawa jazdy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/od-jutra-wazna-zmiana-poleca-prawa-jazdy/pUKWWBiG9BLXcJ8ExH4d</link>
+<guid isPermaLink="false">8a37c2c0a83284e9305db6c431d8c3f17e212b57</guid>
+<pubDate>Tue, 02 Jun 2026 17:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bc1652c2-a5dc-4854-b2fe-04ec27f7e2bd" alt="miniatura"/></p><p>Po wielomiesięcznych uzgodnieniach pomiędzy Ministerstwem Spraw Wewnętrznych i Administracji a Ministerstwem Infrastruktury zdecydowano o pozostawieniu możliwości zmniejszenia liczby punktów karnych za część wykroczeń związanych z przekroczeniem prędkości. Ostatecznie kierowcy będą mogli skorzystać ze szkolenia redukującego punkty tylko wtedy, gdy przekroczyli dozwoloną prędkość maksymalnie o 30 k…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc1652c2-a5dc-4854-b2fe-04ec27f7e2bd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc1652c2-a5dc-4854-b2fe-04ec27f7e2bd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bc1652c2-a5dc-4854-b2fe-04ec27f7e2bd"/>
+</item>
 <item>
 <title><![CDATA[ W Piotrkowie ruszyła rozbiórka. To jeden z najstarszych takich obiektów [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-ruszyla-rozbiorka-to-jeden-z-najstarszych-takich-obiektow-zdjecia/GkO5nZ3fcyfZjl3gZJzV</link>
@@ -703,7 +723,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>W Piotrkowie ruszyła rozbiórka.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wypadek w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -859,16 +879,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -877,6 +887,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -1033,7 +1053,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>W Piotrkowie ruszyła rozbiórka.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wypadek w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3427,25 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b9cd16c-7c2b-44da-a56c-40efed3fe052"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowscy uczniowie z olimpijskimi sukcesami. Otrzymali nagrody i gratulacje ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowscy-uczniowie-z-olimpijskimi-sukcesami-otrzymali-nagrody-i-gratulacje/WYzxmZGEp2sHpxGGHQ6c</link>
-<guid isPermaLink="false">e7a448dc552ab4fea173e64bae439ed59a0f27e4</guid>
-<pubDate>Thu, 16 Apr 2026 10:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" alt="miniatura"/></p><p>Wśród wyróżnionych znalazły się osoby, które odniosły sukcesy w dziedzinach, takich jak matematyka, geografia, język niemiecki, sztuczna inteligencja oraz fizyka. W trakcie wydarzenia wręczono im upominki, a gratulacje przekazali prezydent Piotrkowa Trybunalskiego, Juliusz Wiernicki oraz dyrektor szkoły, Henryk Michalski.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5db70e54-d32a-4d23-8c53-2f3d874db41c"/>
-</item>
-<item>
-<title><![CDATA[ Klucz w zamku na noc? To błąd, który może mieć poważne skutki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/klucz-w-zamku-na-noc-to-blad-ktory-moze-miec-powazne-skutki/e5i1OnGscE3LxjxGPFGX</link>
-<guid isPermaLink="false">7cd422d5bfc4c881968c6df21def4b53785f0612</guid>
-<pubDate>Thu, 16 Apr 2026 06:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/53416a33-4d77-4c45-a096-72082a72d264" alt="miniatura"/></p><p>Przekonanie, że klucz pozostawiony w zamku utrudnia dostęp z zewnątrz, jest jednym z najczęściej powielanych mitów dotyczących ochrony mieszkań. W praktyce doświadczeni włamywacze nie mają większego problemu z takim zabezpieczeniem. Co więcej, obecność klucza od środka może w niektórych przypadkach ułatwić manipulację mechanizmem zamka.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/53416a33-4d77-4c45-a096-72082a72d264" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/53416a33-4d77-4c45-a096-72082a72d264" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/53416a33-4d77-4c45-a096-72082a72d264"/>
 </item>
 </channel></rss>
