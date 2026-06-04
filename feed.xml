@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 03 Jun 2026 21:34:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 00:00:42 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ważny komunikat w sprawie opłat za autostradę A1. Obowiązuje od 3 czerwca 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wazny-komunikat-w-sprawie-oplat-za-autostrade-a1-obowiazuje-od-3-czerwca-2026/ApaEFEbC8cHFkr8wGCF8</link>
+<guid isPermaLink="false">91b6db35eb7d39da1ac3f4f4c00b2a006b1392e4</guid>
+<pubDate>Thu, 04 Jun 2026 00:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" alt="miniatura"/></p><p>Kierowcy planujący wyjazd na długi weekend oraz wakacyjne podróże autostradą A1 powinni wiedzieć o nowym rozwiązaniu przygotowanym na czas największego natężenia ruchu. Chodzi o odcinek Gdańsk–Toruń, gdzie w określonych sytuacjach przejazd może odbywać się bez pobierania opłat.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d"/>
+</item>
 <item>
 <title><![CDATA[ Nie masz pomysłu na długi weekend? Oto 3 perełki turystyczne w naszych okolicach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nie-masz-pomyslu-na-dlugi-weekend-odkryj-3-perelki-w-okolicach-naszego-miasta/5ieg5u1j80Qr1FO9j5OA</link>
@@ -803,7 +813,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Gwałtowna burza nad regionem. Strażacy pomagali osobom uwięzionym w autach</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Bramki otwarte, zniknie opłata za autostradę.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1133,7 +1143,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Gwałtowna burza nad regionem. Strażacy pomagali osobom uwięzionym w autach</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Bramki otwarte, zniknie opłata za autostradę.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/436f6791-5282-41a5-aa9a-21d25356437b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/436f6791-5282-41a5-aa9a-21d25356437b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/436f6791-5282-41a5-aa9a-21d25356437b"/>
-</item>
-<item>
-<title><![CDATA[ Najzdolniejsi uczniowie z powiatu piotrkowskiego nagrodzeni. Starosta przyznał stypendia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najzdolniejsi-uczniowie-z-powiatu-piotrkowskiego-nagrodzeni-starosta-przyznal-stypendia/kDnk3xj3zIVnEtlTWmMh</link>
-<guid isPermaLink="false">620c19ea43e8946a0c36e1834d97249b08b34786</guid>
-<pubDate>Fri, 17 Apr 2026 13:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e9f6564d-1d73-4b2f-8a49-f36c72202fb8" alt="miniatura"/></p><p>W czwartek, 16 kwietnia Starostwo Powiatowe w Piotrkowie Trybunalskim opublikowało listę wyróżnionych uczniów. Stypendium za II semestr roku szkolnego 2025/2026 otrzymało 14 osób. Młodzież musiała wykazać się bardzo dobrymi wynikami w nauce, ale też liczą się osiągnięcia m.in. na płaszczyźnie społecznej, edukacyjnej oraz artystycznej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9f6564d-1d73-4b2f-8a49-f36c72202fb8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9f6564d-1d73-4b2f-8a49-f36c72202fb8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9f6564d-1d73-4b2f-8a49-f36c72202fb8"/>
 </item>
 </channel></rss>
