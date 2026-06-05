@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 05 Jun 2026 04:49:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 08:59:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tancerki z Piotrkowa na podium. Wróciły z pucharem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-na-podium-wrocily-z-pucharem/qG24WgZ7RXs4YhX8Lt9P</link>
+<guid isPermaLink="false">ad8d66dbf2ae9f087559a640d5ad0d8a2910772e</guid>
+<pubDate>Fri, 05 Jun 2026 09:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" alt="miniatura"/></p><p>Tancerki z Piotrkowskiej Fundacji Talentów nie zwalniają tempa. 16 maja zawodniczki wzięły udział w Międzynarodowym Turnieju Tańca i Akrobatyki Powietrznej „FLY CUP” w Drezdenku oraz w V Ogólnopolskim Turniej Tańca w Grodzisku Mazowieckim. Do miasta wróciły z nagrodami. Nie inaczej było po zawodach, które odbyły się w Gdyni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b"/>
+</item>
 <item>
 <title><![CDATA[ Tradycja, która łączy pokolenia. W naszym powiecie powstał spektakularny kwietny dywan! [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tradycja-ktora-laczy-pokolenia-w-naszym-powiecie-powstal-spektakularny-kwietny-dywan-zdjecia/5D06bKf1bGGQWRpE0iX4</link>
@@ -833,7 +843,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Tradycja, która łączy pokolenia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Tancerki z Piotrkowa na podium.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1163,7 +1173,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Tradycja, która łączy pokolenia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Tancerki z Piotrkowa na podium.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3427,15 +3437,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025"/>
-</item>
-<item>
-<title><![CDATA[ Ogólnopolska Karta Seniora w Piotrkowie? Mieszkańcy pytają o zniżki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogolnopolska-karta-seniora-w-piotrkowie-mieszkancy-pytaja-o-znizki/F9UUy40mGft7juCxHwlM</link>
-<guid isPermaLink="false">5d89642bdfd76effcd12e041a7f4d10a7a6c9e70</guid>
-<pubDate>Fri, 17 Apr 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/85ac6a74-7857-4293-ac9a-b3f81d603983" alt="miniatura"/></p><p>Każda osoba, która ukończyła 60. rok życia, może zostać posiadaczem Ogólnopolskiej Karty Seniora. Do programu można dołączyć poprzez pobranie i wypełnienie formularza oraz opłacenie składki. To jednak niejedyny sposób. Karta jest wydawana bezpłatnie w samorządach, które przystąpiły do programu partnerskiego. Na jakie korzyści mogą liczyć użytkownicy OKS?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/85ac6a74-7857-4293-ac9a-b3f81d603983" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/85ac6a74-7857-4293-ac9a-b3f81d603983" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/85ac6a74-7857-4293-ac9a-b3f81d603983"/>
 </item>
 </channel></rss>
