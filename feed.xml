@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 05 Jun 2026 08:59:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 12:27:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kasa dla młodzieży z naszego województwa. Na co przeznaczą stypendia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kasa-dla-mlodziezy-z-naszego-wojewodztwa-na-co-przeznacza-stypendia/KXYNyOlKLfECieAsZqg9</link>
+<guid isPermaLink="false">1c03e65c449a7fea747dc6ced160a4b2f5f57458</guid>
+<pubDate>Fri, 05 Jun 2026 11:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" alt="miniatura"/></p><p>3 czerwca Urząd Marszałkowski Województwa Łódzkiego poinformował o wydarzeniu w Muzeum Sztuki w Łodzi, podczas którego wręczone zostały stypendia dla uczniów i studentów szkół artystycznych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70"/>
+</item>
+<item>
+<title><![CDATA[ To największe jezioro w woj. łódzkim zwane jest "morzem". Idealne na wyjazd w weekend [FOTO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-najwieksze-jezioro-w-woj-lodzkim-zwane-jest-morzem-idealne-na-wyjazd-w-weekend-foto/Al5h7oYZaxopdlRX7ZZ3</link>
+<guid isPermaLink="false">d0e434f456c39b646f7b1ddeead1cd4340cb64a2</guid>
+<pubDate>Fri, 05 Jun 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" alt="miniatura"/></p><p>Zbiornik Jeziorsko , zwany jest „Morzem Sieradzkim”, bo rozciąga się na przestrzeni wielu kilometrów, a także to największy akwen w województwie łódzkim. Zbiornik zaporowy wybudowany został na rzece Warcie , jako zbiornik retencyjny. Ma powierzchnię 42,3 km kw. a jego pojemność to 202,8 mln metrów sześciennych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245"/>
+</item>
 <item>
 <title><![CDATA[ Tancerki z Piotrkowa na podium. Wróciły z pucharem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-na-podium-wrocily-z-pucharem/qG24WgZ7RXs4YhX8Lt9P</link>
@@ -843,7 +863,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Tancerki z Piotrkowa na podium.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Kasa dla młodzieży z naszego miasta i powiatu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1173,7 +1193,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Tancerki z Piotrkowa na podium.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Kasa dla młodzieży z naszego miasta i powiatu.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3427,15 +3447,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2de0dbb6-dbf0-4f76-8805-5276cba6990f"/>
-</item>
-<item>
-<title><![CDATA[ Akcja ratunkowa w Piotrkowie. Konieczna była ewakuacja, poszkodowana 42-latka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-ratunkowa-w-piotrkowie-konieczna-byla-ewakuacja-poszkodowana-42-latka/Jd13dDpIwTFEBCIqGVca</link>
-<guid isPermaLink="false">bac6df5b6d019f5c4c0c1007c2c866d1165f3957</guid>
-<pubDate>Fri, 17 Apr 2026 23:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" alt="miniatura"/></p><p>W piątkowy wieczór, 17 kwietnia, w Piotrkowie Trybunalskim doszło do pożaru w kamienicy. Konieczna była ewakuacja mieszkańców. Zgłoszenie o zdarzeniu wpłynęło do strażaków o 19:35. Jak się okazało, pożar wybuchł w budynku przy ul. Polskiej Organizacji Wojskowej 10.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a12494ad-9a5b-4394-9109-76af9945f025"/>
 </item>
 </channel></rss>
