@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 06 Jun 2026 08:02:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 10:23:37 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Szykuje się koncert w plenerze. Urząd podał datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szykuje-sie-koncert-w-plenerze-urzad-podal-date/BcyPhmO7XWJit4Iw2NBj</link>
+<guid isPermaLink="false">f366f933a9eb031269e9b4d395b474b40e2a4652</guid>
+<pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" alt="miniatura"/></p><p>Kiedy pogoda dopisuje i przychodzi czas letnich wieczorów wiele osób decyduje się na wypoczynek na świeżym powietrzu. Nadchodzące tygodnie to też okres, w którym wiele imprez plenerowych. Za nami już Święto Gminy Grabica, a także Motofestyn 2026. W Piotrkowie zaś szykują się dni miasta, które jak zwykle odbędą się na placu Kościuszki. W minionych latach letnie koncerty plenerowe w organizowano m.i…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff"/>
+</item>
+<item>
+<title><![CDATA[ Nawet 80 zł za godzinę i praca od zaraz. Pilnie szukają ludzi na lato ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nawet-80-zl-za-godzine-i-praca-od-zaraz-pilnie-szukaja-ludzi-na-lato/M4BpCy0LIsuf2j18wTnb</link>
+<guid isPermaLink="false">8b3636ab0a26d898be4939a6df11362819987385</guid>
+<pubDate>Sat, 06 Jun 2026 09:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" alt="miniatura"/></p><p>Szczególnie poszukiwani są pracownicy sektora eventowego, gastronomii, logistyki oraz turystyki.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc"/>
+</item>
 <item>
 <title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Oto najwyższe wygrane w Lotto ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-oto-najwyzsze-wygrane-w-lotto/IPdhEAh3xSH99vZ4oAgD</link>
@@ -893,7 +913,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>W naszym powiecie ktoś wygrał prawie 200 mln zł!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Szykuje się koncert w plenerze.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1223,7 +1243,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>W naszym powiecie ktoś wygrał prawie 200 mln zł!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Szykuje się koncert w plenerze.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3437,25 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/galleries/bb04784d-f8e0-41aa-8e10-a8859b1bf063" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/galleries/bb04784d-f8e0-41aa-8e10-a8859b1bf063" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/galleries/bb04784d-f8e0-41aa-8e10-a8859b1bf063"/>
-</item>
-<item>
-<title><![CDATA[ Tragiczny wypadek w regionie. Motocyklista śmiertelnie potrącony przez samochód ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-wypadek-w-regionie-motocyklista-smiertelnie-potracony-przez-samochod/GBwxJHy039O980aeM9sO</link>
-<guid isPermaLink="false">beadd398fd32a1e5fee735aeb8b7e5d76af05bad</guid>
-<pubDate>Sun, 19 Apr 2026 14:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f9e9c100-9f06-4bfe-a8ba-7183fd570305" alt="miniatura"/></p><p>Około godz. 12:50 na ul. Mireckiego w Tomaszowie Mazowieckim doszło do śmiertelnego wypadku. Jak informuje policja, 64-letni kierowca Chrystela, włączając się do ruchu potrącił 26-letniego motocyklistę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9e9c100-9f06-4bfe-a8ba-7183fd570305" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9e9c100-9f06-4bfe-a8ba-7183fd570305" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9e9c100-9f06-4bfe-a8ba-7183fd570305"/>
-</item>
-<item>
-<title><![CDATA[ Groźny wypadek na DK91. Ranne trzy osoby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-na-dk91-ranne-trzy-osoby/oBCtO0GLYVbBy2FTy1v1</link>
-<guid isPermaLink="false">c0f69aed6ebb38135218c9833471e52dcd43ec18</guid>
-<pubDate>Sat, 18 Apr 2026 20:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/244a4833-cdbe-4999-a1af-235b7eb0ab47" alt="miniatura"/></p><p>Około godz. 14:40 na DK91 na wysokości miejscowości Longinówka doszło do wypadku drogowego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/244a4833-cdbe-4999-a1af-235b7eb0ab47" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/244a4833-cdbe-4999-a1af-235b7eb0ab47" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/244a4833-cdbe-4999-a1af-235b7eb0ab47"/>
 </item>
 </channel></rss>
