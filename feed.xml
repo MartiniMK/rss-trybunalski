@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 08 Jun 2026 11:27:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 16:19:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek na S8 pod Piotrkowem. Pijany kierowca wylądował na barierach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-s8-pod-piotrkowem-pijany-kierowca-wyladowal-na-barierach/qLQTpo6lpcZjgFfn1bgl</link>
+<guid isPermaLink="false">fc8aefa0a317b1501b44459fb7e2a8559073f99c</guid>
+<pubDate>Mon, 08 Jun 2026 17:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5a1d8ec5-b98d-4b85-b5ad-75731a85f464" alt="miniatura"/></p><p>Groźne zdarzenie na wysokości Piotrkowa Trybunalskiego</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a1d8ec5-b98d-4b85-b5ad-75731a85f464" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a1d8ec5-b98d-4b85-b5ad-75731a85f464" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a1d8ec5-b98d-4b85-b5ad-75731a85f464"/>
+</item>
+<item>
+<title><![CDATA[ Co idzie pod młotek? Licytacje komornicze w naszym mieście i regionie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/co-idzie-pod-mlotek-licytacje-komornicze-w-naszym-miescie-i-regionie/SvMaoGmfMBfFTtxLTY5J</link>
+<guid isPermaLink="false">b0c52037110a501bc5b77fc00e6c09c5b054b35c</guid>
+<pubDate>Mon, 08 Jun 2026 14:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/385cdbdb-696d-4035-87b5-1b83bb07bb40" alt="miniatura"/></p><p>Na licytacje komornicze trafiają najróżniejsze przedmioty. Od antyków, przez nieruchomości i pojazdy, aż po sprzęty agd i rtv. Obecnie w naszej okolicy w ogłoszeniach królują działki i domy. Sprawdź, co idzie pod młotek w Piotrkowie i regionie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/385cdbdb-696d-4035-87b5-1b83bb07bb40" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/385cdbdb-696d-4035-87b5-1b83bb07bb40" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/385cdbdb-696d-4035-87b5-1b83bb07bb40"/>
+</item>
+<item>
+<title><![CDATA[ AI wybiera najgorsze osiedla w naszym mieście. Jakie są powody? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ai-wybiera-najgorsze-osiedla-w-naszym-miescie-jakie-sa-powody/jbgryeRiZxCF80c94qHA</link>
+<guid isPermaLink="false">6e4a272b4b503666b427adc8ec2fe037ab2f92f4</guid>
+<pubDate>Mon, 08 Jun 2026 14:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eada19af-a4f3-4d01-8bef-0cf472b562d2" alt="miniatura"/></p><p>Piotrków Trybunalski przechodzi zmiany, jednak warunki życia na poszczególnych osiedlach bywają różne. Jedne miejsca pięknieją w oczach, inne wciąż czekają na modernizacje. Postanowiliśmy zapytać sztucznej inteligencji, które z osiedli w Piotrkowie można uznać za najgorsze. Algorytm wziął pod lupę m.in. policyjne raporty dzielnicowych, plany remontów w mieście, a także pomysły mieszkańców zgłaszan…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eada19af-a4f3-4d01-8bef-0cf472b562d2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eada19af-a4f3-4d01-8bef-0cf472b562d2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eada19af-a4f3-4d01-8bef-0cf472b562d2"/>
+</item>
 <item>
 <title><![CDATA[ Dni Gorzkowic 2026 już w ten weekend. Na scenie Mezo, Zbóje i nie tylko ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dni-gorzkowic-2026-juz-w-ten-weekend-na-scenie-mezo-zboje-i-nie-tylko/8EhDRP6Z93tJogbgcFBe</link>
@@ -1003,7 +1033,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Dni Gorzkowic 2026 już w ten weekend.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>AI wybiera najgorsze osiedla w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1333,7 +1363,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Dni Gorzkowic 2026 już w ten weekend.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>AI wybiera najgorsze osiedla w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3427,35 +3457,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae"/>
-</item>
-<item>
-<title><![CDATA[ Gigantyczny kleszcz w Piotrkowie Trybunalskim. Hyalomma poluje na swoją ofiarę! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczny-kleszcz-w-piotrkowie-trybunalskim-hyalomma-poluje-na-swoja-ofiare/44n0Kx18HEWKsOnZYEkA</link>
-<guid isPermaLink="false">cc952302a7a541cc987c8c4103d1279142a2fd43</guid>
-<pubDate>Mon, 20 Apr 2026 15:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/677414e7-69b1-4d0b-8166-19d4e95e783f" alt="miniatura"/></p><p>W Polsce coraz częściej słyszy się o kleszczach z gatunku Hyalomma , które stanowią poważne zagrożenie dla zdrowia. Te egzotyczne pasożyty, pochodzące z Afryki, różnią się od naszych rodzimych kleszczy nie tylko rozmiarami, ale także szybkością. Są one większe, szybciej przemieszczają się i mogą przenosić groźne choroby. Ostatnio, po raz pierwszy, kleszcze Hyalomma zostały znalezione w Piotrkowie…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/677414e7-69b1-4d0b-8166-19d4e95e783f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/677414e7-69b1-4d0b-8166-19d4e95e783f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/677414e7-69b1-4d0b-8166-19d4e95e783f"/>
-</item>
-<item>
-<title><![CDATA[ 32-latek okradł sklep. W pościg ruszył policjant z Piotrkowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/32-latek-okradl-sklep-w-poscig-ruszyl-policjant-z-piotrkowa/3y261TE3059s5aGQ8rbo</link>
-<guid isPermaLink="false">d6cb07c93dd4d7ebe0a786b8c165ca239a47c473</guid>
-<pubDate>Mon, 20 Apr 2026 14:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/de2661f2-e70b-4e1f-81ce-796cacb429a5" alt="miniatura"/></p><p>Wszystko działo się 9 kwietnia w sąsiednim Bełchatowie. Tego dnia funkcjonariusz Wydziału Patrolowo-Interwencyjnego piotrkowskiej komendy, w czasie wolnym od służby, przebywał na terenie jednej z myjni samochodowych. Po chwili sytuacja zaczęła przypominać sceny z filmu akcji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/de2661f2-e70b-4e1f-81ce-796cacb429a5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/de2661f2-e70b-4e1f-81ce-796cacb429a5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/de2661f2-e70b-4e1f-81ce-796cacb429a5"/>
-</item>
-<item>
-<title><![CDATA[ Grzegorz Braun przyjedzie do Piotrkowa. Dołączy do protestujących ]]></title>
-<link>https://trybunalski.pl/wiadomosci/grzegorz-braun-przyjedzie-do-piotrkowa-dolaczy-do-protestujacych/BKDIqLLJn4HRFslc6ehL</link>
-<guid isPermaLink="false">124e060783ad60f8b641386eb837bafb597254d3</guid>
-<pubDate>Mon, 20 Apr 2026 14:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/78c2b71e-29db-429f-acc0-801fbdf54054" alt="miniatura"/></p><p>Protest odbędzie się 24 kwietnia 2026 roku o godzinie 12:00 w Park Śródmiejski im. Jana Pawła II , na placu przed pomnikiem przy ul. Słowackiego. Organizatorzy zapraszają zarówno rolników, jak i mieszkańców zainteresowanych tematyką bezpieczeństwa żywnościowego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/78c2b71e-29db-429f-acc0-801fbdf54054" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/78c2b71e-29db-429f-acc0-801fbdf54054" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/78c2b71e-29db-429f-acc0-801fbdf54054"/>
 </item>
 </channel></rss>
