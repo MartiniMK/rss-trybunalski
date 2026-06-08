@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 08 Jun 2026 16:19:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 19:37:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Początek łódzkiej “Ziemi obiecanej”. Stanisław Staszic Patronem roku 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/poczatek-lodzkiej-ziemi-obiecanej-stanislaw-staszic-patronem-roku-2026/DKgZBrWv9uqHnM077REA</link>
+<guid isPermaLink="false">83dd32a6d99f1064b296a779caacdbf7b1d71d62</guid>
+<pubDate>Mon, 08 Jun 2026 20:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/main-image-1200/08e599ef-4b41-4e7a-924b-7697c288210a" alt="miniatura"/></p><p>Na kilka miesięcy przed śmiercią, jako minister stanu Królestwa Polskiego Stanisław Staszic wizytował region centralnej Polski odwiedzając m.in. Łęczycę, Zgierz, Łódź i Pabianice. Z podróży tej poczynił specjalny raport, a w nim zapisał słynne zdanie mówiące o tym, że Łódź - tu cytat - „znajduje się z całą swoją rozległą okolicą pod obszernym i wyniosłym wzgórzem, z którego niezliczone trzyszczą…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/main-image-1200/08e599ef-4b41-4e7a-924b-7697c288210a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/main-image-1200/08e599ef-4b41-4e7a-924b-7697c288210a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/main-image-1200/08e599ef-4b41-4e7a-924b-7697c288210a"/>
+</item>
+<item>
+<title><![CDATA[ Dramat rodziców 11-latka. Chłopiec wyszedł ze szkoły i nie wrócił do domu, trwają poszukiwania ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-rodzicow-11-latka-chlopiec-wyszedl-ze-szkoly-i-nie-wrocil-do-domu-trwaja-poszukiwania/YnBx9g9oE0zDGfEPse5T</link>
+<guid isPermaLink="false">7973f08e7bc5f3a2bc6e876b160bfd053a6da135</guid>
+<pubDate>Mon, 08 Jun 2026 20:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/12786e45-0002-43e2-a94a-0f55c52bea79" alt="miniatura"/></p><p>Z przekazanych przez policję infromacji wynika, że Adam Krześlak wyszedł w poniedziałek, 8 czerwca ze szkoły około godziny 11:30. Od tamtej pory nie powrócił do domu i nie nawiązał kontaktu z bliskimi. Miejsce jego pobytu nie jest znane.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/12786e45-0002-43e2-a94a-0f55c52bea79" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/12786e45-0002-43e2-a94a-0f55c52bea79" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/12786e45-0002-43e2-a94a-0f55c52bea79"/>
+</item>
+<item>
+<title><![CDATA[ Jeszcze mniej niedziel handlowych. Zniknie możliwość zakupów przed świętami? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jeszcze-mniej-niedziel-handlowych-zniknie-mozliwosc-zakupow-przed-swietami/CffPrckYAO0yChaCmy0a</link>
+<guid isPermaLink="false">f6277135bcdcefd45756207febe50dea538bc9b4</guid>
+<pubDate>Mon, 08 Jun 2026 19:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96f86350-5ef3-411b-8553-daf171a35d07" alt="miniatura"/></p><p>Zakaz handlu w niedziele obowiązuje w Polsce od 1 marca 2018 roku. Przepisy wprowadzono ustawą z 10 stycznia 2018 r., a ich celem było ograniczenie pracy w handlu w dni wolne od pracy. Przez lata katalog wyjątków był jednak rozszerzany, dzięki czemu obecnie konsumenci mogą korzystać z ośmiu niedziel handlowych w ciągu roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96f86350-5ef3-411b-8553-daf171a35d07" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96f86350-5ef3-411b-8553-daf171a35d07" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96f86350-5ef3-411b-8553-daf171a35d07"/>
+</item>
 <item>
 <title><![CDATA[ Wypadek na S8 pod Piotrkowem. Pijany kierowca wylądował na barierach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-s8-pod-piotrkowem-pijany-kierowca-wyladowal-na-barierach/qLQTpo6lpcZjgFfn1bgl</link>
@@ -1033,7 +1063,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>AI wybiera najgorsze osiedla w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Początek łódzkiej “Ziemi obiecanej”. Stanisław Staszic Patronem roku 2026</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1363,7 +1393,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>AI wybiera najgorsze osiedla w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Początek łódzkiej “Ziemi obiecanej”. Stanisław Staszic Patronem roku 2026</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3437,25 +3467,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6de9e9f-cc4f-490d-9436-8d47bf1f5f6e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6de9e9f-cc4f-490d-9436-8d47bf1f5f6e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6de9e9f-cc4f-490d-9436-8d47bf1f5f6e"/>
-</item>
-<item>
-<title><![CDATA[ Apel do klientów popularnej w Polsce sieci marketów: "Oddajcie ten towar" ]]></title>
-<link>https://trybunalski.pl/wiadomosci/apel-do-klientow-popularnej-w-polsce-sieci-marketow-oddajcie-ten-towar/3Wbs1e5WIkurYU3pWhTo</link>
-<guid isPermaLink="false">27c83cdbf6279a35113a4e14596cd76be854f105</guid>
-<pubDate>Mon, 20 Apr 2026 17:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" alt="miniatura"/></p><p>Sieć sklepów Aldi ogłosiła decyzję o wycofaniu czterech partii wafli oblewanych kokosem, które były dostępne w jej sklepach. Klienci, którzy zakupili te produkty, proszeni są o niezwłoczny zwrot do punktów sprzedaży. Aldi zapewnia, że zwróci pieniądze za zakupiony towar, także w przypadku braku paragonu. Wycofanie dotyczy specyficznych partii produktów, a sklep podaje dwa główne powody tej decyzji…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fd5dc7e1-76d9-4616-93ad-90e88acf8ead"/>
-</item>
-<item>
-<title><![CDATA[ Co idzie pod młotek? Licytacje komornicze w Piotrkowie i regionie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/co-idzie-pod-mlotek-licytacje-komornicze-w-piotrkowie-i-regionie/tYF5LQWQ3QmtGLhPR0tW</link>
-<guid isPermaLink="false">e1c81313a9d744d107c7ad4109ee21828b30b020</guid>
-<pubDate>Mon, 20 Apr 2026 15:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae" alt="miniatura"/></p><p>Na licytacje komornicze trafiają przeróżne składniki majątku dłużników – od mieszkań, przez grunty, aż po meble, sprzęt RTV/AGD, samochody czy nawet dzieła sztuki. Jest to jeden ze sposobów odzyskiwania należności przez wierzycieli. Ogłoszenia o nadchodzących licytacjach są publicznie dostępne, a najnowsze w Piotrkowie Trybunalskim dotyczą głównie nieruchomości.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b51bb70-e572-4ea9-a62a-2bb7672bacae"/>
 </item>
 </channel></rss>
