@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 10 Jun 2026 04:35:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 09:07:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wielkie święto miłości w naszym mieście. Mieszkańcy odebrali medale [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-swieto-milosci-w-naszym-miescie-mieszkancy-odebrali-medale-zdjecia/aWRPJxNUKIicBvFZnwWj</link>
+<guid isPermaLink="false">58c1b4c1cc5af1b7320b764e2881fe911818d4bd</guid>
+<pubDate>Wed, 10 Jun 2026 10:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/908fe4d8-0f45-4f10-bce0-625d0b6dfde0" alt="miniatura"/></p><p>W sobotę, 6 czerwca, w Urzędzie Stanu Cywilnego w Piotrkowie Trybunalskim odbył jubileusz złotych godów. Sześć par odebrało pamiątkowe medale, by uczcić 50-lat wspólnego życia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/908fe4d8-0f45-4f10-bce0-625d0b6dfde0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/908fe4d8-0f45-4f10-bce0-625d0b6dfde0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/908fe4d8-0f45-4f10-bce0-625d0b6dfde0"/>
+</item>
+<item>
+<title><![CDATA[ Wielka promocja w Action. Oto TOP 10 produktów w rewelacyjnych cenach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-promocja-w-action-oto-top-10-produktow-w-rewelacyjnych-cenach/wHUudR7Ek42FIscCses2</link>
+<guid isPermaLink="false">0f6a1c93d09d7bf51d6cd1fdede987bc9100f7ef</guid>
+<pubDate>Wed, 10 Jun 2026 09:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4bec50cb-06db-4453-a9e7-7b85da13d1cc" alt="miniatura"/></p><p>Przy wyborze nie kierowaliśmy się wyłącznie wysokością rabatu. Pod uwagę wzięliśmy także praktyczność produktów, ich cenę po obniżce oraz to, ile podobne artykuły kosztują zazwyczaj w innych sklepach. Na liście znalazły się między innymi narzędzia, wyposażenie domu, produkty sportowe i akcesoria do ogrodu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4bec50cb-06db-4453-a9e7-7b85da13d1cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4bec50cb-06db-4453-a9e7-7b85da13d1cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4bec50cb-06db-4453-a9e7-7b85da13d1cc"/>
+</item>
 <item>
 <title><![CDATA[ Huta "Kara" już tylko na starych zdjęciach. Tak wyglądała duma piotrkowskiego przemysłu [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia/huta-kara-juz-tylko-na-starych-zdjeciach-tak-wygladala-duma-piotrkowskiego-przemyslu-zdjecia/fUqx15hpLM7fmgj5U0JY</link>
@@ -1183,7 +1203,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Huta "Kara" już tylko na starych zdjęciach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Mieszkańcy regionu złapani przy rosyjskiej granicy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1339,16 +1359,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -1357,6 +1367,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -1513,7 +1533,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Huta "Kara" już tylko na starych zdjęciach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Mieszkańcy regionu złapani przy rosyjskiej granicy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3467,15 +3487,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b99ba28f-ff63-4432-af9e-e8d8e987d2c2"/>
-</item>
-<item>
-<title><![CDATA[ Sceny jak z filmu akcji w Sulejowie. 27-latek uciekał po dachu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sceny-jak-z-filmu-akcji-w-sulejowie-27-latek-uciekal-po-dachu/HgJ9mKIsWQOZixlnD0Lf</link>
-<guid isPermaLink="false">e13f4d98ae6ea4fc081a46636c5e60a2387918c0</guid>
-<pubDate>Wed, 22 Apr 2026 11:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" alt="miniatura"/></p><p>27-letni mężczyzna był poszukiwany za kradzież oraz kradzieże z włamaniem. Dzielnicowy z sulejowskiej jednostki policji uzyskał informację dotyczącą aktualnego miejsca pobytu 27-latka. Służby złożyły poszykowanemu wizytę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/741dc7fe-5355-46bb-a5bf-afaf85deec55"/>
 </item>
 </channel></rss>
