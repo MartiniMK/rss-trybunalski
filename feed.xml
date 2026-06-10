@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 10 Jun 2026 12:41:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 16:50:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Za chwilę rusza ogromna akcja policji i potrwa tydzień. Wiemy, czego będą szukać w samochodach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-chwile-rusza-ogromna-akcja-policji-i-potrwa-tydzien-wiemy-czego-beda-szukac-w-samochodach/Wd8n2uSFjMNaAodEUxX3</link>
+<guid isPermaLink="false">42114df13a6a4d1601f2e0ed2ca73548eed4ab66</guid>
+<pubDate>Wed, 10 Jun 2026 16:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3aeb654f-1949-407b-b0d3-35ea9fac5a50" alt="miniatura"/></p><p>Europejska organizacja policji drogowej Roadpol zapowiedziała przeprowadzenie kolejnej edycji działań „Alcohol and Drugs”. Akcja potrwa od 15 do 21 czerwca 2026 r. i obejmie państwa członkowskie Unii Europejskiej oraz część krajów współpracujących z organizacją.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3aeb654f-1949-407b-b0d3-35ea9fac5a50" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3aeb654f-1949-407b-b0d3-35ea9fac5a50" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3aeb654f-1949-407b-b0d3-35ea9fac5a50"/>
+</item>
+<item>
+<title><![CDATA[ Ostrzeżenie dla mieszkańców naszego województwa. Lepiej zostać w domu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ostrzezenie-dla-mieszkancow-naszego-wojewodztwa-lepiej-zostac-w-domu/TdG80vjoYH8DqaWK2OWb</link>
+<guid isPermaLink="false">25304214e5bbde690deb5eb75d79956a003cb313</guid>
+<pubDate>Wed, 10 Jun 2026 14:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e8c88f48-0842-41c7-a0b9-4b71cbcbe2d0" alt="miniatura"/></p><p>Mieszkańcy części województwa łódzkiego powinni przygotować się na pogorszenie aury. Prognozy meteorologiczne wskazują na wysokie, wynoszące aż 80% prawdopodobieństwo wystąpienia niebezpiecznych zjawisk atmosferycznych. W związku z tym Instytut Meteorologii i Gospodarki Wodnej wydał oficjalne ostrzeżenie pierwszego stopnia. Sprawdź, czego się spodziewać i jak się zabezpieczyć.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8c88f48-0842-41c7-a0b9-4b71cbcbe2d0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8c88f48-0842-41c7-a0b9-4b71cbcbe2d0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e8c88f48-0842-41c7-a0b9-4b71cbcbe2d0"/>
+</item>
 <item>
 <title><![CDATA[ Nowe oferty pracy w Piotrkowie Trybunalskim. Można zarobić nawet 12 tysięcy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-oferty-pracy-w-piotrkowie-trybunalskim-mozna-zarobic-nawet-12-tysiecy/ie49k2yr5svLdMY66kWg</link>
@@ -1243,7 +1263,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nowe oferty pracy w Piotrkowie Trybunalskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Rusza ogromna akcja policji, potrwa tydzień.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1399,16 +1419,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -1417,6 +1427,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -1573,7 +1593,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Nowe oferty pracy w Piotrkowie Trybunalskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Rusza ogromna akcja policji, potrwa tydzień.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3477,25 +3497,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c2fd6882-d7df-4da7-9f49-7a0353e9b564"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga: Zacięty bój Piotrkowianina z Zagłębiem! O wyniku przesądziła jedna bramka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-zaciety-boj-piotrkowianina-z-zaglebiem-o-wyniku-przesadzila-jedna-bramka/6VxuXeFONxUpKw7gg06n</link>
-<guid isPermaLink="false">f0642c7e6078375fc21b75b742ec0e2b8e1bd698</guid>
-<pubDate>Wed, 22 Apr 2026 19:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" alt="miniatura"/></p><p>Piłkarze ręczni z Piotrkowa Trybunalskiego fazę zasadniczą sezonu 2025/2026 zakończyli na jedenastym miejscu z dorobkiem 13 punktów na koncie i tym samym nie awansowali do fazy play-off, w której o medale walczy osiem najlepszych ekip. Piotrkowianom pozostała walka o utrzymanie w elicie, czyli tzw. faza play-out, w której zobaczymy pięć najsłabszych drużyn. Z tym, że Zepter KPR Legionowo (30 punkt…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f2ec191-e98b-41ac-ac89-2454073043e2"/>
-</item>
-<item>
-<title><![CDATA[ Kraksa na S8 pod Piotrkowem. Na miejsce wezwano służby ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kraksa-pod-piotrkowem-policjanci-wyznaczyli-objazdy/SGX6DdMLJsEJ0FcQfjUZ</link>
-<guid isPermaLink="false">1e8fc5a5d20fa6288d20d587b6eeb865957feee1</guid>
-<pubDate>Wed, 22 Apr 2026 17:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" alt="miniatura"/></p><p>W środę, 22 kwietnia pod Piotrkowem zderzyły się dwa samochody. Służby otrzymały automatyczne zgłoszenie z systemu alarmowego pojazdu o zdarzeniu na S8 o 15:11.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/418ae04f-42ae-4024-8814-7178580684b2"/>
 </item>
 </channel></rss>
