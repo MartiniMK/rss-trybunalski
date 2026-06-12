@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 12 Jun 2026 19:23:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 22:07:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ X Nocny Półmaraton Piotrkowski. Setki biegaczy na starcie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/x-nocny-polmaraton-piotrkowski-setki-biegaczy-na-starcie-zdjecia/MzGi2zNKxrHtpNULpRkT</link>
+<guid isPermaLink="false">9938dfa3258e57091fc8f20721c35e8a0ff12a50</guid>
+<pubDate>Fri, 12 Jun 2026 23:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" alt="miniatura"/></p><p>Tegoroczne Dni Piotrkowa rozpoczęły się w piątek, 12 czerwca Nocnym Piotrkowskim Półmaratonem. Wydarzenie zrzeszyło fanów sportowych wyzwań z regionu i nie tylko. Jak co roku, można było spróbować swoich sił na dystansie 21 km bądź 5,2 km. Zajrzeliśmy na ulicę Słowackiego, by sprawdzić, jak wyglądały przygotowania oraz start zawodników.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8"/>
+</item>
 <item>
 <title><![CDATA[ Dni Piotrkowa 2026. O której koncerty gwiazd i co się będzie działo [HARMONOGRAM] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-o-ktorej-koncerty-gwiazd-i-co-sie-bedzie-dzialo-harmonogram/0em2fgqLZEWPrNCp0Yq3</link>
@@ -17,16 +27,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc5faa8a-867c-412c-91cf-05fe69a8308c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc5faa8a-867c-412c-91cf-05fe69a8308c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc5faa8a-867c-412c-91cf-05fe69a8308c"/>
-</item>
-<item>
-<title><![CDATA[ Wielu kierowców nie zna tego znaku. Mandat może wynieść nawet 1300 zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielu-kierowcow-nie-zna-tego-znaku-mandat-moze-wyniesc-nawet-1300-zl/1EowJj9BgPaJCXGsouCA</link>
-<guid isPermaLink="false">edc551b5230614b5e501f38eab837382816596b2</guid>
-<pubDate>Fri, 12 Jun 2026 20:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bd2839a7-3858-4dd9-af50-3baf739e5228" alt="miniatura"/></p><p>Władze od kilku lat konsekwentnie wzmacniają ochronę niechronionych uczestników ruchu drogowego. Jednym z elementów tych działań było wprowadzenie znaku 277.1. To okrągła tarcza z czerwoną obwódką przedstawiająca czerwony samochód oraz symbole roweru i motocykla.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd2839a7-3858-4dd9-af50-3baf739e5228" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd2839a7-3858-4dd9-af50-3baf739e5228" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bd2839a7-3858-4dd9-af50-3baf739e5228"/>
 </item>
 <item>
 <title><![CDATA[ Areszt Śledczy w Piotrkowie szuka firm do współpracy ]]></title>
@@ -1483,7 +1483,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wielu kierowców nie zna tego znaku.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>X Nocny Półmaraton Piotrkowski.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1813,7 +1813,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wielu kierowców nie zna tego znaku.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>X Nocny Półmaraton Piotrkowski.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
