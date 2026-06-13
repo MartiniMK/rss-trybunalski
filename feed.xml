@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 13 Jun 2026 16:33:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 18:27:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kamil Majchrzak zagra w finale turnieju ATP 250! Życiowy sukces Piotrkowianina ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/kamil-majchrzak-zagra-w-finale-turnieju-atp-250-zyciowy-sukces-piotrkowianina/306fZyhx250SoIvcFcPk</link>
+<guid isPermaLink="false">3e88ced0e26c01101b75993e2772563332146aba</guid>
+<pubDate>Sat, 13 Jun 2026 19:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96dcf223-4bdd-4075-abed-f0105c8a411c" alt="miniatura"/></p><p>Majchrzak stracił praktycznie cały sezon na mączce z powodu urazu kolana, ale na trawie czuje się jak ryba w wodzie. W pierwszym tygodniu czerwca 30-letni Piotrkowianin dotarł do półfinału challengera Lexus Birmingham Open, a brytyjski turniej okazał się świetnym przetarciem przed rywalizacją w Holandii.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96dcf223-4bdd-4075-abed-f0105c8a411c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96dcf223-4bdd-4075-abed-f0105c8a411c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96dcf223-4bdd-4075-abed-f0105c8a411c"/>
+</item>
 <item>
 <title><![CDATA[ Trwa bicie rekordu Guinnessa w Piotrkowie. Zobacz, co dzieje się w amfiteatrze [FOTO] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/trwa-bicie-rekordu-guinnessa-w-piotrkowie-zobacz-co-dzieje-sie-w-amfiteatrze-foto/SWj0rDQdwqXa312iZXWs</link>
@@ -1513,7 +1523,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Trwa bicie rekordu Guinnessa w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrkowianin finalistą ATP Libema Open 2026!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1843,7 +1853,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Trwa bicie rekordu Guinnessa w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Piotrkowianin finalistą ATP Libema Open 2026!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3517,25 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c"/>
-</item>
-<item>
-<title><![CDATA[ Polska oszalała na punkcie zbiórki Łatwoganga. Największa akcja w polskim internecie dotarła do naszego powiatu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/polska-oszalala-na-punkcie-zbiorki-latwoganga-najwieksza-akcja-w-polskim-internecie-dotarla-do-naszego-powiatu/BjywI5seJhUkvZNJR0X9</link>
-<guid isPermaLink="false">7a8ca66288b2bdb427f3cf585df9e3311afdf6ae</guid>
-<pubDate>Sun, 26 Apr 2026 20:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" alt="miniatura"/></p><p>Akcja Łatwoganga, która właśnie dziś (26 kwietnia 2026 r.) ma dobiec końca, to fenomen w historii polskiego internetu. Głównym bohaterem jest „Łatwogang”, influencer i streamer z Radomia, który zasłynął wcześniej nietypowymi wyzwaniami, m.in. piosenką "Azizam" nagraną z brytyjskim wokalistą Edem Sheeranem. Cała inicjatywa polega na nieprzerwanym, dziewięciodniowym streamie, podczas którego twórca…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ee046d8d-4259-4763-b3f4-d162de7568e1"/>
-</item>
-<item>
-<title><![CDATA[ To jedna z największych kwot w historii Polski. Rekordowy wynik w Lotto padł w naszym powiecie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-jedna-z-najwiekszych-kwot-w-historii-polski-rekordowy-wynik-w-lotto-padl-w-naszym-powiecie/nxfaQFzC6QUYxWhUQQqp</link>
-<guid isPermaLink="false">d25175b0d8b59e9f665c997db3ad75f2ecfb7180</guid>
-<pubDate>Sun, 26 Apr 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" alt="miniatura"/></p><p>Lotto to najpopularniejsza gra liczbowa w naszym kraju i wiele osób chociaż raz spróbowało w niej swoich sił, kupując los na loterii. Tylko nielicznym dopisuje szczęście, a co ciekawe jedna z rekordowych wygranych padła w powiecie piotrkowskim. Szczęśliwiec znalazł się w TOP 3 w kraju w Eurojackpot.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/181b1b7e-ec26-4384-a0c3-729cc4d22d28"/>
 </item>
 </channel></rss>
