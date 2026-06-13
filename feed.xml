@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 13 Jun 2026 20:48:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 22:34:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dni Piotrkowa 2026. Na scenie O.S.T.R. i nie tylko [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-na-scenie-ostr-i-nie-tylko-zdjecia/nYAVK10nNK4ymEMpTliY</link>
+<guid isPermaLink="false">f348a8c8ed96681a37b2879e53359aee1b7fbde2</guid>
+<pubDate>Sat, 13 Jun 2026 23:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/126ad876-a856-4db7-9c82-78a7631723da" alt="miniatura"/></p><p>W piątek, 12 czerwca, rozpoczęły się Dni Piotrkowa 2026. Wieczorny program otworzył X Nocny Półmaraton Piotrkowski ze startem o godzinie 21:00 na ulicy Słowackiego. Z kolei na Placu Kościuszki przygotowano scenę, na której w sobotę, 13 czerwca, wystąpili zaproszeni artyści, w tym O.S.T.R., natomiast w parku im. św. Jana Pawła II otwarto Jarmark Trybunalski.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/126ad876-a856-4db7-9c82-78a7631723da" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/126ad876-a856-4db7-9c82-78a7631723da" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/126ad876-a856-4db7-9c82-78a7631723da"/>
+</item>
 <item>
 <title><![CDATA[ Kamil Majchrzak zagra w finale turnieju ATP 250! Życiowy sukces Piotrkowianina ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/kamil-majchrzak-zagra-w-finale-turnieju-atp-250-zyciowy-sukces-piotrkowianina/306fZyhx250SoIvcFcPk</link>
@@ -3517,15 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9983e262-5285-4ef8-a5c4-a82285478028"/>
-</item>
-<item>
-<title><![CDATA[ Liczne wyłączenia prądu w powiecie piotrkowskim. Gdzie wystąpią utrudnienia? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/liczne-wylaczenia-pradu-w-powiecie-piotrkowskim-gdzie-wystapia-utrudnienia/C6OjjU27j0j5nfC60Nlq</link>
-<guid isPermaLink="false">f0ef967ba655986cf5efaae4774adb28712df398</guid>
-<pubDate>Mon, 27 Apr 2026 10:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" alt="miniatura"/></p><p>ul. Malinowa 3 4 5 15 17 19 24 29 30 31 32 33 34 35 36 40 dz. 1496/32 dz. 308/30 dz. 309/18 dz. 309/26 dz.308/16 dz.308/22 dz.309/7,</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb16c20f-8010-4fbb-8f86-fb2a1f5aff6c"/>
 </item>
 </channel></rss>
