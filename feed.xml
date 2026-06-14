@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 14 Jun 2026 15:21:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 17:37:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrkowianin wywalczył tytuł w Holandii! Majchrzak zwycięzcą turnieju w s-Hertogenbosch ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-wywalczyl-tytul-w-holandii-majchrzak-zwyciezca-turnieju-w-s-hertogenbosch/tQ7gEOzCfHKFpHhKE99w</link>
+<guid isPermaLink="false">4641f0a41584c2c6f557f0c498e1e34cf6a7ddda</guid>
+<pubDate>Sun, 14 Jun 2026 17:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50f5e796-8c54-4a28-9df5-88a10679c0dd" alt="miniatura"/></p><p>W niedzielnym finale ATP Libema Open 2026 Kamil Majchrzak nie był faworytem, bo po drugiej stronie siatki stanął Alex De Minaur, szósta rakieta światowego rankingu tenisistów. Na domiar złego Australijczyk wygrał oba wcześniejsze pojedynki z Polakiem i to bez straty seta. Tej różnicy nie było jednak widać na korcie. Przez większą część niedzielnego spotkania, to Piotrkowianin był w natarciu i zasł…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50f5e796-8c54-4a28-9df5-88a10679c0dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50f5e796-8c54-4a28-9df5-88a10679c0dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50f5e796-8c54-4a28-9df5-88a10679c0dd"/>
+</item>
 <item>
 <title><![CDATA[ Dni Piotrkowa 2026 – niedzielny "rozkład jazdy". O której koncerty Fukaja i Kayah? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-niedzielny-rozklad-jazdy-o-ktorej-koncerty-fukaja-i-kayah/k3RTEOAHaEUXlq1KBYKC</link>
@@ -1563,7 +1573,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Dni Piotrkowa 2026 – niedzielny rozkład jazdy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wielki triumf Piotrkowianina w Holandii!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1893,7 +1903,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Dni Piotrkowa 2026 – niedzielny rozkład jazdy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wielki triumf Piotrkowianina w Holandii!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
