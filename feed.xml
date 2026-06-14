@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 14 Jun 2026 10:02:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 12:16:47 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dni Piotrkowa 2026 – niedzielny "rozkład jazdy". O której koncerty Fukaja i Kayah? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-niedzielny-rozklad-jazdy-o-ktorej-koncerty-fukaja-i-kayah/k3RTEOAHaEUXlq1KBYKC</link>
+<guid isPermaLink="false">68fd1e2ca37a434947951ec261442bf7aafa08b8</guid>
+<pubDate>Sun, 14 Jun 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9bdcc498-c40b-40bd-955a-64a7a88ad5e8" alt="miniatura"/></p><p>Niedziela będzie ostatnim dniem tegorocznego święta miasta. Program obejmuje trzy koncerty, które rozpoczną się w godzinach wieczornych. Publiczność usłyszy zarówno młodych wykonawców, jak i jedną z najbardziej rozpoznawalnych polskich wokalistek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bdcc498-c40b-40bd-955a-64a7a88ad5e8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bdcc498-c40b-40bd-955a-64a7a88ad5e8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9bdcc498-c40b-40bd-955a-64a7a88ad5e8"/>
+</item>
+<item>
+<title><![CDATA[ To Wy jestęscie gwiazdami Dni Piotrkowa 2026! Zdjęcia mieszkańców w okolicznościowej ramce [FOTO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/byliscie-gwiazdami-dni-piotrkowa-2026-zdjecia-mieszkancow-w-okolicznosciowej-ramce-foto/OEUVaqJbjNukJUe5V1c1</link>
+<guid isPermaLink="false">dfb6d288cfdb78aac0963e87e4d504c32a5f476b</guid>
+<pubDate>Sun, 14 Jun 2026 13:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a00bd351-b97a-478d-9b4b-b8790db0900b" alt="miniatura"/></p><p>W sobotę i niedzielę (13 i 14 czerwca) mieszkańcy Piotrkowa ponownie mają okazję do wspólnego świętowania podczas dni miasta. Wydarzenie tradycyjnie obfituje w wiele atrakcji, a centrum wypełnia radosny gwar. Z kolei na scenie prezentują się znani artyści. Dla nas jednak to Wy byliście prawdziwymi gwiazdami. W związku z tym ekipa portalu trybunalski.pl ponownie wyruszyła na ulice z okolicznościową…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a00bd351-b97a-478d-9b4b-b8790db0900b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a00bd351-b97a-478d-9b4b-b8790db0900b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a00bd351-b97a-478d-9b4b-b8790db0900b"/>
+</item>
 <item>
 <title><![CDATA[ Taka plaża w centrum Polski. Obok zabytek z niezwykłą legendą ]]></title>
 <link>https://trybunalski.pl/wiadomosci/taka-plaza-w-centrum-polski-obok-zabytek-z-niezwykla-legenda/2qRiDI8ATVRtleqyVBfD</link>
@@ -1543,7 +1563,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrkowianin finalistą ATP Libema Open 2026!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Dni Piotrkowa 2026 – niedzielny rozkład jazdy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1699,16 +1719,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -1717,6 +1727,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -1873,7 +1893,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Piotrkowianin finalistą ATP Libema Open 2026!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Dni Piotrkowa 2026 – niedzielny rozkład jazdy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3507,25 +3527,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814"/>
-</item>
-<item>
-<title><![CDATA[ Przepiękne mieszkanki miasta i powiatu idą po koronę miss. Zobacz, kto walczy o wielki finał ]]></title>
-<link>https://trybunalski.pl/wiadomosci/przepiekne-mieszkanki-miasta-i-powiatu-ida-po-korone-miss-zobacz-kto-walczy-o-wielki-final/Jqw9xs4PeNucmHsOhHF5</link>
-<guid isPermaLink="false">7e0636b4596042df4940b53dd2faeeda689eea61</guid>
-<pubDate>Mon, 27 Apr 2026 12:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" alt="miniatura"/></p><p>Trwa półfinał konkursu Polska Miss Woj. Łódzkiego 2026. Wśród wyróżnionych, które dostały się do tego etapu rywalizacji, są także mieszkanki naszego miasta i powiatu. Teraz piękne kandydatki potrzebują pomocy internautów, by móc trafić do finału.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6427c56e-ffb1-4e62-8093-4733f46dfd5e"/>
-</item>
-<item>
-<title><![CDATA[ Polska zmieni sposób liczenia czasu? Niespodziewany projekt w parlamencie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/polska-zmieni-sposob-liczenia-czasu-niespodziewany-projekt-w-parlamencie/tueJ9LbGBpIJ0YhRJOoc</link>
-<guid isPermaLink="false">625ab636735bea6cd63412c55e4ce5c68e933ee7</guid>
-<pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" alt="miniatura"/></p><p>27 marca 2026 roku do Senatu wpłynęła petycja przygotowana przez Fundację „Można Lepiej!”, która proponuje wprowadzenie stałego czasu pośredniego. Miałby on polegać na cofnięciu obowiązującego czasu letniego o 30 minut i utrzymaniu takiego rozwiązania przez cały rok.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/71dd7ca9-97fa-4ddd-89f6-9fd275a54d7e"/>
 </item>
 </channel></rss>
