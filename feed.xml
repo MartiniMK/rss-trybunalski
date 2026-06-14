@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 14 Jun 2026 21:34:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 23:28:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Od dziś rusza wielka akcja policji. Potrwa cały tydzień. Co będą sprawdzać? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/od-dzis-rusza-wielka-akcja-policji-potrwa-caly-tydzien-co-beda-sprawdzac/GrmXv1QWCdPKOarjKmZ1</link>
+<guid isPermaLink="false">a570a9338097138531b82bb958ab41e5327e6854</guid>
+<pubDate>Mon, 15 Jun 2026 00:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e13e254a-5669-4a91-a7e5-ca2d7412832f" alt="miniatura"/></p><p>Europejska organizacja policji drogowej Roadpol zapowiedziała przeprowadzenie kolejnej edycji działań „Alcohol and Drugs”. Akcja potrwa od 15 do 21 czerwca 2026 r. i obejmie państwa członkowskie Unii Europejskiej oraz część krajów współpracujących z organizacją.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e13e254a-5669-4a91-a7e5-ca2d7412832f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e13e254a-5669-4a91-a7e5-ca2d7412832f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e13e254a-5669-4a91-a7e5-ca2d7412832f"/>
+</item>
+<item>
+<title><![CDATA[ Dni Piotrkowa 2026. Fukaj porwał publikę. Gwiazdą wieczoru Kayah [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-fukaj-porwal-publike-gwiazda-wieczoru-kayah-zdjecia/p9tds1dYqCTD9vziOLEn</link>
+<guid isPermaLink="false">5ce0dc79181e1f0df4ec4c4e357164d90d71cfe4</guid>
+<pubDate>Mon, 15 Jun 2026 00:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/209af33e-4f84-4589-9e62-31f22b59326f" alt="miniatura"/></p><p>Miniony weekend w Piotrkowie Trybunalskim minął pod znakiem obchodów święta miasta. Dni Piotrkowa 2026 zainaugurowano w piątek, 12 czerwca, startem X Nocnego Półmaratonu Piotrkowskiego na ulicy Słowackiego. W sobotę i niedzielę (13–14 czerwca) wydarzenia przeniosły się na Plac Kościuszki, gdzie rozstawiono scenę koncertową (wystąpili tam m.in. O.S.T.R., Paktofonika Orkiestra oraz DJ Taito), oraz d…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/209af33e-4f84-4589-9e62-31f22b59326f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/209af33e-4f84-4589-9e62-31f22b59326f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/209af33e-4f84-4589-9e62-31f22b59326f"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowianin wywalczył tytuł w Holandii! Majchrzak zwycięzcą turnieju w s-Hertogenbosch ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-wywalczyl-tytul-w-holandii-majchrzak-zwyciezca-turnieju-w-s-hertogenbosch/tQ7gEOzCfHKFpHhKE99w</link>
@@ -1573,7 +1593,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wielki triumf Piotrkowianina w Holandii!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Od dziś rusza wielka akcja policji. Potrwa cały tydzień.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1903,7 +1923,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wielki triumf Piotrkowianina w Holandii!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Od dziś rusza wielka akcja policji. Potrwa cały tydzień.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3517,25 +3537,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f35681-b9c8-49dd-9f82-1fae4f9c2822" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f35681-b9c8-49dd-9f82-1fae4f9c2822" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f35681-b9c8-49dd-9f82-1fae4f9c2822"/>
-</item>
-<item>
-<title><![CDATA[ Niezwykłe upamiętnienie rekordowej zbiórki Łatwoganga. Zobacz graffiti w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niezwykle-upamietnienie-rekordowej-zbiorki-latwoganga-zobacz-graffiti-w-piotrkowie/UxBzwiN4VD2nmO0lBWpn</link>
-<guid isPermaLink="false">d59108347284fa1f0c61dc26d662aaa4423bc29e</guid>
-<pubDate>Mon, 27 Apr 2026 14:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b997f829-1e94-491b-bffb-fab75092e4d4" alt="miniatura"/></p><p>Akcja Łatwoganga, która dobiegła końca 26 kwietnia 2026 roku, zapisała się jako absolutny fenomen w historii polskiego internetu. Po godzinie 21:00, gdy dziewięciodniowy, nieprzerwany stream wreszcie dobiegł końca, oczy wszystkich zwrócone były na licznik zbiórki. Widniała na nim niewiarygodna kwota ponad 250 milionów złotych. Główny bohater inicjatywy, Łatwogang, streamer z Radomia, udowodnił, że…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b997f829-1e94-491b-bffb-fab75092e4d4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b997f829-1e94-491b-bffb-fab75092e4d4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b997f829-1e94-491b-bffb-fab75092e4d4"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska jednostka szuka pracownika. Wiemy, ile można zarobić ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-jednostka-szuka-pracownika-wiemy-ile-mozna-zarobic/i4YEGS6AL88A0W9xXyAd</link>
-<guid isPermaLink="false">56aee2a627a50e2b3b6d170991d8eb55b4c2cc41</guid>
-<pubDate>Mon, 27 Apr 2026 12:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" alt="miniatura"/></p><p>Do obowiązków osoby zatrudnionej na tym stanowisku będzie należało prowadzenie wszelkich spraw kancelaryjnych Powiatowego Centrum Pomocy Rodzinie w Piotrkowie Trybunalskim. Wśród głównych zadań wymienia się także obsługę systemów e-Doręczeń, EZD oraz KSeF, a także przyjmowanie i weryfikację formalną i merytoryczną wniosków składanych przez osoby z niepełnosprawnością w ramach programu Aktywny Samo…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f3ed8c9-3bc5-4361-970a-bea20be25814"/>
 </item>
 </channel></rss>
