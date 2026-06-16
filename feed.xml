@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Jun 2026 05:30:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 11:38:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Uwaga kierowcy. Tędy nie pojedziemy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-tedy-nie-pojedziemy/KLNE2FDejOCMp96UVRXl</link>
+<guid isPermaLink="false">3b22a15354ba212297c5448eaee2c541f271768e</guid>
+<pubDate>Tue, 16 Jun 2026 13:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" alt="miniatura"/></p><p>Jak poinformował piotrkowski urząd miasta, od 18 czerwca (czwartek) zamknięty będzie fragment ulicy Wierzejskiej. Generalny wykonawca prac na ul. Wolborskiej wprowadzi zmiany organizacji ruchu na wysokości Kenpolu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b"/>
+</item>
+<item>
+<title><![CDATA[ Tutaj ugoszczą rolników. Oto gospodarz Dożynek Powiatowych 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tutaj-ugoszcza-rolnikow-oto-gospodarz-dozynek-powiatowych-2026/HSULSEVhSseqnA4o5b5q</link>
+<guid isPermaLink="false">c752a72556a6657d6757a312333ca64ea5c215dc</guid>
+<pubDate>Tue, 16 Jun 2026 12:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" alt="miniatura"/></p><p>Wiadomo już, kto ugości rolników w tym roku. Teraz Starostwo Powiatowe w Piotrkowie Trybunalskim zdradziło pierwsze szczegóły dotyczące dożynkowego konkursu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd"/>
+</item>
+<item>
+<title><![CDATA[ Policjantki z Piotrkowa na pierwszym miejscu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/policjantki-z-piotrkowa-na-pierwszym-miejscu/VfGU67Ir9Q7R0yPT5pC2</link>
+<guid isPermaLink="false">137b10d281d3286f2515ae22633f5b1f9126ea67</guid>
+<pubDate>Tue, 16 Jun 2026 11:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" alt="miniatura"/></p><p>Policjantki z naszego miasta mogą pochwalić się sportowymi sukcesami. Pierwszy z nich odniosły 13 czerwca. Wówczas odbył się I Skierniewicki Triathlon o Puchar Komendanta Wojewódzkiego Policji w Łodzi. W wydarzeniu udział wzięli funkcjonariusze oraz funkcjonariuszki z garnizonu łódzkiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002"/>
+</item>
 <item>
 <title><![CDATA[ Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026 ]]></title>
 <link>https://trybunalski.pl/wiadomosci/historia/koniec-lodzkiej-ziemi-obiecanej-andrzej-wajda-patronem-roku-2026/W5ELnvfjhARQE8CrBpxp</link>
@@ -1673,7 +1703,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Policjantki z Piotrkowa na pierwszym miejscu</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2003,7 +2033,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Policjantki z Piotrkowa na pierwszym miejscu</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3517,35 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767"/>
-</item>
-<item>
-<title><![CDATA[ Wielka gwiazda wystąpi w naszym powiecie? Podali datę koncertu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielka-gwiazda-wystapi-w-naszym-powiecie-podali-date-koncertu/dPdoTpuajhkn5wI9rFWZ</link>
-<guid isPermaLink="false">ea16619dd1730de94683062fb37546f16d1bbf03</guid>
-<pubDate>Tue, 28 Apr 2026 14:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e50b9d-b626-479c-b00f-1e8ac4a1208c" alt="miniatura"/></p><p>Wiosna w pełni, a wkrótce przyjdzie czas plenerowych koncertów i imprez. Również w Piotrkowie Trybunalskim i powiecie można spodziewać się wydarzeń pod chmurką pełnych muzyki i wspólnej zabawy. Jak się okazuje, niedaleko naszego miasta ma wystąpić jedna z największych gwiazd na polskiej scenie disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e50b9d-b626-479c-b00f-1e8ac4a1208c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e50b9d-b626-479c-b00f-1e8ac4a1208c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e50b9d-b626-479c-b00f-1e8ac4a1208c"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczny pożar w powiecie piotrkowskim. „To lata pracy i całe nasze życie” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramatyczny-pozar-w-powiecie-piotrkowskim-to-lata-pracy-i-cale-nasze-zycie/reLHEEdVWiPzMCRudA10</link>
-<guid isPermaLink="false">41defab305da24d8b65a57198b5f49bd97a4647a</guid>
-<pubDate>Tue, 28 Apr 2026 13:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/697a3418-1265-4272-a974-30815677c0f0" alt="miniatura"/></p><p>Wracamy do tragicznego pożaru, do którego doszło w ubiegły weekend w powiecie piotrkowskim. Jak się okazuje, poszkodowana rodzina założyła zbiórkę, by odbudować to, co zabrał ogień. „To ogromna strata, z którą ciężko się pogodzić” – mówią.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/697a3418-1265-4272-a974-30815677c0f0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/697a3418-1265-4272-a974-30815677c0f0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/697a3418-1265-4272-a974-30815677c0f0"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianie doczekają się tunelu w mieście? Urząd analizuje za i przeciw ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowianie-doczekaja-sie-tunelu-w-miescie-urzad-analizuje-za-i-przeciw/vGn5L3xywS0L3msfoHIA</link>
-<guid isPermaLink="false">64747419340eefc386b5ce4b9147742f6cd1dd04</guid>
-<pubDate>Tue, 28 Apr 2026 12:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777" alt="miniatura"/></p><p>Wizyta studyjna w Andrespolu, gdzie od dwóch lat funkcjonuje podobne rozwiązanie, była częścią przygotowań do decyzji, przed którą stoi piotrkowski samorząd. Podczas wizyty przedstawiciele piotrkowskiego urzędu, wiceprezydent Piotr Kulbat oraz dyrektor ZDiUM-u Jacek Marusiński mieli okazję zapoznać się z funkcjonowaniem tunelu drogowego w Andrespolu, który zastąpił przejazd kolejowo-drogowy, popra…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777"/>
 </item>
 </channel></rss>
