@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Jun 2026 00:04:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 05:30:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/koniec-lodzkiej-ziemi-obiecanej-andrzej-wajda-patronem-roku-2026/W5ELnvfjhARQE8CrBpxp</link>
+<guid isPermaLink="false">2f47a6055c262ffc8f51c78f111e1cf73b925be9</guid>
+<pubDate>Tue, 16 Jun 2026 05:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/main-image-1200/c0fa38ee-378c-44ce-840e-00fbd0aca9c0" alt="miniatura"/></p><p>“Senat ustanowił rok 2026 Rokiem Andrzeja Wajdy w uznaniu twórczości i dokonań jednego z najwybitniejszych polskich reżyserów, współtwórcy polskiej szkoły filmowej oraz kina moralnego niepokoju, które zdefiniowały polską pamięć historyczną i współczesną tożsamość kulturową, (...) Swą twórczością zbudował pomost pomiędzy „polskim czasem przeszłym” a teraźniejszością i przyszłością. Zarówno osobiści…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/main-image-1200/c0fa38ee-378c-44ce-840e-00fbd0aca9c0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/main-image-1200/c0fa38ee-378c-44ce-840e-00fbd0aca9c0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/main-image-1200/c0fa38ee-378c-44ce-840e-00fbd0aca9c0"/>
+</item>
 <item>
 <title><![CDATA[ Juliusz Wiernicki z coraz większym majątkiem. Ile przybyło w kieszeni prezydenta Piotrkowa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/juliusz-wiernicki-z-coraz-wiekszym-majatkiem-ile-przybylo-w-kieszeni-prezydenta-piotrkowa/cLsgBNfnA77eZLCIh7sD</link>
@@ -1663,7 +1673,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Juliusz Wiernicki z coraz większym majątkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1993,7 +2003,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Juliusz Wiernicki z coraz większym majątkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3537,15 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8250fb4d-71c7-43c9-b887-fbe18263a777"/>
-</item>
-<item>
-<title><![CDATA[ Policjant z Piotrkowa najlepszy w całym województwie. Ile osób pokonał? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/policjant-z-piotrkowa-najlepszy-w-calym-wojewodztwie-ile-osob-pokonal/AaW6xOVdEXSys1axwex7</link>
-<guid isPermaLink="false">33ef7981394f71da47e9d7477d3c7b6e0f96bb3c</guid>
-<pubDate>Tue, 28 Apr 2026 12:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/af075a91-7fcf-46e7-a97b-373fd3a0c21e" alt="miniatura"/></p><p>Konkurs, który odbył się w dniach 23-24 kwietnia 2026 roku zgromadził 24 funkcjonariuszy z całego województwa łódzkiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/af075a91-7fcf-46e7-a97b-373fd3a0c21e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/af075a91-7fcf-46e7-a97b-373fd3a0c21e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/af075a91-7fcf-46e7-a97b-373fd3a0c21e"/>
 </item>
 </channel></rss>
