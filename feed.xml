@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 16 Jun 2026 11:38:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 17:22:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Akcja piotrkowskiej policji. Czterech kierowców wpadło ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-piotrkowskiej-policji-czterech-kierowcow-wpadlo/2CxkCFxN0k9tGPu1lJGu</link>
+<guid isPermaLink="false">aeda32fe832e6e48f336d195800adb948a01ecc3</guid>
+<pubDate>Tue, 16 Jun 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" alt="miniatura"/></p><p>W poniedziałek, 15 czerwca, funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji w Piotrkowie Trybunalskim prowadzili działania kontrolne pod nazwą „Trzeźwa A1”. Głównym celem mundurowych było wyeliminowanie z ruchu drogowego osób kierujących pojazdami pod wpływem alkoholu oraz poprawa bezpieczeństwa. Jak się okazuje, czterech kierowców odpowie za swoje nieodpowiedzialne zachowanie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713"/>
+</item>
+<item>
+<title><![CDATA[ Kolumna przejedzie ulicami miasta. Sprawdź, kiedy i gdzie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolumna-przejedzie-ulicami-miasta-sprawdz-kiedy-i-gdzie/EUJaBYDHakFjl3QqWU5f</link>
+<guid isPermaLink="false">b579593e2ce76d5cc2f3ee8f30244d3017ba97b4</guid>
+<pubDate>Tue, 16 Jun 2026 14:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" alt="miniatura"/></p><p>Już 21 czerwca w naszym mieście wystartuje 3. Piknik Motoryzacyjny „Bezpieczne Lato 2026”. Wydarzenie to gratka dla fanów najróżniejszych pojazdów, a także okazja do pomocy. Uczestnicy pikniku będą mogli wesprzeć zbiórkę funduszy na leczenie onkologiczne 12-letniego Kacpra Kwiecińskiego. Sprawdź, co znalazło się w programie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed"/>
+</item>
 <item>
 <title><![CDATA[ Uwaga kierowcy. Tędy nie pojedziemy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-tedy-nie-pojedziemy/KLNE2FDejOCMp96UVRXl</link>
@@ -1703,7 +1723,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Policjantki z Piotrkowa na pierwszym miejscu</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Kolumna przejedzie ulicami miasta.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2033,7 +2053,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Policjantki z Piotrkowa na pierwszym miejscu</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Kolumna przejedzie ulicami miasta.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3527,25 +3547,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/077617d1-d51f-4723-a633-08670a3f70a1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/077617d1-d51f-4723-a633-08670a3f70a1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/077617d1-d51f-4723-a633-08670a3f70a1"/>
-</item>
-<item>
-<title><![CDATA[ Uwaga kierowcy! Przejazd kolejowy w Piotrkowie zamknięty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-przejazd-kolejowy-w-piotrkowie-zamkniety/sNJbUCoZIlH05e3BfLqs</link>
-<guid isPermaLink="false">d47d67f56572e7a0008937a43579bb54e4427337</guid>
-<pubDate>Wed, 29 Apr 2026 08:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0d7b4bbf-d86e-4547-ba08-61ad6d347de9" alt="miniatura"/></p><p>W związku z pilnymi pracami naprawczymi infrastruktury kolejowej od środy, 29 kwietnia 2026 r. od godziny 8:00 zamknięty jest przejazd kolejowy na ul. Rolniczej. Utrudnienia potrwają do czwartkowego wieczoru, 30 kwietnia, do godziny 20:00.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d7b4bbf-d86e-4547-ba08-61ad6d347de9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d7b4bbf-d86e-4547-ba08-61ad6d347de9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d7b4bbf-d86e-4547-ba08-61ad6d347de9"/>
-</item>
-<item>
-<title><![CDATA[ Czy Piotrkowianie doczekają się chodnika? Prace ruszyły, ale do finału daleko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/czy-piotrkowianie-doczekaja-sie-chodnika-prace-ruszyly-ale-do-finalu-daleko/OroTP5mufndJ2AAuKAQz</link>
-<guid isPermaLink="false">275cc8357eec47c5dce9f1e77363eeb1c473f13b</guid>
-<pubDate>Tue, 28 Apr 2026 15:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767" alt="miniatura"/></p><p>W marcu na ulicy Energetyków w Piotrkowie Trybunalskim pojawili się drogowcy. Mieszkańcy jednak nie doczekali się nowego chodnika, a jedynie naprawy starych płyt. Sprawę poruszył radny Jan Dziemdziora.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3498e5d8-a68d-47b5-ad5c-4878032dc767"/>
 </item>
 </channel></rss>
