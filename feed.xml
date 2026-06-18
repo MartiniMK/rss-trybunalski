@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 18 Jun 2026 11:36:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 15:54:09 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Jest praca w naszym mieście. Poszukują inspektora ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jest-praca-w-naszym-miescie-poszukuja-inspektora/jEdswlUr7XEXIkjyZSaO</link>
+<guid isPermaLink="false">ddc3dbe7965825e152cd2ed2763874b2ae43100c</guid>
+<pubDate>Thu, 18 Jun 2026 15:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/41f968da-eccc-4293-be83-1721a3b44c24" alt="miniatura"/></p><p>Kierownik Centrum Usług Wspólnych w Piotrkowie Trybunalskim ogłasza nabór na wolne stanowisko urzędnicze w miejskiej jednostce. Poszukiwany jest Inspektor/Inspektorka ds. Systemu Zarządzania Bezpieczeństwem Informacji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/41f968da-eccc-4293-be83-1721a3b44c24" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/41f968da-eccc-4293-be83-1721a3b44c24" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/41f968da-eccc-4293-be83-1721a3b44c24"/>
+</item>
+<item>
+<title><![CDATA[ To może powstać w Piotrkowie. Zdecydują mieszkańcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-moze-powstac-w-piotrkowie-zdecyduja-mieszkancy/HijIZKGg02gODfJGFRu2</link>
+<guid isPermaLink="false">2ff4606fcd679805d1b6cae08dcdbdc5f286cdc7</guid>
+<pubDate>Thu, 18 Jun 2026 14:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d842c6b7-f27f-4b0b-97ab-7bb6c1f869ff" alt="miniatura"/></p><p>W Piotrkowie mogą zostać zrealizowane zupełnie nowe inwestycje. Wszystko za sprawą tegorocznej edycji budżetu obywatelskiego. Piotrkowianie zgłosili w sumie 30 różnorodnych projektów. Teraz zostaną one zweryfikowane i poddane ocenie. Dopiero wtedy opublikowana będzie lista inwestycji do głosowania. Sprawdzamy, czego brakuje mieszkańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d842c6b7-f27f-4b0b-97ab-7bb6c1f869ff" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d842c6b7-f27f-4b0b-97ab-7bb6c1f869ff" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d842c6b7-f27f-4b0b-97ab-7bb6c1f869ff"/>
+</item>
 <item>
 <title><![CDATA[ Wielkie wyróżnienie dla Piotrkowianki. Gratulujemy! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielkie-wyroznienie-dla-piotrkowianki-gratulujemy/gZTOaCSRoaZDmSZFZfmD</link>
@@ -29,16 +49,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -49,6 +59,36 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzad-miasta-sprzedaje-dzialki-sprawdz-gdzie-i-za-ile/iIrkAHtQamDN85OT0zId</link>
+<guid isPermaLink="false">5bbbd21a36baf2cd8ae54709fe4bbc82721de381</guid>
+<pubDate>Thu, 18 Jun 2026 11:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b202118f-1798-4176-8d2d-1335d006cbb7" alt="miniatura"/></p><p>Urząd miasta opublikował listę nieruchomości przeznaczonych do zbycia. Oferta obejmuje głównie parcele pod zabudowę mieszkaniową jednorodzinną, a cena najtańszej z nich wynosi nieco ponad 100 tysięcy złotych. Sprawdź, w jakich rejonach miasta zlokalizowane są oferowane przez samorząd ziemie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b202118f-1798-4176-8d2d-1335d006cbb7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b202118f-1798-4176-8d2d-1335d006cbb7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b202118f-1798-4176-8d2d-1335d006cbb7"/>
+</item>
+<item>
+<title><![CDATA[ Brutalny rozbój w centrum Piotrkowa. Zatrzymano młodą kobietę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Thu, 18 Jun 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ac507a4c-c4a1-4036-9b85-174f3d09ee91" alt="miniatura"/></p><p>Do zdarzenia doszło 14 czerwca 2026 roku na ulicy Rynek w Piotrkowie Trybunalskim. Na miejsce skierowano patrol policji po zgłoszeniu dotyczącym bójki kilku osób.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac507a4c-c4a1-4036-9b85-174f3d09ee91" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac507a4c-c4a1-4036-9b85-174f3d09ee91" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac507a4c-c4a1-4036-9b85-174f3d09ee91"/>
+</item>
+<item>
 <title><![CDATA[ Pożar domu w Piotrkowie. Na miejscu kilkudziesięciu strażaków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-domu-w-piotrkowie-na-miejscu-kilkudziesieciu-strazakow/ZbRTU5UPlNo49RdHfEhK</link>
 <guid isPermaLink="false">0a418dd2d01b06e1f73968922c0891dc7668beb4</guid>
@@ -57,6 +97,126 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d3e944f-2d7d-455e-92c2-09961d1ede17" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d3e944f-2d7d-455e-92c2-09961d1ede17" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d3e944f-2d7d-455e-92c2-09961d1ede17"/>
+</item>
+<item>
+<title><![CDATA[ Zaparkowane auta kontra autobusy miejskie. Czy zmieni się organizacja ruchu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zaparkowane-auta-kontra-autobusy-miejskie-czy-zmieni-sie-organizacja-ruchu/00UMGttM2hvFAdbOlGze</link>
+<guid isPermaLink="false">515f0f71c29b51611a287be4a2b23cdbf6ca7c7f</guid>
+<pubDate>Wed, 17 Jun 2026 15:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4d9691-d328-4e7f-a321-e65c50a8edb1" alt="miniatura"/></p><p>Ulica Wysoka jest drogą dwukierunkową, jednak czasami przejazd wymaga od kierowców cierpliwości. Dlaczego? Od lat po jednej ze stron pozostawiane są samochody. Parkingi przy blokach nie wystarczają, dlatego mieszkańcy muszą szukać alternatyw. To jednak prowadzi do nerwowych sytuacji wśród kierowców, szczególnie gdy z jednej strony nadjeżdża MZK. Zmotoryzowani często muszą cofać lub manewrować tak,…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4d9691-d328-4e7f-a321-e65c50a8edb1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4d9691-d328-4e7f-a321-e65c50a8edb1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c4d9691-d328-4e7f-a321-e65c50a8edb1"/>
+</item>
+<item>
+<title><![CDATA[ Tak uczczą najdłuższy dzień w roku. W planach ognisko, koncerty i wianki ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tak-uczcza-najdluzszy-dzien-w-roku-w-planach-ognisko-koncerty-i-wianki/Ws1f41ZRTNEOhq04PdHC</link>
+<guid isPermaLink="false">787f40bd80bb70363048df3a225a95d0894a5bc0</guid>
+<pubDate>Wed, 17 Jun 2026 13:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4079718d-5682-4556-9196-662993a4ce23" alt="miniatura"/></p><p>Nadchodzi Noc Kupały, czyli tradycyjne święto związane z letnim przesileniem i najdłuższym dniem w roku. Z tej okazji w Moszczenicy zaplanowano plenerowe obchody, których program łączy aktywność fizyczną, elementy dawnych obrzędów oraz występy muzyczne na żywo. To okazja dla mieszkańców gminy i okolicznych miejscowości, aby wspólnie powitać rozpoczynające się lato.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4079718d-5682-4556-9196-662993a4ce23" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4079718d-5682-4556-9196-662993a4ce23" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4079718d-5682-4556-9196-662993a4ce23"/>
+</item>
+<item>
+<title><![CDATA[ 57-latek wpadł w gminie Rozprza. Teraz odpowie przed sądem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/57-latek-wpadl-w-gminie-rozprza-teraz-odpowie-przed-sadem/zteUvH7the99NEcQEsEr</link>
+<guid isPermaLink="false">9aff52f9ad908b1d14bafe7d54f156d9c72aa8f6</guid>
+<pubDate>Wed, 17 Jun 2026 12:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" alt="miniatura"/></p><p>Wszystko działo się w środę, 10 czerwca, na terenie gminy Rozprza. Dzielnicowi z Komisariatu Policji w Gorzkowicach prowadzili wówczas patrol. Ich uwagę przykuł kierowca Opla, którego zachowanie wskazywało, że może być pod wpływem alkoholu. Funkcjonariusze postanowili to sprawdzić.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9"/>
+</item>
+<item>
+<title><![CDATA[ Ucieczka przez okno i kryjówka pod kołdrą. Akcja policji pod Piotrkowem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/ucieczka-przez-okno-i-kryjowka-pod-koldra-akcja-policji-pod-piotrkowem/Z3mtzcqKffIk6G0TrQQs</link>
+<guid isPermaLink="false">2ff15ad269dc233d7eeeea47d0996c68418c6101</guid>
+<pubDate>Wed, 17 Jun 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/227976da-e969-4295-bab6-6c8d02d2a2d3" alt="miniatura"/></p><p>To mogłyby być sceny z filmu, jednak są to akcje piotrkowskich policjantów, do których doszło na terenie naszego powiatu. W ciągu ostatnich dwóch tygodni mundurowi zatrzymali kilku poszukiwanych na podstawie listów gończych oraz nakazów doprowadzenia. Nie obyło się jednak bez prób ucieczek, a funkcjonariuszy czekały poszukiwania na strychu, a także pościg.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/227976da-e969-4295-bab6-6c8d02d2a2d3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/227976da-e969-4295-bab6-6c8d02d2a2d3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/227976da-e969-4295-bab6-6c8d02d2a2d3"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowianin poznał terminarz na sezon 2026/2027! Kiedy i z kim inauguracja ORLEN Superligi? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-poznal-terminarz-na-sezon-20262027-kiedy-i-z-kim-inauguracja-orlen-superligi/EFSHrfBjQcsPFupOkg6R</link>
+<guid isPermaLink="false">9d32f80b3b29e673184fdd284610253faed518e6</guid>
+<pubDate>Wed, 17 Jun 2026 10:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8431c3d6-b560-45e1-8b57-fbb075815d1d" alt="miniatura"/></p><p>Zmagania o mistrzostwo Polski w piłce ręcznej mężczyzn w sezonie 2026/2027 rozpoczną się w dniach 5-6 września i będą poprzedzone meczem o Superpuchar Polski, który zostanie rozegrany w dniu 29 sierpnia. W rozgrywkach ORLEN Superligi weźmie udział 12 drużyn, a jedną z nich będzie Piotrkowianin Piotrków Trybunalski, który miejsce w najwyższej klasie rozgrywkowej wywalczył w barażach z wicemistrzem…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8431c3d6-b560-45e1-8b57-fbb075815d1d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8431c3d6-b560-45e1-8b57-fbb075815d1d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8431c3d6-b560-45e1-8b57-fbb075815d1d"/>
+</item>
+<item>
+<title><![CDATA[ Nie będzie prądu w Piotrkowie i powiecie. Zobacz, czy Twój dom jest na liście utrudnień ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-piotrkowie-i-powiecie-zobacz-czy-twoj-dom-jest-na-liscie-utrudnien/AToWq7jy3kLKddEbqZBZ</link>
+<guid isPermaLink="false">e4099c8e5341fcd663a0f3698cf0444297d6d4fb</guid>
+<pubDate>Wed, 17 Jun 2026 08:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cdb246e1-fc66-411b-9a06-c90fd1beb984" alt="miniatura"/></p><p>ul. Cegielniana 1 3 5 8 10, ul. Fabryczna 1-40, ul. Kosowska 23-62, ul. Nowy Świat 1-41, ul. Spacerowa 1-6, ul. Wesoła 2-4 8 57, ul. Cmentarna 71, Wola Moszczenicka ul. Piotrkowska 40 47</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdb246e1-fc66-411b-9a06-c90fd1beb984" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdb246e1-fc66-411b-9a06-c90fd1beb984" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdb246e1-fc66-411b-9a06-c90fd1beb984"/>
+</item>
+<item>
+<title><![CDATA[ Nowa oferta promocyjna w Action. Wiele produktów w atrakcyjnych cenach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-oferta-promocyjna-w-action-wiele-produktow-w-atrakcyjnych-cenach/hLMHtcAJYejX7WoWZVFN</link>
+<guid isPermaLink="false">330e52fc787d1852080142b0133747f17e4c9fd4</guid>
+<pubDate>Wed, 17 Jun 2026 08:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f3b0687f-aa02-429f-ba32-73d733ccc1f0" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim zakupy zrobimy w dwóch sklepach Action. Jeden znajduje się przy ul. Szkolnej 37/39, a drugi przy ul. Sulejowskiej 49/A.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3b0687f-aa02-429f-ba32-73d733ccc1f0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3b0687f-aa02-429f-ba32-73d733ccc1f0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f3b0687f-aa02-429f-ba32-73d733ccc1f0"/>
+</item>
+<item>
+<title><![CDATA[ Akcja piotrkowskiej policji. Czterech kierowców wpadło ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-piotrkowskiej-policji-czterech-kierowcow-wpadlo/2CxkCFxN0k9tGPu1lJGu</link>
+<guid isPermaLink="false">aeda32fe832e6e48f336d195800adb948a01ecc3</guid>
+<pubDate>Tue, 16 Jun 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" alt="miniatura"/></p><p>W poniedziałek, 15 czerwca, funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji w Piotrkowie Trybunalskim prowadzili działania kontrolne pod nazwą „Trzeźwa A1”. Głównym celem mundurowych było wyeliminowanie z ruchu drogowego osób kierujących pojazdami pod wpływem alkoholu oraz poprawa bezpieczeństwa. Jak się okazuje, czterech kierowców odpowie za swoje nieodpowiedzialne zachowanie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/141e1eac-15c8-4659-876c-3489a2c99713"/>
+</item>
+<item>
+<title><![CDATA[ Kolumna przejedzie ulicami miasta. Sprawdź, kiedy i gdzie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolumna-przejedzie-ulicami-miasta-sprawdz-kiedy-i-gdzie/EUJaBYDHakFjl3QqWU5f</link>
+<guid isPermaLink="false">b579593e2ce76d5cc2f3ee8f30244d3017ba97b4</guid>
+<pubDate>Tue, 16 Jun 2026 14:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" alt="miniatura"/></p><p>Już 21 czerwca w naszym mieście wystartuje 3. Piknik Motoryzacyjny „Bezpieczne Lato 2026”. Wydarzenie to gratka dla fanów najróżniejszych pojazdów, a także okazja do pomocy. Uczestnicy pikniku będą mogli wesprzeć zbiórkę funduszy na leczenie onkologiczne 12-letniego Kacpra Kwiecińskiego. Sprawdź, co znalazło się w programie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6f0518b-511c-4016-bba8-ad2fea72fbed"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga kierowcy. Tędy nie pojedziemy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-tedy-nie-pojedziemy/KLNE2FDejOCMp96UVRXl</link>
+<guid isPermaLink="false">3b22a15354ba212297c5448eaee2c541f271768e</guid>
+<pubDate>Tue, 16 Jun 2026 13:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" alt="miniatura"/></p><p>Jak poinformował piotrkowski urząd miasta, od 18 czerwca (czwartek) zamknięty będzie fragment ulicy Wierzejskiej. Generalny wykonawca prac na ul. Wolborskiej wprowadzi zmiany organizacji ruchu na wysokości Kenpolu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/009084ef-4549-4d9e-b618-9871d0b5820b"/>
+</item>
+<item>
+<title><![CDATA[ Tutaj ugoszczą rolników. Oto gospodarz Dożynek Powiatowych 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tutaj-ugoszcza-rolnikow-oto-gospodarz-dozynek-powiatowych-2026/HSULSEVhSseqnA4o5b5q</link>
+<guid isPermaLink="false">c752a72556a6657d6757a312333ca64ea5c215dc</guid>
+<pubDate>Tue, 16 Jun 2026 12:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" alt="miniatura"/></p><p>Wiadomo już, kto ugości rolników w tym roku. Teraz Starostwo Powiatowe w Piotrkowie Trybunalskim zdradziło pierwsze szczegóły dotyczące dożynkowego konkursu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cceee769-dadb-4969-9df1-d06b08754bfd"/>
+</item>
+<item>
+<title><![CDATA[ Policjantki z Piotrkowa na pierwszym miejscu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/policjantki-z-piotrkowa-na-pierwszym-miejscu/VfGU67Ir9Q7R0yPT5pC2</link>
+<guid isPermaLink="false">137b10d281d3286f2515ae22633f5b1f9126ea67</guid>
+<pubDate>Tue, 16 Jun 2026 11:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" alt="miniatura"/></p><p>Policjantki z naszego miasta mogą pochwalić się sportowymi sukcesami. Pierwszy z nich odniosły 13 czerwca. Wówczas odbył się I Skierniewicki Triathlon o Puchar Komendanta Wojewódzkiego Policji w Łodzi. W wydarzeniu udział wzięli funkcjonariusze oraz funkcjonariuszki z garnizonu łódzkiego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dc99c534-f48b-4fc7-9608-ceec07ba7002"/>
 </item>
 <item>
 <title><![CDATA[ Koniec łódzkiej „Ziemi obiecanej”. Andrzej Wajda Patronem Roku 2026 ]]></title>
@@ -739,11 +899,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/472e3b1c-ce15-4d23-9acf-75e273019e95"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/zawodniczki-z-naszego-miasta-w-reprezentacji-polski-to-wicemistrzynie-swiata/HRBBgmqrOovAXblzo6RE ]]></title>
+<title><![CDATA[ Zawodniczki z naszego miasta w reprezentacji Polski. To wicemistrzynie świata! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zawodniczki-z-naszego-miasta-w-reprezentacji-polski-to-wicemistrzynie-swiata/HRBBgmqrOovAXblzo6RE</link>
 <guid isPermaLink="false">f9e5b19a3d6d4214fe3e20815ff82487f269c1ad</guid>
 <pubDate>Mon, 08 Jun 2026 11:34:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" alt="miniatura"/></p><p>Piotrków może pochwalić się uzdolnionymi tancerkami, które regularnie wracają z międzynarodowych zawodów z nagrodami. Nie inaczej było podczas XXIV IDF World Championship of Modern Dance Sport w Hiszpanii. Polskę na tych mistrzostwach reprezentowały piotrkowskie „Jaskółki”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a"/>
 </item>
 <item>
 <title><![CDATA[ Sulejów szykuje dużą zmianę. Podpisano umowy warte prawie 16 milionów złotych ]]></title>
@@ -784,6 +947,176 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0e2bb66f-76b2-49bf-abb3-11b8b8c1e968" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0e2bb66f-76b2-49bf-abb3-11b8b8c1e968" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0e2bb66f-76b2-49bf-abb3-11b8b8c1e968"/>
+</item>
+<item>
+<title><![CDATA[ Sobotnie polowanie na skarby w Piotrkowie. Unikalne meble, retro elektronika i kultowa „Hortensja” przy Dmowskiego! [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sobotnie-polowanie-na-skarby-w-piotrkowie-unikalne-meble-retro-elektronika-i-kultowa-hortensja-przy-dmowskiego-zdjecia/Q4sOsXElCJBKtTbeOiAu</link>
+<guid isPermaLink="false">d644ba2c858ee18f816dc6b2a8cfc318e350050a</guid>
+<pubDate>Sat, 06 Jun 2026 14:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4b378aeb-e617-441f-b912-638c0aff6987" alt="miniatura"/></p><p>W sobotę, 6 czerwca, na bazarze przy ul. Dmowskiego można było znaleźć bogatą ofertę mebli z przeszłością, kompletnych zastaw stołowych, porcelany, a także wiekowych zegarów, których ceny sięgały nawet 650 złotych. Prawdziwą gratką dla lokalnych patriotów i fanów polskiego designu były kieliszki z legendarnej, piotrkowskiej huty szkła „Hortensja”. Za taką perełkę trzeba było zapłacić około 60 złot…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b378aeb-e617-441f-b912-638c0aff6987" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b378aeb-e617-441f-b912-638c0aff6987" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4b378aeb-e617-441f-b912-638c0aff6987"/>
+</item>
+<item>
+<title><![CDATA[ Ryneczek w naszym mieście. Sezon na truskawki w pełni, ceny mocno w dół! [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ryneczek-w-naszym-miescie-sezon-na-truskawki-w-pelni-ceny-mocno-w-dol-zdjecia/TgG6XLZha0o9PuSCLbuf</link>
+<guid isPermaLink="false">051b1f9d5f2134171a6d728be8d29fc9af70351d</guid>
+<pubDate>Sat, 06 Jun 2026 13:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2590e3ec-256b-40ac-84b2-5727c64e64cc" alt="miniatura"/></p><p>Choć handlowcy czekają na klientów przez kilka dni w tygodniu, to właśnie dzisiejsza sobota, 6 czerwca, przyciągnęła na plac sporo mieszkańców szukających świeżej i zdrowej żywności. Pogoda zachęciła do odwiedzenia bazaru przy ul. Dmowskiego w naszym mieście. Dla wielu Piotrkowian weekendowy spacer na ryneczek po chrupiące warzywa i pachnące owoce to już tradycja. Sprawdziliśmy, jak obecnie wygląd…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2590e3ec-256b-40ac-84b2-5727c64e64cc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2590e3ec-256b-40ac-84b2-5727c64e64cc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2590e3ec-256b-40ac-84b2-5727c64e64cc"/>
+</item>
+<item>
+<title><![CDATA[ Groźny owad rozprzestrzenia się w Polsce. Zagrożone są także psy i koty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/grozny-owad-rozprzestrzenia-sie-w-polsce-zagrozone-sa-takze-psy-i-koty/FtpwP5pgWPEIJcULAB53</link>
+<guid isPermaLink="false">0b8aace95607f17aa29cabb6654df821a09a43b7</guid>
+<pubDate>Sat, 06 Jun 2026 12:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee9728f-a5d4-4e9d-9149-faf66e2adbfc" alt="miniatura"/></p><p>Najnowsze ostrzeżenia pochodzą z Małopolski. Władze gminy Kłaj poinformowały mieszkańców o stwierdzeniu obecności korowódki dębówki i zwróciły uwagę na zagrożenia zdrowotne związane z kontaktem z jej gąsienicami. Wcześniej podobne komunikaty pojawiły się również w województwie kujawsko-pomorskim oraz w Wielkopolsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee9728f-a5d4-4e9d-9149-faf66e2adbfc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee9728f-a5d4-4e9d-9149-faf66e2adbfc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4ee9728f-a5d4-4e9d-9149-faf66e2adbfc"/>
+</item>
+<item>
+<title><![CDATA[ Szykuje się koncert w plenerze. Urząd podał datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szykuje-sie-koncert-w-plenerze-urzad-podal-date/BcyPhmO7XWJit4Iw2NBj</link>
+<guid isPermaLink="false">f366f933a9eb031269e9b4d395b474b40e2a4652</guid>
+<pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" alt="miniatura"/></p><p>Kiedy pogoda dopisuje i przychodzi czas letnich wieczorów wiele osób decyduje się na wypoczynek na świeżym powietrzu. Nadchodzące tygodnie to też okres, w którym wiele imprez plenerowych. Za nami już Święto Gminy Grabica, a także Motofestyn 2026. W Piotrkowie zaś szykują się dni miasta, które jak zwykle odbędą się na placu Kościuszki. W minionych latach letnie koncerty plenerowe w organizowano m.i…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b8072b7-5a7c-403f-80bc-a67f240868ff"/>
+</item>
+<item>
+<title><![CDATA[ Nawet 80 zł za godzinę i praca od zaraz. Pilnie szukają ludzi na lato ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nawet-80-zl-za-godzine-i-praca-od-zaraz-pilnie-szukaja-ludzi-na-lato/M4BpCy0LIsuf2j18wTnb</link>
+<guid isPermaLink="false">8b3636ab0a26d898be4939a6df11362819987385</guid>
+<pubDate>Sat, 06 Jun 2026 09:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" alt="miniatura"/></p><p>Szczególnie poszukiwani są pracownicy sektora eventowego, gastronomii, logistyki oraz turystyki.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1b6db649-c034-4a66-b30f-c39543b7facc"/>
+</item>
+<item>
+<title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Oto najwyższe wygrane w Lotto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-oto-najwyzsze-wygrane-w-lotto/IPdhEAh3xSH99vZ4oAgD</link>
+<guid isPermaLink="false">d78b9fceb36ec014c754333c69f64da390a648a1</guid>
+<pubDate>Fri, 05 Jun 2026 15:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8ef8d6d7-0cdc-4621-ae10-3b31163b790b" alt="miniatura"/></p><p>Wielkie wygrane w Lotto nie mają reguły. Raz trafiają do mieszkańców dużych miast, innym razem odmieniają życie kogoś w małej wsi. Za każdym razem wywołują jednak wiele emocji. Nic dziwnego, w końcu loteria od dekad uchodzi za najprostszą drogę do wielkiej fortuny. Gdy kumulacje sięgają kilkudziesięciu milionów złotych, do kolektur ruszają tysiące osób, z których każda marzy o jednym: rozbiciu ban…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ef8d6d7-0cdc-4621-ae10-3b31163b790b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ef8d6d7-0cdc-4621-ae10-3b31163b790b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8ef8d6d7-0cdc-4621-ae10-3b31163b790b"/>
+</item>
+<item>
+<title><![CDATA[ Oto jedna z najczystszych rzek w województwie łódzkim i jej ukryte atrakcje. Tylko 40 minut od naszego miasta [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oto-jedna-z-najczystszych-rzek-w-lodzkim-i-jej-ukryte-atrakcje-tylko-40-minut-od-naszego-miasta-zdjecia/FYLqxX4IswDY9EymeO5v</link>
+<guid isPermaLink="false">2b46f41b58c828b5d8b7e8ffa5fc2daabb001fc5</guid>
+<pubDate>Fri, 05 Jun 2026 15:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ed8deffb-3cfe-48bd-a333-0938daa75e8c" alt="miniatura"/></p><p>Niedaleko naszego miasta można znaleźć jedną z najczystszych rzek w województwie łódzkim, czyli Grabię. Jest to raj dla kajakarzy, ale także ciekawe miejsce dla fotografów czy całych rodzin na weekendowy wypoczynek. Można tam zobaczyć rezerwat przyrody, ale też muzeum.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed8deffb-3cfe-48bd-a333-0938daa75e8c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed8deffb-3cfe-48bd-a333-0938daa75e8c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ed8deffb-3cfe-48bd-a333-0938daa75e8c"/>
+</item>
+<item>
+<title><![CDATA[ Maja Chwalińska na ustach całej Polski. Pierwsze sukcesy odnosiła w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/maja-chwalinska-na-ustach-calej-polski-pierwsze-sukcesy-odnosila-w-piotrkowie/QiNpsR6xxIU03ZxgZ0Lw</link>
+<guid isPermaLink="false">85388f69ec10d01f9046ffe6f7f2e0d40d29b60f</guid>
+<pubDate>Fri, 05 Jun 2026 14:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b3ef6258-088d-4280-9e94-64e88cd7a034" alt="miniatura"/></p><p>Polski tenis kobiet przeżywa niesamowity moment, a uwaga kibiców w ostatnich dniach skupia się na kolejnej genialnej zawodniczce. Maja Chwalińska stała się prawdziwą rewelacją Internetu i zachwyciła kibiców nie tylko walecznością, ale i nieszablonowym stylem gry. Nie wszyscy wiedzą, że zawodniczka pierwsze sukcesy odnosiła na kortach… w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3ef6258-088d-4280-9e94-64e88cd7a034" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3ef6258-088d-4280-9e94-64e88cd7a034" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b3ef6258-088d-4280-9e94-64e88cd7a034"/>
+</item>
+<item>
+<title><![CDATA[ Kasa dla młodzieży z naszego województwa. Na co przeznaczą stypendia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kasa-dla-mlodziezy-z-naszego-wojewodztwa-na-co-przeznacza-stypendia/KXYNyOlKLfECieAsZqg9</link>
+<guid isPermaLink="false">1c03e65c449a7fea747dc6ced160a4b2f5f57458</guid>
+<pubDate>Fri, 05 Jun 2026 11:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" alt="miniatura"/></p><p>3 czerwca Urząd Marszałkowski Województwa Łódzkiego poinformował o wydarzeniu w Muzeum Sztuki w Łodzi, podczas którego wręczone zostały stypendia dla uczniów i studentów szkół artystycznych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4cfb1ff0-03f1-47eb-99dc-217df097eb70"/>
+</item>
+<item>
+<title><![CDATA[ To największe jezioro w woj. łódzkim zwane jest "morzem". Idealne na wyjazd w weekend [FOTO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-najwieksze-jezioro-w-woj-lodzkim-zwane-jest-morzem-idealne-na-wyjazd-w-weekend-foto/Al5h7oYZaxopdlRX7ZZ3</link>
+<guid isPermaLink="false">d0e434f456c39b646f7b1ddeead1cd4340cb64a2</guid>
+<pubDate>Fri, 05 Jun 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" alt="miniatura"/></p><p>Zbiornik Jeziorsko , zwany jest „Morzem Sieradzkim”, bo rozciąga się na przestrzeni wielu kilometrów, a także to największy akwen w województwie łódzkim. Zbiornik zaporowy wybudowany został na rzece Warcie , jako zbiornik retencyjny. Ma powierzchnię 42,3 km kw. a jego pojemność to 202,8 mln metrów sześciennych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dee8aadd-94df-4a38-9647-0844bc5e8245"/>
+</item>
+<item>
+<title><![CDATA[ Tancerki z Piotrkowa na podium. Wróciły z pucharem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tancerki-z-piotrkowa-na-podium-wrocily-z-pucharem/qG24WgZ7RXs4YhX8Lt9P</link>
+<guid isPermaLink="false">ad8d66dbf2ae9f087559a640d5ad0d8a2910772e</guid>
+<pubDate>Fri, 05 Jun 2026 09:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" alt="miniatura"/></p><p>Tancerki z Piotrkowskiej Fundacji Talentów nie zwalniają tempa. 16 maja zawodniczki wzięły udział w Międzynarodowym Turnieju Tańca i Akrobatyki Powietrznej „FLY CUP” w Drezdenku oraz w V Ogólnopolskim Turniej Tańca w Grodzisku Mazowieckim. Do miasta wróciły z nagrodami. Nie inaczej było po zawodach, które odbyły się w Gdyni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6cdce298-4b12-4fc2-b1fb-17404334338b"/>
+</item>
+<item>
+<title><![CDATA[ Tradycja, która łączy pokolenia. W naszym powiecie powstał spektakularny kwietny dywan! [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tradycja-ktora-laczy-pokolenia-w-naszym-powiecie-powstal-spektakularny-kwietny-dywan-zdjecia/5D06bKf1bGGQWRpE0iX4</link>
+<guid isPermaLink="false">3ccd953009368f31402a99ea5e841046c8907170</guid>
+<pubDate>Thu, 04 Jun 2026 13:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94b3aa8d-1245-4f03-b5b2-5ae8c22fc133" alt="miniatura"/></p><p>Tegoroczne Boże Ciało przypadło w czwartek, 4 czerwca. W całej Polsce wierni biorą udział w mszach świętych i uroczystych procesjach. W Wolborzu zaś święto to wiąże się z niecodzienną ozdobą. Od 20 lat mieszkańcy tworzą tutaj kwietny dywan.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94b3aa8d-1245-4f03-b5b2-5ae8c22fc133" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94b3aa8d-1245-4f03-b5b2-5ae8c22fc133" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94b3aa8d-1245-4f03-b5b2-5ae8c22fc133"/>
+</item>
+<item>
+<title><![CDATA[ Procesja ulicami Piotrkowa. Tak wierni uczcili Boże Ciało [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/procesja-ulicami-piotrkowa-tak-wierni-uczcili-boze-cialo-zdjecia/pKs28UYjOuSjcEPEzxGy</link>
+<guid isPermaLink="false">217e76b13d6cad677be5679129f76342d54af13a</guid>
+<pubDate>Thu, 04 Jun 2026 12:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9e88323f-90e0-4f9b-8eae-95bf1c2c051f" alt="miniatura"/></p><p>Dzisiaj, 4 czerwca, wierni w całym kraju oraz w Piotrkowie Trybunalski tłumnie wyszli na ulice, aby wziąć udział w Uroczystości Najświętszego Ciała i Krwi Chrystusa. Boże Ciało to święto ruchome, obchodzone zawsze w czwartek po oktawie Zesłania Ducha Świętego. Z aparatem odwiedziliśmy parafię NMP Królowej Pokoju przy ul. Kotarbińskiego 9.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e88323f-90e0-4f9b-8eae-95bf1c2c051f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e88323f-90e0-4f9b-8eae-95bf1c2c051f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9e88323f-90e0-4f9b-8eae-95bf1c2c051f"/>
+</item>
+<item>
+<title><![CDATA[ Ważny komunikat w sprawie opłat za autostradę A1. Obowiązuje od 3 czerwca 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wazny-komunikat-w-sprawie-oplat-za-autostrade-a1-obowiazuje-od-3-czerwca-2026/ApaEFEbC8cHFkr8wGCF8</link>
+<guid isPermaLink="false">91b6db35eb7d39da1ac3f4f4c00b2a006b1392e4</guid>
+<pubDate>Thu, 04 Jun 2026 00:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" alt="miniatura"/></p><p>Kierowcy planujący wyjazd na długi weekend oraz wakacyjne podróże autostradą A1 powinni wiedzieć o nowym rozwiązaniu przygotowanym na czas największego natężenia ruchu. Chodzi o odcinek Gdańsk–Toruń, gdzie w określonych sytuacjach przejazd może odbywać się bez pobierania opłat.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e568629-a700-47cb-8bbe-9f7068ccd78d"/>
+</item>
+<item>
+<title><![CDATA[ Nie masz pomysłu na długi weekend? Oto 3 perełki turystyczne w naszych okolicach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-masz-pomyslu-na-dlugi-weekend-odkryj-3-perelki-w-okolicach-naszego-miasta/5ieg5u1j80Qr1FO9j5OA</link>
+<guid isPermaLink="false">38a0dd3d7a1c35ef8668e544fc1031ca993ca264</guid>
+<pubDate>Wed, 03 Jun 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2b104584-41d2-4415-990e-ca1cb92675df" alt="miniatura"/></p><p>Podczas długiego weekendu wiele osób decyduje się na grillowanie bądź wycieczki. Ciekawe miejsca do aktywnego wypoczynku można znaleźć w Piotrkowie Trybunalskim, ale też w regionie. Sprawdźcie nasze propozycje na udany czas pod chmurką blisko Piotrkowa.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b104584-41d2-4415-990e-ca1cb92675df" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b104584-41d2-4415-990e-ca1cb92675df" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b104584-41d2-4415-990e-ca1cb92675df"/>
+</item>
+<item>
+<title><![CDATA[ Idealne miejsce na weekendowy reset. Odkryj zielony raj godzinę drogi z naszego miasta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/idealne-miejsce-na-weekendowy-reset-odkryj-zielony-raj-godzine-drogi-z-naszego-miasta/FftDfcRQ1v7bkSAiUPeX</link>
+<guid isPermaLink="false">45ab792282fcb0e357ecac74216bfcc402f13aa4</guid>
+<pubDate>Wed, 03 Jun 2026 14:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/257b2432-318a-4955-b494-d2d79e4ac782" alt="miniatura"/></p><p>W rogowskim Arboretum, zajmującym aż 54 hektary placówki SGGW, rosną najwyższe drzewa w okolicy – daglezje zielone, które mierzą ponad 45 metrów wysokości. Początek dał im w 1923 roku prof. Edward Chodzicki. Dziś te potężne rośliny stanowią wizytówkę tego jednego z największych ogrodów botanicznych w Polsce.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/257b2432-318a-4955-b494-d2d79e4ac782" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/257b2432-318a-4955-b494-d2d79e4ac782" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/257b2432-318a-4955-b494-d2d79e4ac782"/>
+</item>
+<item>
+<title><![CDATA[ Centrum technologicznego giganta otwarte. Nowe miejsca pracy w województwie łódzkim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/centrum-technologicznego-giganta-otwarte-nowe-miejsca-pracy-w-wojewodztwie-lodzkim/sM8fq8LUnZPZxEz0S6es</link>
+<guid isPermaLink="false">ffab82202b46d8b353f71d44eeba7d80fcaa761c</guid>
+<pubDate>Wed, 03 Jun 2026 14:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9888a1f8-c919-44a4-9e1b-7cfc08071436" alt="miniatura"/></p><p>Nowo otwarty obiekt znacząco zwiększy możliwości operacyjne spółki PCF Procefar, która odpowiada za dystrybucję produktów farmaceutycznych Hasco‑Lek. Prace budowlane ruszyły na początku 2025 roku – zbiegając się z jubileuszem 40‑lecia firmy – i zostały sfinalizowane w zakładanym terminie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9888a1f8-c919-44a4-9e1b-7cfc08071436" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9888a1f8-c919-44a4-9e1b-7cfc08071436" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9888a1f8-c919-44a4-9e1b-7cfc08071436"/>
 </item>
 <item>
 <title><![CDATA[ Czy w Boże Ciało trzeba iść do kościoła i na procesję? Jakie zasady obowiązują w Kościele? ]]></title>
@@ -920,7 +1253,7 @@
 <link>https://trybunalski.pl/wiadomosci/okulista-na-nfz-w-piotrkowie-kiedy-najblizsze-wolne-terminy/g38HKVq4jE7SXwHDmcYZ</link>
 <guid isPermaLink="false">2c900a0c3d5f079c7a0b8d43af3db2c115944404</guid>
 <pubDate>Tue, 02 Jun 2026 12:52:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9ee4c4a3-ac07-40d8-91fb-7d03f38f5a3d" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/okulista-na-nfz-w-piotrkowie-kiedy-najblizsze-wolne-terminy/g38HKVq4jE7SXwHDmcYZ is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9ee4c4a3-ac07-40d8-91fb-7d03f38f5a3d" alt="miniatura"/></p><p>Poniżej publikujemy listę placówek w Piotrkowie Trybunalskim wraz z najbliższymi dostępnymi terminami przyjęć i zabiegów z dziedziny okulistyki.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ee4c4a3-ac07-40d8-91fb-7d03f38f5a3d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ee4c4a3-ac07-40d8-91fb-7d03f38f5a3d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9ee4c4a3-ac07-40d8-91fb-7d03f38f5a3d"/>
@@ -1000,7 +1333,7 @@
 <link>https://trybunalski.pl/wiadomosci/dni-piotrkowa-2026-na-scenie-ostr-kayah-i-nie-tylko/jRtcYFN0tQp2eDxZpAMT</link>
 <guid isPermaLink="false">8ba82bc105772f64e53d96e5b0fe6c8676352433</guid>
 <pubDate>Mon, 01 Jun 2026 13:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/70e6d977-2e12-49ed-b02e-1ed31729c1e7" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/dni-piotrkowa-2026-na-scenie-ostr-kayah-i-nie-tylko/jRtcYFN0tQp2eDxZpAMT is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/70e6d977-2e12-49ed-b02e-1ed31729c1e7" alt="miniatura"/></p><p>W programie tegorocznego święta miasta znalazły się zarówno występy znanych gwiazd polskiej sceny muzycznej, jak i barwny jarmark, strefy zabaw dla dzieci oraz sportowe emocje. Sprawdź, co czeka ćię na Placu Kościuszki w Piotrkowie Trybunalskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/70e6d977-2e12-49ed-b02e-1ed31729c1e7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/70e6d977-2e12-49ed-b02e-1ed31729c1e7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/70e6d977-2e12-49ed-b02e-1ed31729c1e7"/>
@@ -1076,11 +1409,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/gigant-inwestuje-pod-naszym-miastem-bedzie-nowe-centrum-i-miejsca-pracy/7ZrVfzQzTtsCkQ9aliGF ]]></title>
+<title><![CDATA[ Gigant inwestuje pod naszym miastem. Będzie nowe centrum i miejsca pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-pod-naszym-miastem-bedzie-nowe-centrum-i-miejsca-pracy/7ZrVfzQzTtsCkQ9aliGF</link>
 <guid isPermaLink="false">8bdb1535cdc963a3ccaf77978188b28521f579dc</guid>
 <pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" alt="miniatura"/></p><p>Rozpoczęła się budowa nowoczesnego centrum dystrybucyjnego typu built-to-suit dla Agata S.A. w Majkowie Dużym pod Piotrkowem Trybunalskim. Inwestycja obejmuje ok. 41 800 m² powierzchni logistycznej i stanowi część największej transakcji najmu powierzchni magazynowej w Polsce w 2025 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianin wywalczył miejsce w elicie na kolejny sezon! ]]></title>
@@ -1167,7 +1503,7 @@
 <link>https://trybunalski.pl/wiadomosci/wielki-final-miss-wojewodztwa-lodzkiego-juz-dzis-piotrkowianka-walczy-o-korone/znKbycLhy7TQ6TYTENeN</link>
 <guid isPermaLink="false">9660bbbc7c5c8d6b5cb86055f8cae2a72cc5bd95</guid>
 <pubDate>Fri, 29 May 2026 15:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b6daccd0-39a2-4fbe-8ee9-3535fa19a5c4" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/wielki-final-miss-wojewodztwa-lodzkiego-juz-dzis-piotrkowianka-walczy-o-korone/znKbycLhy7TQ6TYTENeN is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b6daccd0-39a2-4fbe-8ee9-3535fa19a5c4" alt="miniatura"/></p><p>W piątek, 29 maja odbędzie się gala finałowa konkursu Miss Województwa Łódzkiego.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6daccd0-39a2-4fbe-8ee9-3535fa19a5c4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6daccd0-39a2-4fbe-8ee9-3535fa19a5c4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6daccd0-39a2-4fbe-8ee9-3535fa19a5c4"/>
@@ -1273,11 +1609,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d42a7c22-d932-401d-9bec-29bb8ffe8fe3"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/w-piotrkowie-ruszyl-proces-w-glosnej-sprawie-ogromny-przekret-na-panstwowej-spolce/tqjPv1tD0AlFd9JsTHel ]]></title>
+<title><![CDATA[ W Piotrkowie ruszył proces w głośnej sprawie. Ogromny przekręt na państwowej spółce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-ruszyl-proces-w-glosnej-sprawie-ogromny-przekret-na-panstwowej-spolce/tqjPv1tD0AlFd9JsTHel</link>
 <guid isPermaLink="false">cdd1ad14bb674e19f6fc9b5f3447ae0bf040f5e7</guid>
 <pubDate>Thu, 28 May 2026 15:29:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/da1a994b-0476-48d5-9687-1d3ecdad7a3c" alt="miniatura"/></p><p>To właśnie w Piotrkowie rozstrzygnie się teraz odpowiedzialność osób oskarżonych o udział w procederze, który dotyczył strategicznej dla kraju infrastruktury energetycznej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/da1a994b-0476-48d5-9687-1d3ecdad7a3c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/da1a994b-0476-48d5-9687-1d3ecdad7a3c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/da1a994b-0476-48d5-9687-1d3ecdad7a3c"/>
 </item>
 <item>
 <title><![CDATA[ Niezwykły widok w Piotrkowie. Boisko zmieni się nie do poznania ]]></title>
@@ -1484,7 +1823,7 @@
 <link>https://trybunalski.pl/wiadomosci/mieszkancy-pytaja-o-letnie-koncerty-czy-w-tym-roku-sie-doczekaja/1sZN3iTWaZS9mEHcyEnW</link>
 <guid isPermaLink="false">dede35cc0843fcf61fb0b59ac5eb4a7cb4684302</guid>
 <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/92b73418-5efb-4640-b0fd-732ae62dabd6" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/mieszkancy-pytaja-o-letnie-koncerty-czy-w-tym-roku-sie-doczekaja/1sZN3iTWaZS9mEHcyEnW is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/92b73418-5efb-4640-b0fd-732ae62dabd6" alt="miniatura"/></p><p>Kiedy pogoda dopisuje i przychodzi czas letnich wieczorów wiele osób decyduje się na wypoczynek na świeżym powietrzu. Nadchodzące tygodnie to też okres, w którym wiele imprez plenerowych. Za nami już Święto Gminy Grabica, a także Motofestyn 2026. W Piotrkowie zaś szykują się dni miasta, które jak zwykle odbędą się na placu Kościuszki. W minionych latach letnie koncerty plenerowe w organizowano m.i…</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/92b73418-5efb-4640-b0fd-732ae62dabd6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/92b73418-5efb-4640-b0fd-732ae62dabd6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/92b73418-5efb-4640-b0fd-732ae62dabd6"/>
@@ -1504,7 +1843,7 @@
 <link>https://trybunalski.pl/wiadomosci/czarne-punkty-na-piotrkowskich-osiedlach-mieszkancy-wskazali-policji-konkretne-ulice/hViATQWsLepfiy6tru9o</link>
 <guid isPermaLink="false">2e23ca947eef8649985a6891afa182d2c0adb214</guid>
 <pubDate>Tue, 26 May 2026 12:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8632bbd6-4ed9-49db-b6b6-11bd7c18587d" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/czarne-punkty-na-piotrkowskich-osiedlach-mieszkancy-wskazali-policji-konkretne-ulice/hViATQWsLepfiy6tru9o is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8632bbd6-4ed9-49db-b6b6-11bd7c18587d" alt="miniatura"/></p><p>Krajowa Mapa Zagrożeń Bezpieczeństwa ułatwia Piotrkowianom kontakt z policją. Ta ogólnopolska platforma pozwala obywatelom łatwo i anonimowo zgłaszać niepokojące sytuacje w ich otoczeniu. Każde zaznaczone na mapie miejsce jest następnie weryfikowane przez funkcjonariuszy. Jeśli sygnał się potwierdzi, policjanci podejmują działania zmierzające do eliminacji problemu. Za pomocą mapy mieszkańcy najcz…</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8632bbd6-4ed9-49db-b6b6-11bd7c18587d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8632bbd6-4ed9-49db-b6b6-11bd7c18587d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8632bbd6-4ed9-49db-b6b6-11bd7c18587d"/>
@@ -1544,7 +1883,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wielkie wyróżnienie dla Piotrkowianki.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Łódzkie na talerzu - lokalne produkty i wyjątkowe smaki w Restauracji Szkiełka w Łowiczu</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -1744,7 +2083,7 @@
 <link>https://trybunalski.pl/wiadomosci/strazacy-pokazali-film-spod-piotrkowa-uwazajcie-glownie-o-swicie-i-o-zmroku/4fyrwjElQWzTituQETLM</link>
 <guid isPermaLink="false">f656dbada3d1047b6aff1e2b82bd48598f89b5f3</guid>
 <pubDate>Fri, 22 May 2026 12:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/strazacy-pokazali-film-spod-piotrkowa-uwazajcie-glownie-o-swicie-i-o-zmroku/4fyrwjElQWzTituQETLM is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" alt="miniatura"/></p><p>Do sieci trafiło nagranie zarejestrowane na drogach powiatu piotrkowskiego, które powinno stać się przestrogą dla każdego kierowcy. Na filmie widać skrajnie niebezpieczną sytuację, do jakiej doszło w miejscowości Przygłów, w gminie Sulejów. Z pobliskiego pola, prosto na ruchliwą jezdnię wybiegają dzikie zwierzęta. Wszystko dzieje się w ułamku sekundy, zaledwie kilka metrów przed maską prawidłowo j…</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8b4278ef-4453-4a41-87df-68fdda4a47cc"/>
@@ -1844,7 +2183,7 @@
 <link>https://trybunalski.pl/wiadomosci/nowosc-w-naszym-miescie-mowia-o-skoku-technologicznym/BvTZlDJeFgsS3TsqNzto</link>
 <guid isPermaLink="false">558abf0de060d934367eecb847be924f1e8d5842</guid>
 <pubDate>Thu, 21 May 2026 12:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/751987a1-dfc7-4aea-9da3-cd97811fb542" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/nowosc-w-naszym-miescie-mowia-o-skoku-technologicznym/BvTZlDJeFgsS3TsqNzto is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/751987a1-dfc7-4aea-9da3-cd97811fb542" alt="miniatura"/></p><p>W Piotrkowie pojawiło się unowocześnienie, które ma ułatwić pasażerom MZK podróżowanie po mieście. Jak działa nowa usługa?</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/751987a1-dfc7-4aea-9da3-cd97811fb542" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/751987a1-dfc7-4aea-9da3-cd97811fb542" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/751987a1-dfc7-4aea-9da3-cd97811fb542"/>
@@ -1874,7 +2213,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wielkie wyróżnienie dla Piotrkowianki.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Łódzkie na talerzu - lokalne produkty i wyjątkowe smaki w Restauracji Szkiełka w Łowiczu</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -2360,11 +2699,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8bef89be-b69c-41a4-9384-f188d949c246"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/powietrze-w-piotrkowie-nie-trzyma-norm-kto-nas-najbardziej-truje/yq4ai7pMeW9TuO823bDE ]]></title>
+<title><![CDATA[ Powietrze w Piotrkowie nie trzyma norm. Kto nas najbardziej truje? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/powietrze-w-piotrkowie-nie-trzyma-norm-kto-nas-najbardziej-truje/yq4ai7pMeW9TuO823bDE</link>
 <guid isPermaLink="false">106401ba56b95176f3dd4f234a2e68765d2f38c2</guid>
 <pubDate>Wed, 13 May 2026 19:09:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" alt="miniatura"/></p><p>Piotrków znalazł się wśród najbardziej zanieczyszczonych miast w województwie łódzkim. W najnowszej publikacji Głównego Inspektoratu Ochrony Środowiska dokonano oceny za rok 2025 a także analizy ostatnich 10 lat. Miasto wypada w nich blado. Jest jednym z dwóch z największą liczbą dni rocznie z przekroczeniem stężenia pyłów PM10.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c"/>
 </item>
 <item>
 <title><![CDATA[ Polacy ruszyli do lasu po "zielone złoto". Okazja jest tylko raz w roku, właśnie teraz ]]></title>
@@ -2441,7 +2783,7 @@
 <link>https://trybunalski.pl/wiadomosci/zamkniety-przejazd-w-piotrkowie-do-kiedy-utrudnienia/Q9i8ZA4ZFjdUIj8VtPxA</link>
 <guid isPermaLink="false">35455c32b0315a482f0197817493ecc71b23b65d</guid>
 <pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/zamkniety-przejazd-w-piotrkowie-do-kiedy-utrudnienia/Q9i8ZA4ZFjdUIj8VtPxA is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" alt="miniatura"/></p><p>Uwaga kierowcy! Modernizacja linii kolejowej nr 1 wciąż trwa, co wiąże się z utrudnieniami. Tym razem zmiany w organizacji ruchu zajdą w Piotrkowie Trybunalskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23"/>
@@ -2607,11 +2949,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/poparzeni-kawa-trzy-wystapia-w-naszym-miescie-kiedy-i-gdzie-koncert/KVUshcuBYxB30svhqjGl ]]></title>
+<title><![CDATA[ Poparzeni Kawą Trzy wystąpią w naszym mieście. Kiedy i gdzie koncert? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/poparzeni-kawa-trzy-wystapia-w-naszym-miescie-kiedy-i-gdzie-koncert/KVUshcuBYxB30svhqjGl</link>
 <guid isPermaLink="false">f3c1d0ef41c5c1dba6eed6c2cce8f32531103ab8</guid>
 <pubDate>Mon, 11 May 2026 11:32:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" alt="miniatura"/></p><p>Do święta studentów coraz mniej czasu i poznaliśmy następną z gwiazd, która uświetni to wydarzenie swoim występem. Sprawdź, co wiadomo na temat tegorocznych juwenaliów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741"/>
 </item>
 <item>
 <title><![CDATA[ Aktualizacja: Zaginął młody piotrkowianin. Policja apeluje o pomoc w poszukiwaniach! ]]></title>
@@ -2754,11 +3099,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2eb915f1-8af6-4790-af7b-b62c6b5ee22d"/>
 </item>
 <item>
-<title><![CDATA[ https://trybunalski.pl/wiadomosci/to-xii-wieczne-opactwo-w-lodzkiem-zachwyca-stacjonowal-tu-jagiello-jadac-na-grunwald-foto/bO2TbcvdcMAEzF9lzXzq ]]></title>
+<title><![CDATA[ To XII-wieczne opactwo w Łódzkiem zachwyca. Stacjonował tu Jagiełło, jadąc na Grunwald [FOTO] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-xii-wieczne-opactwo-w-lodzkiem-zachwyca-stacjonowal-tu-jagiello-jadac-na-grunwald-foto/bO2TbcvdcMAEzF9lzXzq</link>
 <guid isPermaLink="false">e0ebabf33aec60e9900ac3e7d4477fd3028993c1</guid>
 <pubDate>Fri, 08 May 2026 11:21:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" alt="miniatura"/></p><p>Opactwo w Sulejowie zostało założone w 1177 roku przez księcia Kazimierza Sprawiedliwego. Cystersi, którzy przybyli z Francji, szybko stali się pionierami nowoczesnej gospodarki, wprowadzając innowacje w rolnictwie, handlu i przemyśle. Jednak opactwo było czymś więcej niż tylko centrum religijnym. W średniowieczu stało się również strategiczną twierdzą i politycznym centrum, które odwiedzali najwy…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5"/>
 </item>
 <item>
 <title><![CDATA[ Podpalił las pod Piotrkowem i próbował uciec? Wszystko nagrała kamera [FILM] ]]></title>
@@ -3209,195 +3557,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d876f0a-5efd-4c60-a91f-aba23eb65701" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d876f0a-5efd-4c60-a91f-aba23eb65701" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d876f0a-5efd-4c60-a91f-aba23eb65701"/>
-</item>
-<item>
-<title><![CDATA[ Wielka akcja policji. W mieście posypią się kary? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielka-akcja-policji-w-miescie-posypia-sie-kary/T0osGEyPgjZ7edfHAt0d</link>
-<guid isPermaLink="false">42dbb30ec8e43a9e3ee270e7c800c2b703f6565e</guid>
-<pubDate>Thu, 30 Apr 2026 14:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/694f4e59-e2c8-402d-8104-fc8576b85daf" alt="miniatura"/></p><p>Od 30 kwietnia do 4 maja policja zapowiada ogólnopolskie działania kontrolne. Funkcjonariusze pojawią się wszędzie tam, gdzie natężenie ruchu będzie największe – od autostrad po drogi dojazdowe do stref wypoczynku. Pod lupą znajdzie się przede wszystkim trzeźwość kierujących oraz przestrzeganie limitów prędkości. Zmotoryzowani mogą więc spodziewać się wzmożonych patroli, również w Piotrkowie i reg…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/694f4e59-e2c8-402d-8104-fc8576b85daf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/694f4e59-e2c8-402d-8104-fc8576b85daf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/694f4e59-e2c8-402d-8104-fc8576b85daf"/>
-</item>
-<item>
-<title><![CDATA[ Płacą nawet 12 tys. zł miesięcznie i nie potrzeba wykształcenia. Jakie są wymgania i kogo szukają? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/placa-nawet-12-tys-zl-miesiecznie-i-nie-potrzeba-wyksztalcenia-jakie-sa-wymgania-i-kogo-szukaja/M7dEFeIYGSLVHOYInqDk</link>
-<guid isPermaLink="false">f39125dc97c4c1d481cdbbda236aa631ec97d29f</guid>
-<pubDate>Thu, 30 Apr 2026 13:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0029f34d-d72f-4ab0-bc3d-155464956b2a" alt="miniatura"/></p><p>Jedna z takich ofert dotyczy pracy w sektorze transportu międzynarodowego. Zakres obowiązków obejmuje prowadzenie pojazdu ciężarowego oraz obsługę dokumentacji przewozowej, co wiąże się z koniecznością przestrzegania przepisów obowiązujących w różnych krajach Unii Europejskiej. Trasy realizowane są zarówno na terenie Polski, jak i poza jej granicami.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0029f34d-d72f-4ab0-bc3d-155464956b2a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0029f34d-d72f-4ab0-bc3d-155464956b2a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0029f34d-d72f-4ab0-bc3d-155464956b2a"/>
-</item>
-<item>
-<title><![CDATA[ Gwiazdy polskiej i zagranicznej sceny muzycznej wystąpią w Łódzkiem. Bilety znikają z dnia na dzień! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazdy-polskiej-i-zagranicznej-sceny-muzycznej-wystapia-w-lodzkiem-bilety-znikaja-z-dnia-na-dzien/3SpHfTwFv8VkkRfLBPc7</link>
-<guid isPermaLink="false">c98c4099b6e2e51ef736233ad7fb809468aab38c</guid>
-<pubDate>Thu, 30 Apr 2026 13:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62653336-4690-4645-a464-ec65a1fa16b4" alt="miniatura"/></p><p>Łódź i województwo łódzkie zamieniają się w maju w jedną wielką scenę. Od bardów i poezji śpiewanej, przez jazz i muzykę klasyczną, po hip-hop i amerykański pop. Każdy znajdzie tu coś dla siebie. Oto przewodnik po najważniejszych koncertach miesiąca w woj. łódzkim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62653336-4690-4645-a464-ec65a1fa16b4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62653336-4690-4645-a464-ec65a1fa16b4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62653336-4690-4645-a464-ec65a1fa16b4"/>
-</item>
-<item>
-<title><![CDATA[ Burgerownia w Sulejowie zasługuje na tak wysokie opinie? Książulo wydał werdykt na YouTubie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/burgerownia-w-sulejowie-zasluguje-na-tak-wysokie-opinie-ksiazulo-wydal-werdykt-na-youtubie/28L38eTI131ALlSxIZvF</link>
-<guid isPermaLink="false">b3740fa30d9326a7e44ff08547fb8d0c3da5e4d3</guid>
-<pubDate>Sat, 21 Feb 2026 11:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" alt="miniatura"/></p><p>W środę, 18 lutego do Sulejowa przyjechał jeden z najpopularniejszych Youtuberów kulinarnych w Polsce. Do wizyty namówili go jego obserwujący, którzy od lat wspominali FOX Burger w Sulejowie, jako miejsce warte odwiedzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478"/>
-</item>
-<item>
-<title><![CDATA[ Burgerownia w Sulejowie zasługuje na tak wysokie opinie? Książulo wydał werdykt na YouTubie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/burgerownia-w-sulejowie-zasluguje-na-tak-wysokie-opinie-ksiazulo-ocenil-ich-smak-na-youtubie/28L38eTI131ALlSxIZvF</link>
-<guid isPermaLink="false">c959a0e85d5673d0de4e604bf03f15419776c497</guid>
-<pubDate>Sat, 21 Feb 2026 11:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" alt="miniatura"/></p><p>W środę, 18 lutego do Sulejowa przyjechał jeden z najpopularniejszych Youtuberów kulinarnych w Polsce. Do wizyty namówili go jego obserwujący, którzy od lat wspominali FOX Burger w Sulejowie, jako miejsce warte odwiedzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47319f7c-3b31-480e-b5e2-9496d831f478"/>
-</item>
-<item>
-<title><![CDATA[ GIS wydał alert w sprawie popularnego produktu spożywczego. Mógł być dostępny również w naszym mieście ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-wydal-alert-w-sprawie-popularnego-produktu-spozywczego-mogl-byc-dostepny-rowniez-w-naszym-miescie/P7XEx3Fx0YCyRN1CBBzD</link>
-<guid isPermaLink="false">da00ab8e682de4eab3b12910e9882ec6b4d4e47c</guid>
-<pubDate>Sat, 21 Feb 2026 09:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" alt="miniatura"/></p><p>Główny Inspektor Sanitarny wydał oficjalne ostrzeżenie publiczne dotyczące produktu spożywczego powszechnie używanego w polskich domach. Problem dotyczy nieprawidłowego oznakowania alergenu, który faktycznie znajdował się w składzie, ale nie został ujawniony na opakowaniu. W praktyce oznacza to, że osoby cierpiące na alergię na pszenicę lub nietolerancję glutenu mogły nieświadomie narazić swoje zd…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/534673f3-2000-4d59-8176-50f9d5e9777e"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkaniec powiatu piotrkowskiego świętuje 100. urodziny! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkaniec-powiatu-piotrkowskiego-swietuje-100-urodziny/RtqA9vlnkMbSnlr0Jonw</link>
-<guid isPermaLink="false">92f8f9fe6fb8882eee3bd37767f37b2b292d0650</guid>
-<pubDate>Fri, 20 Feb 2026 16:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" alt="miniatura"/></p><p>Pan Zygmunt Nowak przyszedł na świat 26 stycznia 1926 roku w Jeżowie. Jako młody chłopak uczęszczał do lokalnej szkoły, a po zakończeniu II wojny światowej kontynuował naukę w szkole w Rozprzy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6200d60d-b607-4e4f-82ab-73ab38ef3ad4"/>
-</item>
-<item>
-<title><![CDATA[ Sebastian M. przed sądem w Piotrkowie Trybunalskim. Rodzina ofiar zabrała głos ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sebastian-m-przed-sadem-w-piotrkowie-trybunalskim-rodzina-ofiar-zabrala-glos/UKGM1E6rNcXpRXGOTCyf</link>
-<guid isPermaLink="false">e200b264b6c6badc881b66c7be750c3b16197e5a</guid>
-<pubDate>Fri, 20 Feb 2026 16:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" alt="miniatura"/></p><p>W piątek, 20 lutego odbyła się kolejna rozprawa w procesie Sebastiana M. oskarżonego o spowodowanie śmiertelnego wypadku na A1, w którym zginęła trzyosobowa rodzina. W Sądzie Rejonowym w Piotrkowie Trybunalskim zeznawali dziś następni strażacy, którzy interweniowali feralnej nocy. Oskarżonemu grozi do 8 lat pozbawienia wolności. Rodzina ofiar wydała podczas rozprawy oświadczenie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/463b9231-0702-47c8-a7df-217e3e94d771"/>
-</item>
-<item>
-<title><![CDATA[ O krok od tragedii. Na ratunek kobiecie ruszyli policjanci z Gorzkowic i jej sąsiadka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/kobieta-lezala-na-ziemi-i-trzesla-z-zimna-przed-wychlodzeniem-uratowala-ja-sasiadka-i-policja/uQD8fjgE2yGt6c9o0DAI</link>
-<guid isPermaLink="false">2855d54b5c0a79e72de15977b28b9fa88a760680</guid>
-<pubDate>Fri, 20 Feb 2026 12:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" alt="miniatura"/></p><p>14 lutego 2026 roku, dzielnicowy asp. szt. Waldemar Kozłowski oraz st. post. Przemysław Turek zostali wezwani do jednego z domów w Rozprzy, gdzie miała przebywa koieta wołająca o pomoc.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9296438e-535f-4c24-bd26-5a0cca6b7d8e"/>
-</item>
-<item>
-<title><![CDATA[ Urząd w Piotrkowie szuka pracowników. Znamy kwoty wynagrodzeń ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-szuka-pracownikow-znamy-kwoty-wynagrodzen/DerhiQcbNsh0HJpAsEEj</link>
-<guid isPermaLink="false">266421a7bb63006f4b9117f535271524c3fdb861</guid>
-<pubDate>Fri, 20 Feb 2026 10:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603" alt="miniatura"/></p><p>W ramach tego stanowiska, pracownik będzie odpowiedzialny za prowadzenie analiz terenowo-prawnych, środowiskowych i krajobrazowych w kontekście wprowadzania rozwiązań z zakresu zielono-niebieskiej infrastruktury. Do jego zadań należy również uczestnictwo w realizacji Miejskiego Planu Adaptacji do zmian klimatu, szczególnie w zakresie gospodarowania wodami opadowymi i zielenią miejską. Kandydat będ…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f968db17-572e-49c1-aa64-34e72c23d603"/>
-</item>
-<item>
-<title><![CDATA[ Pożar samochodu w Sulejowie. Znamy przyczyny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-samochodu-w-sulejowie-znamy-przyczyny/DGnUegGpw7f9PiNdvQFh</link>
-<guid isPermaLink="false">7e4c4ca3c0039b71eca795945e796c5fbc29a375</guid>
-<pubDate>Fri, 20 Feb 2026 09:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" alt="miniatura"/></p><p>Na ulicy Koneckiej w Sulejowie w ogniu stanął pojazd osobowy. Służby otrzymały zgłoszenie o pożarze ok. godz. 17:30.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/657866ed-e0a2-43e5-8ac3-a48247898444"/>
-</item>
-<item>
-<title><![CDATA[ Bezpieczeństwo czy zbędny wydatek? Spór o żółte światło w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/bezpieczenstwo-czy-zbedny-wydatek-spor-o-zolte-swiatlo-w-piotrkowie/fecVNUHZa7yKtcBi77jg</link>
-<guid isPermaLink="false">e1e030f1052cb2641902614abe6bc251f91c4598</guid>
-<pubDate>Thu, 19 Feb 2026 16:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/37c4895f-95b3-4648-8cb6-afcdebf6b0d2" alt="miniatura"/></p><p>Kosztowne „mruganie” czy gwarancja bezpieczeństwa? Chodzi o jedną z sygnalizacji na terenie Piotrkowa, która nadaje żółte, ostrzegawcze światło. Mieszkańcy zadają sobie pytanie, czy urządzenie tyle czasu jest zepsute? Sprawdzamy, jak to jest ze światłami na skrzyżowaniu ul. Słowackiego i Zamenhofa.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/37c4895f-95b3-4648-8cb6-afcdebf6b0d2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/37c4895f-95b3-4648-8cb6-afcdebf6b0d2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/37c4895f-95b3-4648-8cb6-afcdebf6b0d2"/>
-</item>
-<item>
-<title><![CDATA[ Fatalny finał walentynek pod Piotrkowem. Cela zamiast randki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/fatalny-final-walentynek-pod-piotrkowem-cela-zamiast-randki/6FQ3gEgDhYgbh62tAi8x</link>
-<guid isPermaLink="false">88be3cbc5486ba773d7e83f41a95b941bdd1cf9d</guid>
-<pubDate>Thu, 19 Feb 2026 13:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/593f700b-1a9e-4ffa-bff8-de7d8d231f3f" alt="miniatura"/></p><p>Wszystko działo się 14 lutego 2026 roku na terenie powiatu piotrkowskiego. Dzielnicowy z Komisariatu Policji w Gorzkowicach aspirant sztabowy Waldemar Kozłowski oraz funkcjonariusze Wydziału Ruchu Drogowego otrzymali zgłoszenie o mężczyźnie w kryzysie emocjonalnym. Taką informację przekazała mundurowym partnerka 34-latka. Policjanci ruszyli do Woli Niechcickiej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/593f700b-1a9e-4ffa-bff8-de7d8d231f3f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/593f700b-1a9e-4ffa-bff8-de7d8d231f3f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/593f700b-1a9e-4ffa-bff8-de7d8d231f3f"/>
-</item>
-<item>
-<title><![CDATA[ Tego jeszcze nie było. W Piotrkowie zagrają mecz… po ciemku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tego-jeszcze-nie-bylo-w-piotrkowie-zagraja-mecz-po-ciemku/K6W1gmIDGRZI7G8uSolR</link>
-<guid isPermaLink="false">a79ea654b0aceae63616240d20780ae3303b372d</guid>
-<pubDate>Thu, 19 Feb 2026 12:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/332f8b55-5b14-4561-8072-afa6d4819ed7" alt="miniatura"/></p><p>Entuzjaści sportowych wydarzeń z Piotrkowa mogą spodziewać się meczu koszykówki, ale w nietypowym wydaniu. Po raz pierwszy w naszym mieście odbędzie się spotkanie rozgrywane po ciemku. Mecz rozegrany niemal w całkowitej ciemności, rozświetlany będzie jedynie przez fluorescencyjne elementy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/332f8b55-5b14-4561-8072-afa6d4819ed7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/332f8b55-5b14-4561-8072-afa6d4819ed7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/332f8b55-5b14-4561-8072-afa6d4819ed7"/>
-</item>
-<item>
-<title><![CDATA[ Książulo odwiedził Sulejów. Youtuber testował lokalne burgery ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ksiazulo-odwiedzil-sulejow-youtuber-testowal-lokalne-burgery/tWrGXomGGiAwR6bQAELm</link>
-<guid isPermaLink="false">a7889eb585e94a1c2df1c51453dc8f47cddf6e28</guid>
-<pubDate>Thu, 19 Feb 2026 12:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4" alt="miniatura"/></p><p>Burgerownia FOX Burger, która znajduje się w Sulejowie, opublikowała na Facebooku zdjęcie z informacją, że w środę mieli niezapowiedzianą wizytę znanego Youtubera o pseudonimie Książulo .</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/67f7cf36-8d8c-4bbf-a2c9-d5eb104580b4"/>
-</item>
-<item>
-<title><![CDATA[ Ceny ciepła w mieście spadną? Zapowiedziano ogromną inwestycję ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ceny-ciepla-w-miescie-spadna-zapowiedziano-ogromna-inwestycje/02gBEZNlyjCdJSlaBGBM</link>
-<guid isPermaLink="false">529e57e0ae79752263d97284f638bb004e268cbb</guid>
-<pubDate>Thu, 19 Feb 2026 11:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" alt="miniatura"/></p><p>Budowa układu kogeneracyjego planowana była w Piotrkowie już w 2019 roku. Dotychczas nie zostały jednak podjęte ostateczne decyzje co do realizacji tej inwestycji zarówno przez piotrkowski urząd, jak i elektrociepłownię.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ad6402ad-a1dd-4c83-bb59-c39bc5e85e0d"/>
-</item>
-<item>
-<title><![CDATA[ Jest kasa dla Piotrkowian. Program obejmie 550 osób ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-kasa-dla-piotrkowian-program-obejmie-550-osob/HVPZHWSIIjB5oORV9kga</link>
-<guid isPermaLink="false">dc27a295e5c34a587ad66f6c429236ef4ff77413</guid>
-<pubDate>Thu, 19 Feb 2026 11:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" alt="miniatura"/></p><p>Ruszyła kolejna edycja programu „Młodzi zawodowcy”. To okazja dla uczniów szkół na terenie województwa łódzkiego, by zdobyć stypendia. Pieniądze mogą przeznaczyć na sprzęt komputerowy czy materiały wspomagające w nauce. W ubiegłym roku szkolnym z programu Urzędu Marszałkowskiego Województwa Łódzkiego skorzystało 550 osób. Jakie warunki trzeba spełnić, by otrzymać stypendium?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e69fc7a0-2804-412b-adff-524f5f918dbd"/>
-</item>
-<item>
-<title><![CDATA[ Auchan apeluje do klientów: oddajcie ten zakup. Może być niebezpieczny dla zdrowia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/auchan-apeluje-do-klientow-oddajcie-ten-towar-moze-byc-niebezpieczny-dla-zdrowia/HazEZawVKQTAqVu5XpAR</link>
-<guid isPermaLink="false">40f86fa88d01853799eb8044d31ebc4d51b3f5e6</guid>
-<pubDate>Wed, 18 Feb 2026 18:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" alt="miniatura"/></p><p>Powodem wycofania jest podejrzenie obecności odłamków szkła wewnątrz opakowań pochodzących z określonej partii. Tego rodzaju zanieczyszczenie stanowi bezpośrednie zagrożenie dla zdrowia i może doprowadzić do poważnych obrażeń w przypadku spożycia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/392a3b34-392b-4d65-a811-7314365a4c56"/>
-</item>
-<item>
-<title><![CDATA[ Striptizerzy i skandal na balu walentynkowym. Szkoła zabiera głos w sprawie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/striptizerzy-i-skandal-na-balu-walentynkowym-szkola-zabiera-glos-w-sprawie/AEmgSxrAxAiTpeNz4SFd</link>
-<guid isPermaLink="false">184a1e4b6e121dc062c1e00ab2847c5aa8a84ee3</guid>
-<pubDate>Wed, 18 Feb 2026 15:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" alt="miniatura"/></p><p>Za nami czas karnawału, który obfituje w wiele wydarzeń o charakterze rozrywkowym. Po drodze przypadło także święto zakochanych, z okazji którego również organizowane są imprezy. Jedna z nich nie przeszła bez echa. Chodzi o bal karnawałowo-walentykowy, który odbył się 14 lutego w OSP Żywocin. Emocje zaś wywołał film, który pojawił się w mediach społecznościowych. Przedstawia on striptizerów, którz…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6752855f-ab73-4ab5-8441-17065af139cb"/>
 </item>
 </channel></rss>
