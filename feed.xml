@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 19 Jun 2026 00:02:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 05:23:16 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Jest praca w naszym mieście. Poszukują inspektora ]]></title>
@@ -3279,14 +3279,11 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6578a813-e06a-493f-b6e2-66c910cb330f"/>
 </item>
 <item>
-<title><![CDATA[ Jechał „na podwójnym gazie”, ale to nie wszystko. Kierowca wpadł w ręce policji ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/jechal-na-podwojnym-gazie-ale-to-nie-wszystko-kierowca-wpadl-w-rece-policji/aHnP4ylK6U8C3fhhN85M ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-na-podwojnym-gazie-ale-to-nie-wszystko-kierowca-wpadl-w-rece-policji/aHnP4ylK6U8C3fhhN85M</link>
 <guid isPermaLink="false">8bc413fc0d13736d6894346c8d470f26412a6e39</guid>
 <pubDate>Wed, 06 May 2026 12:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/341bacd2-3723-451b-8342-ab77159ac816" alt="miniatura"/></p><p>W trakcie majówki na terenie powiatu piotrkowskiego można było zobaczyć więcej patroli policyjnych. Służby prowadziły wzmożone działania, które miały na celu zwiększenie bezpieczeństwa oraz eliminowanie z ruchu kierujących, którzy stwarzają zagrożenie dla innych uczestników dróg. Jak się okazuje, 6 osób prowadziło pojazdy bez wymaganych uprawnień. Zatrzymano 25 dowodów rejestracyjnych, w tym aż 14…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/341bacd2-3723-451b-8342-ab77159ac816" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/341bacd2-3723-451b-8342-ab77159ac816" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/341bacd2-3723-451b-8342-ab77159ac816"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ W Piotrkowie stanie wielki jarmark. Co tam znajdziemy? ]]></title>
@@ -3329,14 +3326,11 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/89c4d271-2e67-48ea-ad43-389eb183d90a"/>
 </item>
 <item>
-<title><![CDATA[ Matura 2026 w Piotrkowie. Ilu uczniów podchodzi do egzaminów? ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/matura-2026-w-piotrkowie-ilu-uczniow-podchodzi-do-egzaminow/hDwHch3Pk3txNAmlRicY ]]></title>
 <link>https://trybunalski.pl/wiadomosci/matura-2026-w-piotrkowie-ilu-uczniow-podchodzi-do-egzaminow/hDwHch3Pk3txNAmlRicY</link>
 <guid isPermaLink="false">8546a1671ba01fdc83e74cefbabb1bc72daf05be</guid>
 <pubDate>Tue, 05 May 2026 11:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7f0619f6-c5ba-475e-b1c2-e7e69d4b44e1" alt="miniatura"/></p><p>W poniedziałek, 4 maja, w salach piotrkowskich szkół ponadpodstawowych rozpoczęły się egzaminy maturalne. Zgodnie z tradycją, na pierwszy ogień poszedł język polski na poziomie podstawowym – obowiązkowy dla wszystkich tegorocznych zdających. Egzamin ruszył punktualnie o godzinie 9:00.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f0619f6-c5ba-475e-b1c2-e7e69d4b44e1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f0619f6-c5ba-475e-b1c2-e7e69d4b44e1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7f0619f6-c5ba-475e-b1c2-e7e69d4b44e1"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy Piotrkowa, którzy odeszli w ostatnim czasie [NEKROLOGI] ]]></title>
