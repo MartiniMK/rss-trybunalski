@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 19 Jun 2026 23:17:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 04:31:47 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Obława pod hotelem w Piotrkowie Trybunalskim. Zatrzymano podejrzanego o głośny napad ]]></title>
@@ -109,16 +109,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -127,6 +117,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
