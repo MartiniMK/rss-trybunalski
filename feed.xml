@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 25 Jun 2026 11:56:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 15:00:21 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek w Piotrkowie. Kobieta z impetem uderzyła w drzewo, dwie osoby ranne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
+<guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
+<pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>ŁKA rusza z wakacyjną promocją.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Thu, 25 Jun 2026 15:00:21 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wypadek w Piotrkowie. Kobieta z impetem uderzyła w drzewo, dwie osoby ranne</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ ŁKA rusza z wakacyjną promocją. Piotrkowianie „zostają na bocznym torze” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/lka-rusza-z-wakacyjna-promocja-piotrkowianie-zostaja-na-bocznym-torze/3am3zcYVA05baK76nwKH</link>
+<guid isPermaLink="false">251a184b6e70674f5a5bfd9ae9dc0ff38ef2c431</guid>
+<pubDate>Thu, 25 Jun 2026 14:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" alt="miniatura"/></p><p>Łódzka Kolej Aglomeracyjna wprowadziła ofertę „Wakacyjny weekend z ŁKA”, która obowiązuje w każdy weekend wakacyjny od 27 czerwca do 30 sierpnia. Pasażerowie kupujący bilety jednorazowe mogą liczyć na 10-procentową zniżkę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33"/>
+</item>
 <item>
 <title><![CDATA[ Uwaga kierowcy! Dojazd do szpitala utrudniony! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-dojazd-do-szpitala-utrudniony/ST21APIt2Go2zUDi21Xm</link>
@@ -27,16 +57,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bea17d0-c920-4e2a-b4d5-12911f082aa7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bea17d0-c920-4e2a-b4d5-12911f082aa7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bea17d0-c920-4e2a-b4d5-12911f082aa7"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 25 Jun 2026 11:56:09 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Uwaga kierowcy! Dojazd do szpitala utrudniony!</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektor muzeum w Piotrkowie zrezygnował. Kto go zastąpi? ]]></title>
@@ -93,7 +113,7 @@
 <link>https://trybunalski.pl/wiadomosci/ile-kosztuja-bilety-na-baseny-letnie-w-piotrkowie-sezon-rusza-juz-w-sobote/zX7hQKQgqa0NHeGteilQ</link>
 <guid isPermaLink="false">6ddf11d243803fb1378490eb5d629900b526efdd</guid>
 <pubDate>Wed, 24 Jun 2026 12:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6fdd992-bd96-459d-8bf6-33fbf28f5acc" alt="miniatura"/></p><p>Jednodniowy bilet normalny na kompleks basenów przy ulicy Żwirki kosztuje 20 zł. Osoby posiadające aktywną Piotrkowską Kartę Mieszkańca zapłacą 15 zł.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6fdd992-bd96-459d-8bf6-33fbf28f5acc" alt="miniatura"/></p><p>Ośrodek Sportu i Rekreacji w Piotrkowie Trybunalskim opublikował obowiązujący cennik wejść na Kompleks Basenów Letnich przy ul. Żwirki 8. Bilety obowiązują na cały dzień, jednak bez możliwości opuszczania obiektu i ponownego wejścia.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6fdd992-bd96-459d-8bf6-33fbf28f5acc" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6fdd992-bd96-459d-8bf6-33fbf28f5acc" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6fdd992-bd96-459d-8bf6-33fbf28f5acc"/>
@@ -183,7 +203,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Uwaga kierowcy! Dojazd do szpitala utrudniony!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>ŁKA rusza z wakacyjną promocją.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2273,7 +2293,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Uwaga kierowcy! Dojazd do szpitala utrudniony!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>ŁKA rusza z wakacyjną promocją.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2603,7 +2623,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Uwaga kierowcy! Dojazd do szpitala utrudniony!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>ŁKA rusza z wakacyjną promocją.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3567,25 +3587,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4f3d62-50fc-43a0-b55b-a68b39129202" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4f3d62-50fc-43a0-b55b-a68b39129202" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4f3d62-50fc-43a0-b55b-a68b39129202"/>
-</item>
-<item>
-<title><![CDATA[ Zamykają przejazd kolejowy. Utrudnienia dla kierowców w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zamykaja-przejazd-kolejowy-utrudnienia-dla-kierowcow-w-piotrkowie/8Yvl0dGuckwZ7YLtSe2A</link>
-<guid isPermaLink="false">efa2b15a605400fde53f0442decc042dda6a1c3c</guid>
-<pubDate>Thu, 07 May 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/66e9b2fb-2d4a-4e2a-b25e-1687dee80a61" alt="miniatura"/></p><p>Kierowcy mogą spodziewać się utrudnień na ulicach miasta. Jak się okazuje, jeden z przejazdów kolejowych zostanie zamknięty. Ma to związek z trwającym remontem linii kolejowej nr 1. Wiadomo, do kiedy planowo ma potrwać zmiana.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/66e9b2fb-2d4a-4e2a-b25e-1687dee80a61" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/66e9b2fb-2d4a-4e2a-b25e-1687dee80a61" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/66e9b2fb-2d4a-4e2a-b25e-1687dee80a61"/>
-</item>
-<item>
-<title><![CDATA[ Sąd Okręgowy w Piotrkowie Trybunalskim szuka pracowników. Można zarobić ponad 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sad-okregowy-w-piotrkowie-trybunalskim-szuka-pracownikow-mozna-zarobic-ponad-8-tys-zl/oO2OCs0cmsZBKVuhadFM</link>
-<guid isPermaLink="false">66cbaebe0bcf7abcd6516bc1208e06e717dc3932</guid>
-<pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" alt="miniatura"/></p><p>Pierwsza z ofert dotyczy zatrudnienia w pełnym wymiarze, w systemie jednozmianowym. Wynagrodzenie zasadnicze ustalono na poziomie minimum 8 000 zł brutto miesięcznie. Pracodawcą jest Sąd Okręgowy w Piotrkowie Trybunalskim, a miejscem wykonywania pracy – Opiniodawczy Zespół Sądowych Specjalistów (OZSS), działający przy sądzie, z siedzibą przy ul. Juliusza Słowackiego 5.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8a85c95a-8950-48d7-b412-d448724462d7"/>
 </item>
 </channel></rss>
