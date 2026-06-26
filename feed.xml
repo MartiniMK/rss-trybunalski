@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 26 Jun 2026 12:29:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 15:38:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Fri, 26 Jun 2026 15:38:35 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem i nie potrzeba klimatyzacji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tak-przetrwasz-upalna-noc-prosty-trik-z-mokrym-recznikiem-i-nie-potrzeba-klimatyzacji/msJfeiztPdBnoEhEz7dk</link>
+<guid isPermaLink="false">fef47e5d753f273d73609fddd75fb62aae548ec5</guid>
+<pubDate>Fri, 26 Jun 2026 15:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" alt="miniatura"/></p><p>Jednym z nich jest metoda z wilgotnym ręcznikiem, którą opisuje RMF FM, powołując się na wypowiedź eksperta firmy Best Heating. Choć nie zastąpi ona klimatyzatora, w sprzyjających warunkach może poprawić komfort podczas gorących nocy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53"/>
+</item>
+<item>
+<title><![CDATA[ Gigant rekrutuje w naszym mieście. Dostępne trzy stanowiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-rekrutuje-w-naszym-miescie-dostepne-trzy-stanowiska/xFD22JUtIjDAgh7Nfwth</link>
+<guid isPermaLink="false">5a6ed14aead399003c045f59e93e613a85258e8f</guid>
+<pubDate>Fri, 26 Jun 2026 14:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" alt="miniatura"/></p><p>Znana platforma e-commerce prowadzi nabór do swojego centrum dystrybucyjnego przy piotrkowskim węźle S8. Sprawdziliśmy szczegóły trwającej rekrutacji. Dowiedz się, jakie warunki i benefity spółka oferuje przyszłym pracownikom oraz jakie wymagania stawia kandydatom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854"/>
+</item>
 <item>
 <title><![CDATA[ Mało osób wie o tym zamku w naszym powiecie. Jest kasa na remont ]]></title>
 <link>https://trybunalski.pl/wiadomosci/malo-osob-wie-o-tym-zamku-w-naszym-powiecie-jest-kasa-na-remont/LzrtkPm7U9dUlAxBd8jg</link>
@@ -27,16 +57,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e1e7309-3d7a-4ba0-b88c-634de38e3489" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e1e7309-3d7a-4ba0-b88c-634de38e3489" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2e1e7309-3d7a-4ba0-b88c-634de38e3489"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Fri, 26 Jun 2026 12:29:28 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Mało osób wie o tym zamku w powiecie piotrkowskim. Jest kasa na remont</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Pijany kierowca zabił dwie kobiety. Sąd w Piotrkowie zadecydował ]]></title>
@@ -123,7 +143,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Mało osób wie o tym zamku w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -303,7 +323,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Mało osób wie o tym zamku w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -569,16 +589,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -587,6 +597,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2393,7 +2413,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Mało osób wie o tym zamku w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2549,16 +2569,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
-<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
-</item>
-<item>
 <title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
 <guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
@@ -2567,6 +2577,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
+</item>
+<item>
+<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
+<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -2723,7 +2743,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Mało osób wie o tym zamku w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3587,35 +3607,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/46b19408-0c77-43c3-a4f4-a01751a11465" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/46b19408-0c77-43c3-a4f4-a01751a11465" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/46b19408-0c77-43c3-a4f4-a01751a11465"/>
-</item>
-<item>
-<title><![CDATA[ Uwaga kierowcy, autostrada A1 zablokowana! W ogniu stanęła ciężarówka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-autostrada-a1-zablokowana-w-ogniu-stanela-ciezarowka/hGz55l6dDUVUX8y0sTMV</link>
-<guid isPermaLink="false">2c301ed5cffa74f1d900249ef2b5ea910516951a</guid>
-<pubDate>Fri, 08 May 2026 12:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae1346ba-b08d-4468-9987-983ba74cc3b5" alt="miniatura"/></p><p>Autostrada A1 jest zablokowana.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae1346ba-b08d-4468-9987-983ba74cc3b5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae1346ba-b08d-4468-9987-983ba74cc3b5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae1346ba-b08d-4468-9987-983ba74cc3b5"/>
-</item>
-<item>
-<title><![CDATA[ Motoryzacyjne święto regionu wraca! Sprawdź program i kto wystąpi podczas 14. Motofestynu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/motoryzacyjne-swieto-regionu-wraca-sprawdz-program-i-kto-wystapi-podczas-14-motofestynu/4gHr5FrNoQ1X4OYk4RCW</link>
-<guid isPermaLink="false">c1633fb2d965579b579b3cf47320dfefa9fcfc65</guid>
-<pubDate>Fri, 08 May 2026 12:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2eb915f1-8af6-4790-af7b-b62c6b5ee22d" alt="miniatura"/></p><p>Motofestyn to już tradycja w powiecie piotrkowskim. Wydarzenie co roku zrzesza fanów motoryzacyjnych wrażeń z naszej okolicy i nie tylko. Podczas imprezy można zobaczyć najróżniejsze samochody i motocykle w akcji, ale też skorzystać z atrakcji towarzyszących i posłuchać występów artystów na żywo. Wiadomo już, czego można spodziewać się w trakcie tegorocznej edycji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2eb915f1-8af6-4790-af7b-b62c6b5ee22d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2eb915f1-8af6-4790-af7b-b62c6b5ee22d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2eb915f1-8af6-4790-af7b-b62c6b5ee22d"/>
-</item>
-<item>
-<title><![CDATA[ To XII-wieczne opactwo w Łódzkiem zachwyca. Stacjonował tu Jagiełło, jadąc na Grunwald [FOTO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-xii-wieczne-opactwo-w-lodzkiem-zachwyca-stacjonowal-tu-jagiello-jadac-na-grunwald-foto/bO2TbcvdcMAEzF9lzXzq</link>
-<guid isPermaLink="false">e0ebabf33aec60e9900ac3e7d4477fd3028993c1</guid>
-<pubDate>Fri, 08 May 2026 11:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" alt="miniatura"/></p><p>Opactwo w Sulejowie zostało założone w 1177 roku przez księcia Kazimierza Sprawiedliwego. Cystersi, którzy przybyli z Francji, szybko stali się pionierami nowoczesnej gospodarki, wprowadzając innowacje w rolnictwie, handlu i przemyśle. Jednak opactwo było czymś więcej niż tylko centrum religijnym. W średniowieczu stało się również strategiczną twierdzą i politycznym centrum, które odwiedzali najwy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb7b8ff6-9f37-482c-a4db-e5d907266ac5"/>
 </item>
 </channel></rss>
