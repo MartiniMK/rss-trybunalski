@@ -6,14 +6,34 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 27 Jun 2026 05:10:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 08:05:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Piotrcovia zakontraktowała szóstą nową zawodniczkę! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/piotrcovia-zakontraktowala-szosta-nowa-zawodniczke/fISwhLZSXLnWZx5JFJK4</link>
+<guid isPermaLink="false">6a0780f4d3fb9eb3e199bb9960ce81468ea9de04</guid>
+<pubDate>Sat, 27 Jun 2026 09:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1fd48a6d-505f-4400-a47b-f917ca5107b8" alt="miniatura"/></p><p>Aleksandra Zimny pochodzi ze Szczecina i to właśnie w miejscowej Pogoni rozpoczynała swoją przygodę z piłką ręczną. W latach 2013-2017 reprezentowała ten klub w ekstraklasie i europejskich pucharach. Potem zdecydowała się na wyjazd zagraniczny i przez trzy lata grała w Norwegii, broniąc barw klubów takich jak Storhamar HE i Volda Handball. W 2020 roku zdecydowała się na powrót do Polski i przenios…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fd48a6d-505f-4400-a47b-f917ca5107b8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fd48a6d-505f-4400-a47b-f917ca5107b8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1fd48a6d-505f-4400-a47b-f917ca5107b8"/>
+</item>
+<item>
+<title><![CDATA[ Kino samochodowe, skwer cytrynowy czy nowy parking? Wielka lista potrzeb Piotrkowian ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kino-samochodowe-skwer-cytrynowy-czy-wielki-parking-wielka-lista-potrzeb-piotrkowian/3jJ5HufmNAkFuVyprauu</link>
+<guid isPermaLink="false">db960df12378e5fc6a639cfb9ccc151e1b4854a3</guid>
+<pubDate>Sat, 27 Jun 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b8857b07-f6ae-4bba-adfa-1ae4280bfdd6" alt="miniatura"/></p><p>Nowe boiska, parking czy mikrolas w mieście. To tylko niektóre z inwestycji, które mogą powstać w Piotrkowie. Wszystko za sprawą tegorocznej edycji budżetu obywatelskiego. Piotrkowianie zgłosili w sumie 30 różnorodnych projektów. Teraz zostaną one zweryfikowane i poddane ocenie. Dopiero wtedy opublikowana będzie lista inwestycji do głosowania. Sprawdzamy, czego brakuje mieszkańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8857b07-f6ae-4bba-adfa-1ae4280bfdd6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8857b07-f6ae-4bba-adfa-1ae4280bfdd6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8857b07-f6ae-4bba-adfa-1ae4280bfdd6"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sat, 27 Jun 2026 05:10:25 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Dni Tomaszowa 2026. O której koncert Zenka, Happysad i Fun Factory? [HARMONOGRAM]</p> ]]></description>
+<pubDate>Sat, 27 Jun 2026 08:05:30 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem! Kolejna reprezentantka w ekipie</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -193,7 +213,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Sąd w Piotrkowie szuka pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -373,7 +393,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Sąd w Piotrkowie szuka pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -639,16 +659,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -657,6 +667,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2463,7 +2483,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Sąd w Piotrkowie szuka pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2619,16 +2639,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
-<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
-</item>
-<item>
 <title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
 <guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
@@ -2637,6 +2647,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
+</item>
+<item>
+<title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
+<guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" alt="miniatura"/></p><p>Przedsiębiorcy i rolnicy, którzy w drugiej połowie 2024 roku korzystali z maksymalnej ceny energii elektrycznej, mają coraz mniej czasu na dopełnienie ważnego obowiązku. Sprawa dotyczy tych odbiorców, którym prąd rozliczano według stawki 693 zł za MWh.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -2793,7 +2813,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Sąd w Piotrkowie szuka pracowników.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3597,25 +3617,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/580b22c9-1337-4915-8010-1b291916149a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/580b22c9-1337-4915-8010-1b291916149a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/580b22c9-1337-4915-8010-1b291916149a"/>
-</item>
-<item>
-<title><![CDATA[ Powiatowy Dzień Strażaka w Grabicy. Tak powiat piotrkowski dziękował strażakom za służbę [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powiatowy-dzien-strazaka-w-grabicy-tak-powiat-piotrkowski-dziekowal-strazakom-za-sluzbe-zdjecia/oFwfmxrGmxo1FjuiAPR6</link>
-<guid isPermaLink="false">564de26f30000f7daf209f74d11be06e69c65f1c</guid>
-<pubDate>Sat, 09 May 2026 16:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bb8f1299-e69f-4577-9af1-7474509917ea" alt="miniatura"/></p><p>W sobotę, 9 maja, w Grabicy świętowano Powiatowy Dzień Strażaka. Uroczystości rozpoczęły się o godzinie 12:00 mszą świętą w kościele pw. św. Piotra i Pawła, gdzie zgromadzeni modlili się w intencji druhów i ich rodzin. Następnie, godzinę później, wydarzenie przeniosło się na plac przy Ochotniczej Straży Pożarnej w Grabicy, gdzie odbyła się oficjalna część apelu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb8f1299-e69f-4577-9af1-7474509917ea" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb8f1299-e69f-4577-9af1-7474509917ea" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bb8f1299-e69f-4577-9af1-7474509917ea"/>
-</item>
-<item>
-<title><![CDATA[ Gminne święto z królem disco polo. Kiedy wystąpi Zenek Martyniuk w naszym powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gminne-swieto-z-krolem-disco-polo-kiedy-wystapi-zenek-martyniuk-w-naszym-powiecie/e7vnDQYh52aBYfdmC5kd</link>
-<guid isPermaLink="false">e9ee2ae43813f4d4fb02bbee46ded4b866abd2de</guid>
-<pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" alt="miniatura"/></p><p>Wiosna rozkręca się na dobre, a wraz z nią nadchodzi fala imprez plenerowych w okolicach Piotrkowa. W kalendarzu wydarzeń pod chmurką pojawiła się właśnie pozycja obowiązkowa dla fanów gatunku disco polo. Niedaleko miasta wystąpi jeden z najpopularniejszych artystów w kraju. Nie przegapcie okazji do wspólnej zabawy przy największych hitach!</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b14c1fbb-9e60-462b-b776-8555a73fd299"/>
 </item>
 </channel></rss>
