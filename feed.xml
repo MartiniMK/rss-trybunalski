@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 28 Jun 2026 05:33:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 09:35:02 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pożar w kamienicy w Piotrkowie. Mieszkańcy ewakuowani ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pozar-w-kamienicy-w-piotrkowie-mieszkancy-ewakuowani/Tftqn3BnYOXnzgjEs7gz</link>
+<guid isPermaLink="false">06aee3b59698a05dd0e800803cff8b78b48419cc</guid>
+<pubDate>Sun, 28 Jun 2026 09:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" alt="miniatura"/></p><p>Zgłoszenie o pożarze wpłynęło do służb około godziny 21:40. Do akcji skierowano cztery zastępy straży pożarnej. Na miejscu pracowali również ratownicy medyczni oraz policjanci.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sun, 28 Jun 2026 05:33:56 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Śmiertelny wypadek na A2. Wysiadł z rozbitego auta. Kilka sekund później doszło do tragedii [FOTO]</p> ]]></description>
+<pubDate>Sun, 28 Jun 2026 09:35:02 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Pożar w kamienicy w Piotrkowie. Mieszkańcy ewakuowani</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Prawdziwy hit pod Piotrkowem. Nadchodzi święto legendarnego dania, którego po prostu trzeba spróbować ]]></title>
+<link>https://trybunalski.pl/wiadomosci/prawdziwy-hit-pod-piotrkowem-nadchodzi-swieto-legendarnego-dania-ktorego-po-prostu-trzeba-sprobowac/eSFQEezoNdCDLBTQ20Rf</link>
+<guid isPermaLink="false">f557faad626b35067a0125243394baaef125cf1c</guid>
+<pubDate>Sun, 28 Jun 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff791132-970f-4889-b52c-d431618522cb" alt="miniatura"/></p><p>W pierwszą sobotę lipca Szczukocice w powiecie piotrkowskim staną się kulinarną stolicą regionu. Właśnie tutaj, po raz dziewiąty, odbędzie się Święto Prazoka. To tradycyjne, proste danie ziemniaczane – niegdyś serwowane samodzielnie lub z kwaśnym mlekiem, a współcześnie podawane z aromatycznym kapuśniakiem – stało się znakiem rozpoznawczym miejscowości. Jak przekazuje Urząd Marszałkowski Województ…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff791132-970f-4889-b52c-d431618522cb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff791132-970f-4889-b52c-d431618522cb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff791132-970f-4889-b52c-d431618522cb"/>
 </item>
 <item>
 <title><![CDATA[ 200 zł za świadectwo. Można odebrać w Piotrkowie ]]></title>
@@ -223,7 +243,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Pożar w kamienicy w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -403,7 +423,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Pożar w kamienicy w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -669,16 +689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -687,6 +697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2493,7 +2513,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Pożar w kamienicy w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2823,7 +2843,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Piotrcovia z szóstym transferem!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Pożar w kamienicy w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3587,25 +3607,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e159295f-3261-480a-9541-2cb6b7497e84"/>
-</item>
-<item>
-<title><![CDATA[ Pierwsza Komunia Święta w parafii NMP Królowej Pokoju w Piotrkowie. Dzieci przystąpiły do sakramentu [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pierwsza-komunia-swieta-w-parafii-nmp-krolowej-pokoju-w-piotrkowie-dzieci-przystapily-do-sakramentu-zdjecia/TIa1VLLowN8NBWXNU5C8</link>
-<guid isPermaLink="false">59035fe2b27c6cc7339b6f003850e1df3a76dc40</guid>
-<pubDate>Sun, 10 May 2026 13:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d1b3f317-790d-45bb-b989-2d3957df0c8c" alt="miniatura"/></p><p>Ubrane w odświętne stroje, z pieśnią na ustach dzieci wkroczyły do kościoła NMP Królowej Pokoju w Piotrkowie. Dziś po raz pierwszy przyjęły Eucharystię.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1b3f317-790d-45bb-b989-2d3957df0c8c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1b3f317-790d-45bb-b989-2d3957df0c8c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d1b3f317-790d-45bb-b989-2d3957df0c8c"/>
-</item>
-<item>
-<title><![CDATA[ Brytyjski gigant rekrutuje w naszym mieście. Jakie stawia wymagania? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/brytyjski-gigant-rekrutuje-w-naszym-miescie-jakie-stawia-wymagania/2SehE4eSxROrn6GjiziR</link>
-<guid isPermaLink="false">03de9f9964d66523dce684790f1aaf28b1f15e7e</guid>
-<pubDate>Sun, 10 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" alt="miniatura"/></p><p>Castorama w Piotrkowie Trybunalskim szuka rąk do pracy. Sieć należąca do brytyjskiego giganta Kingfisher prowadzi nabór do marketu przy Al. Sikorskiego 51. Dowiedz się, kogo dokładnie poszukuje pracodawca i jakie benefity oferuje nowym pracownikom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7d1c124e-e09c-4152-be18-4ff88a20a7e1"/>
 </item>
 </channel></rss>
