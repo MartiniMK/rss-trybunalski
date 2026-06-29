@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 29 Jun 2026 06:09:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 11:31:07 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mieszkańcy gminy długo na to czekali. Urząd podał terminy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-gminy-dlugo-na-to-czekali-urzad-podal-terminy/HRmoKQSuC7cO22br3RDs</link>
+<guid isPermaLink="false">7cebf43dfcbbdc9a52b3825dc1812609a6a313b0</guid>
+<pubDate>Mon, 29 Jun 2026 12:25:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6077dc-9d75-4555-ba98-e7f76f11b79c" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenia doczekają się zmian przy ruchliwej drodze krajowej 91. Generalna Dyrekcja Dróg Krajowych i Autostrad poinformowała, że ponad pół tysiąca mieszkańców tej niewielkiej miejscowości wkrótce poczuje się bezpieczniej. Co przewiduje nowy projekt?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6077dc-9d75-4555-ba98-e7f76f11b79c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6077dc-9d75-4555-ba98-e7f76f11b79c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2c6077dc-9d75-4555-ba98-e7f76f11b79c"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Mon, 29 Jun 2026 06:09:22 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nie lodówka i nie pralka. To urządzenie najmocniej obciąża rachunki za prąd</p> ]]></description>
+<pubDate>Mon, 29 Jun 2026 11:31:07 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica długo na to czekali. Urząd podał terminy</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Już nie chodzi o upały. Wydano ostrzeżenie dla mieszkańców woj. łódzkiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ostrzezenie-dla-mieszkancow-woj-lodzkiego-lepiej-zostac-w-domu/6Yi67NMTQiW5Ej95k5Ax</link>
+<guid isPermaLink="false">b415039c985b69d40b0f80c76aecce4923873b3c</guid>
+<pubDate>Mon, 29 Jun 2026 10:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2" alt="miniatura"/></p><p>Upały nie odpuszczają, a termometry w naszym regionie od kilku dni przekraczają barierę 30 stopni Celsjusza. Iście wakacyjna i słoneczna aura, choć idealna do wypoczynku, niesie ze sobą ogromne zagrożenie. Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał właśnie nowe ostrzeżenie przed zjawiskami, które mają nadejść nad nasz region już dzisiejszego popołudnia. Wszystko wskazuje na to, że prze…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2"/>
 </item>
 <item>
 <title><![CDATA[ To urządzenie zużywa tyle prądu co 65 lodówek. Wielu Polaków używa go codziennie ]]></title>
@@ -189,14 +209,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/92ab8806-161f-4c59-b20c-41321f9ea559"/>
 </item>
 <item>
-<title><![CDATA[ Koniec z pracą w upale, podano limit temperatury. Nowe prawo po stronie pracowników ]]></title>
+<title><![CDATA[ Koniec z pracą w upale, wchodzi nowe prawo. Podano maksymalną temperaturę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/koniec-z-praca-w-upale-podano-limit-temperatury-nowe-prawo-po-stronie-pracownikow/juEFvl1jVggijyLWyhlD</link>
 <guid isPermaLink="false">f8191f9bdbe4130e20d183606b275d12924d3e53</guid>
 <pubDate>Fri, 26 Jun 2026 11:01:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/86255ed4-ce34-4d46-ae7e-f04677dfb6d1" alt="miniatura"/></p><p>Rząd przygotowuje nowe regulacje, które mają skuteczniej chronić pracowników przed skutkami coraz częstszych i bardziej intensywnych upałów. Projekt zakłada określenie maksymalnych temperatur, przy których wykonywanie pracy będzie możliwe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/86255ed4-ce34-4d46-ae7e-f04677dfb6d1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/86255ed4-ce34-4d46-ae7e-f04677dfb6d1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/86255ed4-ce34-4d46-ae7e-f04677dfb6d1"/>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a62ecb2e-a3c6-4430-baf0-834d7e3932b5" alt="miniatura"/></p><p>Rząd przygotowuje nowe regulacje, które mają skuteczniej chronić pracowników przed skutkami coraz częstszych i bardziej intensywnych upałów. Projekt zakłada określenie maksymalnych temperatur, przy których wykonywanie pracy będzie możliwe.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a62ecb2e-a3c6-4430-baf0-834d7e3932b5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a62ecb2e-a3c6-4430-baf0-834d7e3932b5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a62ecb2e-a3c6-4430-baf0-834d7e3932b5"/>
 </item>
 <item>
 <title><![CDATA[ Ogromny sukces Piotrkowianina na mistrzostwach ]]></title>
@@ -263,7 +283,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Audi uderzyło w słup energetyczny i drzewo.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica długo na to czekali.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -443,7 +463,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Audi uderzyło w słup energetyczny i drzewo.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica długo na to czekali.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -709,16 +729,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -727,6 +737,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2533,7 +2553,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Audi uderzyło w słup energetyczny i drzewo.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica długo na to czekali.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2863,7 +2883,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Audi uderzyło w słup energetyczny i drzewo.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica długo na to czekali.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3597,25 +3617,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3112491f-67d2-49c5-8c85-bfc04d24d2b4"/>
-</item>
-<item>
-<title><![CDATA[ Poparzeni Kawą Trzy wystąpią w naszym mieście. Kiedy i gdzie koncert? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/poparzeni-kawa-trzy-wystapia-w-naszym-miescie-kiedy-i-gdzie-koncert/KVUshcuBYxB30svhqjGl</link>
-<guid isPermaLink="false">f3c1d0ef41c5c1dba6eed6c2cce8f32531103ab8</guid>
-<pubDate>Mon, 11 May 2026 11:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" alt="miniatura"/></p><p>Do święta studentów coraz mniej czasu i poznaliśmy następną z gwiazd, która uświetni to wydarzenie swoim występem. Sprawdź, co wiadomo na temat tegorocznych juwenaliów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bea2aa34-313d-4a38-a489-c11e78e6c741"/>
-</item>
-<item>
-<title><![CDATA[ Aktualizacja: Zaginął młody piotrkowianin. Policja apeluje o pomoc w poszukiwaniach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zaginal-mlody-piotrkowianin-policja-apeluje-o-pomoc-w-poszukiwaniach/wEMT6dD6DbUooFHq5Ctc</link>
-<guid isPermaLink="false">ba9ab5f841bef6fc7e50b18a74bcbbc6fbe4ccca</guid>
-<pubDate>Mon, 11 May 2026 10:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" alt="miniatura"/></p><p>Jak informuje piotrkowska policja, mężczyzna został odnaleziony cały i zdrowy. Służby nie podają, w jakich okolicznościach znaleziono poszukiwanego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/50cb77c3-fd17-4209-8185-eb3d395898a2"/>
 </item>
 </channel></rss>
