@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 30 Jun 2026 11:59:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 14:46:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Przejazd kolejowy w Piotrkowie zamknięty. Szykują się utrudnienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przejazd-kolejowy-na-ul-slowackiego-zamkniety-noca-beda-objazdy/pdcZ483Q2kH3dsnPKqR8</link>
+<guid isPermaLink="false">c442d85b5c44d65d733437000d0e544442a7970d</guid>
+<pubDate>Tue, 30 Jun 2026 15:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/075a7fb2-d847-4bbb-bb9e-0184ad2152ce" alt="miniatura"/></p><p>Kierowcy korzystający z tej trasy muszą liczyć się z utrudnieniami. W nocy z 7 na 8 lipca 2026 roku zamknięty będzie przejazd kolejowo-drogowy na ul. Słowackiego . Chodzi o odcinek położony w pobliżu dworca PKP. Zmiana będzie miała charakter czasowy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/075a7fb2-d847-4bbb-bb9e-0184ad2152ce" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/075a7fb2-d847-4bbb-bb9e-0184ad2152ce" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/075a7fb2-d847-4bbb-bb9e-0184ad2152ce"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Tue, 30 Jun 2026 14:46:15 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>22-latek driftował w Piotrkowie. Tak skończyło się „kręcenie bączków”</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ Piotrkowska potańcówka powraca. Znamy terminy miejskich imprez ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-potancowka-powraca-znamy-terminy-miejskich-imprez/RYpxX8hP5AlnSXYP22eC</link>
@@ -27,16 +47,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 30 Jun 2026 11:59:25 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Piotrkowska potańcówka powraca. Znamy terminy miejskich imprez</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Fly Fest 2026. Gotowi na największe pokazy lotnicze w Łódzkiem? [PROGRAM] ]]></title>
@@ -423,7 +433,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Piotrkowska potańcówka powraca.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Przejazd kolejowy w Piotrkowie zamknięty.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -603,7 +613,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Piotrkowska potańcówka powraca.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Przejazd kolejowy w Piotrkowie zamknięty.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2693,7 +2703,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrkowska potańcówka powraca.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Przejazd kolejowy w Piotrkowie zamknięty.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2849,16 +2859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -2867,6 +2867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -3023,7 +3033,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Piotrkowska potańcówka powraca.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Przejazd kolejowy w Piotrkowie zamknięty.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3607,25 +3617,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0d7d9a3-24fe-4323-80ae-190f75ae2042"/>
-</item>
-<item>
-<title><![CDATA[ Morski kolos wyrzucony na brzeg w Polsce. Pobrano DNA, naukowcy chcą rozwiązać zagadkę [VIDEO] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/morski-kolos-wyrzucony-na-brzeg-w-polsce-pobrano-dna-naukowcy-chca-rozwiazac-zagadke-video/if7aMGNq3QBz8FlaEKrO</link>
-<guid isPermaLink="false">4c34e4222acdba817ed338765d47f9270508aa5a</guid>
-<pubDate>Tue, 12 May 2026 16:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" alt="miniatura"/></p><p>Do odkrycia doszło w rejonie Mikoszewa, na terenie rezerwatu Mewia Łacha przy ujściu Wisły. Martwe zwierzę zauważył strażnik pełniący dyżur na chronionym obszarze. Informacja bardzo szybko obiegła Pomorze i wzbudziła zainteresowanie zarówno mieszkańców, jak i turystów odwiedzających okolice Gdańska.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/74b38ceb-1e01-4222-be9a-cff4442faa9a"/>
-</item>
-<item>
-<title><![CDATA[ Pokona na rowerze 400 km. Rusza z naszego miasta w szczytnym celu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pokona-na-rowerze-400-km-rusza-z-naszego-miasta-w-szczytnym-celu/Ewm1KXbX9II6cs8ePBGi</link>
-<guid isPermaLink="false">eb8e6f3ce941994780db946422f4c396864cb54b</guid>
-<pubDate>Tue, 12 May 2026 15:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" alt="miniatura"/></p><p>Jeszcze nie tak dawno Piotrków Trybunalski żył wielką zbiórką Łatwogangu, której pamiątką stało się kolorowe graffiti. Nie minęło wiele czasu, a już mamy przykład kolejnej wyjątkowej inicjatywy skierowanej do tych, którzy najbardziej potrzebują wsparcia. Tym razem chęć niesienia pomocy przybrała formę wyzwania sportowego, które wystawi na próbę ludzką wytrzymałość.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3000a22f-6f77-4c73-ad06-449f5ee67c1e"/>
 </item>
 </channel></rss>
