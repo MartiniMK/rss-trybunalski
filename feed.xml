@@ -6,14 +6,34 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 30 Jun 2026 04:26:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 08:44:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowoczesne pracownie w Ekonomiku. Szkoła otworzyła też studio nagrań ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowoczesne-pracownie-w-ekonomiku-szkola-otworzyla-tez-studio-nagran/q2tVlQEqhfJFDkcR1RaQ</link>
+<guid isPermaLink="false">837873feeca4ae9a00b610476b20ab932d03380f</guid>
+<pubDate>Tue, 30 Jun 2026 10:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" alt="miniatura"/></p><p>W Zespole Szkół Ponadpodstawowych nr 5 w Piotrkowie Trybunalskim uruchomiono nowoczesne pracownie kształcenia zawodowego dla uczniów kierunków logistycznych, fotograficznych i reklamowych . W ramach przedsięwzięcia powstało też profesjonalnie wyposażone studio nagrań. Ma ono służyć rozwijaniu umiejętności związanych z tworzeniem materiałów audio i wideo oraz nowoczesną komunikacją multimedialną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1"/>
+</item>
+<item>
+<title><![CDATA[ Połamane drzewa i słupy, strażacy w akcji. Burza dotarła do regionu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polamane-drzewa-i-slupy-strazacy-w-akcji-burza-dotarla-do-regionu/qtv2GSnhz7NeSO2OaTzJ</link>
+<guid isPermaLink="false">3e9f32b3d1e41d5c34af77494c424872f94714a4</guid>
+<pubDate>Tue, 30 Jun 2026 10:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/224b38b8-e97a-4f83-a267-8cc2741e5511" alt="miniatura"/></p><p>Połamane drzewa, zerwane linie i uszkodzony dach stacji benzynowej to tylko niektóre ze skutków burzy, jaka przeszła przez województwo łódzkie 29 czerwca. Przypomnijmy, że tego dnia obowiązywało ostrzeżenie wydane przez Instytut Meteorologii i Gospodarki Wodnej. Dla naszego regionu prognozowano burze i bardzo silne opady deszczu oraz porywy wiatru. Jak się okazuje, w powiecie opoczyńskim strażacy…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/224b38b8-e97a-4f83-a267-8cc2741e5511" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/224b38b8-e97a-4f83-a267-8cc2741e5511" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/224b38b8-e97a-4f83-a267-8cc2741e5511"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 30 Jun 2026 04:26:17 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie. PGE ostrzega mieszkańców!</p> ]]></description>
+<pubDate>Tue, 30 Jun 2026 08:44:31 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nowoczesne pracownie w Piotrkowie</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -363,7 +383,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nowoczesne pracownie w Piotrkowie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -543,7 +563,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nowoczesne pracownie w Piotrkowie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -809,16 +829,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -827,6 +837,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2633,7 +2653,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nowoczesne pracownie w Piotrkowie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -2963,7 +2983,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Nowoczesne pracownie w Piotrkowie</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3607,25 +3627,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/505c1deb-5e7e-452b-90ee-89245a1f5811" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/505c1deb-5e7e-452b-90ee-89245a1f5811" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/505c1deb-5e7e-452b-90ee-89245a1f5811"/>
-</item>
-<item>
-<title><![CDATA[ Uczniowie z naszego miasta najlepsi w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uczniowie-z-naszego-miasta-najlepsi-w-polsce/wXCByoJJgDTZW4Pjyurk</link>
-<guid isPermaLink="false">68a0fc6e4bf408fcd0358883ed9b7dac1432cad6</guid>
-<pubDate>Tue, 12 May 2026 11:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a037d7ec-3d29-4724-859d-7320520bc22d" alt="miniatura"/></p><p>„Postaw na słońce” to ogólnopolski projekt edukacyjny Fundacji BOŚ skierowany do uczniów klas 7-8 szkół podstawowych oraz ponadpodstawowych. Celem konkursu jest popularyzacja wiedzy o odnawialnych źródłach energii (OZE). Organizatorzy ogłosili już wyniki.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a037d7ec-3d29-4724-859d-7320520bc22d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a037d7ec-3d29-4724-859d-7320520bc22d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a037d7ec-3d29-4724-859d-7320520bc22d"/>
-</item>
-<item>
-<title><![CDATA[ Brak prądu w Piotrkowie i powiecie. Tu występują utrudnienia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/brak-pradu-w-piotrkowie-i-powiecie-tu-wystepuja-utrudnienia/yyhprI5RyF1MH87OJUCL</link>
-<guid isPermaLink="false">377d0ef93284f2355886169207544df56f0f4bb6</guid>
-<pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/73a7f8a4-b3ca-44e6-b635-33610f6758b9" alt="miniatura"/></p><p>ul. Agrestowa 3 5, ul. Dworska 14 18 171, ul. Energetyków 18 22 24 26 28, ul. Jodłowa 2 7, ul. Malinowa 1-50</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a7f8a4-b3ca-44e6-b635-33610f6758b9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a7f8a4-b3ca-44e6-b635-33610f6758b9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/73a7f8a4-b3ca-44e6-b635-33610f6758b9"/>
 </item>
 </channel></rss>
