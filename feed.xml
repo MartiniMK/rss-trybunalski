@@ -6,14 +6,54 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 01 Jul 2026 05:58:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 10:15:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zrozpaczeni bliscy poszukują Eweliny Szewczyk. Policja apeluje o pomoc ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zrozpaczeni-bliscy-poszukuja-eweliny-szewczyk-policja-apeluje-o-pomoc/PCdc4BjO5j9qVP7EBaFf</link>
+<guid isPermaLink="false">e08667734981f84cbe6b9074f31b38f4abbea87c</guid>
+<pubDate>Wed, 01 Jul 2026 11:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770" alt="miniatura"/></p><p>Policja z Tomaszowa Mazowieckiego poszukuje zaginionej Eweliny Szewczyk . Kobieta ma około 176 cm wzrostu, szczupłą sylwetkę, długie ciemne włosy oraz brązowe oczy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770"/>
+</item>
+<item>
+<title><![CDATA[ Wielkie święto smaków w Łódzkiem już w ten weekend. Na koniec występ gwiazdy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielkie-swieto-smakow-w-lodzkiem-juz-w-ten-weekend-na-koniec-wystep-gwiazdy/4tLQo9Yc1obXUjtCqUeJ</link>
+<guid isPermaLink="false">3dfa5a00f3252691e4cebdac1e9f3847337ca948</guid>
+<pubDate>Wed, 01 Jul 2026 11:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" alt="miniatura"/></p><p>W sobotę, 4 lipca tereny Hotelu Podklasztorze w Sulejowie zamienią się w centrum smaków. Wszystko za sprawą festiwalu Taste Łódzkie. W planach stoiska z regionalnymi produktami, rękodziełem, a także koncerty.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5"/>
+</item>
+<item>
+<title><![CDATA[ Oto artyści, którzy rozkołyszą Piotrków! Sprawdź, kto zagra na Trybunalskim Graniu 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oto-artysci-ktorzy-rozkolysza-piotrkow-sprawdz-kto-zagra-na-trybunalskim-graniu-2026/Ht0D0HB6SojfBSFqqBI4</link>
+<guid isPermaLink="false">c61a3ddad5d71a44d1b558612995a5c8e609d200</guid>
+<pubDate>Wed, 01 Jul 2026 11:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" alt="miniatura"/></p><p>Start lata w Piotrkowie tradycyjnie oznacza jedno, czyli powrót „Trybunalskiego Grania”. Plenerowe koncerty to idealna okazja, by zobaczyć w akcji artystów reprezentujących różne nurty muzyczne. Piotrkowską scenę rozgrzewały już takie legendy jak Luxtorpeda, TSA MNKWL czy Kobranocka. Kto tym razem odwiedzi nasze miasto i porwie publiczność do zabawy?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d"/>
+</item>
+<item>
+<title><![CDATA[ Policjanci z Piotrkowa uratowali życie 3-latkowi. Mogło skończyć się tragicznie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/policjanci-z-piotrkowa-uratowali-zycie-3-latkowi-moglo-skonczyc-sie-tragicznie/Mhu1B2EzdvNblLk4NSlE</link>
+<guid isPermaLink="false">68d8508a39b425ffdba96fa13ee8d64e214d1ba2</guid>
+<pubDate>Wed, 01 Jul 2026 10:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" alt="miniatura"/></p><p>Do zdarzenia doszło 28 czerwca na przystanku autobusowym, przy skrzyżowaniu ulic Topolowej i Łódzkiej. Podczas służby niepokojącą sytuację zaobserwowali funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji w Piotrkowie Trybunalskim – asp. Cezary Grochala, sierż. sztab. Mateusz Dębski oraz st. sierż. Artur Głowiński.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Wed, 01 Jul 2026 05:58:12 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wielki sukces zawodnika z Piotrkowa. Damian Rzepecki podpisał kontrakt z UFC</p> ]]></description>
+<pubDate>Wed, 01 Jul 2026 10:15:30 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Zrozpaczeni bliscy poszukują Eweliny Szewczyk. Policja apeluje o pomoc</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -443,7 +483,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Wielki sukces zawodnika z Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Zrozpaczeni bliscy poszukują Eweliny Szewczyk.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -623,7 +663,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Wielki sukces zawodnika z Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Zrozpaczeni bliscy poszukują Eweliny Szewczyk.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2713,7 +2753,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Wielki sukces zawodnika z Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Zrozpaczeni bliscy poszukują Eweliny Szewczyk.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3043,7 +3083,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Wielki sukces zawodnika z Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Zrozpaczeni bliscy poszukują Eweliny Szewczyk.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3577,45 +3617,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/774c742f-f059-472b-a163-f33ea10c2f70"/>
-</item>
-<item>
-<title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/F07DbbC7ZHHNqrDHizKi</link>
-<guid isPermaLink="false">66c0cfb0fe1f415812c972ef1d9c4264b986b8f8</guid>
-<pubDate>Wed, 13 May 2026 11:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" alt="miniatura"/></p><p>Piotrków Trybunalski, poprzez swoje położenie, od lat stanowi ważny punkt na mapie logistycznej Polski. Pojawiła się oferta pracy w hubie logistycznym giganta e-commerce w naszym mieście. Tym razem to Allegro zdecydowało się na wzmocnienie lokalnego zespołu. Sprawdzamy szczegóły oferty.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fb3f0bc0-4da5-4101-8f31-89515461e7cc"/>
-</item>
-<item>
-<title><![CDATA[ Pielęgniarki z Piotrkowa świętowały swój dzień. Od lipca będą zarabiać więcej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pielegniarki-z-piotrkowa-swietowaly-swoj-dzien-od-lipca-beda-zarabiac-wiecej/lWsawxNXvvnnWtExA83n</link>
-<guid isPermaLink="false">e5ff8ee758f4dba4bb4ffc486ee5c8affc741fe7</guid>
-<pubDate>Wed, 13 May 2026 11:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" alt="miniatura"/></p><p>12 maja obchodzony jest Międzynarodowy Dzień Pielęgniarki i Położnej . Z tej okazji w Samodzielnym Szpitalu Wojewódzkim im. Mikołaja Kopernika w Piotrkowie Trybunalskim nagrodzono ponad 40 pielęgniarek . To osoby, które na co dzień pracują przy pacjentach m.in. na szpitalnym oddziale ratunkowym, intensywnej terapii, oddziałach neurologicznym, kardiologicznym, urazowym i neonatologicznym.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c721f21b-ebbd-4754-8b06-c65885a85bd2"/>
-</item>
-<item>
-<title><![CDATA[ Urząd poszukuje dyrektora miejskiej jednostki. Jakie są wymagania? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-poszukuje-dyrektora-miejskiej-jednostki-jakie-sa-wymagania/yvEZJCCG441xeVzTmysW</link>
-<guid isPermaLink="false">0806f3a12e5ff6600049ecdc8e9711b2b2387163</guid>
-<pubDate>Wed, 13 May 2026 10:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" alt="miniatura"/></p><p>Urząd Miasta Piotrkowa Trybunalskiego opublikował ogłoszenie dotyczące naboru na stanowisko dyrektora Pogotowia Opiekuńczego w Piotrkowie Trybunalskim. Chodzi o pełnoetatową funkcję kierownika miejskiej jednostki organizacyjnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b56a2590-3d8c-418b-ba17-f4a3539242e5"/>
-</item>
-<item>
-<title><![CDATA[ Zamknięty przejazd w Piotrkowie. Do kiedy utrudnienia? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zamkniety-przejazd-w-piotrkowie-do-kiedy-utrudnienia/Q9i8ZA4ZFjdUIj8VtPxA</link>
-<guid isPermaLink="false">35455c32b0315a482f0197817493ecc71b23b65d</guid>
-<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" alt="miniatura"/></p><p>Uwaga kierowcy! Modernizacja linii kolejowej nr 1 wciąż trwa, co wiąże się z utrudnieniami. Tym razem zmiany w organizacji ruchu zajdą w Piotrkowie Trybunalskim.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b61a54b4-f8e9-4de7-b5c4-ac4d37688e23"/>
 </item>
 </channel></rss>
