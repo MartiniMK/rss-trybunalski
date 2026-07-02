@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 02 Jul 2026 08:27:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 11:50:58 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Duże utrudnienia w Łódzkiem. Tutaj kierowcy powinni uważać ]]></title>
+<link>https://trybunalski.pl/wiadomosci/duze-utrudnienia-w-lodzkiem-tutaj-kierowcy-powinni-uwazac/qaaXgTvCnfygKZHzcelZ</link>
+<guid isPermaLink="false">40348e927a8eae41fcf113fd06f557c0595947e2</guid>
+<pubDate>Thu, 02 Jul 2026 12:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01" alt="miniatura"/></p><p>Jak podaje Generalna Dyrekcja Dróg Krajowych i Autostrad nadchodzący tydzień przyniesie zmiany w organizacji ruchu na drogach krajowych nr 12 i 74. Od poniedziałku, 6 lipca w Sulejowie na DK12 prowadzona będzie naprawa nawierzchni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 02 Jul 2026 08:27:16 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nagranie z Wapienników obiegło sieć. Nagle zasypano wszystkie drogi głazami i ziemią</p> ]]></description>
+<pubDate>Thu, 02 Jul 2026 11:50:58 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Duże utrudnienia niedaleko Piotrkowa. Tutaj kierowcy powinni uważać</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Pożar kamienicy w Piotrkowie. 11-letni chłopiec zabrany do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-kamienicy-w-piotrkowie-11-letni-chlopiec-zabrany-do-szpitala/eidt6M8YS5IN0vg8Du4b</link>
+<guid isPermaLink="false">0ad56d92e514e52ab6f3203451b8548f179f77c4</guid>
+<pubDate>Thu, 02 Jul 2026 10:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" alt="miniatura"/></p><p>W środę, 1 lipca na terenie Piotrkowa doszło do pożaru kamienicy. Ogień rozprzestrzeniał się w budynku przy alei 3 Maja. Zgłoszenie wpłynęło o 22:25, a służby ruszyły do akcji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127"/>
 </item>
 <item>
 <title><![CDATA[ Nagranie z Wapienników obiegło sieć. Nagle zasypano wszystkie drogi głazami i ziemią ]]></title>
@@ -533,7 +553,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nagranie z Wapienników obiegło sieć.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Duże utrudnienia niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -713,7 +733,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nagranie z Wapienników obiegło sieć.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Duże utrudnienia niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2803,7 +2823,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nagranie z Wapienników obiegło sieć.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Duże utrudnienia niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3133,7 +3153,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Nagranie z Wapienników obiegło sieć.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Duże utrudnienia niedaleko Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3607,25 +3627,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7548b211-6e63-41d0-baf0-a7b4911e9bc3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7548b211-6e63-41d0-baf0-a7b4911e9bc3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7548b211-6e63-41d0-baf0-a7b4911e9bc3"/>
-</item>
-<item>
-<title><![CDATA[ ORLEN Superliga Kobiet: Nieudany rewanż Piotrkowianek na mistrzyniach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/orlen-superliga-kobiet-nieudany-rewanz-piotrkowianek-na-mistrzyniach/6E1vQ4GG7EnQKD6vMCNz</link>
-<guid isPermaLink="false">97a15196c76ede09c70cd4d5f2839b27e412a5b2</guid>
-<pubDate>Wed, 13 May 2026 22:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8bef89be-b69c-41a4-9384-f188d949c246" alt="miniatura"/></p><p>Środowa konfrontacja była już piątym starciem szczypiornistek KRASOŃ MKS Piotrcovii z KGHM Zagłębiem Lubin. W trzech potyczkach o ligowe punkty dwukrotnie lepsze okazały się „Miedziowe”, które przekonująco wygrały również decydującą batalię w turnieju finałowym zmagań o Puchar Polski Kobiet, który odbył się w miniony weekend w Elblągu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8bef89be-b69c-41a4-9384-f188d949c246" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8bef89be-b69c-41a4-9384-f188d949c246" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8bef89be-b69c-41a4-9384-f188d949c246"/>
-</item>
-<item>
-<title><![CDATA[ Powietrze w Piotrkowie nie trzyma norm. Kto nas najbardziej truje? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powietrze-w-piotrkowie-nie-trzyma-norm-kto-nas-najbardziej-truje/yq4ai7pMeW9TuO823bDE</link>
-<guid isPermaLink="false">106401ba56b95176f3dd4f234a2e68765d2f38c2</guid>
-<pubDate>Wed, 13 May 2026 19:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" alt="miniatura"/></p><p>Piotrków znalazł się wśród najbardziej zanieczyszczonych miast w województwie łódzkim. W najnowszej publikacji Głównego Inspektoratu Ochrony Środowiska dokonano oceny za rok 2025 a także analizy ostatnich 10 lat. Miasto wypada w nich blado. Jest jednym z dwóch z największą liczbą dni rocznie z przekroczeniem stężenia pyłów PM10.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/476f8a7f-145a-48a4-b426-040f6f054e6c"/>
 </item>
 </channel></rss>
