@@ -6,14 +6,24 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 03 Jul 2026 16:52:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 18:29:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Koniec abonamentu RTV. Od lipca można się wyrejestrować? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koniec-abonamentu-rtv-od-lipca-mozna-sie-wyrejestrowac/enPXbB3xQH3GmEFebXlO</link>
+<guid isPermaLink="false">dcfebc2f07f52b1c8a5e3dba8928995f4666eac5</guid>
+<pubDate>Fri, 03 Jul 2026 20:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0cd03e97-abef-4630-8f8c-436d0178c92b" alt="miniatura"/></p><p>Polski system abonamentu RTV opiera się na rejestracji odbiornika. Co do zasady opłata dotyczy osób, które posiadają odbiornik radiofoniczny lub telewizyjny w stanie umożliwiającym natychmiastowy odbiór programu. W praktyce oznacza to, że sam fakt posiadania zarejestrowanego odbiornika może rodzić obowiązek zapłaty, dopóki abonent nie skorzysta ze zwolnienia albo nie dokona skutecznego wyrejestrow…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cd03e97-abef-4630-8f8c-436d0178c92b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cd03e97-abef-4630-8f8c-436d0178c92b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cd03e97-abef-4630-8f8c-436d0178c92b"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Fri, 03 Jul 2026 16:52:39 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Oto wyniki egzaminu ósmoklasisty w Piotrkowie i powiecie. Gdzie poszło najlepiej, a gdzie najgorzej?</p> ]]></description>
+<pubDate>Fri, 03 Jul 2026 18:29:56 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Koniec abonamentu RTV. Od lipca można się wyrejestrować?</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1069,16 +1079,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -1087,6 +1087,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3627,15 +3637,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fcbb33cf-9158-4e77-908a-2d80882692a9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fcbb33cf-9158-4e77-908a-2d80882692a9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fcbb33cf-9158-4e77-908a-2d80882692a9"/>
-</item>
-<item>
-<title><![CDATA[ Były prezydent nowym prezesem. Duża zmiana po 26 latach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/byly-prezydent-nowym-prezesem-duza-zmiana-po-26-latach/qA7nvHG74GcTze2pLA6I</link>
-<guid isPermaLink="false">abd2ef993456df657e82ae31db22f778a5abd27d</guid>
-<pubDate>Fri, 15 May 2026 10:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cb71d541-1939-45df-adbf-daa92f921259" alt="miniatura"/></p><p>Po 26 latach pełnienia funkcji prezesa Waldemar Domarańczuk złożył rezygnację. W sumie jako członek zarządu Towarzystwa Przyjaciół Piotrkowa Trybunalskiego Domarańczuk działał przez 50 lat. Jego zdaniem to idealny moment, by pożegnać się z dotychczasową funkcją.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb71d541-1939-45df-adbf-daa92f921259" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb71d541-1939-45df-adbf-daa92f921259" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cb71d541-1939-45df-adbf-daa92f921259"/>
 </item>
 </channel></rss>
