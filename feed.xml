@@ -6,17 +6,27 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 04 Jul 2026 12:21:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 14:51:54 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sat, 04 Jul 2026 12:21:02 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Sąsiad również ma płacić za remont Twoje balkonu. Mogą wejść kontrowersyjne przepisy?</p> ]]></description>
+<pubDate>Sat, 04 Jul 2026 14:51:54 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Podniebne święto w Piotrkowie rozpoczęte! Sprawdź, co XIV Fly Fest przygotował dla widzów</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Podniebne święto w Piotrkowie rozpoczęte! Sprawdź, co XIV Fly Fest przygotował dla widzów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/podniebne-swieto-w-piotrkowie-rozpoczete-sprawdz-co-xiv-fly-fest-przygotowal-dla-widzow/CWlLfElKCGaEvvFsEF9M</link>
+<guid isPermaLink="false">2decd8cd6ea0812f6137d3e8ed0b18cf1067b976</guid>
+<pubDate>Sat, 04 Jul 2026 14:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" alt="miniatura"/></p><p>Wstęp na teren imprezy jest całkowicie bezpłatny, co sprawia, że od samego południa na miejscu gromadzą się całe rodziny oraz fani awiacji. Pogoda dopisuje, a niebo nad Piotrkowem bez przerwy przecinają kolejne maszyny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb"/>
 </item>
 <item>
 <title><![CDATA[ Sąsiad również ma płacić za remont Twoje balkonu. Mogą wejść kontrowersyjne przepisy? ]]></title>
@@ -673,7 +683,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Sąsiad również ma płacić za remont Twoje balkonu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Podniebne święto w Piotrkowie rozpoczęte!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -853,7 +863,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Sąsiad również ma płacić za remont Twoje balkonu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Podniebne święto w Piotrkowie rozpoczęte!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2943,7 +2953,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Sąsiad również ma płacić za remont Twoje balkonu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Podniebne święto w Piotrkowie rozpoczęte!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3273,7 +3283,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Sąsiad również ma płacić za remont Twoje balkonu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Podniebne święto w Piotrkowie rozpoczęte!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3627,15 +3637,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/93251def-81b2-4171-ace0-cfd8df4e27d1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/93251def-81b2-4171-ace0-cfd8df4e27d1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/93251def-81b2-4171-ace0-cfd8df4e27d1"/>
-</item>
-<item>
-<title><![CDATA[ Kuchenny hit w mega obniżce i wielkie rabaty na narzędziach Parkside. Wkrótce zacznie się w Lidlu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kuchenny-hit-w-mega-obnizce-i-wielki-rabaty-na-narzedziach-parkside-wkrotce-zacznie-sie-w-lidlu/fIDUkQxNDy0l4cX2l2fy</link>
-<guid isPermaLink="false">62154e00e8cef022c9f7d392ded972a122b3eb50</guid>
-<pubDate>Fri, 15 May 2026 13:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a6bc3ced-7ac0-460d-a8e0-97ee88f02117" alt="miniatura"/></p><p>W najbliższym tygodniu pojawi się wiele artykułów do domu, na działkę i na lato w promocyjnych cenach. Z gazetki wynika, że będzie sporo ubrań z lnu (koszule, spodnie, szorty), sprzęt do kuchni i AGD (frytkownica, odkurzacze, opiekacz do panini), wyposażenie wnętrz (pościel, koce, lampy LED), rzeczy dla dzieci i zabawki w sam raz na Dzień Dziecka, a także akcesoria sportowe i kempingowe. Najmocnie…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6bc3ced-7ac0-460d-a8e0-97ee88f02117" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6bc3ced-7ac0-460d-a8e0-97ee88f02117" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a6bc3ced-7ac0-460d-a8e0-97ee88f02117"/>
 </item>
 </channel></rss>
