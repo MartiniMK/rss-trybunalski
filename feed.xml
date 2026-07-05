@@ -6,14 +6,24 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 04 Jul 2026 22:14:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 00:19:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Fly Fest 2026. Wielkie widowisko na piotrkowskim niebie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/fly-fest-2026-wielkie-widowisko-na-piotrkowskim-niebie-zdjecia/tQmbOzDtzdKQu1kBKNH3</link>
+<guid isPermaLink="false">e6e5be0797bfbd8baf8c47e577fd45e715c743ce</guid>
+<pubDate>Sun, 05 Jul 2026 00:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8f1b0726-0ccf-489d-868f-8827cc680830" alt="miniatura"/></p><p>W sobotę, 4 lipca oficjalnie rozpoczęła się XIV edycja Fly Festu, która przyciągnęła na teren Aeroklubu Ziemi Piotrkowskiej tłumy pasjonatów podniebnych maszyn. Program był różnorodny, bo publiczność mogła podziwiać w akcji dynamiczne samoloty akrobacyjne, śmigłowce oraz majestatyczne szybowce. Dla wielu największą atrakcją była jednak możliwość uniesienia się w chmury i zobaczenia okolicy z lotu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f1b0726-0ccf-489d-868f-8827cc680830" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f1b0726-0ccf-489d-868f-8827cc680830" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8f1b0726-0ccf-489d-868f-8827cc680830"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sat, 04 Jul 2026 22:14:35 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wypadek na DK12 pod Piotrkowem. Czołówka dwóch pojazdów</p> ]]></description>
+<pubDate>Sun, 05 Jul 2026 00:19:18 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Fly Fest 2026. Wielkie widowisko na piotrkowskim niebie [ZDJĘCIA]</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1139,16 +1149,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -1157,6 +1157,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3627,15 +3637,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cd33fd27-64c6-47e0-851c-ebb27d1cb539"/>
-</item>
-<item>
-<title><![CDATA[ Noc Muzeów w Piotrkowie Trybunalskim. Będą rycerze, duchy, marcepan i nocne pociągi ŁKA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/noc-muzeow-w-piotrkowie-trybunalskim-beda-rycerze-duchy-marcepan-i-nocne-pociagi-lka/o9FOVmePEMB92wzPiHN0</link>
-<guid isPermaLink="false">ccf186618ffb50f372b23c6420fc1e3b97474d08</guid>
-<pubDate>Fri, 15 May 2026 15:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d59ac875-958a-40ae-8b5c-a955228ed1f1" alt="miniatura"/></p><p>Muzeum w Piotrkowie Trybunalskim zaprasza na wydarzenie w godzinach od 18:00 do 24:00. Tegoroczna Noc Muzeów ma mieć wyjątkowo klimatyczny charakter. W programie znalazły się atrakcje nawiązujące do historii miasta, dawnych legend, średniowiecza i tajemnic zamkowych murów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d59ac875-958a-40ae-8b5c-a955228ed1f1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d59ac875-958a-40ae-8b5c-a955228ed1f1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d59ac875-958a-40ae-8b5c-a955228ed1f1"/>
 </item>
 </channel></rss>
