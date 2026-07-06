@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 06 Jul 2026 04:28:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 09:17:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nie będzie prądu w Piotrkowie i powiecie. Sprawdź, gdzie wystąpią utrudnienia? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-bedzie-pradu-w-piotrkowie-i-powiecie-sprawdz-gdzie-wystapia-utrudnienia/7RhWndvYCyGKFdT49x8m</link>
+<guid isPermaLink="false">e30800317088fc4fc6847d914f27e0303d2e7906</guid>
+<pubDate>Mon, 06 Jul 2026 10:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a216b17c-33c8-4f68-ad42-5f1ebc2e152b" alt="miniatura"/></p><p>ul. Wesoła, ul. Fabryczna, ul. Kosowska, ul. Nowy Świat, ul. Cmentarna, ul. Cegielniana, ul. Spacerowa</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a216b17c-33c8-4f68-ad42-5f1ebc2e152b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a216b17c-33c8-4f68-ad42-5f1ebc2e152b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a216b17c-33c8-4f68-ad42-5f1ebc2e152b"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Mon, 06 Jul 2026 04:28:15 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Zaginęła 48-letnia kobieta. Piotrkowscy policjanci prowadzą poszukiwania</p> ]]></description>
+<pubDate>Mon, 06 Jul 2026 09:17:30 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie. Sprawdź, gdzie wystąpią utrudnienia?</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Głośny alarm w Piotrkowie. Co się dzieje? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/glosny-alarm-w-piotrkowie-co-sie-dzieje/GbwsOr3ET6aErdxaiQu9</link>
+<guid isPermaLink="false">e0571306dab60fde298940bdfc2d3349b3f18889</guid>
+<pubDate>Mon, 06 Jul 2026 08:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6e20ec1c-bd4c-490e-a5f5-4cdf1a5c0245" alt="miniatura"/></p><p>W poniedziałek, 6 lipca 2026 roku, w godzinach od 9:00 do 9:30 na terenie powiatu piotrkowskiego zaplanowano trening Systemu Ostrzegania i Alarmowania ludności. W ramach ćwiczeń uruchomione zostaną syreny Ochotniczych Straży Pożarnych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e20ec1c-bd4c-490e-a5f5-4cdf1a5c0245" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e20ec1c-bd4c-490e-a5f5-4cdf1a5c0245" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e20ec1c-bd4c-490e-a5f5-4cdf1a5c0245"/>
 </item>
 <item>
 <title><![CDATA[ Zaginęła 48-letnia kobieta. Piotrkowscy policjanci prowadzą poszukiwania ]]></title>
@@ -733,7 +753,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Poważny wypadek i dachowanie na S8.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -913,7 +933,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Poważny wypadek i dachowanie na S8.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -1179,16 +1199,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -1197,6 +1207,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3003,7 +3023,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Poważny wypadek i dachowanie na S8.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3159,16 +3179,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -3177,6 +3187,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -3333,7 +3353,7 @@
 <link>https://trybunalski.pl/wiadomosci/wyjatkowy-jubileusz-w-piotrkowie-utw-dziala-juz-od-dwoch-dekad/rzjAQHBHmwUA9ZZJiRuE</link>
 <guid isPermaLink="false">f82e3c168565b13962631730684611565020ffbe</guid>
 <pubDate>Thu, 21 May 2026 08:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Poważny wypadek i dachowanie na S8.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" alt="miniatura"/></p><p>Nie będzie prądu w Piotrkowie i powiecie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/96367d27-cc3c-449b-b4e3-a91ec7dfd19c"/>
@@ -3627,15 +3647,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/285e7966-3b1c-43b4-951e-95569aba6da3"/>
-</item>
-<item>
-<title><![CDATA[ Kupujesz teraz truskawki? Sanepid ostrzegają żeby zwracać uwagę na jedną rzecz ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kupujesz-teraz-truskawki-sanepid-ostrzegaja-zeby-zwracac-uwage-na-jedna-rzecz/EzVlZPLCOdpHEa5psFX0</link>
-<guid isPermaLink="false">fd816044d4b1c1be3364b6d04925b15771c48de8</guid>
-<pubDate>Sat, 16 May 2026 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" alt="miniatura"/></p><p>Eksperci Państwowej Inspekcji Sanitarnej przypominają, że świeże truskawki powinny być jędrne, intensywnie czerwone i pozbawione uszkodzeń. Już na etapie zakupów warto zwrócić uwagę nie tylko na sam owoc, ale również na jego szypułkę. To właśnie ona bardzo często zdradza, czy truskawki są świeże.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b53b857b-5317-4462-80a3-07e117423c03"/>
 </item>
 </channel></rss>
