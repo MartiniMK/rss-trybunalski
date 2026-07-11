@@ -6,14 +6,34 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 11 Jul 2026 12:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 13:56:48 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tragedia nad wodą w powiecie piotrkowskim. Nie żyje młody mężczyzna ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragedia-nad-woda-w-powiecie-piotrkowskim-nie-zyje-mlody-mezczyzna/6TLCwhtKdKNQcUlfrxV8</link>
+<guid isPermaLink="false">1847122794ca7d488bb7e7cc5001a89e0eae9959</guid>
+<pubDate>Sat, 11 Jul 2026 15:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b" alt="miniatura"/></p><p>Zgłoszenie o dramatycznym odkryciu trafiło do służb w sobotę, 11 lipca 2026 roku około godz. 9:00.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b"/>
+</item>
+<item>
+<title><![CDATA[ VI Rodzinny Rajd Rowerowy w Łazach Dąbrowie. Prawie 200 uczestników na starcie [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/vi-rodzinny-rajd-rowerowy-w-lazach-dabrowie-prawie-200-uczestnikow-na-starcie-zdjecia/rRIQFdjBowFsHRtG4oEL</link>
+<guid isPermaLink="false">81780693e3a7e0dec06a8b59a423e7d3e1c7456c</guid>
+<pubDate>Sat, 11 Jul 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" alt="miniatura"/></p><p>Połączenie sportowej pasji, rodzinnej atmosfery i patriotycznej pamięci – tak w skrócie można opisać wydarzenie, które w sobotę, 11 lipca 2026 roku, odbyło się w Łazach Dąbrowie. Zanim sportowcy ruszyli na trasy, na linii startu uroczyście oddano hołd historii. Wszyscy zgromadzeni minutą ciszy uczcili pamięć o dramatycznych losach i bohaterstwie mieszkańców polskich wsi.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sat, 11 Jul 2026 12:08:25 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>157. Piesza Pielgrzymka Piotrkowska wyruszyła. Pątnicy w drodze na Jasną Górę [ZDJĘCIA]</p> ]]></description>
+<pubDate>Sat, 11 Jul 2026 13:56:48 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Tragedia nad wodą w powiecie piotrkowskim. Nie żyje młody mężczyzna</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1183,7 +1203,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>157. Piesza Pielgrzymka Piotrkowska wyruszyła.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Tragedia nad wodą w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1363,7 +1383,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>157. Piesza Pielgrzymka Piotrkowska wyruszyła.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Tragedia nad wodą w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3453,7 +3473,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>157. Piesza Pielgrzymka Piotrkowska wyruszyła.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Tragedia nad wodą w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3609,16 +3629,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
 </item>
 <item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
-</item>
-<item>
 <title><![CDATA[ Kto nie złoży oświadczenia w tym terminie, zapłaci fortunę za prąd. Zostało mało czasu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kto-nie-zlozy-oswiadczenia-w-tym-terminie-zaplaci-fortune-za-prad-zostalo-malo-czasu/ad8XHMDL5tcvs2fHKTFx</link>
 <guid isPermaLink="false">3804bd91164f78d6ac4010ddc2b8ea7716cd822f</guid>
@@ -3627,6 +3637,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0539df2d-4abf-452d-b023-8ddd082ff541"/>
+</item>
+<item>
+<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
+<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
+<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 <item>
 <title><![CDATA[ ORLEN Superliga Kobiet: KRASOŃ MKS Piotrcovia zakończyła zwycięstwem niezwykle udany sezon! ]]></title>
@@ -3697,25 +3717,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cf371e7-c455-4c3a-a7d2-458105f98fef"/>
-</item>
-<item>
-<title><![CDATA[ Uszkodzony gazociąg w Piotrkowie. Na miejscu 5 zastępów straży pożarnej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/uszkodzony-gazociag-w-piotrkowie-na-miejscu-5-zastepow-strazy-pozarnej/yCPx435MXokB698yE2U0</link>
-<guid isPermaLink="false">2c6c244c7fcd2ad606dff73930e6bfdd8a8c9ca4</guid>
-<pubDate>Thu, 21 May 2026 18:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" alt="miniatura"/></p><p>W czwartek, 21 maja około godziny 14:00 w Piotrkowie doszło do uszkodzenia gazociągu. Zdarzenie miało miejsce na ulicy Niecałej. Do akcji ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7276a1e4-2463-4fa5-b3be-6d8b360e551b"/>
-</item>
-<item>
-<title><![CDATA[ Miejska jednostka w Łódzkiem szuka pracownika. Wystarczy wykształcenie zawodowe, ile można zarobić? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miejska-jednostka-w-lodzkiem-szuka-pracownika-wystarczy-wyksztalcenie-zawodowe-ile-mozna-zarobic/NgaiP4A0XEgcS2fbqbF9</link>
-<guid isPermaLink="false">52658638fc9eec0de75123f19918ac1bc7210408</guid>
-<pubDate>Thu, 21 May 2026 18:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/680f8c3b-c680-4412-9269-b71701aa1362" alt="miniatura"/></p><p>Miejski Ośrodek Kultury w Piotrkowie Trybunalskim ogłosił nabór na stanowisko realizatora dźwięku . To okazja dla osób z pasją do muzyki i technologii, które chciałyby zdobyć doświadczenie w obsłudze nagłośnienia podczas różnorodnych wydarzeń kulturalnych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/680f8c3b-c680-4412-9269-b71701aa1362" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/680f8c3b-c680-4412-9269-b71701aa1362" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/680f8c3b-c680-4412-9269-b71701aa1362"/>
 </item>
 </channel></rss>
