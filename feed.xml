@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 13 Jul 2026 12:25:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 15:58:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Mon, 13 Jul 2026 15:58:26 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Zmiany na skrzyżowaniach w Piotrkowie. Rusza kolejny etap</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Ulica w Piotrkowie ze zmianą w organizacji ruchu. Rusza kolejny etap ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ulica-w-piotrkowie-ze-zmiana-w-organizacji-ruchu-rusza-kolejny-etap/sXESLUn7TOmmK4RnLFP7</link>
+<guid isPermaLink="false">be33861579d0ca2c1b8968bb476b48d38642cfe7</guid>
+<pubDate>Mon, 13 Jul 2026 15:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/df066a08-c8b7-4da3-a900-ef24a7d00e2e" alt="miniatura"/></p><p>W Piotrkowie trwają prace związane z rozbudową ul. Kwiatowej. Przedsiębiorstwo Robót Drogowo-Mostowych poinformowało, że od 14 lipca całkowicie zamknięte dla ruchu będzie skrzyżowanie ul. Białej z ul. Kwiatową . Powodem są roboty wodno-kanalizacyjne. To kolejny etap inwestycji prowadzonej na tej ulicy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/df066a08-c8b7-4da3-a900-ef24a7d00e2e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/df066a08-c8b7-4da3-a900-ef24a7d00e2e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/df066a08-c8b7-4da3-a900-ef24a7d00e2e"/>
+</item>
+<item>
+<title><![CDATA[ Rekordowa edycja w Piotrkowie. Tutaj zaczynała Iga Świątek ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekordowa-edycja-w-piotrkowie-tutaj-zaczynala-iga-swiatek/IIgTwlcSL8YiFBhcuhCC</link>
+<guid isPermaLink="false">45e404d87aec238e74a8d9efad9b23aa0c20440d</guid>
+<pubDate>Mon, 13 Jul 2026 15:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd63a10-831a-4dd5-a7cf-29e2b2bbc65e" alt="miniatura"/></p><p>Przed nami 23. edycja Ogólnopolskiego Festiwalu Krasnali i Krasnalek do lat 10. Kozica Cup odbędzie się w dniach 18-21 lipca na 8 kortach Ośrodka Sportu i Rekreacji przy ul. Belzackiej. Jak zapowiada urząd miasta, w tegorocznej edycji festiwalu udział weźmie rekordowa liczba zawodników z Polski i zagranicy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd63a10-831a-4dd5-a7cf-29e2b2bbc65e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd63a10-831a-4dd5-a7cf-29e2b2bbc65e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd63a10-831a-4dd5-a7cf-29e2b2bbc65e"/>
+</item>
 <item>
 <title><![CDATA[ Piotrcovia poznała terminarz na sezon 2026/2027! Kiedy i z kim inauguracja ORLEN Superligi Kobiet? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/piotrcovia-poznal-terminarz-na-sezon-20262027-kiedy-i-z-kim-inauguracja-orlen-superligi-kobiet/MMsjPijUDJ8u7Ts8ZEOs</link>
@@ -37,16 +67,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c3548-6390-4e32-aef7-17c2f0b301ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c3548-6390-4e32-aef7-17c2f0b301ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/194c3548-6390-4e32-aef7-17c2f0b301ad"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Mon, 13 Jul 2026 12:25:59 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Piotrcovia poznała terminarz na nowy sezon! Kiedy i z kim pierwsze mecze i hity?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianki w ogólnopolskim konkursie 30+. Piękne Marlena i Weronika walczą o koronę ]]></title>
@@ -1303,7 +1323,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Piotrcovia poznała terminarz na nowy sezon!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Zmiany na skrzyżowaniach w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1483,7 +1503,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Piotrcovia poznała terminarz na nowy sezon!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Zmiany na skrzyżowaniach w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3573,7 +3593,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrcovia poznała terminarz na nowy sezon!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Zmiany na skrzyżowaniach w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3717,25 +3737,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57"/>
-</item>
-<item>
-<title><![CDATA[ PKP Intercity wydało pilny komunikat. Pasażerowie mają duży problem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pkp-intercity-wydalo-pilny-komunikat-pasazerowie-maja-duzy-problem/pghAuDb3m075CM8bGRuY</link>
-<guid isPermaLink="false">a72d5c2ae1775ecf78a7c2328736f61c898e39ba</guid>
-<pubDate>Sat, 23 May 2026 11:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" alt="miniatura"/></p><p>Problemy dotyczą internetowego systemu sprzedaży biletów PKP Intercity. Pasażerowie od czwartkowego wieczoru zgłaszają trudności z zakupem przejazdów przez stronę internetową oraz aplikacje obsługujące sprzedaż online. Przewoźnik potwierdził, że doszło do poważnej awarii infrastruktury odpowiedzialnej za obsługę transakcji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2cb2c81d-f204-4988-9c0e-974dc3f496bc"/>
-</item>
-<item>
-<title><![CDATA[ Padła główna wygrana Lotto w naszym mieście. To pierwszy taki przypadek w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-wygrana-glowna-wygrana-lotto-w-naszym-miescie-to-pierwszy-taki-przypadek-w-polsce/2IX4Z4fZYfy6nHUdi3Iy</link>
-<guid isPermaLink="false">421fb06a3dbb20b93b9aa786f38c456864702c37</guid>
-<pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" alt="miniatura"/></p><p>Ta piotrkowska kolektura ma niesamowitą passę! Tylko w maju padły w niej aż dwie duże wygrane w grach Totalizatora Sportowego. Najnowsza fortuna i potężny zastrzyk gotówki powędrowały do gracza, który postanowił sprawdzić swoje szczęście w popularnych zdrapkach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/acf73154-6300-4ff4-bebf-4f38bfe5ed03"/>
 </item>
 </channel></rss>
