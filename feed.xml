@@ -6,14 +6,44 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 14 Jul 2026 06:30:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 09:20:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nowe miejsca pracy w Łódzkiem. Gigant e-commerce prowadzi rekrutację w naszym mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsca-pracy-w-lodzkiem-gigant-e-commerce-prowadzi-rekrutacje-w-naszym-miescie/JKaTEm1G1GqVGS1fdMEh</link>
+<guid isPermaLink="false">087e35351f96ab40e18e84459837daf1b94bd474</guid>
+<pubDate>Tue, 14 Jul 2026 10:54:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" alt="miniatura"/></p><p>Gigant e-commerce, firma Allegro, powiększa swoje zespoły w centrum dystrybucyjnym w Piotrkowie Trybunalskim. Sprawdzamy, jakie stanowiska są wolne i jakie wymagania stawia spółka.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557"/>
+</item>
+<item>
+<title><![CDATA[ Pilny komunikat dla mieszkańców województwa łódzkiego. Chodzi o dzisiejsze popołudnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pilny-komunikat-dla-mieszkancow-wojewodztwa-lodzkiego-chodzi-o-dzisiejsze-popoludnie/Cqf0UCG4OXMwoSzjgpIe</link>
+<guid isPermaLink="false">3597376709b946909d26e8b070856bd71c40f339</guid>
+<pubDate>Tue, 14 Jul 2026 10:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e6ffaa-53de-46fd-8846-ccd07eb8b787" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej opublikował nowe ostrzeżenia dla mieszkańców naszego regionu. Synoptycy prognozują niebezpieczne zjawiska, które mogą nadejść już za kilka godzin. Zobaczcie szczegóły prognozy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e6ffaa-53de-46fd-8846-ccd07eb8b787" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e6ffaa-53de-46fd-8846-ccd07eb8b787" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b6e6ffaa-53de-46fd-8846-ccd07eb8b787"/>
+</item>
+<item>
+<title><![CDATA[ Nowe stawki za wodę i ścieki w Piotrkowie. Podwyżka już obowiązuje! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-stawki-za-wode-i-scieki-w-piotrkowie-podwyzka-juz-obowiazuje/Y835EYeGzgb6dGDAhSsH</link>
+<guid isPermaLink="false">2a16d39b8aee2f847620a7ed975fe3aed5c97d79</guid>
+<pubDate>Tue, 14 Jul 2026 09:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/72ee629f-54c2-4c62-b576-4e5c6b9fd37d" alt="miniatura"/></p><p>Od 11 lipca 2026 roku łączna cena za dostarczenie jednego metra sześciennego wody oraz odprowadzenie ścieków wynosi 16,36 zł.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/72ee629f-54c2-4c62-b576-4e5c6b9fd37d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/72ee629f-54c2-4c62-b576-4e5c6b9fd37d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/72ee629f-54c2-4c62-b576-4e5c6b9fd37d"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 14 Jul 2026 06:30:29 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Piotrkowski dworzec i jego historia. Kolej zmieniła miasto [ZDJĘCIA]</p> ]]></description>
+<pubDate>Tue, 14 Jul 2026 09:20:18 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nowe miejsca pracy w Łódzkiem. Gigant e-commerce prowadzi rekrutację w Piotrkowie</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1333,7 +1363,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Piotrkowski dworzec i jego historia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nowe miejsca pracy w Łódzkiem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1513,7 +1543,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Piotrkowski dworzec i jego historia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nowe miejsca pracy w Łódzkiem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3603,7 +3633,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Piotrkowski dworzec i jego historia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Nowe miejsca pracy w Łódzkiem.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3717,35 +3747,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef35c61c-40e2-4b8c-8c19-49c771810b3b"/>
-</item>
-<item>
-<title><![CDATA[ Odpalają bat na kierowców pod naszym miastem. Tutaj uważajcie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/odpalaja-bat-na-kierowcow-pod-naszym-miastem-tutaj-uwazajcie/Bh3qLPrCU9tgQsZKqnCe</link>
-<guid isPermaLink="false">eb3833613762d0247a26fe154192861b4c0c3793</guid>
-<pubDate>Sun, 24 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" alt="miniatura"/></p><p>Przypomnijmy, że Główny Inspektorat Transportu Drogowego rozszerza sieć odcinkowych pomiarów prędkości o 43 nowe miejsca. Nowe restrykcje obejmą także region łódzki i okolice Piotrkowa, gdzie na autostradzie A1 ruszyły już prace instalacyjne. Nowoczesny system ma zacząć rejestrować wykroczenia kierowców na tym odcinku w najbliższym czasie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f28dfdb5-8f67-49a0-ba92-0ed9f0116559"/>
-</item>
-<item>
-<title><![CDATA[ Kurier odbierze puszki i butelki spod drzwi. Wchodzi rewolucja w systemie kaucyjnym ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kurier-odbierze-puszki-i-butelki-spod-drzwi-wchodzi-rewolucja-w-systemie-kaucyjnym/qHsnL53pAEd7zK0nsE1T</link>
-<guid isPermaLink="false">d94647bb2ab97a49b61532b28d722f634705a4af</guid>
-<pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" alt="miniatura"/></p><p>Nową usługę uruchomił internetowy supermarket Frisco . Firma poinformowała, że klienci zamawiający zakupy online mogą przekazywać kurierowi puszki oraz butelki objęte systemem kaucyjnym bez wychodzenia z domu. Rozwiązanie ma ograniczyć problemy, z którymi już teraz mierzą się konsumenci przygotowujący się do wejścia systemu kaucyjnego w Polsce.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a0571868-7e12-432f-9a5a-0d206acdad76"/>
-</item>
-<item>
-<title><![CDATA[ Zapach palonej gumy i tłumy w amfiteatrze. Pierwszy dzień 14. Motofestynu w Moszczenicy za nami [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zapach-palonej-gumy-i-tlumy-w-amfiteatrze-pierwszy-dzien-14-motofestynu-w-moszczenicy-za-nami-zdjecia/rYMf0IIredTo7kpi4eGC</link>
-<guid isPermaLink="false">8dfdc186393192781383de5b86366bc434de3c28</guid>
-<pubDate>Sun, 24 May 2026 00:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57" alt="miniatura"/></p><p>Huk silników, zapach palonej gumy, widowiskowa jazda i solidna dawka muzyki – tak w ogromnym skrócie można podsumować to, co działo się w sobotę, 23 maja, na terenie amfiteatru w Moszczenicy. Pierwszy dzień Motofestynu za nami.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c55309db-fde8-421c-a5db-2b5ee5673c57"/>
 </item>
 </channel></rss>
