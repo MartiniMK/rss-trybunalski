@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 15 Jul 2026 14:13:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 15:52:43 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramat w naszym regionie. Klub piłkarski żegna nastoletniego Franka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dramat-w-naszym-regionie-klub-pilkarski-zegna-nastoletniego-franka/i99m3mLuKK70F7LwZsmw</link>
+<guid isPermaLink="false">f326867dae971465cf3aaf37fe70552a996a17b8</guid>
+<pubDate>Wed, 15 Jul 2026 17:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c10ac575-f745-488f-913f-717fae128368" alt="miniatura"/></p><p>Do tragicznego wypadku doszło w niedzielę, 12 lipca, na drodze wojewódzkiej nr 483 w miejscowości Chabielice. Samochód osobowy, którym podróżowała trzyosobowa rodzina, wypadł z jezdni i uderzył w drzewo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10ac575-f745-488f-913f-717fae128368" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10ac575-f745-488f-913f-717fae128368" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c10ac575-f745-488f-913f-717fae128368"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Wed, 15 Jul 2026 15:52:43 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Dramat w naszym regionie. Klub piłkarski żegna nastoletniego Franka</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ Nowe miejsca pracy w województwie łódzkim. Brytyjski gigant rekrutuje w naszym mieście ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsca-pracy-w-wojewodztwie-lodzkim-brytyjski-gigant-rekrutuje-w-naszym-miescie/jczT3vausMagyAgHAiFI</link>
@@ -27,16 +47,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/042e81a1-75fc-4f46-93ff-1e74ef90cdce" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/042e81a1-75fc-4f46-93ff-1e74ef90cdce" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/042e81a1-75fc-4f46-93ff-1e74ef90cdce"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Wed, 15 Jul 2026 14:13:03 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nowe miejsca pracy w województwie łódzkim. Brytyjski gigant rekrutuje w Piotrkowie</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Awantura pod Piotrkowem - Audi zajechało drogę kierowcy. Jest nagranie! ]]></title>
@@ -1949,16 +1959,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -1967,6 +1967,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3757,15 +3767,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154"/>
-</item>
-<item>
-<title><![CDATA[ Kolejki NFZ do kardiologów w Piotrkowie Trybunalskim. Ile trzeba czekać na wizytę? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejki-nfz-do-kardiologow-w-piotrkowie-trybunalskim-ile-trzeba-czekac-na-wizyte/3pDgZaXzjA9qsjXRSBv8</link>
-<guid isPermaLink="false">039bda97f62e01fcb33e2d7c8fa5502d9db52d33</guid>
-<pubDate>Tue, 26 May 2026 09:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/862b9bfa-d9c4-46be-b17d-b2a86144588f" alt="miniatura"/></p><p>al. Armii Krajowej 22 B/3, Piotrków Trybunalski tel. 44 649 63 20 termin: 27.05.2026 świadczenie: poradnia kardiologiczna</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/862b9bfa-d9c4-46be-b17d-b2a86144588f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/862b9bfa-d9c4-46be-b17d-b2a86144588f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/862b9bfa-d9c4-46be-b17d-b2a86144588f"/>
 </item>
 </channel></rss>
