@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 15 Jul 2026 09:27:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 11:51:24 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Awantura pod Piotrkowem - Audi zajechało drogę kierowcy. Jest nagranie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/awantura-pod-piotrkowem-audi-zajechalo-droge-kierowcy-jest-nagranie/ZSQwO4EVYA3vJOLRQ92A</link>
+<guid isPermaLink="false">2a60276e40c94eae4a3a60338eaa1515feba1f5a</guid>
+<pubDate>Wed, 15 Jul 2026 13:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9c4be238-b38d-4c40-b08e-9f1e4f84a002" alt="miniatura"/></p><p>Do zdarzenia doszło 4 lipca 2026 roku około godz. 19:10 na trasie S8 w kierunku Piotrkowa Trybunalskiego. Sytuacja rozegrała się w rejonie Miejsca Obsługi Podróżnych Urzut, gdzie znajdują się m.in. stacja paliw Amic oraz restauracja McDonald’s.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c4be238-b38d-4c40-b08e-9f1e4f84a002" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c4be238-b38d-4c40-b08e-9f1e4f84a002" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9c4be238-b38d-4c40-b08e-9f1e4f84a002"/>
+</item>
+<item>
+<title><![CDATA[ Szalony rajd w powiecie piotrkowskim. Nie uwierzycie, ile miał na liczniku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/szalony-rajd-w-powiecie-piotrkowskim-nie-uwierzycie-ile-mial-na-liczniku/DnfcxHlgqcycbIckWb6A</link>
+<guid isPermaLink="false">c6577b7e76082ac012b8a4914812dbf2e305e01f</guid>
+<pubDate>Wed, 15 Jul 2026 11:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eb74f8d6-b97b-4846-bb25-b550947d4cfc" alt="miniatura"/></p><p>Wszystko działo się w poniedziałek, 13 lipca w miejscowości Biskupia Wola. Funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji w Piotrkowie Trybunalskim, pełniąc służbę na terenie powiatu, prowadzili statyczne pomiary prędkości. Po godzinie 18.00 zatrzymali do kontroli drogowej kierującego samochodem osobowym marki Saab, który jechał o ponad 90 km/h za szybko w terenie zabudowanym.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb74f8d6-b97b-4846-bb25-b550947d4cfc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb74f8d6-b97b-4846-bb25-b550947d4cfc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eb74f8d6-b97b-4846-bb25-b550947d4cfc"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Wed, 15 Jul 2026 11:51:24 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Awantura pod Piotrkowem - Audi zajechało drogę kierowcy. Jest nagranie!</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ Groźny wypadek w powiecie piotrkowskim. Osobówka wjechała w drzewo, jedna osoba zabrana do szpitala [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-powiecie-piotrkowskim-osobowka-wjechala-w-drzewo-jedna-osoba-zabrana-do-szpitala-zdjecia/h366hKqlSV1MAAWGzujD</link>
@@ -27,16 +57,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Wed, 15 Jul 2026 09:27:53 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim. Osobówka wjechała w drzewo, jedna osoba zabrana do szpitala [ZDJĘCIA]</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Mistrzowie Polski ścigali się w Piotrkowie. Był tu słynny rajd samochodowy [ZDJĘCIA] ]]></title>
@@ -1463,7 +1483,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Awantura pod Piotrkowem - Audi zajechało drogę kierowcy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1643,7 +1663,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Awantura pod Piotrkowem - Audi zajechało drogę kierowcy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3733,29 +3753,9 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Awantura pod Piotrkowem - Audi zajechało drogę kierowcy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
-</item>
-<item>
-<title><![CDATA[ Dramat na A1. Pokazali film ze śmiertelnego wypadku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-na-a1-pokazali-film-ze-smiertelnego-wypadku/BzgyFvqWBT8C98GTphht</link>
-<guid isPermaLink="false">c4bc100e244760f6bb4327567bd3db51dd0dbc65</guid>
-<pubDate>Mon, 25 May 2026 17:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/91b0b35a-746d-489b-bfd5-0a3202b71f8b" alt="miniatura"/></p><p>W niedzielę, 24 maja, w Tuszynie na autostradzie A1 w kierunku Gdańska doszło do tragicznego w skutkach zdarzenia. Około godziny 2:00 zderzyły się tam dwa pojazdy. Do akcji ruszyły służby w tym straż pożarna, policjanci oraz zespół ratownictwa medycznego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/91b0b35a-746d-489b-bfd5-0a3202b71f8b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/91b0b35a-746d-489b-bfd5-0a3202b71f8b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/91b0b35a-746d-489b-bfd5-0a3202b71f8b"/>
-</item>
-<item>
-<title><![CDATA[ Dzień Dziecka w Piotrkowie. Co się będzie działo w mieście? Program wydarzeń ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dzien-dziecka-w-piotrkowie-co-sie-bedzie-dzialo-w-miescie-program-wydarzen/w5Gb5GoIhcg856OvLqtU</link>
-<guid isPermaLink="false">d8f0f2f500997dd061b2d36a7fae18134afd37be</guid>
-<pubDate>Mon, 25 May 2026 15:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" alt="miniatura"/></p><p>Główne miejskie wydarzenie z okazji Dnia Dziecka odbędzie się w niedzielę, 31 maja w parku linowym Linarium przy ul. Belzackiej 108. Zabawa potrwa od godziny 12:00 do 15:00.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221"/>
 </item>
 </channel></rss>
