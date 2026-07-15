@@ -6,14 +6,34 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 15 Jul 2026 06:36:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 09:27:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Groźny wypadek w powiecie piotrkowskim. Osobówka wjechała w drzewo, jedna osoba zabrana do szpitala [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-powiecie-piotrkowskim-osobowka-wjechala-w-drzewo-jedna-osoba-zabrana-do-szpitala-zdjecia/h366hKqlSV1MAAWGzujD</link>
+<guid isPermaLink="false">2bb7be0283406b79bc2a1952e4c9eb3e6e27297b</guid>
+<pubDate>Wed, 15 Jul 2026 11:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/19faae21-4a71-4042-8cc7-db8610aaca2e" alt="miniatura"/></p><p>We wtorek, 14 lipca około godz. 14:30 doszło do wypadku na 8 km DW 742, na wysokości miejscowości Biała. W zdarzeniu brały udział samochód osobowy oraz ciągnik rolniczy. Na miejscu interweniowały służby, w tym policjanci oraz zespół ratownictwa medycznego. Droga była całkowicie zablokowana. Poznaliśmy więcej szczegółów na temat tego zdarzenia.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/19faae21-4a71-4042-8cc7-db8610aaca2e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/19faae21-4a71-4042-8cc7-db8610aaca2e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/19faae21-4a71-4042-8cc7-db8610aaca2e"/>
+</item>
+<item>
+<title><![CDATA[ Groźny wypadek hulajnogistki w Sulejowie. Śmigłowiec LPR zabrał 16-latkę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-hulajnogistki-w-sulejowie-smiglowiec-lpr-zabral-16-latke/ZeBpvWfYBGBkz1SSee6S</link>
+<guid isPermaLink="false">799d4618599d67f87282c413ec4254ff15fef7fb</guid>
+<pubDate>Wed, 15 Jul 2026 10:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63" alt="miniatura"/></p><p>W środę, 15 lipca po godzinie 8:00 w Sulejowie doszło do groźnego zdarzenia. Jak się okazuje, na ul. Taraszczyńskiej 16-letnia hulajnogistka przewróciła się, a na miejscu musiały interweniować służby. Do akcji ruszyli policjanci, zespół ratownictwa medycznego, a także strażacy. Poznaliśmy pierwsze informacje na temat wypadku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d53f6b1-4d72-4ad4-83d0-9afee2276d63"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Wed, 15 Jul 2026 06:36:23 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Mistrzowie Polski ścigali się w Piotrkowie. Był tu słynny rajd samochodowy [ZDJĘCIA]</p> ]]></description>
+<pubDate>Wed, 15 Jul 2026 09:27:53 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim. Osobówka wjechała w drzewo, jedna osoba zabrana do szpitala [ZDJĘCIA]</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1443,7 +1463,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Mistrzowie Polski ścigali się w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1623,7 +1643,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Mistrzowie Polski ścigali się w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3713,7 +3733,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-mamy-2026-krotkie-dluzsze-i-gotowe-do-wyslania/tCSDxWtAdtB0F8pDfqHF</link>
 <guid isPermaLink="false">11abf2078c80c83c5916871f5a1ddaaca5019bbb</guid>
 <pubDate>Tue, 26 May 2026 08:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Mistrzowie Polski ścigali się w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" alt="miniatura"/></p><p>Groźny wypadek w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae0a167b-a816-474a-9014-f0c9f376c97a"/>
@@ -3737,25 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6ea061f-781e-4dbb-b63e-1dc2b0b90221"/>
-</item>
-<item>
-<title><![CDATA[ Złowił „rybę życia” w naszym powiecie. Wiadomo, ile ważył olbrzym ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zlowil-rybe-zycia-w-naszym-powiecie-wiadomo-ile-wazyl-olbrzym/Q3y0EGcuALNq7p7N2f0i</link>
-<guid isPermaLink="false">2aef85aeb73316562e83b4a9f514e2e3af6d77b9</guid>
-<pubDate>Mon, 25 May 2026 14:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" alt="miniatura"/></p><p>Czasami w najmniej spodziewanych momentach tworzą się historie, które pamięta się do końca życia. Przekonał się o tym Damian, członek lokalnego koła wędkarskiego, dla którego pewien kwietniowy dzień zamienił się w niesamowite przeżycie. Poławiacz po dniu w pracy postanowił spontanicznie pojechać nad Zalew Sulejowski w okolice Murowańca. Wyjazd, który miał być jedynie chwilą relaksu i ucieczką od c…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fe3b5966-0fcc-41b2-9d68-9fe858ee5e0b"/>
-</item>
-<item>
-<title><![CDATA[ Zenek Martyniuk w naszym powiecie. Tyle kosztował występ króla disco polo ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zenek-martyniuk-w-naszym-powiecie-tyle-kosztowal-wystep-krola-disco-polo/t9sXJYAs3A3oUwzUYYWB</link>
-<guid isPermaLink="false">de601c6b6ef22d0c10aa431d3831a454159f0aa9</guid>
-<pubDate>Mon, 25 May 2026 12:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4e7262-90de-4463-9c83-bb95db7c5c20" alt="miniatura"/></p><p>Święta gminne i lokalne dożynki w powiecie piotrkowskim od lat przyciągają tłumy mieszkańców, a samorządy prześcigają się w zapraszaniu gwiazd z czołówki polskiej sceny muzycznej. Jak do tej pory, dużym zainteresowaniem cieszył się występ niekwestionowanego króla disco polo – Zenka Martyniuka, który uświetnił Święto Gminy Grabica. Wydarzenie zgromadziło niemałą publiczność, która wspólnie z artyst…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4e7262-90de-4463-9c83-bb95db7c5c20" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4e7262-90de-4463-9c83-bb95db7c5c20" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b4e7262-90de-4463-9c83-bb95db7c5c20"/>
 </item>
 </channel></rss>
