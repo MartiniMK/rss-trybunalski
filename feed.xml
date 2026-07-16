@@ -6,17 +6,41 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Jul 2026 06:36:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 09:32:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nie jedz tych lodów! GIS pilne ostrzeżenie, podano konkretną markę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nie-jedz-tych-lodow-gis-pilne-ostrzezenie-podano-konkretna-marke/klWF1WlmOIZ6vUQp3Gmr</link>
+<guid isPermaLink="false">3bed0e95a939231b6b1c65a9d4b5007aa3a78f86</guid>
+<pubDate>Thu, 16 Jul 2026 10:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/deb1e861-081a-460b-a6c8-5e9e0016002d" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące produktu dostępnego w popularnej sieci handlowej. Cztery partie lodów zostały wycofane z obrotu z powodu ryzyka obecności składnika, którego nie wskazano na opakowaniu. Komunikat jest szczególnie ważny dla osób z alergią pokarmową, ponieważ spożycie produktu może wywołać niebezpieczną reakcję organizmu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/deb1e861-081a-460b-a6c8-5e9e0016002d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/deb1e861-081a-460b-a6c8-5e9e0016002d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/deb1e861-081a-460b-a6c8-5e9e0016002d"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 16 Jul 2026 06:36:11 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Bierzcie koce i patrzymy w niebo. Zapowiada się wyjątkowy spektakl</p> ]]></description>
+<pubDate>Thu, 16 Jul 2026 09:32:54 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Nie jedz tych lodów! GIS wydał ostrzeżenie dla popularnych smakołyków</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/licytacje-komornicze-w-piotrkowie-trybunalskim-co-idzie-pod-mlotek-i-za-ile/XhB1N4L3KisOfaW7ZebC ]]></title>
+<link>https://trybunalski.pl/wiadomosci/licytacje-komornicze-w-piotrkowie-trybunalskim-co-idzie-pod-mlotek-i-za-ile/XhB1N4L3KisOfaW7ZebC</link>
+<guid isPermaLink="false">c1e398bb7eb341ee05557ca514da982990593e45</guid>
+<pubDate>Thu, 16 Jul 2026 09:32:54 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
+</item>
+<item>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/samochod-wjechal-w-kobiete-na-pasach-w-piotrkowie-policja-ustala-co-z-dzieckiem/dx2zoPo7nnqLfbfpBmQK ]]></title>
+<link>https://trybunalski.pl/wiadomosci/samochod-wjechal-w-kobiete-na-pasach-w-piotrkowie-policja-ustala-co-z-dzieckiem/dx2zoPo7nnqLfbfpBmQK</link>
+<guid isPermaLink="false">c8c141ad2d2b734ec54892aadf1cbd5824b7c842</guid>
+<pubDate>Thu, 16 Jul 2026 09:32:54 +0000</pubDate>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Bierzcie koce i patrzymy w niebo. Zapowiada się wyjątkowy spektakl ]]></title>
@@ -1409,16 +1433,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53"/>
 </item>
 <item>
-<title><![CDATA[ Gigant rekrutuje w naszym mieście. Dostępne trzy stanowiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-rekrutuje-w-naszym-miescie-dostepne-trzy-stanowiska/xFD22JUtIjDAgh7Nfwth</link>
-<guid isPermaLink="false">5a6ed14aead399003c045f59e93e613a85258e8f</guid>
-<pubDate>Fri, 26 Jun 2026 14:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" alt="miniatura"/></p><p>Znana platforma e-commerce prowadzi nabór do swojego centrum dystrybucyjnego przy piotrkowskim węźle S8. Sprawdziliśmy szczegóły trwającej rekrutacji. Dowiedz się, jakie warunki i benefity spółka oferuje przyszłym pracownikom oraz jakie wymagania stawia kandydatom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5a98755-10f7-4e15-a01a-860b85e7f854"/>
-</item>
-<item>
 <title><![CDATA[ Mało osób wie o tym zamku w naszym powiecie. Jest kasa na remont ]]></title>
 <link>https://trybunalski.pl/wiadomosci/malo-osob-wie-o-tym-zamku-w-naszym-powiecie-jest-kasa-na-remont/LzrtkPm7U9dUlAxBd8jg</link>
 <guid isPermaLink="false">e72b39e9b19d7b348d51af7e154fdb29009617e4</guid>
@@ -1569,16 +1583,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d009532-48df-4794-b076-f79e2ef57adc"/>
 </item>
 <item>
-<title><![CDATA[ Kolejna amunicja znaleziona w piotrkowskim muzeum ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejna-amunicja-znaleziona-w-piotrkowskim-muzeum/oaKY2qgfoE6bmOdAuy3A</link>
-<guid isPermaLink="false">738d39b27f56bee2ecd3e982625ffaa69a7739ef</guid>
-<pubDate>Wed, 24 Jun 2026 18:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/68098d37-5e5c-46d6-83fd-f816733d6b8a" alt="miniatura"/></p><p>Do zdarzenia doszło w czasie działań prowadzonych w jednym z pomieszczeń muzeum, gdzie kilka dni temu natrafiono już na niebezpieczne znaleziska. Komisja inwentaryzacyjna, działając zgodnie z zaleceniami policji, ponownie przeglądała zasoby i przedmioty przechowywane w tym miejscu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/68098d37-5e5c-46d6-83fd-f816733d6b8a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/68098d37-5e5c-46d6-83fd-f816733d6b8a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/68098d37-5e5c-46d6-83fd-f816733d6b8a"/>
-</item>
-<item>
 <title><![CDATA[ Pod Piotrkowem ruszyły nowe kamery i "ludzie zaczęli robić coś dziwnego". Oburzony kierowca pisze do redakcji ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pod-piotrkowem-ruszyly-nowe-kamery-i-ludzie-zaczeli-robic-cos-dziwnego-oburzony-kierowca-pisze-do-redakcji/0lQysVPD7M9jqjX8udNE</link>
 <guid isPermaLink="false">4bf668c1ba7a77bddcf324ab714524b0e39e94da</guid>
@@ -1587,16 +1591,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f"/>
-</item>
-<item>
-<title><![CDATA[ Licytacje komornicze w Piotrkowie Trybunalskim. Co idzie pod młotek i za ile? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/licytacje-komornicze-w-piotrkowie-trybunalskim-co-idzie-pod-mlotek-i-za-ile/XhB1N4L3KisOfaW7ZebC</link>
-<guid isPermaLink="false">c1e398bb7eb341ee05557ca514da982990593e45</guid>
-<pubDate>Wed, 24 Jun 2026 15:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" alt="miniatura"/></p><p>Przedmiotem sprzedaży są udziały w prawie własności, a nie całe nieruchomości, co oznacza, że nabywcy wchodzą we współwłasność z innymi osobami. Licytacje różnią się zakresem udziałów, lokalizacjami oraz stanem technicznym obiektów, jednak wszystkie dotyczą nieruchomości położonych na terenie miasta Piotrków Trybunalski.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778"/>
 </item>
 <item>
 <title><![CDATA[ Alert drugiego stopnia dla całego woj. łódzkiego. Zacznie się już jutro! ]]></title>
@@ -1623,7 +1617,7 @@
 <link>https://trybunalski.pl/wiadomosci/najlepsi-uczniowie-z-piotrkowa-na-liscie-ponad-80-osob/A2AyzjFLpcran3iPwTa7</link>
 <guid isPermaLink="false">e8228171a86cecc8d70d4b2a5f3b18461f1f48e2</guid>
 <pubDate>Wed, 24 Jun 2026 12:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dbe7c8f2-6a0d-4b62-b293-563fe1200ffd" alt="miniatura"/></p><p>Najlepsi uczniowie i absolwenci szkół działających w Piotrkowie Trybunalskim spotkali się we wtorek, 23 czerwca, w auli I Liceum Ogólnokształcącego. To właśnie tam odbyło się uroczyste wręczenie nagród prezydenta miasta.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dbe7c8f2-6a0d-4b62-b293-563fe1200ffd" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/najlepsi-uczniowie-z-piotrkowa-na-liscie-ponad-80-osob/A2AyzjFLpcran3iPwTa7 is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbe7c8f2-6a0d-4b62-b293-563fe1200ffd" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbe7c8f2-6a0d-4b62-b293-563fe1200ffd" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dbe7c8f2-6a0d-4b62-b293-563fe1200ffd"/>
@@ -1637,16 +1631,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d2ac178-a7db-49c5-926f-3a884454d430" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d2ac178-a7db-49c5-926f-3a884454d430" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d2ac178-a7db-49c5-926f-3a884454d430"/>
-</item>
-<item>
-<title><![CDATA[ Radni jednogłośni. Burmistrz Sulejowa z wotum zaufania i absolutorium ]]></title>
-<link>https://trybunalski.pl/wiadomosci/radni-jednoglosni-burmistrz-sulejowa-z-wotum-zaufania-i-absolutorium/Gv1Tr7M9zmkyPb3XymCC</link>
-<guid isPermaLink="false">ccbb9fd5f6c8606e4467dc511307cfed8432748a</guid>
-<pubDate>Tue, 23 Jun 2026 14:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3d0f60c4-7795-4eb0-b565-533867c472fb" alt="miniatura"/></p><p>XXXVI Sesja Rady Miejskiej w Sulejowie odbyła się w poniedziałek, 22 czerwca. Jednym z najważniejszych punktów obrad była ocena działalności samorządu oraz wykonania ubiegłorocznego budżetu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d0f60c4-7795-4eb0-b565-533867c472fb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d0f60c4-7795-4eb0-b565-533867c472fb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3d0f60c4-7795-4eb0-b565-533867c472fb"/>
 </item>
 <item>
 <title><![CDATA[ Baseny letnie w Piotrkowie otwierają się na wakacje. Znamy datę i godziny ]]></title>
@@ -1677,16 +1661,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d"/>
-</item>
-<item>
-<title><![CDATA[ Samochód wjechał w kobietę na pasach w Piotrkowie. Policja ustala, co z dzieckiem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/samochod-wjechal-w-kobiete-na-pasach-w-piotrkowie-policja-ustala-co-z-dzieckiem/dx2zoPo7nnqLfbfpBmQK</link>
-<guid isPermaLink="false">c8c141ad2d2b734ec54892aadf1cbd5824b7c842</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" alt="miniatura"/></p><p>Policja przekazała nowe ustalenia w sprawie wypadku na ul. Piłsudskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c"/>
 </item>
 <item>
 <title><![CDATA[ Wypadek szkolnego autobusu. Na miejscu lądował śmigłowiec ratunkowy ]]></title>
@@ -1969,16 +1943,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -1987,6 +1951,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3767,15 +3741,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/487b382a-758d-4c42-875b-1f2c4a5a15b1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/487b382a-758d-4c42-875b-1f2c4a5a15b1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/487b382a-758d-4c42-875b-1f2c4a5a15b1"/>
-</item>
-<item>
-<title><![CDATA[ Pożar w zakładzie w Piotrkowie. Na miejscu trzy zastępy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-zakladzie-w-piotrkowie-na-miejscu-trzy-zastepy/y8EwQepQfgsOmHMkczJ9</link>
-<guid isPermaLink="false">958b8bf9ed4004289c3af172289294f427d299d0</guid>
-<pubDate>Tue, 26 May 2026 10:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154" alt="miniatura"/></p><p>We wtorek, 26 maja strażacy z Piotrkowa Trybunalskiego ruszyli na alarm. Powodem był pożar w zakładzie przemysłowym przy ulicy Sulejowskiej w naszym mieście.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7c89886c-c70c-41ad-9ff0-01a00a2ca154"/>
 </item>
 </channel></rss>
