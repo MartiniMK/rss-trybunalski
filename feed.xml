@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Jul 2026 11:57:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 14:21:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Urząd wydał komunikat. Chodzi o Zalew Sulejowski ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzad-wydal-komunikat-chodzi-o-zalew-sulejowski/o1WaaJXX34cQjFx3uPkx</link>
+<guid isPermaLink="false">5c1497318196e0591ea239fb67b49aa5f1b350c6</guid>
+<pubDate>Thu, 16 Jul 2026 15:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" alt="miniatura"/></p><p>Chodzi o gwałtownie obniżający się poziom wody w zbiorniku. Jak przekazał Regionalny Zarząd Gospodarki Wodnej w Warszawie, sytuacja ta jest bezpośrednim skutkiem pogłębiającej się suszy hydrologicznej, z którą zmaga się nasz region. Choć Zbiornik Wodny Sulejów wciąż pracuje zgodnie z obowiązującą instrukcją gospodarowania wodą, to brak opadów i wysokie temperatury robią swoje.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Thu, 16 Jul 2026 14:21:56 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Urząd wydał komunikat. Chodzi o Zalew Sulejowski</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Nowy obiekt w centrum miasta. Co tam powstanie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-obiekt-w-centrum-miasta-co-tam-powstanie/89YKZvTdc23tGSBlJP8B</link>
+<guid isPermaLink="false">e226cbc6743c662a73038dfda05055b5b0afc385</guid>
+<pubDate>Thu, 16 Jul 2026 14:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" alt="miniatura"/></p><p>Krajobraz Piotrkowa Trybunalskiego zmienia się, a z mapy miasta zniknął kolejny obiekt. Przy ulicy Słowackiego 54 ruszyły intensywne prace rozbiórkowe. W miejscu wysłużonego budynku ma stanąć nowoczesny obiekt.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab"/>
+</item>
 <item>
 <title><![CDATA[ Po 1000 zł dla Piotrkowian. Urząd przyjmuje wnioski do końca sierpnia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/po-1000-zl-dla-piotrkowian-urzad-przyjmuje-wnioski-do-konca-sierpnia/7LcISzcjYnHIRUFOC1VS</link>
@@ -37,16 +67,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ca6bd839-4108-47bf-8090-7f83ae847898" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ca6bd839-4108-47bf-8090-7f83ae847898" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ca6bd839-4108-47bf-8090-7f83ae847898"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 16 Jul 2026 11:57:56 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Po 1000 zł dla Piotrkowian. Urząd przyjmuje wnioski do końca sierpnia</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Szykuje się piknik w Piotrkowie. Mieszkańcy poznają nową maskotkę ]]></title>
@@ -163,7 +183,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-droga-zablokowana-sluzby-na-miejscu/IIDmY564Zs4EzHfzm1xS</link>
 <guid isPermaLink="false">acf7277cd5dd293907042b8cbf19a5f0712754c6</guid>
 <pubDate>Tue, 14 Jul 2026 16:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/99d30c37-4dde-4174-a62d-81ab1ff99169" alt="miniatura"/></p><p>We wtorek, 14 lipca około godz. 14:30 doszło do wypadku na 8 km DW 742, na wysokości miejscowości Biała. Z informacji przekazanych przez świadków wynika, że w zdarzeniu udział brały dwa pojazdy: samochód osobowy oraz ciągnik z przyczepą. Osobówka miała uderzyć w drzewo. Na tę chwilę Komenda Miejska Policji w Piotrkowie Trybunalskim podała informację, że funkcjonariusze wyjaśniają okoliczności tego…</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/99d30c37-4dde-4174-a62d-81ab1ff99169" alt="miniatura"/></p><p>We wtorek, 14 lipca około godz. 14:30 doszło do wypadku na 8 km DW 742, na wysokości miejscowości Biała. Z informacji przekazanych przez świadków wynika, że w zdarzeniu udział brały dwa pojazdy: samochód osobowy oraz ciągnik z przyczepą. Osobówka miała uderzyć w drzewo. Na tę chwilę Komenda Miejska Policji w Piotrkowie Trybunalskim podała komunikat, że funkcjonariusze wyjaśniają okoliczności tego…</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/99d30c37-4dde-4174-a62d-81ab1ff99169" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/99d30c37-4dde-4174-a62d-81ab1ff99169" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/99d30c37-4dde-4174-a62d-81ab1ff99169"/>
@@ -2019,16 +2039,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -2037,6 +2047,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3747,25 +3767,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077"/>
-</item>
-<item>
-<title><![CDATA[ Turniej Orlen Beach Volley Tour rozstrzygnięty. Tak grali w Sulejowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/turniej-orlen-beach-volley-tour-rozstrzygniety-tak-grali-w-sulejowie/ZtJDaKXixCSGjqEPANgJ</link>
-<guid isPermaLink="false">71246fc96903b0bd9109e85a44d0d64ea454febc</guid>
-<pubDate>Tue, 26 May 2026 15:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fec91fe2-4077-4ce0-965f-ea61c2df85a3" alt="miniatura"/></p><p>Orlen Beach Volley Tour 2026 rozpoczął się w Sulejowie w piątek, 22 maja. Turniej odbywał się na terenie Centrum Sportów Plażowych Szkoły Podstawowej nr 1 im. Jana Pawła II w Sulejowie. To miejsce dobrze znane zawodniczkom, zawodnikom i kibicom, bo właśnie tutaj od lat organizowane są ważne imprezy siatkówki plażowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fec91fe2-4077-4ce0-965f-ea61c2df85a3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fec91fe2-4077-4ce0-965f-ea61c2df85a3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fec91fe2-4077-4ce0-965f-ea61c2df85a3"/>
-</item>
-<item>
-<title><![CDATA[ Gigantyczna inwestycja i setki miejsc pracy pod naszym miastem. Wydano oficjalny komunikat ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigantyczna-inwestycja-i-setki-miejsc-pracy-pod-naszym-miastem-wydano-oficjalny-komunikat/dLD1bMGbOAmy8fxwqJv3</link>
-<guid isPermaLink="false">e5adee2fb58ddc0659734563f8ed62e2b2416a88</guid>
-<pubDate>Tue, 26 May 2026 15:32:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b3fca9-29ba-4cda-b3f1-7f24176905f7" alt="miniatura"/></p><p>W czwartek, 21 maja w Majkowie Dużym odbyła się uroczystość wkopania kamienia węgielnego pod budowę nowego centrum dystrybucyjnego Piotrków II DC3, realizowanego przez Mapletree Investments Pte Ltd dla Agata S.A. Przypomnijmy, że projekt to część największej transakcji najmu powierzchni logistycznej w Polsce w 2025 roku, obejmującej łącznie ok. 128 000 m².</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b3fca9-29ba-4cda-b3f1-7f24176905f7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b3fca9-29ba-4cda-b3f1-7f24176905f7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b3fca9-29ba-4cda-b3f1-7f24176905f7"/>
 </item>
 </channel></rss>
