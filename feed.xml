@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Jul 2026 14:21:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 16:34:11 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Takich miejsc jest zaledwie kilka w Polsce. Są tu perełki kolejowej przeszłości [ZDJĘCIA] ]]></title>
+<link>https://ezdunska.pl/wiadomosci/takich-miejsc-jest-zaledwie-kilka-w-polsce-sa-tu-perelki-kolejowej-przeszlosci-zdjecia/yr0ozGDcwuDyvZpiHHAK</link>
+<guid isPermaLink="false">839dd063e8fef89a5debd2a1cfb6680d4f3c6918</guid>
+<pubDate>Thu, 16 Jul 2026 17:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" alt="miniatura"/></p><p>To miejsce, do którego można wybrać się na spotkanie z historią klei i kolejowego osiedla Karsznice. Zduńskowolski Skansen Lokomotyw i Urządzeń Technicznych prezentuje aż 30 eksponatów z różnych okresów. Zwiedzanie filii Muzeum Historii Miasta Zduńska Wola jest możliwe indywidualnie, albo z przewodnikiem.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Thu, 16 Jul 2026 16:34:11 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Takich miejsc jest zaledwie kilka w Polsce. Są tu perełki kolejowej przeszłości [ZDJĘCIA]</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ Urząd wydał komunikat. Chodzi o Zalew Sulejowski ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzad-wydal-komunikat-chodzi-o-zalew-sulejowski/o1WaaJXX34cQjFx3uPkx</link>
@@ -17,16 +37,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 16 Jul 2026 14:21:56 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Urząd wydał komunikat. Chodzi o Zalew Sulejowski</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Nowy obiekt w centrum miasta. Co tam powstanie? ]]></title>
@@ -1593,7 +1603,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Sulejów znów powalczy o rekord Polski.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Takich miejsc jest zaledwie kilka w Polsce.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1773,7 +1783,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Sulejów znów powalczy o rekord Polski.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Takich miejsc jest zaledwie kilka w Polsce.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3757,15 +3767,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886e02-9476-4b3f-af98-9012ce0ed39a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886e02-9476-4b3f-af98-9012ce0ed39a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886e02-9476-4b3f-af98-9012ce0ed39a"/>
-</item>
-<item>
-<title><![CDATA[ 51 lat temu Piotrków został miastem wojewódzkim. Jakie było województwo piotrkowskie? [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/historia/51-lat-temu-piotrkow-zostal-miastem-wojewodzkim-jakie-bylo-wojewodztwo-piotrkowskie-zdjecia/L6keXW7aiFsrdyEGbkKm</link>
-<guid isPermaLink="false">d5035b5afd4077c9ada01a9192c6eec613f3397b</guid>
-<pubDate>Tue, 26 May 2026 18:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077" alt="miniatura"/></p><p>To wokół Piotrkowa jako najważniejszego ośrodka kręciło się życie w regionie od 1 czerwca 1975 roku. Miasto już wówczas drugie pod względem wielkości po Łodzi, dostało dodatkowe możliwości rozwoju. Z powiatowego stało się nagle wojewódzkim i najważniejszym ośrodkiem, od którego zależała polityka w regionie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/375cc458-11cb-4d0a-81c1-89b451c3e077"/>
 </item>
 </channel></rss>
