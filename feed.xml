@@ -6,13 +6,13 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 16 Jul 2026 22:21:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 00:14:58 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Thu, 16 Jul 2026 22:21:26 +0000</pubDate>
+<pubDate>Fri, 17 Jul 2026 00:14:58 +0000</pubDate>
 <description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Takich miejsc jest zaledwie kilka w Polsce. Są tu perełki kolejowej przeszłości [ZDJĘCIA]</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
