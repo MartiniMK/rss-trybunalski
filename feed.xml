@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 19 Jul 2026 06:47:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 09:19:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Samochód dachował i uderzył w płot. Jedna osoba ranna ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/samochod-dachowal-i-uderzyl-w-plot-jedna-osoba-ranna/O4uBkc8NTjoZDYl6Dm1m</link>
+<guid isPermaLink="false">f3c3891b7d7b43a6ae5cbfc450e2986ada230fba</guid>
+<pubDate>Sun, 19 Jul 2026 10:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" alt="miniatura"/></p><p>Około godziny 22:00 na DK 74 na wysokości miejscowości Jaksonek doszło do niebezpiecznego zdarzenia drogowego. Kierowca dachował i uderzył w betonowy płot jednej z posesji.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sun, 19 Jul 2026 06:47:14 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wydano alert dla województwa łódzkiego. W naszym powiecie właśnie się zaczyna</p> ]]></description>
+<pubDate>Sun, 19 Jul 2026 09:19:23 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot. Jedna osoba ranna</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Najmniejsza wieś w województwie ma tylko... 2 mieszkańców. Leży w naszym powiecie. Gdzie dokładnie? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-wojewodztwie-ma-tylko-2-mieszkancow-lezy-w-naszym-powiecie-gdzie-dokladnie/ZF6OvwQPVLPhBMJ8Ps3m</link>
+<guid isPermaLink="false">91d832b08fc931a554bbfbcb533b097c77cf7121</guid>
+<pubDate>Sun, 19 Jul 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" alt="miniatura"/></p><p>Poznajcie Kuźnicę Żerechowską, czyli najmniejszą wieś w Łódzkiem. Choć oficjalnie meldunek mają tu tylko dwie osoby, to system gospodarki odpadami rejestruje już trzech mieszkańców. Prawdziwa magia tego miejsca zaczyna się jednak wiosną: od maja do jesieni wieś zalewa fala sezonowych mieszkańców z całej Polski, którzy szukają tu ucieczki od miejskiego zgiełku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998"/>
 </item>
 <item>
 <title><![CDATA[ Największy taki basen w Polsce jest w Łódzkiem. Dojedziesz tam z naszego miasta w 30 minut ]]></title>
@@ -1683,7 +1703,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Wydano alert dla województwa łódzkiego.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1863,7 +1883,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Wydano alert dla województwa łódzkiego.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2129,16 +2149,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -2147,6 +2157,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3737,25 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa"/>
-</item>
-<item>
-<title><![CDATA[ MZK Piotrków: zmiany w kursowaniu. Ruszy dodatkowa linia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-zmiany-w-kursowaniu-ruszy-dodatkowa-linia/2SgYVaKL03oJPEkAxq2o</link>
-<guid isPermaLink="false">a1997e145230b28a3693f42e90521d7e8e6c4114</guid>
-<pubDate>Thu, 28 May 2026 11:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" alt="miniatura"/></p><p>Remont ulicy Jeziornej w Piotrkowie Trybunalskim wchodzi w ostatni etap. W związku z tym urząd poinformował o zmianach w organizacji ruchu. Ponadto miejskie autobusy pojadą inaczej, a pasażerowie mogą spodziewać się całkiem nowej linii na ulicach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ff0cfb45-ec22-47cd-b89d-5d6e6043a7d7"/>
-</item>
-<item>
-<title><![CDATA[ Potrącenie na przejściu w powiecie piotrkowskim. Mężczyzna przetransportowany do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/potracenie-na-przejsciu-w-powiecie-piotrkowskim-mezczyzna-przetransportowany-do-szpitala/BuUY78ZCvCbBBUL1WjdO</link>
-<guid isPermaLink="false">ddcaefb79b6716253b931d1d6c9d879a682811c9</guid>
-<pubDate>Thu, 28 May 2026 10:12:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" alt="miniatura"/></p><p>W środę, 27 maja około godz. 18:30 w Gomulinie doszło do wypadku z udziałem samochodu i hulajnogi. Poszkodowany został 28-letni mężczyzna, który przejeżdzał hulajnogą przez przejście.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e16e082-860f-46a7-b46b-0a98227ec756"/>
 </item>
 </channel></rss>
