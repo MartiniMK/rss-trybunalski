@@ -6,14 +6,24 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 19 Jul 2026 15:13:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 17:17:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/455-kajakow-na-pilicy-w-sulejowie-rekord-polski-na-najwieksza-parade-kajakowa-pobity-zdjecia/SxFvEo1hDkTonHh6GKXp</link>
+<guid isPermaLink="false">2216072e6d333b5136fd9379476826e44206210c</guid>
+<pubDate>Sun, 19 Jul 2026 18:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" alt="miniatura"/></p><p>Do udziału w wydarzeniu zgłosiło się blisko tysiąc miłośników kajakarstwa z całej Polski. Po porannej zbiórce na sulejowskiej „Polance” uczestnicy zostali przewiezieni do Kurnędza, skąd w kilku grupach rozpoczęli około sześciokilometrowy spływ Pilicą. A było to spore wyzwanie przez niski poziom wody w rzece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sun, 19 Jul 2026 15:13:55 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot. Jedna osoba ranna</p> ]]></description>
+<pubDate>Sun, 19 Jul 2026 17:17:20 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -1703,7 +1713,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -1883,7 +1893,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Samochód dachował i uderzył w płot.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2149,16 +2159,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -2167,6 +2167,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3747,15 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/960a71e0-466a-4e4d-838f-b1a80a85aae9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/960a71e0-466a-4e4d-838f-b1a80a85aae9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/960a71e0-466a-4e4d-838f-b1a80a85aae9"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowskie rondo ma nową nazwę. Nadano ją, by uhonorować... ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowskie-rondo-ma-nowa-nazwe-nadano-ja-by-uhonorowac/24TBDqKFbx0kWfG2JpOB</link>
-<guid isPermaLink="false">8eb8780ea758ab78ac13fcb4162f8bc19bbb9941</guid>
-<pubDate>Thu, 28 May 2026 12:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa" alt="miniatura"/></p><p>Rondo powstało w wyniku przebudowy ulic Rakowskiej i Wolborskiej. To tam, w bezpośrednim sąsiedztwie szpitala, kierowcy korzystają już z nowego układu drogowego. Lokalizacja nie jest przypadkowa. jak podkreślano podczas sesji, bliskość placówki medycznej, w której każdego dnia wykorzystywana jest krew i jej składniki do ratowania życia pacjentów po wypadkach, podczas operacji i w leczeniu chorób,…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d617f618-9336-4227-872d-c6b994039afa"/>
 </item>
 </channel></rss>
