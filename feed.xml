@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 21 Jul 2026 10:42:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 12:53:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Nocny pociąg ruszy do naszego miasta. Znamy już rozkład ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nocny-pociag-ruszy-do-naszego-miasta-znamy-juz-rozklad/fnDPYwHfjpDoYFAAepUP</link>
+<guid isPermaLink="false">5c7a3175cd7928658bf1f8c058f4792118e3713a</guid>
+<pubDate>Tue, 21 Jul 2026 14:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/189a05b8-cca6-4dc3-9bb3-4e2897921985" alt="miniatura"/></p><p>Już w najbliższy weekend, od 24 do 26 lipca, w stolicy województwa odbędzie się mBank Łódź Summer Festival 2026. To impreza z okazji 603. urodzin miasta, która na łódzkich Błoniach zgromadzi tysiące fanów najróżniejszych artystów. Ponieważ plenerowe koncerty potrwają do późnych godzin nocnych, organizatorzy i przewoźnicy proponują, by uczestnicy wrócili do domów koleją. Specjalnie po zakończeniu k…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/189a05b8-cca6-4dc3-9bb3-4e2897921985" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/189a05b8-cca6-4dc3-9bb3-4e2897921985" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/189a05b8-cca6-4dc3-9bb3-4e2897921985"/>
+</item>
+<item>
+<title><![CDATA[ Piraci drogowi, pijaństwo i dewastacja. Mieszkańcy wskazali policji konkretne ulice ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piraci-drogowi-pijanstwo-i-dewastacja-mieszkancy-wskazali-policji-konkretne-ulice/0sTI3FI6fQSlKaGoWiPF</link>
+<guid isPermaLink="false">10924e993cbf9de7cf56eea896d94222418a2957</guid>
+<pubDate>Tue, 21 Jul 2026 14:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e5c0a380-6238-46e1-b39f-194b2ccb321d" alt="miniatura"/></p><p>Spożywanie alkoholu w miejscach niedozwolonych, drogowa brawura oraz niszczenie zieleni to niektóre z problemów, jakie mieszkańcy Piotrkowa wskazują na Krajowej Mapie Zagrożeń Bezpieczeństwa. Platforma ta jest narzędziem ułatwiającym komunikację z mundurowymi. System działa na stronie internetowej policji i pozwala sygnalizować uciążliwe dla mieszkańców zachowania. W praktyce każdy naniesiony punk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5c0a380-6238-46e1-b39f-194b2ccb321d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5c0a380-6238-46e1-b39f-194b2ccb321d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e5c0a380-6238-46e1-b39f-194b2ccb321d"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Tue, 21 Jul 2026 12:53:20 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>W Sulejowie powstanie osiem nowych mieszkań komunalnych.</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ Jest praca w miejskiej spółce. Jakie są wymagania? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jest-praca-w-miejskiej-spolce-jakie-sa-wymagania/DrbPa1jeKjbrBEKviBD5</link>
@@ -27,16 +57,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0707295-b522-4918-bd40-5516e1c23bda" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0707295-b522-4918-bd40-5516e1c23bda" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0707295-b522-4918-bd40-5516e1c23bda"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 21 Jul 2026 10:42:10 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Jest praca w miejskiej spółce w Piotrkowie. Jakie są wymagania?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Powiatowe Obchody Święta Policji w Piotrkowie. Przyznano awanse i odznaczenia [ZDJĘCIA] ]]></title>
@@ -109,16 +129,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -127,6 +137,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -1823,7 +1843,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Jest praca w miejskiej spółce w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Nocny pociąg ruszy do Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -2003,7 +2023,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Jest praca w miejskiej spółce w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Nocny pociąg ruszy do Piotrkowa.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -2269,16 +2289,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
-<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
-</item>
-<item>
 <title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
 <guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
@@ -2287,6 +2297,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
+</item>
+<item>
+<title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
+<link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
+<guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" alt="miniatura"/></p><p>Polskie Koleje Państwowe od lat stopniowo porządkują swój majątek nieruchomościowy. W efekcie do sprzedaży trafiają lokale mieszkalne znajdujące się w dawnych budynkach kolejowych, kamienicach oraz nieruchomościach należących do spółki. Są to zarówno pustostany, jak i mieszkania, które wcześniej mogły zostać wykupione przez najemców korzystających z programów skierowanych do pracowników kolei.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -3737,25 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/95dba2dd-1d19-48e5-8d71-056b0444a617" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/95dba2dd-1d19-48e5-8d71-056b0444a617" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/95dba2dd-1d19-48e5-8d71-056b0444a617"/>
-</item>
-<item>
-<title><![CDATA[ Dramat niedaleko Piotrkowa. Wśród ofiar znany lekarz ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dramat-niedaleko-piotrkowa-wsrod-ofiar-znany-lekarz/T9NxCvEXt9GpKM2Deryg</link>
-<guid isPermaLink="false">fdb97cc03ec83ad4e6dea54dd9e945bb94fbef47</guid>
-<pubDate>Fri, 29 May 2026 13:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6aea93a5-5f81-4829-bccd-fce93f055af0" alt="miniatura"/></p><p>W niedzielę, 24 maja, w Tuszynie na autostradzie A1 w kierunku Gdańska doszło do tragicznego w skutkach zdarzenia. Około godziny 2:00 zderzyły się tam dwa pojazdy. Do akcji ruszyły służby w tym straż pożarna, policjanci oraz zespół ratownictwa medycznego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6aea93a5-5f81-4829-bccd-fce93f055af0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6aea93a5-5f81-4829-bccd-fce93f055af0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6aea93a5-5f81-4829-bccd-fce93f055af0"/>
-</item>
-<item>
-<title><![CDATA[ Awaria na przejeździe kolejowym w Piotrkowie? Wiemy o co naprawdę chodzi ]]></title>
-<link>https://trybunalski.pl/wiadomosci/awaria-na-przejezdzie-kolejowym-w-piotrkowie-wiemy-o-co-naprawde-chodzi/qr8N6qawWB09Dr0HBnG3</link>
-<guid isPermaLink="false">42f213eb109bd144ec0c2e916f8b81bf8bd28256</guid>
-<pubDate>Fri, 29 May 2026 12:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b42294a-8fcb-4a50-8314-881dc1d450b2" alt="miniatura"/></p><p>W piątek, 29 maja w mediach zaczęły pojawiać się infromacje o poważnej awarii na przejeździe kolejowo-drogowym w ciągu ul. Moryca w Piotrkowie Trybunalskim. Na miejscu pojawiły się znaki ostrzegawcze, by nie doszło do niebezpiecznego zdarzenia. Zapytaliśmy PKP Polskie Linie Kolejowe, co dzieje się na piotrkowskim przejeździe i jak się okazuje, nie można mówić o żadnej awarii. Mieszkańcy naszego mi…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b42294a-8fcb-4a50-8314-881dc1d450b2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b42294a-8fcb-4a50-8314-881dc1d450b2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b42294a-8fcb-4a50-8314-881dc1d450b2"/>
 </item>
 </channel></rss>
