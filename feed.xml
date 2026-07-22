@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 22 Jul 2026 12:05:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 14:24:32 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Łódzki przewoźnik poszukuje pracowników. Nie tylko maszynistów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/lodzki-przewoznik-poszukuje-pracownikow-nie-tylko-maszynistow/N23Sg9z51oDoE0ZQ743E</link>
+<guid isPermaLink="false">a7e90bb41e327cf4d41108994a1ce6e0d7ee148c</guid>
+<pubDate>Wed, 22 Jul 2026 15:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f8d54a3e-e318-4d2f-b558-da784e0784a4" alt="miniatura"/></p><p>Łódzka Kolej Aglomeracyjna prowadzi rekrutację na wolne stanowiska pracy. Kandydaci mogą przesyłać swoje aplikacje drogą tradycyjną lub elektroniczną, jednak warto pamiętać o pilnowaniu terminów. Jedno z ogłoszeń wygasa za kilka dni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8d54a3e-e318-4d2f-b558-da784e0784a4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8d54a3e-e318-4d2f-b558-da784e0784a4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8d54a3e-e318-4d2f-b558-da784e0784a4"/>
+</item>
+<item>
+<title><![CDATA[ Gmina Sulejów zamontuje kolejne przydomowe oczyszczalnie. Powstanie ponad 60 nowych instalacji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gmina-sulejow-zamontuje-kolejne-przydomowe-oczyszczalnie-powstanie-ponad-60-nowych-instalacji/MJnUZw08XLxBebWFthz8</link>
+<guid isPermaLink="false">442510f3f28f2e3202e3144985120a94dbe7d347</guid>
+<pubDate>Wed, 22 Jul 2026 14:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/83b45b8d-1fe7-4e29-b384-ac08740c6a1d" alt="miniatura"/></p><p>Samorząd może rozpocząć przygotowania do zakupu i montażu 66 przydomowych oczyszczalni ścieków. Inwestycja obejmie posesje należące do mieszkańców sulejowskich sołectw, którzy wcześniej złożyli odpowiednie wnioski.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b45b8d-1fe7-4e29-b384-ac08740c6a1d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b45b8d-1fe7-4e29-b384-ac08740c6a1d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/83b45b8d-1fe7-4e29-b384-ac08740c6a1d"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Wed, 22 Jul 2026 14:24:32 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Urzędy w Łódzkiem szukają kandydatów. Pensje sięgają nawet 8 tys. zł brutto</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
 <item>
 <title><![CDATA[ 43. Piesza Pielgrzymka wyruszy z Sulejowa. Ile trzeba zapłacić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/43-piesza-pielgrzymka-wyruszy-z-sulejowa-ile-trzeba-zaplacic/Djr4b2rRyBxenWJe1woL</link>
@@ -39,17 +69,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aab888d5-7332-4f1d-9b34-2e17f2bc5d12"/>
 </item>
 <item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Wed, 22 Jul 2026 12:05:28 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>43. Piesza Pielgrzymka wyruszy z Sulejowa. Ile trzeba zapłacić?</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
-</item>
-<item>
-<title><![CDATA[ Anita Lipnicka odwiedziła Piotrków i opisała szczerze, co czuje. Fala komentarzy pod postem piotrkowianki ]]></title>
+<title><![CDATA[ Anita Lipnicka odwiedziła Piotrków i opisała szczerze, co czuje. Fala komentarzy pod postem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/anita-lipnicka-odwiedzila-piotrkow-i-opisala-szczerze-co-czuje-fala-komentarzy-pod-postem-piotrkowianki/mccJUqeP8OPj6hLIUyeb</link>
 <guid isPermaLink="false">db9f9b34a9d78e987dd39241355a9ade380ae9af</guid>
 <pubDate>Wed, 22 Jul 2026 11:41:00 +0000</pubDate>
@@ -1973,7 +1993,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>43. Piesza Pielgrzymka wyruszy z Sulejowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Urzędy w Łódzkiem szukają kandydatów.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -2153,7 +2173,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>43. Piesza Pielgrzymka wyruszy z Sulejowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Urzędy w Łódzkiem szukają kandydatów.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3747,35 +3767,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/270c8704-9d5c-4284-9dde-6277da5e9f18"/>
-</item>
-<item>
-<title><![CDATA[ Rewolucja w dziedziczeniu i darowiznach już działa. Spadkobiercy odczują zmiany od razu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-dziedziczeniu-i-darowiznach-juz-dziala-spadkobiercy-odczuja-zmiany-od-razu/0UyPb4LlDoJjwHP7w0Dn</link>
-<guid isPermaLink="false">b9ddd33bd7b5900ed45fcf40e07516b47664d64b</guid>
-<pubDate>Sun, 31 May 2026 19:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/486fc16f-e6b6-427e-8b2f-c957bfecc0af" alt="miniatura"/></p><p>Najbardziej odczuwalna zmiana dotyczy samej procedury wpisu do księgi wieczystej po sporządzeniu aktu poświadczenia dziedziczenia. Przez lata spadkobiercy musieli przechodzić kilkuetapową ścieżkę, która wymagała nie tylko cierpliwości, ale też znajomości formalności.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/486fc16f-e6b6-427e-8b2f-c957bfecc0af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/486fc16f-e6b6-427e-8b2f-c957bfecc0af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/486fc16f-e6b6-427e-8b2f-c957bfecc0af"/>
-</item>
-<item>
-<title><![CDATA[ Miejski Dzień Dziecka w Piotrkowie pełen uśmiechu - Park Linowy zamienił się w krainę dziecięcej radości ZDJĘCIA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miejski-dzien-dziecka-w-piotrkowie-pelen-usmiechu-park-linowy-zamienil-sie-w-kraine-dzieciecej-radosci-zdjecia/3HMpAcqywogLl817femH</link>
-<guid isPermaLink="false">3cffaad72733d27277ae03d679cf8ed0dfeb4725</guid>
-<pubDate>Sun, 31 May 2026 15:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" alt="miniatura"/></p><p>DzieńDziecka w parku linowym w Piotrkowie Trybunalskim, 31.05.2026</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0cc03fab-6423-4c66-ae4a-370337b32788"/>
-</item>
-<item>
-<title><![CDATA[ Gigant inwestuje pod naszym miastem. Będzie nowe centrum i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-pod-naszym-miastem-bedzie-nowe-centrum-i-miejsca-pracy/7ZrVfzQzTtsCkQ9aliGF</link>
-<guid isPermaLink="false">8bdb1535cdc963a3ccaf77978188b28521f579dc</guid>
-<pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" alt="miniatura"/></p><p>Rozpoczęła się budowa nowoczesnego centrum dystrybucyjnego typu built-to-suit dla Agata S.A. w Majkowie Dużym pod Piotrkowem Trybunalskim. Inwestycja obejmuje ok. 41 800 m² powierzchni logistycznej i stanowi część największej transakcji najmu powierzchni magazynowej w Polsce w 2025 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6d68c28a-7240-4383-a9a2-0ffd898de5ca"/>
 </item>
 </channel></rss>
