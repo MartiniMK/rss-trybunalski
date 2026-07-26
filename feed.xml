@@ -6,13 +6,13 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 26 Jul 2026 12:19:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 15:20:02 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sun, 26 Jul 2026 12:19:54 +0000</pubDate>
+<pubDate>Sun, 26 Jul 2026 15:20:02 +0000</pubDate>
 <description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wszyscy znają Zalew Sulejowski. Mało kto wie, co wydarzyło się w lesie tuż obok</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
@@ -89,16 +89,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -107,6 +97,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -567,186 +567,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3adebde-08a2-4158-9ad7-3eaef6c791c5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3adebde-08a2-4158-9ad7-3eaef6c791c5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c3adebde-08a2-4158-9ad7-3eaef6c791c5"/>
-</item>
-<item>
-<title><![CDATA[ Brak prądu w Piotrkowie i powiecie piotrkowskim. PGE ostrzega mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/brak-pradu-w-piotrkowie-i-powiecie-piotrkowskim-pge-ostrzega-mieszkancow/TuO5HvavWYPZYTLvSUKC</link>
-<guid isPermaLink="false">94487fe2e3367927a211fb50305fcbda38c414b5</guid>
-<pubDate>Mon, 20 Jul 2026 11:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27" alt="miniatura"/></p><p>Numery: 23 24 26 34 35 41 43 65 67 75 76 80 83 85 96</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
-<title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
-<link>https://trybunalski.pl/wiadomosci/455-kajakow-na-pilicy-w-sulejowie-rekord-polski-na-najwieksza-parade-kajakowa-pobity-zdjecia/SxFvEo1hDkTonHh6GKXp</link>
-<guid isPermaLink="false">2216072e6d333b5136fd9379476826e44206210c</guid>
-<pubDate>Sun, 19 Jul 2026 18:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" alt="miniatura"/></p><p>Do udziału w wydarzeniu zgłosiło się blisko tysiąc miłośników kajakarstwa z całej Polski. Po porannej zbiórce na sulejowskiej „Polance” uczestnicy zostali przewiezieni do Kurnędza, skąd w kilku grupach rozpoczęli około sześciokilometrowy spływ Pilicą. A było to spore wyzwanie przez niski poziom wody w rzece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f8c7d0ea-2164-41bb-84fe-111cabf32419"/>
-</item>
-<item>
-<title><![CDATA[ Samochód dachował i uderzył w płot. Jedna osoba ranna ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/samochod-dachowal-i-uderzyl-w-plot-jedna-osoba-ranna/O4uBkc8NTjoZDYl6Dm1m</link>
-<guid isPermaLink="false">f3c3891b7d7b43a6ae5cbfc450e2986ada230fba</guid>
-<pubDate>Sun, 19 Jul 2026 10:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" alt="miniatura"/></p><p>Około godziny 22:00 na DK 74 na wysokości miejscowości Jaksonek doszło do niebezpiecznego zdarzenia drogowego. Kierowca dachował i uderzył w betonowy płot jednej z posesji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3dac1c98-e80a-4fb4-af94-127df8409a4b"/>
-</item>
-<item>
-<title><![CDATA[ Najmniejsza wieś w województwie ma tylko... 2 mieszkańców. Leży w naszym powiecie. Gdzie dokładnie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najmniejsza-wies-w-wojewodztwie-ma-tylko-2-mieszkancow-lezy-w-naszym-powiecie-gdzie-dokladnie/ZF6OvwQPVLPhBMJ8Ps3m</link>
-<guid isPermaLink="false">91d832b08fc931a554bbfbcb533b097c77cf7121</guid>
-<pubDate>Sun, 19 Jul 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" alt="miniatura"/></p><p>Poznajcie Kuźnicę Żerechowską, czyli najmniejszą wieś w Łódzkiem. Choć oficjalnie meldunek mają tu tylko dwie osoby, to system gospodarki odpadami rejestruje już trzech mieszkańców. Prawdziwa magia tego miejsca zaczyna się jednak wiosną: od maja do jesieni wieś zalewa fala sezonowych mieszkańców z całej Polski, którzy szukają tu ucieczki od miejskiego zgiełku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6c2008a9-ba8a-4481-8740-1ad7d3f9e998"/>
-</item>
-<item>
-<title><![CDATA[ Największy taki basen w Polsce jest w Łódzkiem. Dojedziesz tam z naszego miasta w 30 minut ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najwiekszy-taki-basen-w-polsce-jest-w-lodzkiem-dojedziesz-tam-z-naszego-miasta-w-30-minut/Ua08VKCXXg5vDs4LoMVA</link>
-<guid isPermaLink="false">48b393751b9519a9e760df060a0419d936109d72</guid>
-<pubDate>Sat, 18 Jul 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d30f8240-54da-4a8d-895a-b6c1041c1496" alt="miniatura"/></p><p>Ta jedna z największych atrakcji wypoczynkowych w województwie łódzkim powstała w miejscu dawnego, wyeksploatowanego kąpieliska w gminie Ujazd (powiat tomaszowski). Dziś po starym obiekcie nie ma już śladu, a nowoczesny kompleks rekreacyjny przyciąga tłumy. Co ciekawe, obiekt określany jest jako największy w Polsce basen ekologiczny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d30f8240-54da-4a8d-895a-b6c1041c1496" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d30f8240-54da-4a8d-895a-b6c1041c1496" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d30f8240-54da-4a8d-895a-b6c1041c1496"/>
-</item>
-<item>
-<title><![CDATA[ Horror mieszkańców w powiecie piotrkowskim. „Jesteśmy odcięci od świata” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/horror-mieszkancow-w-powiecie-piotrkowskim-jestesmy-odcieci-od-swiata/ETGFGBgWWYNFN6FgsXAs</link>
-<guid isPermaLink="false">a4d804feab0d56dfd2407d3fdde5157092db8d6f</guid>
-<pubDate>Fri, 17 Jul 2026 15:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc647eb-e97e-42ad-b5b4-f790d4807d4c" alt="miniatura"/></p><p>Po malowniczej okolicy rozeszły się krzyki mieszkańców i rozpaczliwe wołanie o pomoc. Sytuacja była podbramkowa – wspomina sołtyska. W każdym innym miejscu w Polsce wystarczyłoby po prostu wyciągnąć z kieszeni telefon i wybrać numer alarmowy. Ta oczywista zasada nie sprawdza się jednak w dwóch miejscowościach powiatu piotrkowskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc647eb-e97e-42ad-b5b4-f790d4807d4c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc647eb-e97e-42ad-b5b4-f790d4807d4c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5fc647eb-e97e-42ad-b5b4-f790d4807d4c"/>
-</item>
-<item>
-<title><![CDATA[ W mieszkaniu zapaliła się butla. Poparzony 82-latek ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/w-mieszkaniu-zapalila-sie-butla-poparzony-82-latek/95xFJ761VoWCBaOiPkHb</link>
-<guid isPermaLink="false">9944cb696f17dd32ad611921f2a7cf68b7c8428e</guid>
-<pubDate>Fri, 17 Jul 2026 14:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/893fbde8-1176-42f1-8833-4e953b60ea9a" alt="miniatura"/></p><p>Do pożaru w jednym z budynków w Piotrkowie doszło w piątek 17 lipca po godzinie 9:00. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/893fbde8-1176-42f1-8833-4e953b60ea9a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/893fbde8-1176-42f1-8833-4e953b60ea9a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/893fbde8-1176-42f1-8833-4e953b60ea9a"/>
-</item>
-<item>
-<title><![CDATA[ Ogromne drzewo runęło na ulicę. Na miejscu służby [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/ogromne-drzewo-runelo-na-ulice-na-miejscu-sluzby-zdjecia/Noj1ymeI44MvHMTss0ol</link>
-<guid isPermaLink="false">23e42b1c9ecb0e7f960f60e0328792610f646ad6</guid>
-<pubDate>Fri, 17 Jul 2026 14:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6c02b7f-35dc-4c1e-a420-f79955a979f5" alt="miniatura"/></p><p>W piątek, 17 lipca, po godzinie 8:00 w Piotrkowie Trybunalskim doszło do niebezpiecznego zdarzenia. Przy ul. Dąbrowskiego drzewo przewróciło się budkę z pieczywem i jezdnię. Do akcji wkroczyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6c02b7f-35dc-4c1e-a420-f79955a979f5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6c02b7f-35dc-4c1e-a420-f79955a979f5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6c02b7f-35dc-4c1e-a420-f79955a979f5"/>
-</item>
-<item>
-<title><![CDATA[ Nowe miejsca pracy w województwie łódzkim. Polski gigant rekrutuje pod naszym miastem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsca-pracy-w-wojewodztwie-lodzkim-polski-gigant-rekrutuje-pod-naszym-miastem/mQBHRgE06D8CAQd5wR4c</link>
-<guid isPermaLink="false">99169b2099d0429d67e0e7d82a97d62866702ebc</guid>
-<pubDate>Fri, 17 Jul 2026 12:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/15491856-cb43-4d31-82d2-add7238859fd" alt="miniatura"/></p><p>Jeden z największych polskich graczy na rynku meblarskim i wyposażenia wnętrz prowadzi rekrutację. Przyjrzeliśmy się aktualnym ofertom zatrudnienia. Sprawdzamy, kogo dokładnie poszukuje firma, jakie kryteria muszą spełnić kandydaci oraz na jakie warunki mogą liczyć nowo zatrudnione osoby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/15491856-cb43-4d31-82d2-add7238859fd" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/15491856-cb43-4d31-82d2-add7238859fd" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/15491856-cb43-4d31-82d2-add7238859fd"/>
-</item>
-<item>
-<title><![CDATA[ To ściśle chroniony, rzadki gatunek. Zwierzę trafiło do ośrodka w woj. łódzkim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-scisle-chroniony-rzadki-gatunek-zwierze-trafilo-do-osrodka-w-woj-lodzkim/FcWjuxto3z4OHAf5OYVf</link>
-<guid isPermaLink="false">98379bc9ea4964520844331a9484db6ec111e65f</guid>
-<pubDate>Fri, 17 Jul 2026 12:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6587aa1f-f39b-4341-bf01-9c51a5f7bf8c" alt="miniatura"/></p><p>W czwartek, 16 lipca, Nadleśnictwo Włoszczowa poinformowało o niecodziennej sytuacji. Leśniczy otrzymał zgłoszenie od mieszkańców o znalezionym rannym zwierzęciu. Jak się okazało, to rzadki, chroniony w Polsce ptak.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6587aa1f-f39b-4341-bf01-9c51a5f7bf8c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6587aa1f-f39b-4341-bf01-9c51a5f7bf8c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6587aa1f-f39b-4341-bf01-9c51a5f7bf8c"/>
-</item>
-<item>
-<title><![CDATA[ Koniec z pracą w upale? Nowy limit temperatur zmieni wszystko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/koniec-z-praca-w-upale-nowy-limit-temperatur-zmieni-wszystko/AQayqN9gbhERPP2Oh0EN</link>
-<guid isPermaLink="false">d0f5a83a420d9aa8272e8796261afdafe66300b1</guid>
-<pubDate>Fri, 17 Jul 2026 11:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/437071f2-7a76-497b-978b-747ea87ced2e" alt="miniatura"/></p><p>Rząd przygotowuje nowe regulacje, które mają skuteczniej chronić pracowników przed skutkami coraz częstszych i bardziej intensywnych upałów. Projekt zakłada określenie maksymalnych temperatur, przy których wykonywanie pracy będzie możliwe.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/437071f2-7a76-497b-978b-747ea87ced2e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/437071f2-7a76-497b-978b-747ea87ced2e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/437071f2-7a76-497b-978b-747ea87ced2e"/>
-</item>
-<item>
-<title><![CDATA[ Wybrano dwie piotrkowskie szkoły. Na stole miliony ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wybrano-dwie-piotrkowskie-szkoly-na-stole-miliony/HWVoFtD6xh2whAQpqRJr</link>
-<guid isPermaLink="false">15fc5fb226bf1a5d06029bb581041202b91243d6</guid>
-<pubDate>Fri, 17 Jul 2026 11:10:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/56801cbb-21a7-4d4e-bc9a-12fbf6d1f614" alt="miniatura"/></p><p>Do ośmiu szkół w naszym regionie trafi wsparcie w wysokości blisko 18 milionów złotych. Te środki zostaną przeznaczone na stworzenie nowoczesnych pracowni, realizację specjalistycznych kursów i staży, a także na kompleksowe szkolenia dla kadry pedagogicznej. Zarząd Województwa Łódzkiego zatwierdził właśnie wyniki naboru projektów. Miliony trafią też do dwóch szkół z naszego miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/56801cbb-21a7-4d4e-bc9a-12fbf6d1f614" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/56801cbb-21a7-4d4e-bc9a-12fbf6d1f614" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/56801cbb-21a7-4d4e-bc9a-12fbf6d1f614"/>
-</item>
-<item>
-<title><![CDATA[ Takich miejsc jest zaledwie kilka w Polsce. Są tu perełki kolejowej przeszłości [ZDJĘCIA] ]]></title>
-<link>https://ezdunska.pl/wiadomosci/takich-miejsc-jest-zaledwie-kilka-w-polsce-sa-tu-perelki-kolejowej-przeszlosci-zdjecia/yr0ozGDcwuDyvZpiHHAK</link>
-<guid isPermaLink="false">839dd063e8fef89a5debd2a1cfb6680d4f3c6918</guid>
-<pubDate>Thu, 16 Jul 2026 17:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" alt="miniatura"/></p><p>To miejsce, do którego można wybrać się na spotkanie z historią klei i kolejowego osiedla Karsznice. Zduńskowolski Skansen Lokomotyw i Urządzeń Technicznych prezentuje aż 30 eksponatów z różnych okresów. Zwiedzanie filii Muzeum Historii Miasta Zduńska Wola jest możliwe indywidualnie, albo z przewodnikiem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058"/>
-</item>
-<item>
-<title><![CDATA[ Urząd wydał komunikat. Chodzi o Zalew Sulejowski ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-wydal-komunikat-chodzi-o-zalew-sulejowski/o1WaaJXX34cQjFx3uPkx</link>
-<guid isPermaLink="false">5c1497318196e0591ea239fb67b49aa5f1b350c6</guid>
-<pubDate>Thu, 16 Jul 2026 15:07:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" alt="miniatura"/></p><p>Chodzi o gwałtownie obniżający się poziom wody w zbiorniku. Jak przekazał Regionalny Zarząd Gospodarki Wodnej w Warszawie, sytuacja ta jest bezpośrednim skutkiem pogłębiającej się suszy hydrologicznej, z którą zmaga się nasz region. Choć Zbiornik Wodny Sulejów wciąż pracuje zgodnie z obowiązującą instrukcją gospodarowania wodą, to brak opadów i wysokie temperatury robią swoje.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9045621-b3ad-4e8c-a823-cd9d56e214ec"/>
-</item>
-<item>
-<title><![CDATA[ Nowy obiekt w centrum miasta. Co tam powstanie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-obiekt-w-centrum-miasta-co-tam-powstanie/89YKZvTdc23tGSBlJP8B</link>
-<guid isPermaLink="false">e226cbc6743c662a73038dfda05055b5b0afc385</guid>
-<pubDate>Thu, 16 Jul 2026 14:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" alt="miniatura"/></p><p>Krajobraz Piotrkowa Trybunalskiego zmienia się, a z mapy miasta zniknął kolejny obiekt. Przy ulicy Słowackiego 54 ruszyły intensywne prace rozbiórkowe. W miejscu wysłużonego budynku ma stanąć nowoczesny obiekt.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/707a0990-531c-4859-b08c-b9cfb5298cab"/>
-</item>
-<item>
-<title><![CDATA[ Po 1000 zł dla Piotrkowian. Urząd przyjmuje wnioski do końca sierpnia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/po-1000-zl-dla-piotrkowian-urzad-przyjmuje-wnioski-do-konca-sierpnia/7LcISzcjYnHIRUFOC1VS</link>
-<guid isPermaLink="false">355816915624c743349e6e52d89bbd3aa27a9e95</guid>
-<pubDate>Thu, 16 Jul 2026 13:18:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b906f6c4-3b2d-41a0-a72f-fa046494c36e" alt="miniatura"/></p><p>Przypominamy, że trwa nabór wniosków o bon ciepłowniczy dla Piotrkowian. Jest to jednorazowe wsparcie finansowe wprowadzone ustawą z 2025 roku. Ma ono zrekompensować lokatorom wyższe rachunki za ogrzewanie, które wzrosły po zakończeniu rządowego zamrażania cen energii. Nie każdy jednak może skorzystać z tego wsparcia. Przypomnijmy, że od 31 maja 2026 roku ceny ciepła netto w poszczególnych grupach…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b906f6c4-3b2d-41a0-a72f-fa046494c36e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b906f6c4-3b2d-41a0-a72f-fa046494c36e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b906f6c4-3b2d-41a0-a72f-fa046494c36e"/>
 </item>
 <item>
 <title><![CDATA[ Sulejów znów powalczy o rekord Polski. Szykuje się wielka parada kajakowa ]]></title>
@@ -2739,16 +2559,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 <item>
-<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
-<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
-</item>
-<item>
 <title><![CDATA[ Za 36 tys. zł można kupić mieszkanie. PKP wystawiły nowe oferty ]]></title>
 <link>https://trybunalski.pl/wiadomosci/za-36-tys-zl-mozna-kupic-mieszkanie-pkp-wystawily-nowe-oferty/opbPD43w8qZgNt71ezse</link>
 <guid isPermaLink="false">444aeb3341cf98fa6559b180ed1d32e505f14026</guid>
@@ -2757,6 +2567,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/87e51edb-b268-4d33-b60b-50f05f905172"/>
+</item>
+<item>
+<title><![CDATA[ Wojsko wysyła wezwania. Kto otrzyma kartę mobilizacyjną i jakie ma obowiązki? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-wysyla-wezwania-kto-otrzyma-karte-mobilizacyjna-i-jakie-ma-obowiazki/PQC3tHWUFwsc63Hg4JeN</link>
+<guid isPermaLink="false">14d2d1fceffe12b2b3542b4572402df379891c44</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" alt="miniatura"/></p><p>Podstawą prawną funkcjonowania kart mobilizacyjnych jest ustawa o obronie Ojczyzny z 11 marca 2022 r. Dokument ten stanowi formalne potwierdzenie przydziału mobilizacyjnego nadanego w czasie pokoju. Oznacza to, że dana osoba została przewidziana do wykonywania określonych zadań w strukturach wojskowych po ogłoszeniu mobilizacji lub w czasie wojny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3ae0a973-252c-45f4-b942-369f4d709c49"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta sprzedaje działki. Sprawdź, gdzie i za ile ]]></title>
@@ -2799,14 +2619,11 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4079718d-5682-4556-9196-662993a4ce23"/>
 </item>
 <item>
-<title><![CDATA[ 57-latek wpadł w gminie Rozprza. Teraz odpowie przed sądem ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/na-sygnale/57-latek-wpadl-w-gminie-rozprza-teraz-odpowie-przed-sadem/zteUvH7the99NEcQEsEr ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/57-latek-wpadl-w-gminie-rozprza-teraz-odpowie-przed-sadem/zteUvH7the99NEcQEsEr</link>
 <guid isPermaLink="false">9aff52f9ad908b1d14bafe7d54f156d9c72aa8f6</guid>
 <pubDate>Wed, 17 Jun 2026 12:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" alt="miniatura"/></p><p>Wszystko działo się w środę, 10 czerwca, na terenie gminy Rozprza. Dzielnicowi z Komisariatu Policji w Gorzkowicach prowadzili wówczas patrol. Ich uwagę przykuł kierowca Opla, którego zachowanie wskazywało, że może być pod wpływem alkoholu. Funkcjonariusze postanowili to sprawdzić.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/eda30075-81dc-4cb9-ace4-39e87b9b14a9"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Ucieczka przez okno i kryjówka pod kołdrą. Akcja policji pod Piotrkowem ]]></title>
