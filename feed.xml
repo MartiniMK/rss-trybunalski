@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 28 Jul 2026 12:15:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 15:37:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wakacje piotrkowian w czasach PRL. Wczasy pracownicze nad Pilicą i Zalewem Sulejowskim [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/wakacje-piotrkowian-w-czasach-prl-wczasy-pracownicze-nad-pilica-i-zalewem-sulejowskim-zdjecia/VQiYFvMgcFSGry82HnBl</link>
+<guid isPermaLink="false">8e0bfbf129541dd8cfb7f3106d8c3052a990cf2a</guid>
+<pubDate>Tue, 28 Jul 2026 16:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/00c51487-c424-4468-a166-857a2c409ba7" alt="miniatura"/></p><p>Wypoczynek w Polskiej Rzeczpospolitej Ludowej to najczęściej rodzinny wyjazd na wczasy w ośrodku pracowniczym, albo kolonie dla najmłodszych czy obóz harcerski. Lato spędzić można było pod namiotem, na obozie wędrownym, albo u dziadków na wsi.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/00c51487-c424-4468-a166-857a2c409ba7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/00c51487-c424-4468-a166-857a2c409ba7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/00c51487-c424-4468-a166-857a2c409ba7"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
+<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
+<pubDate>Tue, 28 Jul 2026 15:37:51 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Samochód dachował i uderzył w słup niedaleko Piotrkowa. 14-latek zabrany śmigłowcem do szpitala</p> ]]></description>
+<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
+<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
+<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Samochód dachował i uderzył w słup niedaleko Piotrkowa. 14-latek zabrany śmigłowcem do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/samochod-dachowal-i-uderzyl-w-slup-niedaleko-piotrkowa-14-latek-zabrany-smiglowcem-do-szpitala/3qS0556iSimEOllZu1Ma</link>
+<guid isPermaLink="false">9c70cdf97518175f1253eb5446da29cd5df52ab5</guid>
+<pubDate>Tue, 28 Jul 2026 14:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7a76740d-9865-477a-a592-cc5301ede8cd" alt="miniatura"/></p><p>Do zdarzenia doszło we wtorek, 28 lipca około godziny 13:30. Renault Laguna z przyczepką jechało od strony Lutosławic Rządowych w kierunku Luboni. Za kierownicą samochodu siedziała 24-letnia kobieta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a76740d-9865-477a-a592-cc5301ede8cd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a76740d-9865-477a-a592-cc5301ede8cd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7a76740d-9865-477a-a592-cc5301ede8cd"/>
+</item>
 <item>
 <title><![CDATA[ Trwa prokuratorskie śledztwo w sprawie wypadku niedaleko Sulejowa. Zginęła dwójka małych dzieci ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/trwa-prokuratorskie-sledztwo-w-sprawie-wypadku-niedaleko-sulejowa-zginela-dwojka-malych-dzieci/RlGd81Vl2Udm3q9MJzOU</link>
@@ -27,16 +57,6 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ccdf7345-cb76-4b26-931a-1c5ab6843052" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ccdf7345-cb76-4b26-931a-1c5ab6843052" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ccdf7345-cb76-4b26-931a-1c5ab6843052"/>
-</item>
-<item>
-<title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
-<guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 28 Jul 2026 12:15:58 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Trwa prokuratorskie śledztwo w sprawie wypadku niedaleko Sulejowa. Zginęła dwójka małych dzieci</p> ]]></description>
-<enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
-<media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
-<media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
 </item>
 <item>
 <title><![CDATA[ Sebastian M. przed sądem w Piotrkowie. Biegły wyjaśni, co naprawdę stało się na A1? ]]></title>
@@ -249,16 +269,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -267,6 +277,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -2453,7 +2473,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Trwa prokuratorskie śledztwo w sprawie wypadku niedaleko Sulejowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Wakacje piotrkowian w czasach PRL.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -2633,7 +2653,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Trwa prokuratorskie śledztwo w sprawie wypadku niedaleko Sulejowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Wakacje piotrkowian w czasach PRL.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3737,25 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/472e3b1c-ce15-4d23-9acf-75e273019e95" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/472e3b1c-ce15-4d23-9acf-75e273019e95" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/472e3b1c-ce15-4d23-9acf-75e273019e95"/>
-</item>
-<item>
-<title><![CDATA[ Zawodniczki z naszego miasta w reprezentacji Polski. To wicemistrzynie świata! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zawodniczki-z-naszego-miasta-w-reprezentacji-polski-to-wicemistrzynie-swiata/HRBBgmqrOovAXblzo6RE</link>
-<guid isPermaLink="false">f9e5b19a3d6d4214fe3e20815ff82487f269c1ad</guid>
-<pubDate>Mon, 08 Jun 2026 11:34:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" alt="miniatura"/></p><p>Piotrków może pochwalić się uzdolnionymi tancerkami, które regularnie wracają z międzynarodowych zawodów z nagrodami. Nie inaczej było podczas XXIV IDF World Championship of Modern Dance Sport w Hiszpanii. Polskę na tych mistrzostwach reprezentowały piotrkowskie „Jaskółki”.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6f141b0d-e78f-4dbb-ad4c-26153faf009a"/>
-</item>
-<item>
-<title><![CDATA[ Sulejów szykuje dużą zmianę. Podpisano umowy warte prawie 16 milionów złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sulejow-szykuje-duza-zmiane-podpisano-umowy-warte-prawie-16-milionow-zlotych/kBYvd5bUU9IJX39Mn7cH</link>
-<guid isPermaLink="false">80f1299fe2a3b6ea425b9a6ea2025213bc68a8cc</guid>
-<pubDate>Mon, 08 Jun 2026 11:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/79496769-faaf-4573-a828-7c9532bb8f2c" alt="miniatura"/></p><p>W piątek, 29 maja 2026 roku w Sulejowie podpisano umowy dotacyjne dotyczące dwóch projektów turystycznych. Ich łączna wartość to niemal 16 milionów złotych. Dokumenty podpisali Dorota Jankowska, burmistrz Sulejowa, oraz Piotr Wojtysiak, wicemarszałek województwa łódzkiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/79496769-faaf-4573-a828-7c9532bb8f2c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/79496769-faaf-4573-a828-7c9532bb8f2c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/79496769-faaf-4573-a828-7c9532bb8f2c"/>
 </item>
 </channel></rss>
