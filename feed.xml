@@ -6,14 +6,24 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 01 Aug 2026 16:17:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 18:14:28 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ 3. Strażacki Spływ na Byle Czym. Poniosła ich wyobraźnia! Zobacz, na czym pływali uczestnicy spływu [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/3-strazacki-splyw-na-byle-czym-poniosla-ich-wyobraznia-zobacz-na-czym-plywali-uczestnicy-splywu-zdjecia/v1Ev2wOrQdkewV0Tj6oe</link>
+<guid isPermaLink="false">207348b3315f3b6f3ddfa5f64508f03efd8d8988</guid>
+<pubDate>Sat, 01 Aug 2026 19:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b0bc6bd9-b6d9-43e2-b08a-ff2e16a0c204" alt="miniatura"/></p><p>W sobotę, 1 sierpnia po godzinie 15:00 na Pilicy w Sulejowie można było zauważyć smerfowe czapki, balony i najdziwniejsze pływadła. Wszystko za sprawą 3. Strażackiego Spływu na Byle Czym. Zadanie było proste. Zgłoszona drużyna musiała wykonać własną konstrukcję, którą przepłynie z plaży przy ul. Podkurnędz do przystani kajakowej przy ul. Klasztornej. W spływie wzięło udział 7 drużyn, które wykazał…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0bc6bd9-b6d9-43e2-b08a-ff2e16a0c204" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0bc6bd9-b6d9-43e2-b08a-ff2e16a0c204" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0bc6bd9-b6d9-43e2-b08a-ff2e16a0c204"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Sat, 01 Aug 2026 16:17:03 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Piotrkowian poznał rywali w Montrealu! Hit już w pierwszej rundzie</p> ]]></description>
+<pubDate>Sat, 01 Aug 2026 18:14:28 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>3. Strażacki Spływ na Byle Czym. Poniosła ich wyobraźnia! Zobacz, na czym pływali uczestnicy spływu [ZDJĘCIA]</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
@@ -179,16 +189,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c"/>
 </item>
 <item>
-<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
-<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
-</item>
-<item>
 <title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
 <guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
@@ -197,6 +197,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
+<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
@@ -2763,7 +2773,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Toksyczny intruz w województwie łódzkim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>3. Strażacki Spływ na Byle Czym.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -2943,7 +2953,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Toksyczny intruz w województwie łódzkim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>3. Strażacki Spływ na Byle Czym.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3717,15 +3727,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1258a713-ac5c-4084-8e2c-e82205318615" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1258a713-ac5c-4084-8e2c-e82205318615" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1258a713-ac5c-4084-8e2c-e82205318615"/>
-</item>
-<item>
-<title><![CDATA[ Super myśliwce z Łasku przelecą nad głowami mieszkańców. O której i w jakich miastach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/super-mysliwce-z-lasku-przeleca-nad-glowami-mieszkancow-o-ktorej-i-w-jakich-miastach/QGEL8R9P65b5y1RqrC9r</link>
-<guid isPermaLink="false">51bb2cdafc49c2a18d07f53b78e128b858262661</guid>
-<pubDate>Thu, 11 Jun 2026 14:11:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e9852287-dc78-42a2-9611-d16abfc4be2f" alt="miniatura"/></p><p>W piątek, 12 czerwca, piloci Sił Powietrznych RP wykonają specjalny przelot nad trzema miastami. To jedna z pierwszych tak dużych publicznych prezentacji samolotów F-35, które w maju trafiły do Polski.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9852287-dc78-42a2-9611-d16abfc4be2f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9852287-dc78-42a2-9611-d16abfc4be2f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e9852287-dc78-42a2-9611-d16abfc4be2f"/>
 </item>
 </channel></rss>
