@@ -6,13 +6,13 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 04 Aug 2026 21:32:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 23:22:40 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 04 Aug 2026 21:32:48 +0000</pubDate>
+<pubDate>Tue, 04 Aug 2026 23:22:40 +0000</pubDate>
 <description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Wiemy, jak będzie wyglądał Pomnik Ofiar Rzezi Wołyńskiej w Piotrkowie</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
@@ -419,16 +419,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c"/>
 </item>
 <item>
-<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
-<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
-</item>
-<item>
 <title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
 <guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
@@ -437,6 +427,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
+<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
@@ -1419,11 +1419,14 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/56801cbb-21a7-4d4e-bc9a-12fbf6d1f614"/>
 </item>
 <item>
-<title><![CDATA[ https://ezdunska.pl/wiadomosci/takich-miejsc-jest-zaledwie-kilka-w-polsce-sa-tu-perelki-kolejowej-przeszlosci-zdjecia/yr0ozGDcwuDyvZpiHHAK ]]></title>
+<title><![CDATA[ Takich miejsc jest zaledwie kilka w Polsce. Są tu perełki kolejowej przeszłości [ZDJĘCIA] ]]></title>
 <link>https://ezdunska.pl/wiadomosci/takich-miejsc-jest-zaledwie-kilka-w-polsce-sa-tu-perelki-kolejowej-przeszlosci-zdjecia/yr0ozGDcwuDyvZpiHHAK</link>
 <guid isPermaLink="false">839dd063e8fef89a5debd2a1cfb6680d4f3c6918</guid>
 <pubDate>Thu, 16 Jul 2026 17:20:00 +0000</pubDate>
-<description><![CDATA[ <p></p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" alt="miniatura"/></p><p>To miejsce, do którego można wybrać się na spotkanie z historią klei i kolejowego osiedla Karsznice. Zduńskowolski Skansen Lokomotyw i Urządzeń Technicznych prezentuje aż 30 eksponatów z różnych okresów. Zwiedzanie filii Muzeum Historii Miasta Zduńska Wola jest możliwe indywidualnie, albo z przewodnikiem.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/ezdunska/articles/image/0e49c9b8-762c-4cbc-96e8-cd6762640058"/>
 </item>
 <item>
 <title><![CDATA[ Urząd wydał komunikat. Chodzi o Zalew Sulejowski ]]></title>
