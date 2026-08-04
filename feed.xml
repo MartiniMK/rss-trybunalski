@@ -6,17 +6,37 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 04 Aug 2026 06:45:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 09:56:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Oto artyści, którzy rozkołyszą Piotrków! Trybunalskie Granie 2026 już za kilka dni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oto-artysci-ktorzy-rozkolysza-piotrkow-trybunalskie-granie-2026-juz-za-kilka-dni/pltqcYHG71po84QW899I</link>
+<guid isPermaLink="false">9127bdc1edc98a07bfa0ce899e18f04fcde101ee</guid>
+<pubDate>Tue, 04 Aug 2026 10:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0f0284f1-e66e-4f2e-9ac8-7be965c6ce7d" alt="miniatura"/></p><p>Letnia cykliczna impreza zdążyła już na dobre wpisać się w kalendarz wakacyjnych wydarzeń Piotrkowian. Kolejne spotkanie z muzyką na żywo odbędzie się już w sobotę, 8 sierpnia. Kto wystąpi tym razem?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f0284f1-e66e-4f2e-9ac8-7be965c6ce7d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f0284f1-e66e-4f2e-9ac8-7be965c6ce7d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0f0284f1-e66e-4f2e-9ac8-7be965c6ce7d"/>
+</item>
 <item>
 <title><![CDATA[ Trybunalski.pl - lokalny portal Piotrkowa Trybunalskiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-centrum-piotrkowa-zatrzymano-mloda-kobiete/XSmcpayvDWhv1p7RQ8fq</link>
 <guid isPermaLink="false">81b96ae4c3783292906ad86591948a93698cc68c</guid>
-<pubDate>Tue, 04 Aug 2026 06:45:19 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>Znana piosenkarka wystąpi w Piotrkowie. Po ile bilety?</p> ]]></description>
+<pubDate>Tue, 04 Aug 2026 09:56:35 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" alt="miniatura"/></p><p>To pojawiło się na wiadukcie w gminie Wola Krzysztoporska. Policja szuka świadków</p> ]]></description>
 <enclosure url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" type="image/*"/>
 <media:content url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16" medium="image"/>
 <media:thumbnail url="https://storage.googleapis.com/patrykslezak-pbem/attachments/eba0bb4b-b9b4-4e44-8de9-36a7ce607e16"/>
+</item>
+<item>
+<title><![CDATA[ Nauczyciele stracili cierpliwość. Zapowiadają wielki protest ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nauczyciele-stracili-cierpliwosc-zapowiadaja-wielki-protest/KV0Ovin8tB3LPFkgWIiz</link>
+<guid isPermaLink="false">4717b0e7cf54d52b803813f0328d6226c044ff61</guid>
+<pubDate>Tue, 04 Aug 2026 09:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34c1c3-e147-41cb-8174-59ec0af71977" alt="miniatura"/></p><p>Związek Nauczycielstwa Polskiego zdecydował o rozpoczęciu ogólnopolskiej akcji protestacyjnej. Jej pierwszym etapem będzie manifestacja zaplanowana na 31 sierpnia 2026 roku przed Kancelarią Prezesa Rady Ministrów w Warszawie. Demonstracja odbędzie się pod hasłem „Politycy do tablicy! Godne płace: Dotrzymajcie słowa!”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34c1c3-e147-41cb-8174-59ec0af71977" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34c1c3-e147-41cb-8174-59ec0af71977" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8d34c1c3-e147-41cb-8174-59ec0af71977"/>
 </item>
 <item>
 <title><![CDATA[ Znana piosenkarka wystąpi w Piotrkowie. Po ile bilety? ]]></title>
@@ -719,16 +739,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -737,6 +747,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -2923,7 +2943,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Znana piosenkarka wystąpi w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Oto artyści, którzy rozkołyszą Piotrków!</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3103,7 +3123,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Znana piosenkarka wystąpi w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>To pojawiło się na wiadukcie w gminie Wola Krzysztoporska.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3707,25 +3727,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63e68a-c98b-4d39-8dde-0f17929623a2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63e68a-c98b-4d39-8dde-0f17929623a2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f63e68a-c98b-4d39-8dde-0f17929623a2"/>
-</item>
-<item>
-<title><![CDATA[ Zapowiadali nowy system na piotrkowskich drogach. Co z rewolucyjną zmianą? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zapowiadali-nowy-system-na-piotrkowskich-drogach-co-z-rewolucyjna-zmiana/joHQ8OBCmNlVDBNDGfeo</link>
-<guid isPermaLink="false">516fa4c8d4504f92ae7e9d953b502311386aa3a8</guid>
-<pubDate>Sat, 13 Jun 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/7e242763-90bc-4bb4-8d7d-333fa05c71b7" alt="miniatura"/></p><p>Prace nad uruchomieniem systemu „zielonej fali” w Piotrkowie Trybunalskim znajdują się na etapie planowania. Projekt, którego założeniem jest usprawnienie ruchu samochodowego poprzez unowocześnienie skrzyżowań, został po raz pierwszy przedstawiony w 2025 roku. Co dalej z „zieloną falą”?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e242763-90bc-4bb4-8d7d-333fa05c71b7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e242763-90bc-4bb4-8d7d-333fa05c71b7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7e242763-90bc-4bb4-8d7d-333fa05c71b7"/>
-</item>
-<item>
-<title><![CDATA[ X Nocny Półmaraton Piotrkowski. Setki biegaczy na starcie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/x-nocny-polmaraton-piotrkowski-setki-biegaczy-na-starcie-zdjecia/MzGi2zNKxrHtpNULpRkT</link>
-<guid isPermaLink="false">9938dfa3258e57091fc8f20721c35e8a0ff12a50</guid>
-<pubDate>Fri, 12 Jun 2026 23:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" alt="miniatura"/></p><p>Tegoroczne Dni Piotrkowa rozpoczęły się w piątek, 12 czerwca Nocnym Piotrkowskim Półmaratonem. Wydarzenie zrzeszyło fanów sportowych wyzwań z regionu i nie tylko. Jak co roku, można było spróbować swoich sił na dystansie 21 km bądź 5,2 km. Zajrzeliśmy na ulicę Słowackiego, by sprawdzić, jak wyglądały przygotowania oraz start zawodników.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/aae35ef1-07b8-4c15-8882-6bc0ba3ebab8"/>
 </item>
 </channel></rss>
