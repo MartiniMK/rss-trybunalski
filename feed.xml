@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 08 Aug 2026 19:46:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 20:49:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Trybunalskie Granie 2026. Zespół Oreada zagrał w piotrkowskim amfiteatrze [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/trybunalskie-granie-2026-zespol-oreada-zagral-w-piotrkowskim-amfiteatrze-zdjecia/GaCmNgzJoqaWl0TKBiEf</link>
+<guid isPermaLink="false">b377702086740a5946b915ad29504fcf26abfc0e</guid>
+<pubDate>Sat, 08 Aug 2026 22:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" alt="miniatura"/></p><p>„Trybunalskie Granie” to dobrze znany mieszkańcom, coroczny cykl letnich koncertów. Tego lata, w sobotni wieczór 8 sierpnia o godzinie 19:00, na scenie Amfiteatru Miejskiego wystąpiła grupa Oreada. To sześcioosobowy skład wywodzący się z pobliskiej Moszczenicy. W ich brzmieniu tradycyjne instrumenty, takie jak skrzypce, mandolina, akordeon czy flety, przeplatają się z rockiem, funkiem czy jazzem.…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb"/>
+</item>
 <item>
 <title><![CDATA[ Kominek będzie nielegalny? Ważny wyrok NSA i zapowiedź zaostrzenia przepisów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kominek-bedzie-nielegalny-wazny-wyrok-nsa-i-zapowiedz-zaostrzenia-przepisow/x5FmMVZ5DVDGiTxkFImZ</link>
@@ -1589,16 +1599,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -1607,6 +1607,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3737,15 +3747,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f8b524-8c2d-4153-9702-3856ac774104" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f8b524-8c2d-4153-9702-3856ac774104" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/30f8b524-8c2d-4153-9702-3856ac774104"/>
-</item>
-<item>
-<title><![CDATA[ Powitanie lata w Piotrkowie. Będzie potańcówka pod gwiazdami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/powitanie-lata-w-piotrkowie-bedzie-potancowka-pod-gwiazdami/nyxt9nV9ohzbVv5Krc5Q</link>
-<guid isPermaLink="false">8bc256a32d1cad906d3b1ed41d7b6c9d08915045</guid>
-<pubDate>Thu, 18 Jun 2026 12:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae" alt="miniatura"/></p><p>Piotrkowianie będą mieli okazję, by ruszyć do tańca. Przed nami Noc Kupały, czyli dawne słowiańskie święto żywiołów, które przypada na najkrótszą noc w roku. Jak się okazuje, z tej okazji w naszym mieście odbędzie się potańcówka i nie tylko. Sprawdź program wydarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/601865c4-5ac5-4969-be35-302a08059aae"/>
 </item>
 </channel></rss>
