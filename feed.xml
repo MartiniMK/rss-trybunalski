@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 10 Aug 2026 13:37:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 15:16:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ślad po nim zaginął. Policja i bliscy apelują o pomoc w poszukiwaniu Michała! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/slad-po-nim-zaginal-policja-i-bliscy-apeluja-o-pomoc-w-poszukiwaniu-michala/OouwfbOq8305fNN1z8LD</link>
+<guid isPermaLink="false">d2a1453f8e26f033fcfd673aed956881ad4cb7a0</guid>
+<pubDate>Mon, 10 Aug 2026 15:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/8704dacd-7218-4da1-a586-ad0add8862f9" alt="miniatura"/></p><p>Komenda Powiatowa Policji w Tomaszowie Mazowieckim prowadzi poszukiwania za zaginionym Michałem Szczepaniakiem. 37-latek 6 sierpnia 2026 roku około godziny 12.00 wyszedł ze swojego mieszkania w Tomaszowie Mazowieckim.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/8704dacd-7218-4da1-a586-ad0add8862f9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/8704dacd-7218-4da1-a586-ad0add8862f9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/8704dacd-7218-4da1-a586-ad0add8862f9"/>
+</item>
 <item>
 <title><![CDATA[ Podali prognozy pogody na resztę sierpnia. Będzie trzeba odwołać urlopy? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/podali-prognozy-podogy-na-reszte-sierpnia-bedzie-trzeba-odwolac-urlopy/fRAVp2bOseviomE5um6F</link>
@@ -29,7 +39,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e"/>
 </item>
 <item>
-<title><![CDATA[ Brutalny napad na staruszkę. Duszona kobieta przeżyła prawdziwy dramat! ]]></title>
+<title><![CDATA[ Napad na prawie 90-letnię staruszkę w Gorzkowicach. Ukradli ogromną kwotę, kobieta była duszona ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-napad-na-staruszke-duszona-kobieta-przezyla-prawdziwy-dramat/VFItYJrY89RyOYFa7TR8</link>
 <guid isPermaLink="false">06bb38e9b80a650ea07623c6f1e51a64ce9e8928</guid>
 <pubDate>Mon, 10 Aug 2026 15:06:00 +0000</pubDate>
@@ -3747,15 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/237c2bb6-d26c-411e-b63f-453198f7276e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/237c2bb6-d26c-411e-b63f-453198f7276e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/237c2bb6-d26c-411e-b63f-453198f7276e"/>
-</item>
-<item>
-<title><![CDATA[ Obława pod hotelem w Piotrkowie Trybunalskim. Zatrzymano podejrzanego o głośny napad ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/oblawa-pod-hotelem-w-piotrkowie-trybunalskim-zatrzymano-podejrzanego-o-glosny-napad/rymazDCiUaAubFMKiOLl</link>
-<guid isPermaLink="false">659a464e40567f68ee6ffa98aafb66874dd0a126</guid>
-<pubDate>Fri, 19 Jun 2026 22:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/90d30664-cb07-4846-9abe-0407f13cd24c" alt="miniatura"/></p><p>Do zdarzenia doszło w piątek 19 czerwca rano w kantorze przy ul. Piotrkowskiej w Łodzi. W lokalu znajdowała się wówczas 32-letnia pracownica.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/90d30664-cb07-4846-9abe-0407f13cd24c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/90d30664-cb07-4846-9abe-0407f13cd24c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/90d30664-cb07-4846-9abe-0407f13cd24c"/>
 </item>
 </channel></rss>
