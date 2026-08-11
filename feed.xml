@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 11 Aug 2026 06:26:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 07:32:54 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tragiczny wypadek w regionie. Nie żyje kierujący skuterem ]]></title>
@@ -49,6 +49,36 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e263d207-0da8-4c6d-b8d4-68601ee49d3e"/>
 </item>
 <item>
+<title><![CDATA[ Gigant inwestuje w naszym powiecie. Są nowe oferty pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-powiecie-sa-nowe-oferty-pracy/ThhcW8Acmq6DH3q0eXeC</link>
+<guid isPermaLink="false">2d25bb515213e0e5dcd9b8e697a0941de8711250</guid>
+<pubDate>Mon, 10 Aug 2026 15:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" alt="miniatura"/></p><p>W Majkowie Dużym trwa rozbudowa zaplecza logistycznego sieci Agata Meble. W związku z rozwojem, w już funkcjonujących magazynach otworzyły się rekrutacje na różnorodne stanowiska – od prac fizycznych i operatorskich, po role specjalistyczne oraz kontrolne. Sprawdź, jakie wymagania stawia firma.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e"/>
+</item>
+<item>
+<title><![CDATA[ Napad na prawie 90-letnię staruszkę w Gorzkowicach. Ukradli ogromną kwotę, kobieta była duszona ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-napad-na-staruszke-duszona-kobieta-przezyla-prawdziwy-dramat/VFItYJrY89RyOYFa7TR8</link>
+<guid isPermaLink="false">06bb38e9b80a650ea07623c6f1e51a64ce9e8928</guid>
+<pubDate>Mon, 10 Aug 2026 15:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/29777b3d-36c3-47e9-a382-c7dde47b896b" alt="miniatura"/></p><p>Do zdarzenia doszło pod koniec lipca 2026 roku, ale policja w Piotrkowie właśnie teraz poinformowała o szokującym napadzie. 43-latek napadł seniorkę w jej domu, wiedząc, że posiada tam sporą sumę pieniędzy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/29777b3d-36c3-47e9-a382-c7dde47b896b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/29777b3d-36c3-47e9-a382-c7dde47b896b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/29777b3d-36c3-47e9-a382-c7dde47b896b"/>
+</item>
+<item>
+<title><![CDATA[ Kontrole na ulicach naszego powiatu. Tutaj mieszkańcy muszą uważać ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kontrole-na-ulicach-naszego-powiatu-tutaj-mieszkancy-musza-uwazac/JSnUjTGME014tGxvI7ka</link>
+<guid isPermaLink="false">813d61dea27f2b20f91a4aa0800b90dec91199d2</guid>
+<pubDate>Mon, 10 Aug 2026 14:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/181aa4e3-eb07-42fb-865a-44c3c8a8c3d9" alt="miniatura"/></p><p>Nad porządkiem w powiecie piotrkowskim czuwają policjanci z siedmiu komisariatów. Poszczególne miejscowości mają przypisanego dzielnicowego, który najlepiej orientuje się w problemach, z jakimi borykają się mieszkańcy. Mogą to być akty wandalizmu, pijaństwo, kradzieże czy zakłócanie porządku. Co pół roku mundurowi przedstawiają plany działań priorytetowych dla swojej dzielnicy. Sprawdzamy, co będą…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/181aa4e3-eb07-42fb-865a-44c3c8a8c3d9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/181aa4e3-eb07-42fb-865a-44c3c8a8c3d9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/181aa4e3-eb07-42fb-865a-44c3c8a8c3d9"/>
+</item>
+<item>
 <title><![CDATA[ Uciekał przed policją, a na koniec próbował przekupić patrol. 75-latek z zarzutami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/uciekal-przed-policja-a-na-koniec-probowal-przekupic-patrol-75-latek-z-zarzutami/Qjf4oo0Pt4YBpDgIS1nJ</link>
 <guid isPermaLink="false">c631f00f296f4f6f1181f5962560e6ec69cd4c74</guid>
@@ -57,6 +87,116 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/01e491c1-c725-449b-bfb0-8335f2fa4df7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/01e491c1-c725-449b-bfb0-8335f2fa4df7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/01e491c1-c725-449b-bfb0-8335f2fa4df7"/>
+</item>
+<item>
+<title><![CDATA[ Coco Jamboo i Mr. President w woj. łódzkim. Darmowy koncert legend lat 90. ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coco-jamboo-i-mr-president-w-woj-lodzkim-darmowy-koncert-legend-lat-90/sJZd77SIWk3TJyMuiFGu</link>
+<guid isPermaLink="false">e21f4fda18b87158d3d1e4c7534e0ad3b26eb222</guid>
+<pubDate>Mon, 10 Aug 2026 12:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f5f254e5-297d-4cc5-abe4-b8617f9a6183" alt="miniatura"/></p><p>Poznaliśmy program tegorocznego święta, które przeniesie mieszkańców naszego regionu w niezapomniany klimat lat 90. Gwiazdą wieczoru będzie zagraniczny artysta, którego kultowe hity do dziś rozgrzewają parkiety. W naszym powiecie już wkrótce wystąpi Layzee aka Mr. President!</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5f254e5-297d-4cc5-abe4-b8617f9a6183" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5f254e5-297d-4cc5-abe4-b8617f9a6183" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f5f254e5-297d-4cc5-abe4-b8617f9a6183"/>
+</item>
+<item>
+<title><![CDATA[ Rekrutacja do szkół średnich w Piotrkowie. Gdzie są jeszcze miejsca? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rekrutacja-do-szkol-srednich-w-piotrkowie-wciaz-zostalo-blisko-200-miejsc/uQWoX3qvHpWZT61xixfx</link>
+<guid isPermaLink="false">81af75dd3d29354ac4fb6f3fcc9d933018f0eb36</guid>
+<pubDate>Mon, 10 Aug 2026 10:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3acd1967-2f9b-41da-8569-3116fa36acfb" alt="miniatura"/></p><p>Do piotrkowskich szkół ponadpodstawowych przyjęto już ponad 1,6 tysiąca uczniów . Z danych z 5 sierpnia wynika, że spośród liceów najwięcej kandydatów dostało się do III Liceum Ogólnokształcącego. Od nowego roku szkolnego naukę rozpocznie tam 179 uczniów. W grupie zespołów szkół najwyższy wynik osiągnął Zespół Szkół Ponadpodstawowych nr 1, który przyjął łącznie 326 pierwszoklasistów, w tym 196 do…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3acd1967-2f9b-41da-8569-3116fa36acfb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3acd1967-2f9b-41da-8569-3116fa36acfb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3acd1967-2f9b-41da-8569-3116fa36acfb"/>
+</item>
+<item>
+<title><![CDATA[ Charakterystyczne drzewa znikną z Rynku? Chodzi o bezpieczeństwo ]]></title>
+<link>https://trybunalski.pl/wiadomosci/charakterystyczne-drzewa-znikna-z-rynku-chodzi-o-bezpieczenstwo/EkuAVMZNdoDqSwCuWUrg</link>
+<guid isPermaLink="false">e0ac52b00e08f3fd29135124a515e7e77571729b</guid>
+<pubDate>Mon, 10 Aug 2026 10:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fc822f21-7fdd-40a5-b1db-6a08dc2aadde" alt="miniatura"/></p><p>W środę, 5 sierpnia, podczas gwałtownej burzy i silnego wiatru doszło do kolejnego uszkodzenia wierzb rosnących na Rynku w Gorzkowicach . Jak przekazała gmina, drzewa od lat są charakterystycznym elementem centrum miejscowości. Tym razem ponownie straciły konary. Według urzędu stworzyło to realne zagrożenie dla osób znajdujących się w pobliżu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc822f21-7fdd-40a5-b1db-6a08dc2aadde" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc822f21-7fdd-40a5-b1db-6a08dc2aadde" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc822f21-7fdd-40a5-b1db-6a08dc2aadde"/>
+</item>
+<item>
+<title><![CDATA[ Największy taki basen w Polsce jest w Łódzkiem. Dojedziesz tam z naszego miasta w 30 minut ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najwiekszy-taki-basen-w-polsce-jest-w-lodzkiem-dojedziesz-tam-z-naszego-miasta-w-30-minut/nYShS5Il4XzCfH3zE3XI</link>
+<guid isPermaLink="false">195ceaeadf7e399d2f2027a5a5b41769ebc8fc93</guid>
+<pubDate>Sun, 09 Aug 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/84018af5-1972-4d3d-91e3-b70620d332c7" alt="miniatura"/></p><p>Kompleks rekreacyjno-sportowy w Niewiadowie, w gminie Ujazd został stworzony w miejscu, gdzie wcześniej funkcjonowało stare, wysłużone kąpielisko. Obiekt określany jest jako największy w Polsce basen ekologiczny. Dziś to jednen z najciekawszych rekreacyjnych punktów tej części regionu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/84018af5-1972-4d3d-91e3-b70620d332c7" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/84018af5-1972-4d3d-91e3-b70620d332c7" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/84018af5-1972-4d3d-91e3-b70620d332c7"/>
+</item>
+<item>
+<title><![CDATA[ Trybunalskie Granie 2026. Zespół Oreada zagrał w piotrkowskim amfiteatrze [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/trybunalskie-granie-2026-zespol-oreada-zagral-w-piotrkowskim-amfiteatrze-zdjecia/GaCmNgzJoqaWl0TKBiEf</link>
+<guid isPermaLink="false">b377702086740a5946b915ad29504fcf26abfc0e</guid>
+<pubDate>Sat, 08 Aug 2026 22:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" alt="miniatura"/></p><p>„Trybunalskie Granie” to dobrze znany mieszkańcom, coroczny cykl letnich koncertów. Tego lata, w sobotni wieczór 8 sierpnia o godzinie 19:00, na scenie Amfiteatru Miejskiego wystąpiła grupa Oreada. To sześcioosobowy skład wywodzący się z pobliskiej Moszczenicy. W ich brzmieniu tradycyjne instrumenty, takie jak skrzypce, mandolina, akordeon czy flety, przeplatają się z rockiem, funkiem czy jazzem.…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/947057d5-d778-4a37-8805-8c72a6cf9efb"/>
+</item>
+<item>
+<title><![CDATA[ Kominek będzie nielegalny? Ważny wyrok NSA i zapowiedź zaostrzenia przepisów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kominek-bedzie-nielegalny-wazny-wyrok-nsa-i-zapowiedz-zaostrzenia-przepisow/x5FmMVZ5DVDGiTxkFImZ</link>
+<guid isPermaLink="false">5c1a3e3f49cd99eaf0fddf340f02390b5506e72e</guid>
+<pubDate>Sat, 08 Aug 2026 17:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2d0410d5-136b-4b21-9b8f-bd904a4c97d8" alt="miniatura"/></p><p>Naczelny Sąd Administracyjny 7 lipca 2026 r. zakończył jeden z ważniejszych sporów dotyczących ograniczeń w korzystaniu z kominków. Oddalił skargę kasacyjną władz województwa mazowieckiego i tym samym utrzymał wyrok Wojewódzkiego Sądu Administracyjnego w Warszawie z 2023 r.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d0410d5-136b-4b21-9b8f-bd904a4c97d8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d0410d5-136b-4b21-9b8f-bd904a4c97d8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2d0410d5-136b-4b21-9b8f-bd904a4c97d8"/>
+</item>
+<item>
+<title><![CDATA[ Ukradł złom pod Piotrkowem. Chciał naprawić sobie auto [FILM] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/ukradl-zlom-pod-piotrkowem-chcial-naprawic-sobie-auto-film/R7Jb9qKEe5RbMY7LklXk</link>
+<guid isPermaLink="false">ecf3eb8c871667c42292894b153856b8c7873601</guid>
+<pubDate>Sat, 08 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5b1e5bd0-7985-409d-bdc7-c6f29dac1ad4" alt="miniatura"/></p><p>Do zdarzenia doszło w niedzielę, 12 lipca 2026 roku. Rano nieznany wówczas mężczyzna pojawił się na prywatnej posesji w miejscowości Korytnica. Aby utorować sobie podjazd pod składowisko złomu, bez skrupułów przestawił stojącą tam lawetę. Zapakował do swojego samochodu wartościowe elementy pochodzące z demontażu pojazdów – w tym alternatory, rozruszniki, sprężarki, aluminiowe obudowy skrzyń biegów…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b1e5bd0-7985-409d-bdc7-c6f29dac1ad4" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b1e5bd0-7985-409d-bdc7-c6f29dac1ad4" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b1e5bd0-7985-409d-bdc7-c6f29dac1ad4"/>
+</item>
+<item>
+<title><![CDATA[ Przemysław Czarnek pod Piotrkowem. Czerwone paliwo zamiast biurokracji? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przemyslaw-czarnek-pod-piotrkowem-czerwone-paliwo-zamiast-biurokracji/EWbRW34rnxKoMs5JNEAd</link>
+<guid isPermaLink="false">b4ff5c02afb32e32a4cd47bc354e06f201a64931</guid>
+<pubDate>Sat, 08 Aug 2026 13:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/937a9608-490d-4bec-916b-725057f8b6c2" alt="miniatura"/></p><p>8 sierpnia w Kolonii Szydłów udział w konferencji wzięli przedstawiciele Prawa i Sprawiedliwości: wiceprezes partyjny i kandydat na premiera Przemysław Czarnek, były minister rolnictwa Robert Telus, posłowie Grzegorz Lorek oraz Krzysztof Ciecióra. Głównym tematem rozmów były wyzwania związane z trwającymi żniwami oraz trudna sytuacja finansowa gospodarstw rolnych. Przemysław Czarnek nawiązał do po…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/937a9608-490d-4bec-916b-725057f8b6c2" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/937a9608-490d-4bec-916b-725057f8b6c2" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/937a9608-490d-4bec-916b-725057f8b6c2"/>
+</item>
+<item>
+<title><![CDATA[ Oto jedna z najczystszych rzek w województwie łódzkim i jej ukryte atrakcje. Tylko 40 minut od naszego miasta [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oto-jedna-z-najczystszych-rzek-w-wojewodztwie-lodzkim-i-jej-ukryte-atrakcje-tylko-40-minut-od-naszego-miasta-zdjecia/FB5GVdU0dfimkajnFvz8</link>
+<guid isPermaLink="false">7d0483c1cb1889d18cb7e9065da8bd8eacbb7415</guid>
+<pubDate>Sat, 08 Aug 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2bb54ee7-a243-4ad2-8f52-054e15c48562" alt="miniatura"/></p><p>W bliskim sąsiedztwie naszego miasta kryje się jedna z najczystszych rzek regionum, czyli Grabia. Dolina rzeki przyciąga nie tylko fanów kajakarstwa, ale również pasjonatów fotografii i rodziny szukające ciszy i odpoczynku. Wśród lokalnych atrakcji wymienić można wyjątkowy rezerwat przyrody oraz klimatyczne muzeum.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bb54ee7-a243-4ad2-8f52-054e15c48562" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bb54ee7-a243-4ad2-8f52-054e15c48562" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2bb54ee7-a243-4ad2-8f52-054e15c48562"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek w powiecie piotrkowskim. Na miejscu lądował LPR ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-powiecie-piotrkowskim-na-miejscu-ladowal-lpr/oxCaAqwckZXkbXjQqH98</link>
+<guid isPermaLink="false">a629f45455ed8f7bf47868295cbc6025596e793c</guid>
+<pubDate>Fri, 07 Aug 2026 20:52:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/58e8aa44-ffd9-4b7e-bf82-af234d650b4d" alt="miniatura"/></p><p>W piątek, 7 sierpnia, doszło do wypadku w powiecie piotrkowskim. Po godzinie 15:00 w miejscowości Papieże zderzyły się dwa pojazdy. Na miejsce ruszyły służby. Konieczna była także interwencja Lotniczego Pogotowia Ratunkowego.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/58e8aa44-ffd9-4b7e-bf82-af234d650b4d" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/58e8aa44-ffd9-4b7e-bf82-af234d650b4d" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/58e8aa44-ffd9-4b7e-bf82-af234d650b4d"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na hulajnodze w Piotrkowie. 16-latek trafił do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-hulajnodze-w-piotrkowie-16-latek-trafil-do-szpitala/aICh30FYj9DyZMTL35FS</link>
+<guid isPermaLink="false">1e7f3ea4a70ad92ca09b2c5d6ebbc85eeea8e24f</guid>
+<pubDate>Fri, 07 Aug 2026 20:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2b6d7a52-4a3e-4589-8ee3-b0ade06ba2af" alt="miniatura"/></p><p>Do zdarzenia doszło w piątek, 7 sierpnia, około godziny 14:30. Wówczas na ulicy Topolowej w Piotrkowie 16-letni kierujący hulajnogą miał uderzyć w samochód osobowy. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b6d7a52-4a3e-4589-8ee3-b0ade06ba2af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b6d7a52-4a3e-4589-8ee3-b0ade06ba2af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2b6d7a52-4a3e-4589-8ee3-b0ade06ba2af"/>
 </item>
 <item>
 <title><![CDATA[ Koniec czasu letniego 2026. Zegarki przestawimy wcześniej niż przed rokiem ]]></title>
@@ -619,6 +759,166 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/03c9f59d-7a70-4158-b2e7-0db66bc93988"/>
 </item>
 <item>
+<title><![CDATA[ Podali prognozę pogody na sierpień. Trzeba odwołać urlopy? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/podali-prognoze-pogody-na-sierpien-trzeba-odwolac-urlopy/BBTdwAB9NneiZtHB8YfJ</link>
+<guid isPermaLink="false">9230a19cd9259341fc277b04883cfea82d8ac300</guid>
+<pubDate>Fri, 31 Jul 2026 14:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3df794c6-62a1-465d-83d9-e8a9fa05c7d1" alt="miniatura"/></p><p>Po chłodniejszych, deszczowych i wietrznych dniach do Polski zaczęło napływać znacznie cieplejsze powietrze. Początek sierpnia może przynieść zarówno bardzo wysokie temperatury, jak i gwałtowne burze. Później sytuacja ma się zmienić, ale nie oznacza to końca letniej pogody.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3df794c6-62a1-465d-83d9-e8a9fa05c7d1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3df794c6-62a1-465d-83d9-e8a9fa05c7d1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3df794c6-62a1-465d-83d9-e8a9fa05c7d1"/>
+</item>
+<item>
+<title><![CDATA[ Pijacki rajd w powiecie piotrkowskim. Interweniował inny kierowca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pijacki-rajd-w-powiecie-piotrkowskim-interweniowal-inny-kierowca/AoidGLEDeUnu8oV2UyZw</link>
+<guid isPermaLink="false">684c887fd45395d9311fa959eb9cecc1b461cca2</guid>
+<pubDate>Fri, 31 Jul 2026 12:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf88540-5346-44d2-bfa5-a273eab57e94" alt="miniatura"/></p><p>Do zdarzenia doszło w środę, 29 lipca 2026 roku około godziny 22:40. Dyżurny piotrkowskiej policji otrzymał zgłoszenie od mężczyzny, który poinformował, że odebrał kluczyki nietrzeźwemu kierowcy samochodu marki Fiat Ducato.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf88540-5346-44d2-bfa5-a273eab57e94" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf88540-5346-44d2-bfa5-a273eab57e94" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/bcf88540-5346-44d2-bfa5-a273eab57e94"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkańcy ruszą do zabawy. O której startuje Piotrkowska Potańcówka? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-rusza-do-zabawy-o-ktorej-startuje-piotrkowska-potancowka/hokRgWyFI0NbY3G2wECC</link>
+<guid isPermaLink="false">c638da8df35126ac12659d14a2d9cd00f87373b8</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b847e688-5a86-4bfc-8769-47a45a4b9cdd" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa Trybunalskiego oraz miłośnicy dobrej zabawy z całego regionu mogą już szykować wygodne obuwie i rezerwować wolny czas. Przed nami kolejna odsłona miejskiej potańcówki. Już w najbliższą sobotę, 1 sierpnia 2026 roku, serce piotrkowskiej starówki zamieni się w ogromny, tętniący życiem parkiet taneczny.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b847e688-5a86-4bfc-8769-47a45a4b9cdd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b847e688-5a86-4bfc-8769-47a45a4b9cdd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b847e688-5a86-4bfc-8769-47a45a4b9cdd"/>
+</item>
+<item>
+<title><![CDATA[ Legendarny zespół zagra w naszym powiecie. Znamy datę i godzinę koncertu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/legendarny-zespol-zagra-w-naszym-powiecie-znamy-date-i-godzine-koncertu/NnHSs6M1L99222UVRzdw</link>
+<guid isPermaLink="false">dd8bd6380258d99f8e6406aae27f5456fa639d0d</guid>
+<pubDate>Fri, 31 Jul 2026 11:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/06944dff-7850-4a18-a93a-33664790789b" alt="miniatura"/></p><p>Już w niedzielę, 23 sierpnia Park Mzurki (Mzurki 10) stanie się sercem regionalnych tradycji, muzyki oraz wspólnej, wielopokoleniowej zabawy. Wszystko za sprawą Dożynek Gminy Wola Krzysztoporska 2026. Wiadomo już, jakich atrakcji mogą spodziewać się przybyli goście, a także kto będzie gwiazdą wieczoru.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/06944dff-7850-4a18-a93a-33664790789b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/06944dff-7850-4a18-a93a-33664790789b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/06944dff-7850-4a18-a93a-33664790789b"/>
+</item>
+<item>
+<title><![CDATA[ Porzucone rzeczy nad Zalewem Sulejowskim. Służby wstrzymały akcję poszukiwawczą ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/porzucone-rzeczy-nad-zalewem-sulejowskim-sluzby-wstrzymaly-akcje-poszukiwawcza/9sIiTCfpuAQYZb75w23p</link>
+<guid isPermaLink="false">898230cdc760a18890d68919b750899339dea44a</guid>
+<pubDate>Fri, 31 Jul 2026 11:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c" alt="miniatura"/></p><p>W czwartek, 30 lipca tuż przed północą WOPR w Tomaszowie Mazowieckim otrzymał zgłoszenie, że w rejonie letniska Stara Wieś nad Zalewem Sulejowskim pozostawiono krzesełka, kamizelkę asekuracyjną i but typowo do wody. Wszczęto poszukiwania w obawie, że właściciel tych rzeczy może być w niebezpieczeństwie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na hulajnodze w Piotrkowie. Ranny 13-letni chłopiec [FILM] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-hulajnodze-w-piotrkowie-ranny-13-letni-chlopiec-film/hYWBQTGmuxJNfXZGpY5z</link>
+<guid isPermaLink="false">1eb45ac069946aea00338addb6b5b39e275d0d67</guid>
+<pubDate>Fri, 31 Jul 2026 10:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" alt="miniatura"/></p><p>Wszystko działo się w czwartek, 30 lipca około godziny 16:50, na ulicy Słowackiego w Piotrkowie. 13-letni hulajnogista spadł z pojazdu i został zabrany do szpitala. Jak doszło do tego wypadku?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e"/>
+</item>
+<item>
+<title><![CDATA[ Nowe miejsca rekreacji w województwie łódzkim. Zyskają mieszkańcy naszego powiatu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-miejsca-rekreacji-w-wojewodztwie-lodzkim-zyskaja-mieszkancy-naszego-powiatu/k94F62h4QEc5xeuWgu4Z</link>
+<guid isPermaLink="false">b59464fb16967823a32d60a7897dcc308ea31918</guid>
+<pubDate>Thu, 30 Jul 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" alt="miniatura"/></p><p>Ponad 20 milionów złotych trafi na realizację i modernizację 32 obiektów sportowych w całym regionie. Oficjalne podpisanie umów w tej sprawie z przedstawicielami wybranych samorządów odbyło się w Arenie Lodowej w Tomaszowie Mazowieckim. Wśród wyróżnionych znalazły się dwie gminy z powiatu piotrkowskiego, czyli Moszczenica oraz Sulejów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa"/>
+</item>
+<item>
+<title><![CDATA[ Nielegalny pobyt niedaleko Piotrkowa. 68-latek w rękach Straży Granicznej [FILM] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/nielegalny-pobyt-niedaleko-piotrkowa-68-latek-w-rekach-strazy-granicznej/ptyZPlSMLXhZALLsChgr</link>
+<guid isPermaLink="false">2950b799eaf372d8dff66b054992e450ea3f7899</guid>
+<pubDate>Thu, 30 Jul 2026 14:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0fcb3db6-2f96-48af-a569-b79e2a05c582" alt="miniatura"/></p><p>Wszystko działo się 29 lipca na terenie gminy Wola Krzysztoporska. Funkcjonariusze zatrzymali tam obywatela Ukrainy, który przebywał nielegalnie na terenie Polski. Jak się okazało, mężczyzna nie posiadał paszportu, na podstawie którego przekroczył granicę kraju. 68-latek poinformował funkcjonariuszy, że go zgubił.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fcb3db6-2f96-48af-a569-b79e2a05c582" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fcb3db6-2f96-48af-a569-b79e2a05c582" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fcb3db6-2f96-48af-a569-b79e2a05c582"/>
+</item>
+<item>
+<title><![CDATA[ Akcja ratunkowa na Zalewie Sulejowskim. Żeglarze walczyli o przetrwanie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-ratunkowa-na-zalewie-sulejowskim-zeglarze-walczyli-o-zycie/zvu3YiMv9HpnIIZQ0B6Q</link>
+<guid isPermaLink="false">5f0569f14c15106e505c1a0ae50f35293bb2214e</guid>
+<pubDate>Thu, 30 Jul 2026 14:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c" alt="miniatura"/></p><p>W czwartek, 30 lipca, Komenda Miejska Policji w Piotrkowie Trybunalskim poinformowała o niebezpiecznym zdarzeniu, do jakiego doszło na wysokości miejscowości Swolszewice Duże. Patrolujący akwen funkcjonariusz wspólnie z pracownikami Polskiego Związku Wędkarskiego, dostrzegł dryfującą w kierunku środka zalewu łódź żaglową. Jednostka była wywrócona do góry dnem. Co więcej, w wodzie znalazło się dwóc…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c"/>
+</item>
+<item>
+<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
+<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
+<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
+</item>
+<item>
+<title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-poszukuje-pracownikow-takie-wynagrodzenie-proponuje-spolka/fPhgiAXhpc0YPK3yHKBf</link>
+<guid isPermaLink="false">66016dc4e72cf8860a4fa53d246b91ca5905ef66</guid>
+<pubDate>Thu, 30 Jul 2026 10:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/98886148-3cb3-4d3a-b3a6-c27b45adc0f8" alt="miniatura"/></p><p>Miejski Zakład Komunikacyjny w Piotrkowie Trybunalskim ogłosił nabór na stanowisko głównego księgowego. Przewoźnik poszukuje doświadczonej osoby, która obejmie nadzór nad obszarem finansów i rachunkowości, zapewniając prawidłowe prowadzenie gospodarki finansowej firmy zgodnie z obowiązującymi przepisami prawa. Oferta skierowana jest do specjalistów, a proponowane wynagrodzenie zasadnicze wynosi od…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886148-3cb3-4d3a-b3a6-c27b45adc0f8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886148-3cb3-4d3a-b3a6-c27b45adc0f8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/98886148-3cb3-4d3a-b3a6-c27b45adc0f8"/>
+</item>
+<item>
+<title><![CDATA[ Ruszy wielka akcja policji i potrwa cały tydzień. Posypią się mandaty, kierowcy stracą prawa jazdy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ruszy-wielka-akcja-policji-i-potrwa-tydzien-posypia-sie-mandaty-kierowcy-straca-prawa-jazdy/eOlKu0V4eFK7eKZW4nGy</link>
+<guid isPermaLink="false">b6d237d5812d378cae3bf72f611a63fe5006e90d</guid>
+<pubDate>Thu, 30 Jul 2026 09:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae5927ed-7e9c-4340-9a77-5a60dec09dc0" alt="miniatura"/></p><p>Od poniedziałku 3 sierpnia do niedzieli 9 sierpnia na europejskich drogach będą prowadzone działania. Akcję koordynuje Europejska Organizacja Policji Ruchu Drogowego ROADPOL, która umieściła ją w oficjalnym planie operacji na 2026 r. Jest to drugi tegoroczny tydzień wzmożonego egzekwowania ograniczeń prędkości. Pierwszy przeprowadzono od 13 do 19 kwietnia, a jego najważniejszym elementem był całod…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae5927ed-7e9c-4340-9a77-5a60dec09dc0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae5927ed-7e9c-4340-9a77-5a60dec09dc0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae5927ed-7e9c-4340-9a77-5a60dec09dc0"/>
+</item>
+<item>
+<title><![CDATA[ Wielka akcja służb w Łódzkiem! Likwidacja tajnych lokali, na liście nasze miasto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wielka-akcja-sluzb-w-lodzkiem-likwidacja-tajnych-lokali-na-liscie-nasze-miasto/y6iRtRX7tXUOE2DvWuXA</link>
+<guid isPermaLink="false">aaf838f667131f3a3aac351ef2e8efed712a7bfd</guid>
+<pubDate>Wed, 29 Jul 2026 15:18:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/32911478-8ae4-4cfd-9b8d-11e3b7ca4954" alt="miniatura"/></p><p>Służby zlikwidowały sieć nielegalnych salonów gier hazardowych w regionie. W lipcu mundurowi weszli do lokali w Piotrkowie Trybunalskim, Koluszkach, Strykowie oraz Skierniewicach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/32911478-8ae4-4cfd-9b8d-11e3b7ca4954" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/32911478-8ae4-4cfd-9b8d-11e3b7ca4954" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/32911478-8ae4-4cfd-9b8d-11e3b7ca4954"/>
+</item>
+<item>
+<title><![CDATA[ Nadciąga fala upałów w Łódzkiem! Wiemy, gdzie szukać ochłody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nadciaga-fala-upalow-w-lodzkiem-wiemy-gdzie-szukac-ochlody/hhPtKmaDh8FaGDPQ9Uoz</link>
+<guid isPermaLink="false">faf07335df9dad533a7f02688835c04f21f0ca3f</guid>
+<pubDate>Wed, 29 Jul 2026 13:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/18f7c3fb-9fc2-49c9-9bfc-f89e2a30c3e9" alt="miniatura"/></p><p>Według prognoz Instytutu Meteorologii i Gospodarki Wodnej nachodzące dni przyniosą bezchmurną, słoneczną pogodę. Taka aura sprzyja wycieczkom i aktywnemu wypoczynkowi. Wiele osób szuka wówczas ochłody nad wodą. Gdzie mieszkańcy Piotrkowa mogą zrelaksować się nad wodą?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/18f7c3fb-9fc2-49c9-9bfc-f89e2a30c3e9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/18f7c3fb-9fc2-49c9-9bfc-f89e2a30c3e9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/18f7c3fb-9fc2-49c9-9bfc-f89e2a30c3e9"/>
+</item>
+<item>
+<title><![CDATA[ Łódzkie inwestuje w nowoczesne pociągi ŁKA. Skorzystają także mieszkańcy Piotrkowa i okolic ]]></title>
+<link>https://trybunalski.pl/wiadomosci/lodzkie-inwestuje-w-nowoczesne-pociagi-lka-skorzystaja-takze-mieszkancy-piotrkowa-i-okolic/1EyDUqbkmKBusUfDt07n</link>
+<guid isPermaLink="false">6edfaf9d5322411976ed88920f6639774c0cb74d</guid>
+<pubDate>Wed, 29 Jul 2026 12:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cbbd92-69ea-42b1-a04e-471d93641aea" alt="miniatura"/></p><p>Inwestycja warta blisko 350 mln zł ma poprawić komfort podróży, zwiększyć liczbę miejsc na najbardziej obciążonych trasach i ułatwić uruchamianie nowych połączeń, w tym planowanej linii z Piotrkowa Trybunalskiego do Bełchatowa i Bogumiłowa.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cbbd92-69ea-42b1-a04e-471d93641aea" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cbbd92-69ea-42b1-a04e-471d93641aea" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cbbd92-69ea-42b1-a04e-471d93641aea"/>
+</item>
+<item>
 <title><![CDATA[ Zmiany w rozkładach jazdy MZK w Piotrkowie. Od czwartku autobusy pojadą inaczej! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmiany-w-rozkladach-jazdy-mzk-w-piotrkowie-od-czwartku-autobusy-pojada-inaczej/4xsN3mpA67LXGgrQ9dQx</link>
 <guid isPermaLink="false">be42c0d0fb16c18563cf066e62e4c601e444b7d8</guid>
@@ -929,16 +1229,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -947,6 +1237,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -1419,16 +1719,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -1437,6 +1727,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -1793,7 +2093,7 @@
 <link>https://trybunalski.pl/wiadomosci/nowe-miejsca-pracy-w-lodzkiem-gigant-e-commerce-prowadzi-rekrutacje-w-naszym-miescie/JKaTEm1G1GqVGS1fdMEh</link>
 <guid isPermaLink="false">087e35351f96ab40e18e84459837daf1b94bd474</guid>
 <pubDate>Tue, 14 Jul 2026 10:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/nowe-miejsca-pracy-w-lodzkiem-gigant-e-commerce-prowadzi-rekrutacje-w-naszym-miescie/JKaTEm1G1GqVGS1fdMEh is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" alt="miniatura"/></p><p>Gigant e-commerce, firma Allegro, powiększa swoje zespoły w centrum dystrybucyjnym w Piotrkowie Trybunalskim. Sprawdzamy, jakie stanowiska są wolne i jakie wymagania stawia spółka.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b8f877e9-fd16-4882-b8d3-e9bd83de2557"/>
