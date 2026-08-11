@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 11 Aug 2026 13:33:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 15:15:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wojsko płaci prawie 6 tys. zł za 27 dni. Oferta ważna jeszcze tylko kilka dni ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojsko-placi-prawie-6-tys-zl-za-27-dni-oferta-wazna-jeszcze-tylko-kilka-dni/9ARNvT6UByJP2BEsCWlc</link>
+<guid isPermaLink="false">dc4755fd50bb4131f039d12dd0f016c4b6ff59cd</guid>
+<pubDate>Tue, 11 Aug 2026 15:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40ff25f2-55f2-4610-82a7-04133fc7720e" alt="miniatura"/></p><p>Tegoroczna edycja programu „Wakacje z wojskiem 3” wchodzi w ostatnią fazę. Dwa pierwsze turnusy zostały zaplanowane na okres od 8 czerwca do 4 lipca oraz od 13 lipca do 8 sierpnia. Trzeci rozpocznie się 17 sierpnia i potrwa do 12 września 2026 r. Oznacza to 27 dni szkolenia prowadzonego według wojskowych zasad.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40ff25f2-55f2-4610-82a7-04133fc7720e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40ff25f2-55f2-4610-82a7-04133fc7720e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40ff25f2-55f2-4610-82a7-04133fc7720e"/>
+</item>
 <item>
 <title><![CDATA[ Z figurką w dłoni i dziwnym pytaniem. Przebiegł kilometry przez Piotrków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/z-figurka-w-dloni-i-dziwnym-pytaniem-na-ustach-przebiegl-kilometry-przez-piotrkow/cpSRCEFwBsAFI6xoZ8jc</link>
@@ -919,16 +929,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/07318473-a82f-49c1-b506-6e7f0f36ac0c"/>
 </item>
 <item>
-<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
-<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
-</item>
-<item>
 <title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
 <guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
@@ -937,6 +937,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
+</item>
+<item>
+<title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
+<guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" alt="miniatura"/></p><p>W sobotę, 1 sierpnia, przypadają uroczyste obchody 82. rocznicy Powstania Warszawskiego. Z tego powodu, w całym kraju oddamy hołd powstańcom.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
@@ -1299,16 +1309,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -1317,6 +1317,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3503,7 +3513,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Z figurką w dłoni i dziwnym pytaniem na ustach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Już jutro niesamowite zjawisko na niebie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3683,7 +3693,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Z figurką w dłoni i dziwnym pytaniem na ustach.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Już jutro niesamowite zjawisko na niebie.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3747,25 +3757,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ef7c55c-9737-471c-9940-5f63f34766ca" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ef7c55c-9737-471c-9940-5f63f34766ca" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ef7c55c-9737-471c-9940-5f63f34766ca"/>
-</item>
-<item>
-<title><![CDATA[ Była policjantka z powiatu piotrkowskiego napadła na byłego męża. Policja wydała oficjalny komunikat ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/byla-policjantka-z-gorzkowic-napadla-na-bylego-meza-policja-o-zarzutach-dla-trzech-osob/m1T4Ct28UtYuqwdPLDoH</link>
-<guid isPermaLink="false">9b15635a9d6256403092f1b8531a48487c5e1d2e</guid>
-<pubDate>Mon, 22 Jun 2026 14:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/012a6584-06bc-4062-90e8-27b189a8e36e" alt="miniatura"/></p><p>Do zdarzenia doszło w nocy z 14 na 15 czerwca 2026 roku na jednej z posesji w Lgocie Wielkiej. Dariusz Albrychowicz przekazał, że został zaatakowany podczas konfliktu związanego z opieką nad dzieckiem. Według jego relacji w zdarzeniu miały uczestniczyć trzy osoby, w tym byli funkcjonariusze Komisariatu Policji w Gorzkowicach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/012a6584-06bc-4062-90e8-27b189a8e36e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/012a6584-06bc-4062-90e8-27b189a8e36e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/012a6584-06bc-4062-90e8-27b189a8e36e"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianin ogłosił pierwsze wzmocnienia! Pięciu zawodników dołączy do drużyny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-oglosil-pierwsze-wzmocnienia-pieciu-zawodnikow-dolaczy-do-druzyny/pooSs1A13loluOBflTkg</link>
-<guid isPermaLink="false">e774f7f0ed124177ffee4c389dfc31f961f9a077</guid>
-<pubDate>Mon, 22 Jun 2026 14:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cc04eb-6776-49fb-867a-5cd63456a7f3" alt="miniatura"/></p><p>Najnowsze nabytki drużyny z Piotrkowa Trybunalskiego to bez wyjątku piłkarze ręczni z doświadczeniem w klubach ORLEN Superligi. Kontrakt z Piotrkowianinem podpisał między innymi 26-letni Jakub Matlęga , który przez sześć lat reprezentował barwy MMTS Kwidzyn, a do Polski wraca z włoskiego SSV Loacker Bozen Volksbank.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cc04eb-6776-49fb-867a-5cd63456a7f3" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cc04eb-6776-49fb-867a-5cd63456a7f3" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a1cc04eb-6776-49fb-867a-5cd63456a7f3"/>
 </item>
 </channel></rss>
