@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 11 Aug 2026 07:32:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 09:19:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pokazali nowy sposób oszustów. Podszywają się pod polską spółkę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pokazali-nowy-sposob-oszustow-podszywaja-sie-pod-polska-spolke/xdgwluK5nDAk7LzmGJOs</link>
+<guid isPermaLink="false">2cb680b59d3e7181a1f2f270df2cd65e6714b130</guid>
+<pubDate>Tue, 11 Aug 2026 11:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2adef3a1-1cac-4813-bfa3-534e6d4322dc" alt="miniatura"/></p><p>Służby ostrzegają przed kolejną metodą cyberprzestępców. W sieci ruszyła nowa fala kampanii phishingowej, w której oszuści podszywają się pod Polską Grupę Energetyczną (PGE). Próbując wyłudzić dane logowania, w wiadomościach e-mail piszą o rzekomo wykrytej nadpłacie oraz możliwości zwrotu pieniędzy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2adef3a1-1cac-4813-bfa3-534e6d4322dc" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2adef3a1-1cac-4813-bfa3-534e6d4322dc" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2adef3a1-1cac-4813-bfa3-534e6d4322dc"/>
+</item>
+<item>
+<title><![CDATA[ Awaria basenu w Sulejowie. Obiekt nieczynny! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/awaria-basenu-w-sulejowie-obiekt-nieczynny/mh6HWBiqDFhxjx8XyLHt</link>
+<guid isPermaLink="false">bbfc2abe745ba6b2b408f185c60daab18243bc3e</guid>
+<pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" alt="miniatura"/></p><p>Urząd Gminy w Sulejowie poinformował o awarii, do której doszło na tamtejszym basenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1"/>
+</item>
+<item>
+<title><![CDATA[ 11-letni rowerzysta potrącony w Piotrkowie. Jechał bez kasku i oświetlenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/11-letni-rowerzysta-potracony-w-piotrkowie-jechal-bez-kasku-i-oswietlenia/VEEA03mVLTrvLXdSLTcb</link>
+<guid isPermaLink="false">f8837932c14a343fa4c81035f4d059c02ebcaff9</guid>
+<pubDate>Tue, 11 Aug 2026 10:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1f5b7c59-ddb1-4158-b16f-7bdc621ec653" alt="miniatura"/></p><p>Do zdarzenia doszło w poniedziałek, 10 sierpnia, około godziny 20:25.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f5b7c59-ddb1-4158-b16f-7bdc621ec653" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f5b7c59-ddb1-4158-b16f-7bdc621ec653" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1f5b7c59-ddb1-4158-b16f-7bdc621ec653"/>
+</item>
 <item>
 <title><![CDATA[ Tragiczny wypadek w regionie. Nie żyje kierujący skuterem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-wypadek-w-regionie-nie-zyje-kierujacy-skuterem/GOsVB2i7GznhAPKglHKG</link>
@@ -1229,16 +1259,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -1247,6 +1267,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -1719,16 +1749,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -1737,6 +1757,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3433,7 +3463,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Podali prognozy pogody na resztę sierpnia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Policjanci ostrzegają przed oszustami.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3613,7 +3643,7 @@
 <link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
 <guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
 <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Podali prognozy pogody na resztę sierpnia.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Policjanci ostrzegają przed oszustami.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
@@ -3737,25 +3767,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6649e154-be03-497d-9378-40e637d6be54" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6649e154-be03-497d-9378-40e637d6be54" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6649e154-be03-497d-9378-40e637d6be54"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowianin ma nowego trenera! Kto poprowadzi drużynę w nowym sezonie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/piotrkowianin-ma-nowego-trenera-kto-poprowadzi-druzyne-w-nowym-sezonie/yBmgHjHQ4NQcqOgL7nfy</link>
-<guid isPermaLink="false">7e19ae4d3b879bccdb46d98da735a698267ca8c6</guid>
-<pubDate>Sun, 21 Jun 2026 10:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/48db744e-1d49-421d-a5a7-c6f67b20a1f7" alt="miniatura"/></p><p>Nowym trenerem Piotrkowianina został Ivo Vavra . W Polsce znany przede wszystkim z prowadzenie żeńskiej drużyny Ruchu Chorzów, a po późniejszej fuzji Tauron Ruchu Szczypiorno Kalisz. Vavrze nie brakuje jednak doświadczenia w pracy z mężczyznami, które zdobywał jeszcze w swojej ojczyźnie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/48db744e-1d49-421d-a5a7-c6f67b20a1f7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/48db744e-1d49-421d-a5a7-c6f67b20a1f7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/48db744e-1d49-421d-a5a7-c6f67b20a1f7"/>
-</item>
-<item>
-<title><![CDATA[ Pokazali emerytury byłych prezydentów. Jakie kwoty trafiają na konta Wałęsy, Kwaśniewskiego, Dudy? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pokazali-emerytury-bylych-prezydentow-jakie-kwoty-trafiaja-na-konta-walesy-kwasniewskiego-dudy/fOUehV5WjaUCKimttDNl</link>
-<guid isPermaLink="false">ccceaa72bee7629b7aad48e4a9902bbc21610839</guid>
-<pubDate>Sat, 20 Jun 2026 20:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b65dc8-abc2-4c7c-b1dc-b9342eb25cef" alt="miniatura"/></p><p>Byli prezydenci Polski należą do wąskiego grona osób, których sytuacja finansowa po zakończeniu aktywności zawodowej została szczegółowo uregulowana ustawowo. W 2026 roku miesięczne uposażenie przysługujące byłym głowom państwa przekroczyło 14 tys. zł brutto. To jednak tylko część świadczeń finansowanych z budżetu państwa. Oprócz dożywotnich przelewów byli prezydenci korzystają również z szeregu d…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b65dc8-abc2-4c7c-b1dc-b9342eb25cef" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b65dc8-abc2-4c7c-b1dc-b9342eb25cef" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6b65dc8-abc2-4c7c-b1dc-b9342eb25cef"/>
 </item>
 </channel></rss>
