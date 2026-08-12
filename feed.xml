@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 12 Aug 2026 10:26:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 12:08:21 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zmiany w dowodach osobistych. Nowe zasady wchodzą już od grudnia 2026 ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmiany-w-dowodach-osobistych-nowe-zasady-wchodza-juz-od-grudnia-2026/Q103Jlw6rx2BMRNmexu0</link>
+<guid isPermaLink="false">44f3482c07d469f703a50cd2bab4c0d4b29a557e</guid>
+<pubDate>Wed, 12 Aug 2026 13:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725" alt="miniatura"/></p><p>Najważniejsza zmiana dotyczy rozdzielenia miejsca złożenia wniosku od miejsca odbioru dokumentu. Obecnie wniosek o wydanie dowodu osobistego można złożyć w dowolnym urzędzie gminy w Polsce, niezależnie od miejsca zameldowania. Gotowy dokument trzeba jednak odebrać w tym samym urzędzie, który przyjął wniosek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725"/>
+</item>
+<item>
+<title><![CDATA[ Akcja strażaków w naszym powiecie. Jedna osoba trafiła do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-strazakow-w-naszym-powiecie-jedna-osoba-trafila-do-szpitala/d1nJHcYjarQMFvjQnCCX</link>
+<guid isPermaLink="false">21d4e4cff5ae2e598fc8e77c3cc8cc4bcdbf3583</guid>
+<pubDate>Wed, 12 Aug 2026 13:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" alt="miniatura"/></p><p>Do pożaru doszło 12 sierpnia około godziny 1:00 w miejscowości Borowiec, w gminie Aleksandrów. Jak się okazało, ogień pojawił się w budynku gospodarczym. Na miejsce ruszyły służby. Zadysponowano łącznie 5 zastępów, w tym po 2 z KSRG OSP Dąbrowa nad Czarną i OSP Niewierszyn oraz jeden z PSP Piotrków Trybunalski.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b"/>
+</item>
+<item>
+<title><![CDATA[ Ostatnie tygodnie na złożenie wniosku. Mieszkańcy mogą zyskać do 1000 zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ostatnie-tygodnie-na-zlozenie-wniosku-mieszkancy-moga-zyskac-do-1000-zl/FLmSyxWZTEb4CjDBnSRg</link>
+<guid isPermaLink="false">9bc3c6f08f3f7c76c7fd0e194e0e40c4a6ea4dc8</guid>
+<pubDate>Wed, 12 Aug 2026 12:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/77398887-1dfc-4516-a20e-f30eb6a1963b" alt="miniatura"/></p><p>Bon ciepłowniczy to jednorazowa rekompensata wprowadzona ustawą z 2025 roku, mająca na celu złagodzenie skutków wzrostu rachunków za ogrzewanie po zakończeniu rządowego zamrażania cen energii. Choć w skali kraju maksymalne wsparcie sięga 3500 zł, to ze względu na lokalne stawki taryfowe w Piotrkowie mieszkańcom przysługuje świadczenie w wysokości do 1000 zł. Przypominamy, jakie dokumenty są potrze…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/77398887-1dfc-4516-a20e-f30eb6a1963b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/77398887-1dfc-4516-a20e-f30eb6a1963b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/77398887-1dfc-4516-a20e-f30eb6a1963b"/>
+</item>
 <item>
 <title><![CDATA[ Ratują życie i mienie, ale na sprzęt muszą zbierać sami. Strażacy z Wolborza proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ratuja-zycie-i-mienie-ale-na-sprzet-musza-zbierac-sami-strazacy-z-wolborza-prosza-o-pomoc/14s9glukRpBpx4JCAgMY</link>
@@ -1509,16 +1539,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -1527,6 +1547,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3813,7 +3843,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Ratują życie i mienie, ale na sprzęt muszą zbierać sami.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Akcja strażaków w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d"/>
-</item>
-<item>
-<title><![CDATA[ Samochód wjechał w kobietę na pasach w Piotrkowie. Policja ustala, co z dzieckiem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/samochod-wjechal-w-kobiete-na-pasach-w-piotrkowie-policja-ustala-co-z-dzieckiem/dx2zoPo7nnqLfbfpBmQK</link>
-<guid isPermaLink="false">c8c141ad2d2b734ec54892aadf1cbd5824b7c842</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" alt="miniatura"/></p><p>Policja przekazała nowe ustalenia w sprawie wypadku na ul. Piłsudskiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5c757f86-fad9-4283-940a-b5ce5b4f501c"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek szkolnego autobusu. Na miejscu lądował śmigłowiec ratunkowy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-szkolnego-autobusu-na-miejscu-ladowal-smiglowiec-ratunkowy/WbBipYv2vrpPYGqiA46q</link>
-<guid isPermaLink="false">7917e6f66aed148b364df4be0fd00d17529f85a8</guid>
-<pubDate>Tue, 23 Jun 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5031c239-780d-41d7-bbad-3fca0e089516" alt="miniatura"/></p><p>Do zdarzenia doszło 23 czerwca przed godziną 7:30 na 372. kilometrze drogi ekspresowej S8, pomiędzy Czerniewicami a Wólką Jagielczyńską. Volkswagen (powiat tomaszowski), którym podróżowały co najmniej dwie osoby, uderzył w tył jadącego przed nim autobusu szkolnego marki Jelcz.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5031c239-780d-41d7-bbad-3fca0e089516" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5031c239-780d-41d7-bbad-3fca0e089516" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5031c239-780d-41d7-bbad-3fca0e089516"/>
-</item>
-<item>
-<title><![CDATA[ Życzenia na Dzień Ojca 2026. Krótkie, dłuższe, od serca. Gotowe do wysłania ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zyczenia-na-dzien-ojca-2026-krotkie-dluzsze-od-serca-gotowe-do-wyslania/vqB4y5bkt0D0at0fCZG7</link>
-<guid isPermaLink="false">b724cf80030f5397c80ebf7f3b318906eb1061ca</guid>
-<pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" alt="miniatura"/></p><p>Ostatnie tygodnie na złożenie wniosku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6b997e18-2a14-4753-8e56-d893a72aaa09"/>
 </item>
 </channel></rss>
