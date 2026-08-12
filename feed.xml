@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 12 Aug 2026 12:08:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 13:38:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ponad 100 km/h na hulajnodze i bezczelny przejazd obok policji. Szokujące filmy z Piotrkowa obiegły internet ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ponad-100-kmh-na-hulajnodze-i-bezczelny-przejazd-obok-policji-szokujace-filmy-z-piotrkowa-obiegly-internet/imUxwfVfOU85XOqHJIea</link>
+<guid isPermaLink="false">1cc5b6d7751390b534512e07169419986c39e2f8</guid>
+<pubDate>Wed, 12 Aug 2026 14:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ba70f07b-4952-493a-9250-0786ef9f32c0" alt="miniatura"/></p><p>W 2025 r. w Polsce odnotowano aż 1158 wypadków drogowych z udziałem hulajnóg elektrycznych. Mimo wielu ostrzeżeń, sytuacja znacząco się pogarsza, gdyż od stycznia do lipca 2026 roku liczba takich wypadków wyniosła aż 828, a zabitych zostało 11 osób!</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba70f07b-4952-493a-9250-0786ef9f32c0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba70f07b-4952-493a-9250-0786ef9f32c0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ba70f07b-4952-493a-9250-0786ef9f32c0"/>
+</item>
 <item>
 <title><![CDATA[ Zmiany w dowodach osobistych. Nowe zasady wchodzą już od grudnia 2026 ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zmiany-w-dowodach-osobistych-nowe-zasady-wchodza-juz-od-grudnia-2026/Q103Jlw6rx2BMRNmexu0</link>
@@ -2059,16 +2069,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2077,6 +2077,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3843,7 +3853,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Akcja strażaków w powiecie piotrkowskim.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Ponad 100 km/h na hulajnodze i bezczelny przejazd obok policji.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d54f1096-99ec-4f2d-bf26-9fe8423dabb7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d54f1096-99ec-4f2d-bf26-9fe8423dabb7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d54f1096-99ec-4f2d-bf26-9fe8423dabb7"/>
-</item>
-<item>
-<title><![CDATA[ Duże zmiany w piotrkowskich parafiach. Nowy proboszcz, wikariusze i rektor kościoła ]]></title>
-<link>https://trybunalski.pl/wiadomosci/duze-zmiany-w-piotrkowskich-parafiach-nowy-proboszcz-wikariusze-i-rektor-kosciola/XVXFkBAChezDeE7FPS3u</link>
-<guid isPermaLink="false">802793e35438c1277c0ad51ee5b7b280c376d29c</guid>
-<pubDate>Tue, 23 Jun 2026 11:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" alt="miniatura"/></p><p>Dekrety dotyczące zmian personalnych w Archidiecezji Łódzkiej zostały wręczone duchownym podczas Mszy Posłania odprawionej w łódzkiej bazylice archikatedralnej. Decyzje podjął kard. Konrad Krajewski, metropolita łódzki.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ebea977e-3386-4909-b088-84a505c79c3d"/>
 </item>
 </channel></rss>
