@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 13 Aug 2026 12:05:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 13:39:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Prezentacja czołgów, broni i walki rycerzy. Żywa lekcja historii w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/prezentacja-czolgow-broni-i-walki-rycerzy-zywa-lekcja-historii-w-piotrkowie/4JE06T2W9j2EHCib60Qv</link>
+<guid isPermaLink="false">91b1ac6f2159a80d05e62478bee90dcd915d5337</guid>
+<pubDate>Thu, 13 Aug 2026 11:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/febb1a3e-dd03-4e87-ac56-ca718ccdc383" alt="miniatura"/></p><p>15 sierpnia obchodzimy Święto Wojska Polskiego, ustanowione w 1992 roku na pamiątkę zwycięstwa nad bolszewikami w Bitwie Warszawskiej z 1920 roku, określanego jako „Cud nad Wisłą”. To właśnie do tego wydarzenia nawiązywać będą uroczystości i piknik historyczno-militarny organizowany w Piotrkowie Trybunalskim. Na Piotrkowian czeka wiele atrakcji, zarówno dla małych, jak i dużych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/febb1a3e-dd03-4e87-ac56-ca718ccdc383" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/febb1a3e-dd03-4e87-ac56-ca718ccdc383" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/febb1a3e-dd03-4e87-ac56-ca718ccdc383"/>
+</item>
 <item>
 <title><![CDATA[ Rewolucja na obiektach sportowych w Piotrkowie? Szatnie odnowione po 16 latach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-na-obiektach-sportowych-w-piotrkowie-szatnie-odnowione-po-16-latach/WGGtz37dKTKyfhgaS2nR</link>
@@ -2149,16 +2159,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2167,6 +2167,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3933,7 +3943,7 @@
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-kobieta-z-impetem-uderzyla-w-drzewo-dwie-osoby-ranne/TRMOGHVzD445DtrATPrR</link>
 <guid isPermaLink="false">c6d8b02b31f0938a396d69182e8e687db81b0a5b</guid>
 <pubDate>Thu, 25 Jun 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Rewolucja na obiektach sportowych w Piotrkowie?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" alt="miniatura"/></p><p>Prezentacja czołgów, broni i walki rycerzy.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9593c89e-148d-44af-b423-211d854d449f"/>
-</item>
-<item>
-<title><![CDATA[ Licytacje komornicze w Piotrkowie Trybunalskim. Co idzie pod młotek i za ile? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/licytacje-komornicze-w-piotrkowie-trybunalskim-co-idzie-pod-mlotek-i-za-ile/XhB1N4L3KisOfaW7ZebC</link>
-<guid isPermaLink="false">c1e398bb7eb341ee05557ca514da982990593e45</guid>
-<pubDate>Wed, 24 Jun 2026 15:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" alt="miniatura"/></p><p>Przedmiotem sprzedaży są udziały w prawie własności, a nie całe nieruchomości, co oznacza, że nabywcy wchodzą we współwłasność z innymi osobami. Licytacje różnią się zakresem udziałów, lokalizacjami oraz stanem technicznym obiektów, jednak wszystkie dotyczą nieruchomości położonych na terenie miasta Piotrków Trybunalski.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2fcbcdb0-8866-433f-adae-304426505778"/>
 </item>
 </channel></rss>
