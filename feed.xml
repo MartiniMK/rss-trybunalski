@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 14 Aug 2026 08:34:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 10:24:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dni Sulejowa 2026. O której koncert Mr. President i „Coco Jamboo”? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dni-sulejowa-2026-o-ktorej-koncert-mr-president-i-coco-jamboo/ZYYHX3l8N7ajlHXWmWy1</link>
+<guid isPermaLink="false">00091389c9643ad339703809aa966e60d4c03fb5</guid>
+<pubDate>Fri, 14 Aug 2026 11:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/260341af-d3bb-45b4-bdbc-f1e13d7329d0" alt="miniatura"/></p><p>W weekend, 15–16 sierpnia, Podklasztorze w Sulejowie stanie się centrum zabawy dla mieszkańców naszego powiatu. Wszystko za sprawą Dni Sulejowa 2026. Sprawdzamy, jakie atrakcje przygotowali organizatorzy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/260341af-d3bb-45b4-bdbc-f1e13d7329d0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/260341af-d3bb-45b4-bdbc-f1e13d7329d0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/260341af-d3bb-45b4-bdbc-f1e13d7329d0"/>
+</item>
 <item>
 <title><![CDATA[ Znów zmiana cen paliw na stacjach. Zapadła niespodziewana decyzja ]]></title>
 <link>https://trybunalski.pl/wiadomosci/i-znow-zmiana-cen-paliw-na-stacjach-zapadla-niespodziewana-decyzja/AtUmXdiaigICEN6TjH2U</link>
@@ -1249,16 +1259,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/5708ff10-7751-4456-a627-cb25d0c590af"/>
 </item>
 <item>
-<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
-<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
-</item>
-<item>
 <title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
 <guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
@@ -1267,6 +1267,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
+</item>
+<item>
+<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
+<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/47d047ed-3aa0-4936-ab06-dbf07acbc71c"/>
-</item>
-<item>
-<title><![CDATA[ ŁKA rusza z wakacyjną promocją. Piotrkowianie „zostają na bocznym torze” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/lka-rusza-z-wakacyjna-promocja-piotrkowianie-zostaja-na-bocznym-torze/3am3zcYVA05baK76nwKH</link>
-<guid isPermaLink="false">251a184b6e70674f5a5bfd9ae9dc0ff38ef2c431</guid>
-<pubDate>Thu, 25 Jun 2026 14:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" alt="miniatura"/></p><p>Łódzka Kolej Aglomeracyjna wprowadziła ofertę „Wakacyjny weekend z ŁKA”, która obowiązuje w każdy weekend wakacyjny od 27 czerwca do 30 sierpnia. Pasażerowie kupujący bilety jednorazowe mogą liczyć na 10-procentową zniżkę.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2914c3fa-67a1-4334-ac38-ff3a65256e33"/>
 </item>
 </channel></rss>
