@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 14 Aug 2026 15:10:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 16:11:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Starosta piotrkowski żongluje majątkiem. Zmienia domy i samochody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/starosta-piotrkowski-zongluje-majatkiem-zmienia-domy-i-samochody/jleanazGkgw2HjEXz6EY</link>
+<guid isPermaLink="false">f2b66f8bccb04a8ce30bae5e139e3bee2c1117cc</guid>
+<pubDate>Fri, 14 Aug 2026 17:44:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1adb5a2d-97ed-44a7-b6c3-ca4063ff5873" alt="miniatura"/></p><p>Starosta piotrkowski do wiosennych wyborów w 2024 roku był wójtem gminy Łęki Szlacheckie. Piotr Łączny w tej gminie nadal mieszka i tam ma swoje gospodarstwo rolne. Nie oznacza to wcale, że jego stan posiadania się nie zmienił. W oświadczeniu starosty są nowe pozycje.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1adb5a2d-97ed-44a7-b6c3-ca4063ff5873" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1adb5a2d-97ed-44a7-b6c3-ca4063ff5873" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1adb5a2d-97ed-44a7-b6c3-ca4063ff5873"/>
+</item>
 <item>
 <title><![CDATA[ W powiecie piotrkowskim przeprowadzą test. Będzie głośno ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-powiecie-piotrkowskim-przeprowadza-test-bedzie-glosno/DJGeI87mEgsYYW2nvvqN</link>
@@ -2349,16 +2359,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -2367,6 +2367,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf5f235-24bf-434e-80db-b2eafef9d142" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf5f235-24bf-434e-80db-b2eafef9d142" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/daf5f235-24bf-434e-80db-b2eafef9d142"/>
-</item>
-<item>
-<title><![CDATA[ Tak przetrwasz upalną noc. Prosty trik z mokrym ręcznikiem i nie potrzeba klimatyzacji ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tak-przetrwasz-upalna-noc-prosty-trik-z-mokrym-recznikiem-i-nie-potrzeba-klimatyzacji/msJfeiztPdBnoEhEz7dk</link>
-<guid isPermaLink="false">fef47e5d753f273d73609fddd75fb62aae548ec5</guid>
-<pubDate>Fri, 26 Jun 2026 15:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" alt="miniatura"/></p><p>Jednym z nich jest metoda z wilgotnym ręcznikiem, którą opisuje RMF FM, powołując się na wypowiedź eksperta firmy Best Heating. Choć nie zastąpi ona klimatyzatora, w sprzyjających warunkach może poprawić komfort podczas gorących nocy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c0ad596c-2439-49dd-848c-150e248cfa53"/>
 </item>
 </channel></rss>
