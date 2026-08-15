@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 15 Aug 2026 11:39:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 13:02:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ F-35 z bazy w Łasku na paradzie wojskowej. Myśliwce przeleciały nad Warszawą [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/f-35-z-bazy-w-lasku-na-paradzie-wojskowej-mysliwce-przelecialy-nad-warszawa-zdjecia/YWqfl9poNTFd2p3KieQH</link>
+<guid isPermaLink="false">80e43c85eb2a8382892e4391309632016cbd4eb3</guid>
+<pubDate>Sat, 15 Aug 2026 14:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/ezdunska/articles/image/18af9114-1514-4212-a667-18270b21b37b" alt="miniatura"/></p><p>Najnowsze samoloty w polskim wojsku pokazały się podczas parady wojskowej w Warszawie. Z okazji Święta Wojska Polskiego nad stolicą przeleciały samoloty F-35, które stacjonuje w bazie NATO w Łasku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/ezdunska/articles/image/18af9114-1514-4212-a667-18270b21b37b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/ezdunska/articles/image/18af9114-1514-4212-a667-18270b21b37b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/ezdunska/articles/image/18af9114-1514-4212-a667-18270b21b37b"/>
+</item>
 <item>
 <title><![CDATA[ „Pijany kierowca staranował Kacpra”. Trwa zbiórka dla strażaka ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pijany-kierowca-staranowal-kacpra-trwa-zbiorka-dla-strazaka/woo3udueB6wGUUJcj7U2</link>
@@ -1859,16 +1869,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -1877,6 +1877,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea83d647-6fdf-46c3-9cd1-ef266d127b89" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea83d647-6fdf-46c3-9cd1-ef266d127b89" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ea83d647-6fdf-46c3-9cd1-ef266d127b89"/>
-</item>
-<item>
-<title><![CDATA[ Pasek na świadectwie już nie tylko czerwony. Za co można dostać niebieski, a za co zielony? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pasek-na-swiadectwie-juz-nie-tylko-czerwony-za-co-mozna-dostac-niebieski-a-za-co-zielony/K1pNXXQaoFzRLefrC8Y0</link>
-<guid isPermaLink="false">390bc6b5fa0e00ef8291079cd71fa66971de5133</guid>
-<pubDate>Fri, 26 Jun 2026 18:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e71a8619-0f47-49b8-9309-d5a6eddd8176" alt="miniatura"/></p><p>Rodzice i uczniowie mogą zastanawiać się, czy pojawienie się niebieskich, zielonych, różowych lub żółtych pasków oznacza zmianę zasad oceniania. Tak jednak nie jest.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e71a8619-0f47-49b8-9309-d5a6eddd8176" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e71a8619-0f47-49b8-9309-d5a6eddd8176" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e71a8619-0f47-49b8-9309-d5a6eddd8176"/>
 </item>
 </channel></rss>
