@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 17 Aug 2026 10:01:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:51:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tragiczny finał wypadku w Sulejowie. Nie żyje 25-latek, który spadł z wysokości w wesołym miasteczku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-final-wypadku-w-sulejowie-nie-zyje-25-latek-ktory-spadl-z-wysokosci-w-wesolym-miasteczku/tUYCfeqbNCTH74031es9</link>
+<guid isPermaLink="false">9b6badaa68d3a798d12baf02c479da678c4eea04</guid>
+<pubDate>Mon, 17 Aug 2026 12:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/81ec82a9-f253-493b-8b91-e89ec1f0b685" alt="miniatura"/></p><p>Do tragedii doszło w niedzielne popołudnie, 16 sierpnia 2026 roku, około godziny 15:00. Na terenie prywatnym w sąsiedztwie opactwa Cystersów, wynajętym pod wesołe miasteczko, jeden z pracowników spadł z wysokości.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/81ec82a9-f253-493b-8b91-e89ec1f0b685" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/81ec82a9-f253-493b-8b91-e89ec1f0b685" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/81ec82a9-f253-493b-8b91-e89ec1f0b685"/>
+</item>
+<item>
+<title><![CDATA[ Braki prądu w powiecie piotrkowskim. Tu wystąpią utrudnienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/braki-pradu-w-powiecie-piotrkowskim-tu-wystapia-utrudnienia/5YDUBiF21FVfH2UJrWtc</link>
+<guid isPermaLink="false">7d8065c7bb78f0a3bd963230e98896bba19684e5</guid>
+<pubDate>Mon, 17 Aug 2026 12:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f27833ce-6f3c-42f8-9cb6-0fffa565f008" alt="miniatura"/></p><p>Tomawa od 8:00 do 12:00; Numery: 17 21 37-69</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f27833ce-6f3c-42f8-9cb6-0fffa565f008" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f27833ce-6f3c-42f8-9cb6-0fffa565f008" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f27833ce-6f3c-42f8-9cb6-0fffa565f008"/>
+</item>
+<item>
+<title><![CDATA[ W naszym powiecie zawyją syreny. Jaki jest powód? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-zawyja-syreny-jaki-jest-powod/u9xVQyhHxYIs7pnKBesM</link>
+<guid isPermaLink="false">4300e06316ce0aebacf08c9e95e20e27a6692cad</guid>
+<pubDate>Mon, 17 Aug 2026 12:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e75de200-b949-41c4-a37c-375d5e014644" alt="miniatura"/></p><p>W poniedziałek, 17 sierpnia 2026 roku, dokładnie o godzinie 19:00 w miejscowościach na terenie całego powiatu piotrkowskiego zawyją syreny alarmowe. Głośny sygnał dźwiękowy może wzbudzić chwilowy niepokój, jednak władze oraz służby ratunkowe uspokajają: nie ma żadnego powodu do obaw.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e75de200-b949-41c4-a37c-375d5e014644" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e75de200-b949-41c4-a37c-375d5e014644" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e75de200-b949-41c4-a37c-375d5e014644"/>
+</item>
 <item>
 <title><![CDATA[ Autorzy kryminalni zawitają do Piotrkowa na motocyklach. Zbierają pieniądze na leczenie Dawida ]]></title>
 <link>https://trybunalski.pl/wiadomosci/autorzy-kryminalni-zawitaja-do-piotrkowa-na-motocyklach-zbieraja-pieniadze-na-leczenie-dawida/4PAVZZqTf0DeVY4SKMFL</link>
@@ -199,16 +229,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -217,6 +237,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -1939,16 +1969,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -1957,6 +1977,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/261e90ad-cfcf-494e-b9c9-75ca24a863d2"/>
-</item>
-<item>
-<title><![CDATA[ To urządzenie zużywa tyle prądu co 65 lodówek. Wielu Polaków używa go codziennie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-urzadzenie-zuzywa-tyle-pradu-co-65-lodowek-wielu-polakow-uzywa-go-codziennie/jkcF8FAi23ta6OcDZ8JB</link>
-<guid isPermaLink="false">46fe2f15ecc8a43c189166794816d86b7866c333</guid>
-<pubDate>Sun, 28 Jun 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cdbf5942-69e2-41d0-b1e9-690e32df526e" alt="miniatura"/></p><p>Koszty energii elektrycznej pozostają jednym z najważniejszych składników domowych wydatków. Dlatego coraz więcej gospodarstw domowych analizuje, które urządzenia odpowiadają za najwyższe rachunki i gdzie można szukać oszczędności.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdbf5942-69e2-41d0-b1e9-690e32df526e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdbf5942-69e2-41d0-b1e9-690e32df526e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cdbf5942-69e2-41d0-b1e9-690e32df526e"/>
-</item>
-<item>
-<title><![CDATA[ Audi uderzyło w słup energetyczny i drzewo. Droga jest zablokowana ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/audi-uderzylo-w-slup-energetyczny-i-drzewo-droga-jest-zablokowana/BSbQK80vDUqUStEconcj</link>
-<guid isPermaLink="false">37ffe181d1b6f3fbaf9b020dde1cc1f7d2bf61db</guid>
-<pubDate>Sun, 28 Jun 2026 18:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0d344cc9-acd9-441a-a931-4dcb399ad1d6" alt="miniatura"/></p><p>Do zdarzenia doszło 28 czerwca 2026 roku około godziny 16:00. Kierujący samochodem marki Audi z nieustalonych dotąd przyczyn stracił panowanie nad pojazdem.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d344cc9-acd9-441a-a931-4dcb399ad1d6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d344cc9-acd9-441a-a931-4dcb399ad1d6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0d344cc9-acd9-441a-a931-4dcb399ad1d6"/>
-</item>
-<item>
-<title><![CDATA[ Pożar w kamienicy w Piotrkowie. Mieszkańcy ewakuowani ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pozar-w-kamienicy-w-piotrkowie-mieszkancy-ewakuowani/Tftqn3BnYOXnzgjEs7gz</link>
-<guid isPermaLink="false">06aee3b59698a05dd0e800803cff8b78b48419cc</guid>
-<pubDate>Sun, 28 Jun 2026 09:39:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" alt="miniatura"/></p><p>Zgłoszenie o pożarze wpłynęło do służb około godziny 21:40. Do akcji skierowano cztery zastępy straży pożarnej. Na miejscu pracowali również ratownicy medyczni oraz policjanci.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b2c26307-ff25-41cc-8fc2-2e7684c13abf"/>
 </item>
 </channel></rss>
