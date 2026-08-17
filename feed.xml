@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 17 Aug 2026 03:17:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 05:04:47 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wypadek na wesołym miasteczku w Sulejowie. Śmigłowiec LPR zabrał 25-latka ]]></title>
@@ -519,6 +519,16 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2adef3a1-1cac-4813-bfa3-534e6d4322dc"/>
 </item>
 <item>
+<title><![CDATA[ Awaria basenu w Sulejowie. Obiekt nieczynny! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/awaria-basenu-w-sulejowie-obiekt-nieczynny/mh6HWBiqDFhxjx8XyLHt</link>
+<guid isPermaLink="false">bbfc2abe745ba6b2b408f185c60daab18243bc3e</guid>
+<pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" alt="miniatura"/></p><p>Urząd Gminy w Sulejowie poinformował o awarii, do której doszło na tamtejszym basenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/084ace48-4d94-4191-9578-1d69b88d33d1"/>
+</item>
+<item>
 <title><![CDATA[ 11-letni rowerzysta potrącony w Piotrkowie. Jechał bez kasku i oświetlenia ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/11-letni-rowerzysta-potracony-w-piotrkowie-jechal-bez-kasku-i-oswietlenia/VEEA03mVLTrvLXdSLTcb</link>
 <guid isPermaLink="false">f8837932c14a343fa4c81035f4d059c02ebcaff9</guid>
@@ -567,6 +577,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e263d207-0da8-4c6d-b8d4-68601ee49d3e" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e263d207-0da8-4c6d-b8d4-68601ee49d3e" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e263d207-0da8-4c6d-b8d4-68601ee49d3e"/>
+</item>
+<item>
+<title><![CDATA[ Gigant inwestuje w naszym powiecie. Są nowe oferty pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gigant-inwestuje-w-naszym-powiecie-sa-nowe-oferty-pracy/ThhcW8Acmq6DH3q0eXeC</link>
+<guid isPermaLink="false">2d25bb515213e0e5dcd9b8e697a0941de8711250</guid>
+<pubDate>Mon, 10 Aug 2026 15:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" alt="miniatura"/></p><p>W Majkowie Dużym trwa rozbudowa zaplecza logistycznego sieci Agata Meble. W związku z rozwojem, w już funkcjonujących magazynach otworzyły się rekrutacje na różnorodne stanowiska – od prac fizycznych i operatorskich, po role specjalistyczne oraz kontrolne. Sprawdź, jakie wymagania stawia firma.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6d8eda4-d37c-49a1-a08b-f889e08faf1e"/>
 </item>
 <item>
 <title><![CDATA[ Napad na prawie 90-letnię staruszkę w Gorzkowicach. Ukradli ogromną kwotę, kobieta była duszona ]]></title>
