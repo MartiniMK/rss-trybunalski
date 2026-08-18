@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 18 Aug 2026 10:49:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 11:45:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kierowca stracił widoczność podczas ulewy? Seniorka potrącona na przejściu w Piotrkowie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/kierowca-stracil-widocznosc-podczas-ulewy-seniorka-potracona-na-przejsciu-w-piotrkowie/ou8ugPiQwiPDJSj4Ur4b</link>
+<guid isPermaLink="false">af2e7c3e3db52de726b172cfad0084301109929b</guid>
+<pubDate>Tue, 18 Aug 2026 13:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/548e49cb-4420-4e4a-a883-1522cc196788" alt="miniatura"/></p><p>Do zdarzenia doszło w poniedziałek, 17 sierpnia około godziny 19:50 na ulicy Słowackiego. W tym czasie nad Piotrkowem przechodziła ulewa, która znacznie ograniczała widoczność i pogarszała warunki panujące na drodze.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e49cb-4420-4e4a-a883-1522cc196788" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e49cb-4420-4e4a-a883-1522cc196788" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/548e49cb-4420-4e4a-a883-1522cc196788"/>
+</item>
+<item>
+<title><![CDATA[ Łzy zagrają w naszym powiecie. Kiedy koncert legendarnego zespołu? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/lzy-zagraja-w-naszym-powiecie-kiedy-koncert-legendarnego-zespolu/uHKVsD15jPaGLA0H962x</link>
+<guid isPermaLink="false">d55d3883b0cf8dd58a4f34379bf72b3613ed4514</guid>
+<pubDate>Tue, 18 Aug 2026 13:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a" alt="miniatura"/></p><p>W niedzielę, 23 sierpnia, Park Mzurki zamieni się w centrum regionalnych tradycji, muzyki i wielopokoleniowej integracji. Wszystko w ramach Dożynek Gminy Wola Krzysztoporska 2026. Poznaliśmy już pełny program atrakcji oraz gwiazdę wieczoru tegorocznego święta plonów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkańcy doczekają się remontu? Urząd podał termin ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-doczekaja-sie-remontu-urzad-podal-termin/kMnVn4tkMgF0Evr1muRA</link>
+<guid isPermaLink="false">70f9e80eea9c4dd359daac4f29271ca5dcd6a2bc</guid>
+<pubDate>Tue, 18 Aug 2026 12:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" alt="miniatura"/></p><p>Nie tak dawno informowaliśmy o planowanych pracach naprawczych przy ulicy Witosa, a w mieście oficjalnie zakończono już wielką przebudowę ulic Wolborskiej i Rakowskiej. W najbliższym czasie zmiany obejmą również ulice Żelazną, Kwiatową oraz Hortensji. Na swoją kolej od lat cierpliwie czekają także mieszkańcy ulicy Pawłowskiej, którym na co dzień doskwiera brak bezpiecznego chodnika i zły stan nawi…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e"/>
+</item>
 <item>
 <title><![CDATA[ Darmowy taneczny wieczór przy muzyce na żywo. Trybunalski Dancing Swing ]]></title>
 <link>https://trybunalski.pl/wiadomosci/darmowy-taneczny-wieczor-przy-muzyce-na-zywo-trybunalski-dancing-swing/9VcX8gpztgKTrb2Fmm0F</link>
@@ -59,7 +89,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7ba189a6-53e4-4915-9a65-22de8e5a217e"/>
 </item>
 <item>
-<title><![CDATA[ Zerwane dachy, powalone drzewa, zalane domy i posesje... Nawałnice uderzyły w Piotrków i region. ]]></title>
+<title><![CDATA[ Zerwane dachy, powalone drzewa, zalane domy i posesje... Nawałnice uderzyły w Piotrków i region ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zerwane-dachy-powalone-drzewa-zalane-domy-i-posesje-nawalnice-uderzyly-w-piotrkow-i-region/YHyercapHLVuWXTdjPNQ</link>
 <guid isPermaLink="false">e78695cd8e014dd1aa5854be2072866b0678246d</guid>
 <pubDate>Tue, 18 Aug 2026 08:43:00 +0000</pubDate>
@@ -179,7 +209,7 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/88270019-cdde-4019-9f55-a7f46a751ecf"/>
 </item>
 <item>
-<title><![CDATA[ Dwa alert IMGW dla Piotrkowa i powiatu piotrkowskiego! Wkrótce się zacznie ]]></title>
+<title><![CDATA[ Dwa alerty IMGW dla Piotrkowa i powiatu piotrkowskiego! Wkrótce się zacznie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dwa-alert-imgw-dla-piotrkowa-i-powiatu-piotrkowskiego-wkrotce-sie-zacznie/CdBKsVy9VVVANZ2IUTGY</link>
 <guid isPermaLink="false">7e319b2822b255022c82b1dbae91d63c86372e29</guid>
 <pubDate>Mon, 17 Aug 2026 11:18:00 +0000</pubDate>
@@ -339,16 +369,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -357,6 +377,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2079,16 +2109,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -2097,6 +2117,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -2599,16 +2629,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -2617,6 +2637,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ef515ab7-ba63-4071-85f8-e9044b6fe684"/>
-</item>
-<item>
-<title><![CDATA[ Fly Fest 2026. Gotowi na największe pokazy lotnicze w Łódzkiem? [PROGRAM] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/fly-fest-2026-gotowi-na-najwieksze-pokazy-lotnicze-w-lodzkiem-program/rmLIP1So1lwSFiBFRstg</link>
-<guid isPermaLink="false">6f4fbb31112062fbf72bffc1158404ab172c831c</guid>
-<pubDate>Tue, 30 Jun 2026 11:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/69431c6f-5777-490e-9bd6-58389663e8c6" alt="miniatura"/></p><p>Piotrkowski Fly Fest to coroczne święto lotnictwa, które przyciąga do miasta tysiące fanów awiacji z całego kraju. Wydarzenie to jest okazją nie tylko do podziwiania wyjątkowych maszyn, ale przede wszystkim do zobaczenia na żywo spektakularnych popisów pilotów. Przed nami XIV edycja tej imprezy. Jakie atrakcje będą czekały na przybyłych?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/69431c6f-5777-490e-9bd6-58389663e8c6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/69431c6f-5777-490e-9bd6-58389663e8c6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/69431c6f-5777-490e-9bd6-58389663e8c6"/>
-</item>
-<item>
-<title><![CDATA[ Niebezpieczny skok na sulejowskich Wapiennikach. Rok temu  zginął tu 24-latek ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niebezpieczny-skok-na-sulejowskich-wapiennikach-rok-temu-zginal-tu-24-latek/SJLimTx3HdXDbBIyEItO</link>
-<guid isPermaLink="false">47117f1f4a7fab5f3ffd8105615e9183fe79ea8a</guid>
-<pubDate>Tue, 30 Jun 2026 11:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e4fa84c8-f8d4-437f-b4a9-a26aa79112eb" alt="miniatura"/></p><p>Nagranie zostało opublikowane na TikToku, a następnie udostępnione przez profil Sulejów24. Widać na nim młodego mężczyznę, który po krótkim rozbiegu skacze ze stromego brzegu do wody. Z tej perspektywy nie sposób jednak ocenić rzeczywistej głębokości zbiornika ani tego, co znajduje się pod powierzchnią.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4fa84c8-f8d4-437f-b4a9-a26aa79112eb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4fa84c8-f8d4-437f-b4a9-a26aa79112eb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e4fa84c8-f8d4-437f-b4a9-a26aa79112eb"/>
-</item>
-<item>
-<title><![CDATA[ Nowoczesne pracownie w Ekonomiku. Szkoła otworzyła też studio nagrań ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowoczesne-pracownie-w-ekonomiku-szkola-otworzyla-tez-studio-nagran/q2tVlQEqhfJFDkcR1RaQ</link>
-<guid isPermaLink="false">837873feeca4ae9a00b610476b20ab932d03380f</guid>
-<pubDate>Tue, 30 Jun 2026 10:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" alt="miniatura"/></p><p>W Zespole Szkół Ponadpodstawowych nr 5 w Piotrkowie Trybunalskim uruchomiono nowoczesne pracownie kształcenia zawodowego dla uczniów kierunków logistycznych, fotograficznych i reklamowych . W ramach przedsięwzięcia powstało też profesjonalnie wyposażone studio nagrań. Ma ono służyć rozwijaniu umiejętności związanych z tworzeniem materiałów audio i wideo oraz nowoczesną komunikacją multimedialną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1"/>
 </item>
 </channel></rss>
