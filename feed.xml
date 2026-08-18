@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 18 Aug 2026 09:52:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 10:49:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Darmowy taneczny wieczór przy muzyce na żywo. Trybunalski Dancing Swing ]]></title>
+<link>https://trybunalski.pl/wiadomosci/darmowy-taneczny-wieczor-przy-muzyce-na-zywo-trybunalski-dancing-swing/9VcX8gpztgKTrb2Fmm0F</link>
+<guid isPermaLink="false">a7c5e174dc3257b8753e526e34d0d156317b94f7</guid>
+<pubDate>Tue, 18 Aug 2026 12:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" alt="miniatura"/></p><p>W najbliższy piątek, 21 sierpnia 2026 roku, dziedziniec MOK-u wypełni się muzyką, tańcem i swingowymi rytmami. Trybunalski Dancing Swing będzie okazją, by spędzić jeden z ostatnich sierpniowych wieczorów na świeżym powietrzu w rytmie jazzowych przebojów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b"/>
+</item>
 <item>
 <title><![CDATA[ Groźny wypadek w powiecie. Mężczyzna został przygnieciony przez quada ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-wypadek-w-powiecie-mezczyzna-zostal-przygnieciony-przez-quada/D2QnFXz0Wy4XgyyeNbDd</link>
@@ -2589,16 +2599,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2607,6 +2607,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3a2cd0dc-0336-4ee2-964e-38553b8e36e1"/>
-</item>
-<item>
-<title><![CDATA[ Nawałnica w Łódzkiem. Zniszczenia na stacji paliw, drzewa jak zapałki [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/polamane-drzewa-i-slupy-strazacy-w-akcji-burza-dotarla-do-regionu/qtv2GSnhz7NeSO2OaTzJ</link>
-<guid isPermaLink="false">3e9f32b3d1e41d5c34af77494c424872f94714a4</guid>
-<pubDate>Tue, 30 Jun 2026 10:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c1e7c6d0-e61a-4fab-bd84-c88aeb6a663d" alt="miniatura"/></p><p>Połamane drzewa, zerwane linie i uszkodzony dach stacji benzynowej to tylko niektóre ze skutków burzy, jaka przeszła przez województwo łódzkie 29 czerwca. Przypomnijmy, że tego dnia obowiązywało ostrzeżenie wydane przez Instytut Meteorologii i Gospodarki Wodnej. Dla naszego regionu prognozowano burze i bardzo silne opady deszczu oraz porywy wiatru. Jak się okazuje, w powiecie opoczyńskim strażacy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1e7c6d0-e61a-4fab-bd84-c88aeb6a663d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1e7c6d0-e61a-4fab-bd84-c88aeb6a663d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c1e7c6d0-e61a-4fab-bd84-c88aeb6a663d"/>
 </item>
 </channel></rss>
