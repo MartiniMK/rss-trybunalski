@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 19 Aug 2026 15:50:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 16:51:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Skarbówka prowadzi masowe kontrole w prywatnych rozliczeniach. Żądają zwrotu pieniędzy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/skarbowka-prowadzi-masowe-kontrole-w-prywatnych-rozliczeniach-zadaja-zwrotu-pieniedzy/q8dsO7x0nnkVd9h7HluN</link>
+<guid isPermaLink="false">77c6c98809982cc2b3c682a589605edcbddc2d04</guid>
+<pubDate>Wed, 19 Aug 2026 18:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd" alt="miniatura"/></p><p>Zwrot podatku na konto albo przyjęcie deklaracji przez system nie oznaczają, że prawidłowość rozliczenia została ostatecznie potwierdzona. Urząd skarbowy może później zweryfikować zarówno wysokość wykazanego podatku, jak i podstawę zastosowania ulg oraz odliczeń. W praktyce oznacza to, że podatnik powinien zachować dokumenty związane z ulgą także po zakończeniu sezonu rozliczeń PIT.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
+</item>
 <item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
@@ -509,16 +519,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
-<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
-</item>
-<item>
 <title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
 <guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
@@ -527,6 +527,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
+</item>
+<item>
+<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
+<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2769,16 +2779,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2787,6 +2787,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5bd09a85-fd73-4d1b-8aab-dbda0daabc01"/>
-</item>
-<item>
-<title><![CDATA[ Pożar kamienicy w Piotrkowie. 11-letni chłopiec zabrany do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-kamienicy-w-piotrkowie-11-letni-chlopiec-zabrany-do-szpitala/eidt6M8YS5IN0vg8Du4b</link>
-<guid isPermaLink="false">0ad56d92e514e52ab6f3203451b8548f179f77c4</guid>
-<pubDate>Thu, 02 Jul 2026 10:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" alt="miniatura"/></p><p>W środę, 1 lipca na terenie Piotrkowa doszło do pożaru kamienicy. Ogień rozprzestrzeniał się w budynku przy alei 3 Maja. Zgłoszenie wpłynęło o 22:25, a służby ruszyły do akcji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b025512a-47d0-4a1e-a2aa-07b16bdd2127"/>
 </item>
 </channel></rss>
