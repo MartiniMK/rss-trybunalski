@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 19 Aug 2026 09:04:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 09:50:59 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mzk-piotrkow-poszukuje-pracownikow-takie-wynagrodzenie-proponuje-spolka/LovDM5WzZ9Y80guHCvC6</link>
+<guid isPermaLink="false">1170e7a63e33b3abf0673f5783f169fa5e491dc3</guid>
+<pubDate>Wed, 19 Aug 2026 11:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f39242f9-4d4f-4124-9c75-6e1ddf079f78" alt="miniatura"/></p><p>Miejski Zakład Komunikacyjny w Piotrkowie Trybunalskim ogłosił nabór na stanowisko Asystenta/Asystentki Zarządu.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f39242f9-4d4f-4124-9c75-6e1ddf079f78" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f39242f9-4d4f-4124-9c75-6e1ddf079f78" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f39242f9-4d4f-4124-9c75-6e1ddf079f78"/>
+</item>
+<item>
+<title><![CDATA[ Ile kosztują mieszkania w Piotrkowie? To są najdroższe osiedla w mieście ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ile-kosztuja-mieszkania-w-piotrkowie-to-sa-najdrozsze-osiedla-w-miescie/qX93ce9m3YAYeujUwN0j</link>
+<guid isPermaLink="false">1c40d9c56a371dc8eabd26f73baf6fd68cc88413</guid>
+<pubDate>Wed, 19 Aug 2026 11:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/dccb951d-7dbc-4b9d-a1e9-557036f46157" alt="miniatura"/></p><p>Dane pochodzą z analizy przygotowanej przez serwis mScanner na podstawie Rejestru Cen Nieruchomości prowadzonego przez Piotrków Trybunalski. Zbadano 982 akty notarialne dotyczące mieszkań, podpisane od lipca 2024 roku do 18 czerwca 2026 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/dccb951d-7dbc-4b9d-a1e9-557036f46157" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/dccb951d-7dbc-4b9d-a1e9-557036f46157" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/dccb951d-7dbc-4b9d-a1e9-557036f46157"/>
+</item>
+<item>
+<title><![CDATA[ Zmiany w piotrkowskiej parafii. Nowym proboszczem będzie ktoś inny, niż zapowiadano... ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zmiany-w-piotrkowskiej-parafii-nowym-proboszczem-bedzie-ktos-inny-niz-zapowiadano/nQsJDjC4uOheYt4rkx9Y</link>
+<guid isPermaLink="false">d78c727bff5f8e9c2518f7e0cd8ee54df0b314c5</guid>
+<pubDate>Wed, 19 Aug 2026 11:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/266877e9-e8d7-4072-8e9c-8d65c9cbc85e" alt="miniatura"/></p><p>Wcześniej informowaliśmy o zmianach personalnych obejmujących kilka kościołów w Piotrkowie Trybunalskim. Dotyczyły one parafii NMP Królowej Pokoju, parafii farnej, parafii św. Jacka i św. Doroty oraz kościoła akademickiego Panien Dominikanek.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/266877e9-e8d7-4072-8e9c-8d65c9cbc85e" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/266877e9-e8d7-4072-8e9c-8d65c9cbc85e" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/266877e9-e8d7-4072-8e9c-8d65c9cbc85e"/>
+</item>
 <item>
 <title><![CDATA[ Gdzie pracują radni z Piotrkowa? Powstała specjalna mapa powiązań ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-pracuja-radni-z-piotrkowa-powstala-specjalna-mapa-powiazan/lWHyv4NrGZspnY5DCZga</link>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b949e413-936b-43d9-9a15-de494e505770"/>
-</item>
-<item>
-<title><![CDATA[ Wielkie święto smaków w Łódzkiem już w ten weekend. Na koniec występ gwiazdy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wielkie-swieto-smakow-w-lodzkiem-juz-w-ten-weekend-na-koniec-wystep-gwiazdy/4tLQo9Yc1obXUjtCqUeJ</link>
-<guid isPermaLink="false">3dfa5a00f3252691e4cebdac1e9f3847337ca948</guid>
-<pubDate>Wed, 01 Jul 2026 11:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" alt="miniatura"/></p><p>W sobotę, 4 lipca tereny Hotelu Podklasztorze w Sulejowie zamienią się w centrum smaków. Wszystko za sprawą festiwalu Taste Łódzkie. W planach stoiska z regionalnymi produktami, rękodziełem, a także koncerty.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/928ab9e7-a1e6-4cc1-86c5-7b664a13b9a5"/>
-</item>
-<item>
-<title><![CDATA[ Oto artyści, którzy rozkołyszą Piotrków! Sprawdź, kto zagra na Trybunalskim Graniu 2026 ]]></title>
-<link>https://trybunalski.pl/wiadomosci/oto-artysci-ktorzy-rozkolysza-piotrkow-sprawdz-kto-zagra-na-trybunalskim-graniu-2026/Ht0D0HB6SojfBSFqqBI4</link>
-<guid isPermaLink="false">c61a3ddad5d71a44d1b558612995a5c8e609d200</guid>
-<pubDate>Wed, 01 Jul 2026 11:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" alt="miniatura"/></p><p>Start lata w Piotrkowie tradycyjnie oznacza jedno, czyli powrót „Trybunalskiego Grania”. Plenerowe koncerty to idealna okazja, by zobaczyć w akcji artystów reprezentujących różne nurty muzyczne. Piotrkowską scenę rozgrzewały już takie legendy jak Luxtorpeda, TSA MNKWL czy Kobranocka. Kto tym razem odwiedzi nasze miasto i porwie publiczność do zabawy?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b0f80756-9ab3-4a98-a9df-e2d45e84113d"/>
-</item>
-<item>
-<title><![CDATA[ Policjanci z Piotrkowa uratowali życie 3-latkowi. Mogło skończyć się tragicznie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/policjanci-z-piotrkowa-uratowali-zycie-3-latkowi-moglo-skonczyc-sie-tragicznie/Mhu1B2EzdvNblLk4NSlE</link>
-<guid isPermaLink="false">68d8508a39b425ffdba96fa13ee8d64e214d1ba2</guid>
-<pubDate>Wed, 01 Jul 2026 10:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" alt="miniatura"/></p><p>Do zdarzenia doszło 28 czerwca na przystanku autobusowym, przy skrzyżowaniu ulic Topolowej i Łódzkiej. Podczas służby niepokojącą sytuację zaobserwowali funkcjonariusze Wydziału Ruchu Drogowego Komendy Miejskiej Policji w Piotrkowie Trybunalskim – asp. Cezary Grochala, sierż. sztab. Mateusz Dębski oraz st. sierż. Artur Głowiński.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a7b506e7-bb25-4742-91d9-99b78bc4a0b7"/>
 </item>
 </channel></rss>
