@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 20 Aug 2026 11:44:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 13:24:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kibice GKS-u Bełchatów zdemolowali stadion w Kutnie. Jedna osoba z zarzutami [VIDEO] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kibice-gks-u-belchatow-zdemolowali-stadion-w-kutnie-jedna-osoba-z-zarzutami/Hfv6ozne2DqgW2MeLjZH</link>
+<guid isPermaLink="false">4b0d5439aec101a0adfb5fa2362fc69f6772a406</guid>
+<pubDate>Thu, 20 Aug 2026 13:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/94400559-83cb-4cf6-965d-b9d2fd64932b" alt="miniatura"/></p><p>W środowy wieczór piłkarze PGE GiEK GKS-u Bełchatów rywalizowali na wyjeździe z drużyną KS Kutno w ramach 3. kolejki rozgrywek Łódzkiej IV Ligi 2026/2027. Dla zawodników „Brunatnych” zakończył się zwycięstwem 3:1. Sukces zawodników przyćmiła jednak sytuacja, do której doszło na trybunach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/94400559-83cb-4cf6-965d-b9d2fd64932b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/94400559-83cb-4cf6-965d-b9d2fd64932b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/94400559-83cb-4cf6-965d-b9d2fd64932b"/>
+</item>
 <item>
 <title><![CDATA[ Wydano ostrzeżenie dla mieszkańców naszego miasta i powiatu. Zacznie się już dziś wieczorem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wydano-ostrzezenie-dla-mieszkancow-naszego-miasta-i-powiatu-zacznie-sie-juz-dzis-wieczorem/lNIBFjqG6T8qLdpl7ZR6</link>
@@ -609,16 +619,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -627,6 +627,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2869,16 +2879,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2887,6 +2887,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b87f231-c886-402f-b975-e4292524862b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b87f231-c886-402f-b975-e4292524862b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5b87f231-c886-402f-b975-e4292524862b"/>
-</item>
-<item>
-<title><![CDATA[ Mury w blasku techno! Pokaz światła i muzyki przed I LO w Piotrkowie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mury-w-blasku-techno-pokaz-swiatla-i-muzyki-przed-i-lo-w-piotrkowie-zdjecia/KGMwT4tzXBOie4BCyALR</link>
-<guid isPermaLink="false">405ae4e149fceaa94c6b5f6add14ed578e4d4d3e</guid>
-<pubDate>Fri, 03 Jul 2026 22:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/fc5501c0-4261-4e60-b08c-c27804c19671" alt="miniatura"/></p><p>W piątek, 3 lipca Piotrkowianie mogli wziąć udział w kolejnej odsłonie imprezy w rytmie techno na terenie miasta. Tym razem wydarzenie odbyło się na placu przed budynkiem I Liceum Ogólnokształcącego. Organizatorzy przygotowali profesjonalny pokaz świetlny z wykorzystaniem 12 reflektorów Art Bar 800 FX oraz 12 ruchomych głowic Clay Paky Sharpy, a efekt dopełnił dym sceniczny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc5501c0-4261-4e60-b08c-c27804c19671" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc5501c0-4261-4e60-b08c-c27804c19671" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fc5501c0-4261-4e60-b08c-c27804c19671"/>
 </item>
 </channel></rss>
