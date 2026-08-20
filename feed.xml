@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 20 Aug 2026 09:54:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 10:49:15 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gwiazda disco polo wystąpi w naszym powiecie. Znamy datę i szczegóły wydarzenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-wystapi-w-naszym-powiecie-znamy-date-i-szczegoly-wydarzenia/8zoWGlfEwyawDO1NAqp2</link>
+<guid isPermaLink="false">b24f8a296c9e340bbf929f86deb4c8b06f501bf6</guid>
+<pubDate>Thu, 20 Aug 2026 12:35:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/71fd42ae-b1ba-4915-a576-fcb81467b9e3" alt="miniatura"/></p><p>Mieszkańcy gminy Moszczenica oraz okolicznych miejscowości już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i trud rolników. Przed nami tradycyjny korowód, ceremonia dożynkowa, swojskie jadło oraz bogata część artystyczna.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/71fd42ae-b1ba-4915-a576-fcb81467b9e3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/71fd42ae-b1ba-4915-a576-fcb81467b9e3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/71fd42ae-b1ba-4915-a576-fcb81467b9e3"/>
+</item>
+<item>
+<title><![CDATA[ Darmowe atrakcje pod Mediateką. Każdy znajdzie coś dla siebie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/darmowe-atrakcje-pod-mediateka-kazdy-znajdzie-cos-dla-siebie/ze9KXhrICe2NMXNriDmc</link>
+<guid isPermaLink="false">ff118eadc49c76a6a49e5ff69463e3ccb460552d</guid>
+<pubDate>Thu, 20 Aug 2026 11:47:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6804c951-cf8c-41c7-baa6-3b90327ba50a" alt="miniatura"/></p><p>Piotrkowianie mają idealny powód do integracji. 22 sierpnia Rada Osiedla „Centrum” zaprasza na drugą edycję Festynu Rodzinnego. Na mieszkańców przez pięć godzin czekać będzie moc darmowej rozrywki i rodzinnej zabawy. W tym roku główną atrakcją będą dmuchańce , w tym 20-metrowy tor przeszkód oraz dmuchane figury Lwa i Rekina . Co jeszcze zaplanowano na placu pod Mediateką?</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6804c951-cf8c-41c7-baa6-3b90327ba50a" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6804c951-cf8c-41c7-baa6-3b90327ba50a" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6804c951-cf8c-41c7-baa6-3b90327ba50a"/>
+</item>
 <item>
 <title><![CDATA[ Sąd Rejonowy w Piotrkowie szuka pracownika. Ile można zarobić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sad-rejonowy-w-piotrkowie-szuka-pracownika-ile-mozna-zarobic/c5HOoCS3sn2JWBROwHrn</link>
@@ -569,16 +589,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
-<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
-</item>
-<item>
 <title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
 <guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
@@ -587,6 +597,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
+</item>
+<item>
+<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
+<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2829,16 +2849,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -2847,6 +2857,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a6c2857-cb87-47bf-b812-43b16775fd95" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a6c2857-cb87-47bf-b812-43b16775fd95" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a6c2857-cb87-47bf-b812-43b16775fd95"/>
-</item>
-<item>
-<title><![CDATA[ Zmiany na ważnej trasie w Łódzkiem. Ma być bezpieczniej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zmiany-na-waznej-trasie-w-lodzkiem-ma-byc-bezpieczniej/k2mfItbACNjkyz0KK88v</link>
-<guid isPermaLink="false">14dfac85b0303855fe8025b83796277e50727ffc</guid>
-<pubDate>Fri, 03 Jul 2026 13:38:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/242f9c25-db2d-45c0-be22-7cb852f70339" alt="miniatura"/></p><p>Generalna Dyrekcja Dróg Krajowych i Autostrad planuje inwestycję, która ma poprawić bezpieczeństwo na ważnej trasie w Łódzkiem. Urząd ogłosił listę wykonawców zainteresowanych realizacją. Z kolei na liście wytypowanych miejsc znalazły się miejscowości z naszego powiatu.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/242f9c25-db2d-45c0-be22-7cb852f70339" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/242f9c25-db2d-45c0-be22-7cb852f70339" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/242f9c25-db2d-45c0-be22-7cb852f70339"/>
-</item>
-<item>
-<title><![CDATA[ Gigant e-commerce prowadzi rekrutację w naszym mieście. Nowe miejsca pracy w województwie łódzkim ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gigant-e-commerce-prowadzi-rekrutacje-w-naszym-miescie-nowe-miejsca-pracy-w-wojewodztwie-lodzkim/Xxdg5gO5AA2NIgbnBcyq</link>
-<guid isPermaLink="false">2b80603d02e44bc50ef0b20e7459349f2e63e4b1</guid>
-<pubDate>Fri, 03 Jul 2026 11:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/75a375d2-38c7-4e6c-8b97-82d5a6d78618" alt="miniatura"/></p><p>Gigant e-commerce prowadzi nabór w naszym mieście. Chodzi o Allegro, które rekrutuje do swojego centrum dystrybucyjnego przy piotrkowskim węźle S8. Sprawdziliśmy szczegóły ofert. Dowiedz się, jakie warunki i benefity spółka oferuje przyszłym pracownikom oraz jakie wymagania stawia kandydatom.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/75a375d2-38c7-4e6c-8b97-82d5a6d78618" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/75a375d2-38c7-4e6c-8b97-82d5a6d78618" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/75a375d2-38c7-4e6c-8b97-82d5a6d78618"/>
 </item>
 </channel></rss>
