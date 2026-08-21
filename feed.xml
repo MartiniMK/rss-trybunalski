@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 21 Aug 2026 05:50:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 07:12:08 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Mieszkańcy nie chcą 22-metrowych bloków. Spór o przyszłość północno-wschodniej części Piotrkowa narasta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkancy-nie-chca-22-metrowych-blokow-spor-o-przyszlosc-polnocno-wschodniej-czesci-piotrkowa-narasta/7GGHGuOjsUHYmnGnnco1</link>
+<guid isPermaLink="false">577eb18ba2abae62708f360769a6e334c1219197</guid>
+<pubDate>Fri, 21 Aug 2026 08:46:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/06979335-6d3e-4644-ac47-5d7e1c68fc96" alt="miniatura"/></p><p>Sprawa dotyczy terenów w rejonie między innymi ulic Prostej, Piaskowej, Krętej, Wschodniej, Rakowskiej, Brunona, Widokowej, Księżycowej i Leszczynowej. Mieszkańcy obawiają się, że zapisy przygotowywanych dokumentów planistycznych otworzą drogę do realizacji budynków wielorodzinnych o wysokości sięgającej 22 metrów. Osobnym źródłem niepokoju jest rezerwa pod przyszłą drogę zbiorczą, nazywaną przez…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/06979335-6d3e-4644-ac47-5d7e1c68fc96" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/06979335-6d3e-4644-ac47-5d7e1c68fc96" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/06979335-6d3e-4644-ac47-5d7e1c68fc96"/>
+</item>
 <item>
 <title><![CDATA[ Kupujesz dom za miastem? Musisz podpisać oświadczenie. Weszło "lex smród" ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kupujesz-dom-za-miastem-musisz-podpisac-oswiadczenie-weszlo-lex-smrod/LTxRV0lFXHVq4jHXmMWO</link>
@@ -149,16 +159,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
-<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
 <guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
@@ -167,6 +167,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
+</item>
+<item>
+<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
+<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -2389,16 +2399,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
-<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
 <guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
@@ -2407,6 +2407,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
+</item>
+<item>
+<title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
+<guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" alt="miniatura"/></p><p>Trwają intensywne prace związane z realizacją przedsięwzięcia pod nazwą „Przebudowa budynków i terenów użyteczności publicznych, zlokalizowanych w sąsiedztwie cieków i zbiorników wodnych mających na celu zwiększenie oferty form spędzania czasu wolnego”. Inwestycja dotyczy terenu przy kompleksie sportowo-rekreacyjnym „Kopiec” w Gorzkowicach . Celem zadania jest zagospodarowanie tej przestrzeni.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -2909,16 +2919,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
-<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
-</item>
-<item>
 <title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
 <guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
@@ -2927,6 +2927,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
+<guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" alt="miniatura"/></p><p>Jak podaje urząd, przy ul. Łódzkiej trwa modernizacja ponad 400-metrowego odcinka drogi dla pieszych i rowerów . Zakres prac obejmuje ułożenie nowej nawierzchni. Jak podano, ma ona poprawić bezpieczeństwo oraz komfort poruszania się tą trasą zarówno pieszych, jak i rowerzystów.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba43820-c264-404d-bdc9-b134e1f5c0f0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba43820-c264-404d-bdc9-b134e1f5c0f0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ba43820-c264-404d-bdc9-b134e1f5c0f0"/>
-</item>
-<item>
-<title><![CDATA[ Podniebne święto w Piotrkowie rozpoczęte! Sprawdź, co XIV Fly Fest przygotował dla widzów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/podniebne-swieto-w-piotrkowie-rozpoczete-sprawdz-co-xiv-fly-fest-przygotowal-dla-widzow/CWlLfElKCGaEvvFsEF9M</link>
-<guid isPermaLink="false">2decd8cd6ea0812f6137d3e8ed0b18cf1067b976</guid>
-<pubDate>Sat, 04 Jul 2026 14:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" alt="miniatura"/></p><p>Wstęp na teren imprezy jest całkowicie bezpłatny, co sprawia, że od samego południa na miejscu gromadzą się całe rodziny oraz fani awiacji. Pogoda dopisuje, a niebo nad Piotrkowem bez przerwy przecinają kolejne maszyny.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/586a82e6-61d6-43b5-9f9c-37d013fa45eb"/>
 </item>
 </channel></rss>
