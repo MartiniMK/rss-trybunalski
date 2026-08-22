@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 22 Aug 2026 04:51:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 05:44:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Naukowcy odkryli nowe działanie kawy. Zmiany widać w całym organizmie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/naukowcy-odkryli-nowe-dzialanie-kawy-zmiany-widac-w-calym-organizmie/2cVQTpiLjlMzwc86upsW</link>
+<guid isPermaLink="false">9ad257ea593cf7b4db112df79cbddfe93335580d</guid>
+<pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4ed59d-1bca-4df5-835d-c55776c4e7ad" alt="miniatura"/></p><p>Badanie przeprowadzili naukowcy związani m.in. z Uniwersytetem w Oulu. Wyniki zostały opublikowane 16 lipca 2026 roku w czasopiśmie naukowym „European Journal of Nutrition”.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4ed59d-1bca-4df5-835d-c55776c4e7ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4ed59d-1bca-4df5-835d-c55776c4e7ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac4ed59d-1bca-4df5-835d-c55776c4e7ad"/>
+</item>
 <item>
 <title><![CDATA[ Od Kijowa, przez Wołyń do mostu pod Piotrkowem. Nie wylewajmy dziecka z kąpielą ]]></title>
 <link>https://trybunalski.pl/wiadomosci/od-kijowa-przez-wolyn-do-mostu-pod-piotrkowem-nie-wylewajmy-dziecka-z-kapiela/H7bVQtGjNLYINBV7JDrM</link>
@@ -269,16 +279,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
-<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
 <guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
@@ -287,6 +287,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
+</item>
+<item>
+<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
+<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/71470612-128a-4ddd-a501-3e72794a9ba3" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/71470612-128a-4ddd-a501-3e72794a9ba3" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/71470612-128a-4ddd-a501-3e72794a9ba3"/>
-</item>
-<item>
-<title><![CDATA[ Pożar pustostanu w Piotrkowie. W akcji trzy zastępy [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-pustostanu-w-piotrkowie-w-akcji-trzy-zastepy-zdjecia/fkXr5gjyP3dxv1ki5m2x</link>
-<guid isPermaLink="false">d1c70b6a5ea62870941db69634204af36669e8de</guid>
-<pubDate>Mon, 06 Jul 2026 15:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/495db509-a6c5-40f1-b1b4-74ae7843e070" alt="miniatura"/></p><p>W poniedziałek, 6 lipca około godziny 14:00 doszło do pożaru w pustostanie przy ulicy Sulejowskiej w Piotrkowie Trybunalskim. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/495db509-a6c5-40f1-b1b4-74ae7843e070" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/495db509-a6c5-40f1-b1b4-74ae7843e070" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/495db509-a6c5-40f1-b1b4-74ae7843e070"/>
 </item>
 </channel></rss>
