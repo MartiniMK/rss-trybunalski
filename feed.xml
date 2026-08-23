@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 23 Aug 2026 04:59:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 05:49:29 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ AI wybiera najgorsze i najlepsze miejsca do życia w województwie łódzkim. Na liście nasze miasto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ai-wybiera-najgorsze-i-najlepsze-miejsca-do-zycia-w-wojewodztwie-lodzkim-na-liscie-nasze-miasto/zEhKpLl9vCTPisTMACBk</link>
+<guid isPermaLink="false">0129fb115fff061ae152a5f93785130af0001f41</guid>
+<pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94da26d8-f6b7-4693-b46a-de1ece5b8337" alt="miniatura"/></p><p>Przy tworzeniu zestawień sztuczna inteligencja porównała dane dotyczące zarobków, miejsc pracy, bezpieczeństwa, dostępu do edukacji, terenów rekreacyjnych, oraz demografii. Korzystała m.in. z danych publikowanych przez Główny Urząd Statystyczny, dostępnych w internecie rankingów i zestawień, a także informacji pochodzących z lokalnych portali. Mimo to należy zaznaczyć, że zestawienia są jedynie su…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94da26d8-f6b7-4693-b46a-de1ece5b8337" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94da26d8-f6b7-4693-b46a-de1ece5b8337" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94da26d8-f6b7-4693-b46a-de1ece5b8337"/>
+</item>
 <item>
 <title><![CDATA[ Musisz zapłacić abonament telewizyjny za.. smartfona? Co z tego, że nie masz w domu telewizora. ]]></title>
 <link>https://trybunalski.pl/wiadomosci/musisz-zaplacic-abonament-telewizyjny-za-smartfona-co-z-tego-ze-nie-masz-w-domu-telewizora/t7FudVOj4MnQrUrwvGzL</link>
@@ -329,16 +339,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -347,6 +347,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -829,16 +839,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -847,6 +847,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2129,16 +2139,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/5708ff10-7751-4456-a627-cb25d0c590af"/>
 </item>
 <item>
-<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
-<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
-</item>
-<item>
 <title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
 <guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
@@ -2147,6 +2147,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
+</item>
+<item>
+<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
+<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/90cf6544-4372-4ccc-855a-04abdd789d11" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/90cf6544-4372-4ccc-855a-04abdd789d11" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/90cf6544-4372-4ccc-855a-04abdd789d11"/>
-</item>
-<item>
-<title><![CDATA[ Dramat bliskich  zaginionego Stanisława. Policja apeluje o wsparcie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-bliskich-zaginionego-stanislawa-policja-apeluje-o-wsparcie/ety5u1pD2VjwxlHIdODO</link>
-<guid isPermaLink="false">a92953f21c02c3c70cfdb549f5548f95f654e64a</guid>
-<pubDate>Tue, 07 Jul 2026 10:08:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e6e792e7-6e67-4659-ab1e-3cb94cb31e7a" alt="miniatura"/></p><p>Zaginiony Stanisław Laszczyk ma 62 lata. Ma około 168 centymetrów wzrostu, normalną sylwetkę oraz krótkie, siwe włosy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6e792e7-6e67-4659-ab1e-3cb94cb31e7a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6e792e7-6e67-4659-ab1e-3cb94cb31e7a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e6e792e7-6e67-4659-ab1e-3cb94cb31e7a"/>
 </item>
 </channel></rss>
