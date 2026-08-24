@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 24 Aug 2026 13:16:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 15:01:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Przejazd kolejowy z nową organizacją ruchu. Wiadomo, od kiedy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przejazd-kolejowy-nowa-organizacja-ruchu-wiadomo-od-kiedy/mdVuIj6hwB1mF3rYcgWp</link>
+<guid isPermaLink="false">1e160b63b72f7f17fa6b8c22c196e18c93c68117</guid>
+<pubDate>Mon, 24 Aug 2026 15:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/0716957b-2278-43d8-989a-8d6b84b2fae3" alt="miniatura"/></p><p>Początkowo organizacja ruchu na przejeździe kolejowo-drogowym w miejscowości Baby miała zmienić się od 25 sierpnia 2026 roku. To efekt prac prowadzonych na linii kolejowej nr 1 na odcinku Koluszki – Częstochowa. Data jednak uległa zmianie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0716957b-2278-43d8-989a-8d6b84b2fae3" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0716957b-2278-43d8-989a-8d6b84b2fae3" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0716957b-2278-43d8-989a-8d6b84b2fae3"/>
+</item>
 <item>
 <title><![CDATA[ Największa impreza rolnicza w woj. łódzkim już za chwilę. Jakie atrakcje czekają nas podczas Rol-Szansy 2026? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/najwieksza-impreza-rolnicza-w-woj-lodzkim-juz-za-chwile-jakie-atrakcje-czekaja-nas-podczas-rol-szansy-2026/vD8mgOpTrLlKZ4KCKhwO</link>
@@ -29,16 +39,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -47,6 +47,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -459,16 +469,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
-<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
 <guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
@@ -477,6 +477,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
+</item>
+<item>
+<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
+<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -959,16 +969,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
-<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
-</item>
-<item>
 <title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
 <guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
@@ -977,6 +977,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
+</item>
+<item>
+<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
+<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -2699,16 +2709,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -2717,6 +2717,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fdd1cbf-63de-4dfe-97f9-0229718625bf" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fdd1cbf-63de-4dfe-97f9-0229718625bf" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/0fdd1cbf-63de-4dfe-97f9-0229718625bf"/>
-</item>
-<item>
-<title><![CDATA[ Japoński gigant wchodzi do Piotrkowa. Nowa fabryka i miejsca pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/japonski-gigant-wchodzi-do-piotrkowa-nowa-fabryka-i-miejsca-pracy/9jrs0zmuVMXaFbpvpVf5</link>
-<guid isPermaLink="false">01dfe9f87f2d33ee7232bb2ab00980bda633a365</guid>
-<pubDate>Thu, 09 Jul 2026 13:54:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b86a85a2-af84-4520-9754-be5422042fba" alt="miniatura"/></p><p>Piotrków Trybunalski zyska nowego, dużego inwestora zagranicznego. Chodzi o firmę z Japonii, która jest zainteresowana uruchomieniem w mieście działalności produkcyjnej. Informację potwierdził w rozmowie z portalem Trybunalski.pl Piotr Wojtysiak , wicemarszałek województwa łódzkiego.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b86a85a2-af84-4520-9754-be5422042fba" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b86a85a2-af84-4520-9754-be5422042fba" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b86a85a2-af84-4520-9754-be5422042fba"/>
 </item>
 </channel></rss>
