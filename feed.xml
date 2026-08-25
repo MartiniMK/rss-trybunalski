@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 25 Aug 2026 03:16:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 04:58:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Szkoły zmienią plany zajęć od 1 września. Nauczycieli czeka trudne zadanie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szkoly-zmienia-plany-zajec-od-1-wrzesnia-nauczycieli-czeka-trudne-zadanie/k6kelbNHIpld7znL0tQB</link>
+<guid isPermaLink="false">9e2889eaa9c741bd40d630bb6c71a072c63f37fc</guid>
+<pubDate>Tue, 25 Aug 2026 05:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d0fbacd5-279c-4691-9484-2597e6df70f8" alt="miniatura"/></p><p>Od 1 września 2026 roku rozpocznie się wdrażanie reformy „Kompas Jutra”. Nowa podstawa programowa i zmienione ramowe plany nauczania obejmą na początku uczniów klas I i IV szkół podstawowych . W kolejnych latach nowe zasady będą rozszerzane na następne roczniki.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0fbacd5-279c-4691-9484-2597e6df70f8" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0fbacd5-279c-4691-9484-2597e6df70f8" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d0fbacd5-279c-4691-9484-2597e6df70f8"/>
+</item>
 <item>
 <title><![CDATA[ Zmasakrowany pojazd i kompletnie pijany kierowca. O krok od tragedii w powiecie piotrkowskim ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zmasakrowany-pojazd-i-kompletnie-pijany-kierowca-o-krok-od-tragedii-w-powiecie-piotrkowskim/XkuxmW39DNJjsc5A5Qov</link>
@@ -59,16 +69,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
-<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
-</item>
-<item>
 <title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
 <guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
@@ -77,6 +77,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
+<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -989,16 +999,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
-<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
-</item>
-<item>
 <title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
 <guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
@@ -1007,6 +1007,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
+</item>
+<item>
+<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
+<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e3152648-0b2f-4271-b3ce-f2bfbaefda9b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e3152648-0b2f-4271-b3ce-f2bfbaefda9b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e3152648-0b2f-4271-b3ce-f2bfbaefda9b"/>
-</item>
-<item>
-<title><![CDATA[ Zmiany w centrum Piotrkowa. Zabytkowa kamienica przejdzie przemianę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zmiany-w-centrum-piotrkowa-zabytkowa-kamienica-przejdzie-przemiane/ZmaytpFjOeSaQ8CAS2YP</link>
-<guid isPermaLink="false">d239e40c7883da8d9e30b04acbd57138a3a8c23d</guid>
-<pubDate>Fri, 10 Jul 2026 10:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/abe21942-714e-4252-b230-83a0d341bdcb" alt="miniatura"/></p><p>Zabytkowa kamienica przy ul. Słowackiego 13 w Piotrkowie przechodzi metamorfozę. Ekipy budowlane rozpoczęły już prace remontowe, które mają przywrócić dawny blask nieruchomości. Zobacz, jakie zmiany zaplanowano.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/abe21942-714e-4252-b230-83a0d341bdcb" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/abe21942-714e-4252-b230-83a0d341bdcb" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/abe21942-714e-4252-b230-83a0d341bdcb"/>
 </item>
 </channel></rss>
