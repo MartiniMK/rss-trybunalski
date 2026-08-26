@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 26 Aug 2026 09:05:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 10:02:18 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
+<link>https://trybunalski.pl/wiadomosci/podwyzka-dla-prezydenta-piotrkowa-radni-zdecydowali/ZBBpyJWMAVL0suSQag1V</link>
+<guid isPermaLink="false">74a18c3199e28201deafa40505c7ecfdb4df20ff</guid>
+<pubDate>Wed, 26 Aug 2026 11:02:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c9a1df1e-06da-48cd-a3a2-c2e641efc74b" alt="miniatura"/></p><p>Kwestia pensji prezydenta powróciła po niespełna roku. Dla przypomnienia, w październiku ubiegłego roku radni podnieśli uposażenie włodarza z 18 486 zł do kwoty 19 448 zł brutto. Teraz podjęto decyzję w sprawie najwyższych stawek, jakie przewiduje ustawa.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9a1df1e-06da-48cd-a3a2-c2e641efc74b" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9a1df1e-06da-48cd-a3a2-c2e641efc74b" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c9a1df1e-06da-48cd-a3a2-c2e641efc74b"/>
+</item>
 <item>
 <title><![CDATA[ Nauczyciele z powiatu odebrali awanse ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nauczyciele-z-powiatu-odebrali-awanse/qkhVMDK08ROBiaLHdBMe</link>
@@ -229,16 +239,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
-<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
-</item>
-<item>
 <title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
 <guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
@@ -247,6 +247,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
+<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -659,16 +669,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -677,6 +677,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3419,16 +3429,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -3437,6 +3437,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/22c8f300-e548-407f-a680-83b6d991253b"/>
-</item>
-<item>
-<title><![CDATA[ VI Rodzinny Rajd Rowerowy w Łazach Dąbrowie. Prawie 200 uczestników na starcie [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/vi-rodzinny-rajd-rowerowy-w-lazach-dabrowie-prawie-200-uczestnikow-na-starcie-zdjecia/rRIQFdjBowFsHRtG4oEL</link>
-<guid isPermaLink="false">81780693e3a7e0dec06a8b59a423e7d3e1c7456c</guid>
-<pubDate>Sat, 11 Jul 2026 15:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" alt="miniatura"/></p><p>Połączenie sportowej pasji, rodzinnej atmosfery i patriotycznej pamięci – tak w skrócie można opisać wydarzenie, które w sobotę, 11 lipca 2026 roku, odbyło się w Łazach Dąbrowie. Zanim sportowcy ruszyli na trasy, na linii startu uroczyście oddano hołd historii. Wszyscy zgromadzeni minutą ciszy uczcili pamięć o dramatycznych losach i bohaterstwie mieszkańców polskich wsi.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4e973ef6-2a9b-43e3-a8e0-5301a594ab22"/>
 </item>
 </channel></rss>
