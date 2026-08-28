@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 27 Aug 2026 20:04:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 04:23:04 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Tragiczny wypadek pod Piotrkowem. Zginęła młoda kobieta ]]></title>
@@ -33,7 +33,7 @@
 <link>https://trybunalski.pl/wiadomosci/sulejow-na-trasie-kanalu-zero-zaplanowano-calodniowa-impreze/e142H1Y3JMdQgxkTNFCh</link>
 <guid isPermaLink="false">36a9d97b0919fea6578e72ff92423d83c0431b96</guid>
 <pubDate>Thu, 27 Aug 2026 15:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6e327587-2bc1-428f-89d8-a6bbd64f4d03" alt="miniatura"/></p><p>Wydarzenie odbędzie się w Zajeździe nad Pilicą przy ulicy Błonie 26 w Sulejowie. Spotkanie rozpocznie się o godz. 11:00 i potrwa do godz. 20:00.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/6e327587-2bc1-428f-89d8-a6bbd64f4d03" alt="miniatura"/></p><p>Sulejów znalazł się na trasie letnich wydarzeń organizowanych przez Kanał Zero. Spotkanie będzie okazją do poznania osób tworzących internetową redakcję, rozmowy z nimi oraz wspólnego spędzenia ostatniej wakacyjnej soboty.</p> ]]></description>
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e327587-2bc1-428f-89d8-a6bbd64f4d03" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e327587-2bc1-428f-89d8-a6bbd64f4d03" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/6e327587-2bc1-428f-89d8-a6bbd64f4d03"/>
@@ -179,16 +179,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
-<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
-</item>
-<item>
 <title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
 <guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
@@ -197,6 +187,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
+</item>
+<item>
+<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
+<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -1359,16 +1359,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -1377,6 +1367,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -3619,16 +3619,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -3637,6 +3627,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
