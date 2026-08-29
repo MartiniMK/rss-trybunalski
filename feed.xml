@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 29 Aug 2026 09:06:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 14:34:56 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Koniec z chodzeniem do butelkomatu. Wystarczy wpisać kod w internecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koniec-z-chodzeniem-do-butelkomatu-wystarczy-wpisac-kod-w-internecie/VGWP8S5paLQilibmsIkt</link>
+<guid isPermaLink="false">26625597856b352f3ee6043939efd49190d2b10b</guid>
+<pubDate>Sat, 29 Aug 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/209f52e5-cef3-4c22-9b6f-501b06b635cb" alt="miniatura"/></p><p>Wraz z rozwojem systemu kaucyjnego pojawiają się też nowe pytania ze strony klientów. Nie zawsze bowiem na pierwszy rzut oka wiadomo, czy dana butelka albo puszka rzeczywiście kwalifikuje się do zwrotu i czy można za nią odzyskać kaucję.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/209f52e5-cef3-4c22-9b6f-501b06b635cb" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/209f52e5-cef3-4c22-9b6f-501b06b635cb" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/209f52e5-cef3-4c22-9b6f-501b06b635cb"/>
+</item>
 <item>
 <title><![CDATA[ Rewolucja w oznakowaniu odcinkowych pomiarów prędkości? W drodze ważna zmiana dla kierowców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-oznakowaniu-odcinkowych-pomiarow-predkosci-w-drodze-wazna-zmiana-dla-kierowcow/JlCeZLC4uf8qkFlWi4jQ</link>
@@ -29,16 +39,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
-<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
 <guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
@@ -47,6 +47,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
+</item>
+<item>
+<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
+<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -1029,16 +1039,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
-<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
 <guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
@@ -1047,6 +1047,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
+</item>
+<item>
+<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
+<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5477f2-dead-41bb-a4b3-1530ac01a720" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5477f2-dead-41bb-a4b3-1530ac01a720" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/fa5477f2-dead-41bb-a4b3-1530ac01a720"/>
-</item>
-<item>
-<title><![CDATA[ Pilny komunikat dla województwa łódzkiego. Służby apelują, chodzi o zdrowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pilny-komunikat-dla-wojewodztwa-lodzkiego-sluzby-apeluja-chodzi-o-zdrowie/9eDirvr42a1FhmYs5xaw</link>
-<guid isPermaLink="false">eee6b7244b83ab491aa584e9a8c2ab73c9d690b3</guid>
-<pubDate>Thu, 16 Jul 2026 12:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/c9e9fd5d-59d9-4837-9e99-6c6a92569b68" alt="miniatura"/></p><p>Mieszkańcy województwa łódzkiego muszą przygotować się na nadchodzące trudne godziny. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia dla mieszkańców wszystkich powiatów. Do regionu nadchodzi bowiem zjawisko które może być groźne dla zdrowia. Na co się przygotować i jak się zabezpieczyć?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/c9e9fd5d-59d9-4837-9e99-6c6a92569b68" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/c9e9fd5d-59d9-4837-9e99-6c6a92569b68" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/c9e9fd5d-59d9-4837-9e99-6c6a92569b68"/>
 </item>
 </channel></rss>
