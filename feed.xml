@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 30 Aug 2026 23:33:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 05:25:35 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ US Open 2026: Kamil Majchrzak z premierowym zwycięstwem! Kiedy drugi mecz Piotrkowianina? ]]></title>
@@ -119,16 +119,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
-<guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" alt="miniatura"/></p><p>Nie można jednak przesądzić, czy przełoży się to na wzrost całych rachunków.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
-</item>
-<item>
 <title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
 <guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
@@ -137,6 +127,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
+<guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" alt="miniatura"/></p><p>Nie można jednak przesądzić, czy przełoży się to na wzrost całych rachunków.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -439,16 +439,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
-<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
-</item>
-<item>
 <title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
 <guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
@@ -457,6 +447,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
+</item>
+<item>
+<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
+<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -3369,16 +3369,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/161ff8e8-bbff-4a06-bd0c-f379a3b17afd"/>
 </item>
 <item>
-<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
-<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
-<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
-</item>
-<item>
 <title><![CDATA[ Nowe molo w powiecie. Prace już trwają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowe-molo-w-powiecie-prace-juz-trwaja/vQmTgbI12L7cezkBB0NV</link>
 <guid isPermaLink="false">d8923d46520ddb07eee70f71b7e1593c913900b2</guid>
@@ -3387,6 +3377,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c67c4fb6-17c1-4e41-9f32-159e5c17b237"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska fara pamięta królów, sejmy i Trybunał Koronny. Trwa renowacja jej najcenniejszego ołtarza ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-fara-pamieta-krolow-sejmy-i-trybunal-koronny-trwa-renowacja-jej-najcenniejszego-oltarza/sZWt1mLkpR1zPYHo30Yc</link>
+<guid isPermaLink="false">589b59d77f50fc807f848a86ca762c95f66a3216</guid>
+<pubDate>Fri, 24 Jul 2026 14:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" alt="miniatura"/></p><p>Piotrkowska fara jest najstarszą zachowaną świątynią w mieście i jednym z najważniejszych zabytków sakralnych województwa łódzkiego. Jej historia jest nierozerwalnie związana z czasami, gdy Piotrków należał do głównych ośrodków życia politycznego i sądowniczego Rzeczypospolitej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a302cc6-c6db-4006-9aa4-027366c82930"/>
 </item>
 <item>
 <title><![CDATA[ Działki w Piotrkowie stracą na wartości? Urząd zapowiada konsultacje ]]></title>
@@ -3889,16 +3889,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5ae98691-0bde-4353-83b4-ce05fc3aad27"/>
 </item>
 <item>
-<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
-<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
-<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
-</item>
-<item>
 <title><![CDATA[ Piotrkowska ulica z nową trasą pieszo-rowerową. Miasto remontuje kolejne miejsca ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkowska-ulica-z-nowa-trasa-pieszo-rowerowa-miasto-remontuje-kolejne-miejsca/lYxXxSUPn19tNuBkDDhW</link>
 <guid isPermaLink="false">e0fcbf4cdc286629f97038eaa2ac0a8763262668</guid>
@@ -3907,6 +3897,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e06b42c9-e3ff-4af6-9cc4-d4705c2eab4b"/>
+</item>
+<item>
+<title><![CDATA[ Akcja na Zalewie Sulejowskim. Na wodzie unosił się wywrócony skuter ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-na-zalewie-sulejowskim-na-wodzie-unosil-sie-wywrocony-skuter/m4Fk7mKofvoil3cEnXW6</link>
+<guid isPermaLink="false">f05613896fe07842e4ca0d50978fb7524e40b740</guid>
+<pubDate>Mon, 20 Jul 2026 10:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" alt="miniatura"/></p><p>Na Zalewie Sulejowskim doszło do niebezpiecznego wypadku z udziałem skutera wodnego. Poszkodowani pasażerowie wpadli do wody i nie byli w stanie o własnych siłach dopłynąć do brzegu. Na ratunek natychmiast ruszyli funkcjonariusze z tomaszowskiej, sezonowej komórki wodnej.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ead98a01-4111-4610-acc6-932ed614ee28"/>
 </item>
 <item>
 <title><![CDATA[ 455 kajaków na Pilicy w Sulejowie! Rekord Polski na największą paradę kajakową pobity! ZDJĘCIA ]]></title>
