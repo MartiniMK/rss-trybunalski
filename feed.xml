@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 03 Sep 2026 21:50:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 00:06:05 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Budują "wrota" między województwami. Powstaje nowa droga na wjeździe do Łódzkiego ]]></title>
@@ -639,16 +639,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
-<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
 <guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
@@ -657,6 +647,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
+</item>
+<item>
+<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
+<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -1209,16 +1209,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -1227,6 +1217,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -1639,16 +1639,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -1657,6 +1647,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
