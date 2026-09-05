@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 04 Sep 2026 21:33:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 00:06:12 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Sąd w Piotrkowie szuka kolejnego pracownika. Ile można zarobić na pół etatu? ]]></title>
@@ -1089,16 +1089,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
-<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
-</item>
-<item>
 <title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
 <guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
@@ -1107,6 +1097,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
+</item>
+<item>
+<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
+<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -1339,16 +1339,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
-<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
-</item>
-<item>
 <title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
 <guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
@@ -1357,6 +1347,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
+<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -3579,16 +3579,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/5708ff10-7751-4456-a627-cb25d0c590af"/>
 </item>
 <item>
-<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
-<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
-<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
-<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
-</item>
-<item>
 <title><![CDATA[ W Piotrkowie zawyją syreny. Jaki jest powód? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-piotrkowie-zawyja-syreny-jaki-jest-powod/HB9nP9jNZ02a8ZQb0zsN</link>
 <guid isPermaLink="false">79103e46b84b904753b5c60208daa43f05820b6f</guid>
@@ -3597,6 +3587,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f1170561-61c6-4de8-b995-4c1dc02431e5"/>
+</item>
+<item>
+<title><![CDATA[ Najnowocześniejszy system zainstalowano w naszym mieście. Mówią o Smart City ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najnowoczesniejszy-system-zainstalowano-w-naszym-miescie-mowia-o-smart-city/IXCDvbiIAVSGKZytxwQC</link>
+<guid isPermaLink="false">cbd73b5d1144e62a4820bb39c44711b9d129cddb</guid>
+<pubDate>Thu, 30 Jul 2026 12:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" alt="miniatura"/></p><p>Po trzech latach zakończył się remont ulic Wolborskiej i Rakowskiej w Piotrkowie Trybunalskim. 29 lipca zmodernizowany teren został oddany do użytku. Inwestycja objęła przebudowę Placu Litewskiego i infrastruktury podziemnej, a także powstanie nowego ronda, a przeróbkę dwóch innych. Na mieszkańców czekają też ścieżki rowerowe, nowe miejsca postojowe i inteligentne oświetlenie.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/94a8c9f9-5ef5-4403-9ac1-cc4320670c76"/>
 </item>
 <item>
 <title><![CDATA[ MZK Piotrków poszukuje pracowników. Takie wynagrodzenie proponuje spółka ]]></title>
