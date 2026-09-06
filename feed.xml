@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 06 Sep 2026 13:44:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 17:04:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ LOTTO Superliga: Piotrkowianin zainaugurował sezon we Wrocławiu! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-zainaugurowal-sezon-we-wroclawiu/3q9iE37XZthsDl2HyF5z</link>
+<guid isPermaLink="false">4bbef0671764e5a56a1808d23e23545d9095bb9c</guid>
+<pubDate>Sun, 06 Sep 2026 17:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ae78f36b-84d1-456d-8051-ec9a8ec447db" alt="miniatura"/></p><p>Świeżo upieczony beniaminek był zdecydowanie najlepszym zespołem poprzedniego sezonu w Lidze Centralnej, więc można było spodziewać się znacznie trudniejszego wyzwania niż barażowe potyczki z Sandra Spa Pogonią Szczecin. Z drugiej jednak strony zespoły te zmierzyły się niedawno podczas turnieju Piotrkowianin Cup i wówczas szczypiorniści z Piotrkowa Trybunalskiego wygrali po serii rzutów karnych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae78f36b-84d1-456d-8051-ec9a8ec447db" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae78f36b-84d1-456d-8051-ec9a8ec447db" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ae78f36b-84d1-456d-8051-ec9a8ec447db"/>
+</item>
 <item>
 <title><![CDATA[ Dożynki Powiatowo-Gminne 2026 w Czarnocinie. Mieszkańcy bawili się z zespołem Piękni i Młodzi [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dozynki-powiatowo-gminne-2026-w-czarnocinie-mieszkancy-bawili-sie-z-zespolem-piekni-i-mlodzi-zdjecia/WX48SlfXxqBqQP3AEgAD</link>
@@ -1819,16 +1829,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -1837,6 +1837,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fc9cf19-4163-4a1f-9cb9-77c9004e2b94" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fc9cf19-4163-4a1f-9cb9-77c9004e2b94" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/7fc9cf19-4163-4a1f-9cb9-77c9004e2b94"/>
-</item>
-<item>
-<title><![CDATA[ Ważny komunikat dla mieszkańców województwa łódzkiego. Chodzi o zdrowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wazny-komunikat-dla-mieszkancow-wojewodztwa-lodzkiego-chodzi-o-zdrowie/GdnHzc092viFM7qbByk3</link>
-<guid isPermaLink="false">114578a8bf1b269a1d381a5d6d092f4923468094</guid>
-<pubDate>Sat, 25 Jul 2026 14:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/84cbaf7a-7c7b-4d4c-b9d0-7e13bd903dcc" alt="miniatura"/></p><p>Synoptycy Instytutu Meteorologii i Gospodarki Wodnej nie mają dobrych wieści dla mieszkańców województwa łódzkiego . Już za chwilę cały nasz region znajdzie się pod wpływem gorącej masy powietrza. W związku z tym służby meteorologiczne wydały ostrzeżenia pierwszego stopnia. Sprawdź, kiedy przygotować się na nadejście upałów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/84cbaf7a-7c7b-4d4c-b9d0-7e13bd903dcc" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/84cbaf7a-7c7b-4d4c-b9d0-7e13bd903dcc" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/84cbaf7a-7c7b-4d4c-b9d0-7e13bd903dcc"/>
 </item>
 </channel></rss>
