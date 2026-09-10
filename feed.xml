@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 10 Sep 2026 11:17:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 16:31:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Będzie nowy zakaz w mieście? Hulajnogi wymknęły się spod kontroli ]]></title>
+<link>https://trybunalski.pl/wiadomosci/bedzie-nowy-zakaz-w-miescie-hulajnogi-wymknely-sie-spod-kontroli/cEoRGT2RGOzCUwXmoTe8</link>
+<guid isPermaLink="false">598c0d72f5225594467d88b6a5c25ff599a6c8c9</guid>
+<pubDate>Thu, 10 Sep 2026 15:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a6846022-9a05-4d90-9314-dba35ebcc6e4" alt="miniatura"/></p><p>Służby oraz miejscy radni będą dyskutować na temat bezpieczeństwa w Piotrkowie Trybunalskim. Powód? Zwiększająca się ilość groźnych zdarzeń z udziałem hulajnóg elektrycznych. O sprawie poinformował w mediach społecznościowych radny Tomasz Berent. Jak się okazuje, na najbliższej Komisji Zdrowia, Spraw Społecznych, Administracji i Bezpieczeństwa Publicznego, która planowana jest 17 września, zebrani…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a6846022-9a05-4d90-9314-dba35ebcc6e4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a6846022-9a05-4d90-9314-dba35ebcc6e4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a6846022-9a05-4d90-9314-dba35ebcc6e4"/>
+</item>
+<item>
+<title><![CDATA[ Pilny komunikat GIS dla konsumentów. Żółty ser skażony groźną bakterią, podano markę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pilny-komunikat-gis-dla-konsumentow-zolty-ser-skazony-grozna-bakteria-podano-marke/ehUlNAqOsvlW5EUOF2VT</link>
+<guid isPermaLink="false">c0f979cbc2c62331703117546caecceea4ac0e13</guid>
+<pubDate>Thu, 10 Sep 2026 13:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/183fd709-c3e8-420e-a86f-b0df9c6154fb" alt="miniatura"/></p><p>Ostrzeżenie dotyczy sera podpuszczkowego. W jednej z jego partii stwierdzono obecność bakterii Listeria monocytogenes , która może prowadzić do zachorowania na listeriozę. Państwowa Inspekcja Sanitarna zaleca, aby produktu z wskazanej partii nie spożywać . Można zwrócić go do miejsca zakupu lub zniszczyć. W przypadku pojawienia się niepokojących objawów po jego zjedzeniu należy skontaktować się z…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/183fd709-c3e8-420e-a86f-b0df9c6154fb" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/183fd709-c3e8-420e-a86f-b0df9c6154fb" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/183fd709-c3e8-420e-a86f-b0df9c6154fb"/>
+</item>
 <item>
 <title><![CDATA[ Biedronka wystartowała z superpromocjami. Dużo gratisów, rozdają vouchery ]]></title>
 <link>https://trybunalski.pl/wiadomosci/biedronka-wystartowala-z-superpromocjami-duzo-gratisow-rozdaja-vouchery/Q9psmDuefCaK6RMQ0Yvv</link>
@@ -289,16 +309,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
-<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
-</item>
-<item>
 <title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
 <guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
@@ -307,6 +317,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
+</item>
+<item>
+<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
+<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -1239,16 +1259,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
-<guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" alt="miniatura"/></p><p>Nie można jednak przesądzić, czy przełoży się to na wzrost całych rachunków.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
-</item>
-<item>
 <title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
 <guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
@@ -1257,6 +1267,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
+<guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" alt="miniatura"/></p><p>Nie można jednak przesądzić, czy przełoży się to na wzrost całych rachunków.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -2749,16 +2769,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -2767,6 +2777,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a433afc-12a4-4a31-9a3c-b9e31a6e350c"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek na hulajnodze w Piotrkowie. Ranny 13-letni chłopiec [FILM] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-na-hulajnodze-w-piotrkowie-ranny-13-letni-chlopiec-film/hYWBQTGmuxJNfXZGpY5z</link>
-<guid isPermaLink="false">1eb45ac069946aea00338addb6b5b39e275d0d67</guid>
-<pubDate>Fri, 31 Jul 2026 10:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" alt="miniatura"/></p><p>Wszystko działo się w czwartek, 30 lipca około godziny 16:50, na ulicy Słowackiego w Piotrkowie. 13-letni hulajnogista spadł z pojazdu i został zabrany do szpitala. Jak doszło do tego wypadku?</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/122eee35-94af-4e85-bb24-a5e0c704929e"/>
-</item>
-<item>
-<title><![CDATA[ Nowe miejsca rekreacji w województwie łódzkim. Zyskają mieszkańcy naszego powiatu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-miejsca-rekreacji-w-wojewodztwie-lodzkim-zyskaja-mieszkancy-naszego-powiatu/k94F62h4QEc5xeuWgu4Z</link>
-<guid isPermaLink="false">b59464fb16967823a32d60a7897dcc308ea31918</guid>
-<pubDate>Thu, 30 Jul 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" alt="miniatura"/></p><p>Ponad 20 milionów złotych trafi na realizację i modernizację 32 obiektów sportowych w całym regionie. Oficjalne podpisanie umów w tej sprawie z przedstawicielami wybranych samorządów odbyło się w Arenie Lodowej w Tomaszowie Mazowieckim. Wśród wyróżnionych znalazły się dwie gminy z powiatu piotrkowskiego, czyli Moszczenica oraz Sulejów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/cf24000b-7394-4178-bbf3-6682f8080ffa"/>
 </item>
 </channel></rss>
