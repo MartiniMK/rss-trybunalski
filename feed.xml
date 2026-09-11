@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 10 Sep 2026 22:40:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 01:10:04 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Na tym odcinku OPP "koszą" niemiłosiernie. Podali gdzie dokładnie ]]></title>
@@ -349,16 +349,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
-<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
-</item>
-<item>
 <title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
 <guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
@@ -367,6 +357,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
+</item>
+<item>
+<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
+<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
