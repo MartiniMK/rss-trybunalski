@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 12 Sep 2026 01:14:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 07:18:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ta wieś ma tylko... dwoje mieszkańców. Leży w naszym powiecie i jest najmniejsza w całym województwie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ta-wies-ma-tylko-dwoje-mieszkancow-lezy-w-naszym-powiecie-i-jest-najmniejsza-w-calym-wojewodztwie/U1cAQlbYDXj43n5LtvAQ</link>
+<guid isPermaLink="false">c60fbbfc5f4a6165c52ae5acb4b9be7402850fe3</guid>
+<pubDate>Sat, 12 Sep 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/6184cd82-00bb-47d2-aaca-1c8b3f62c1e5" alt="miniatura"/></p><p>Z danych Głównego Urzędu Statystycznego za 2024 rok wynika, że najmniejszą pod względem liczby mieszkańców wsią w całym województwie łódzkim jest Kuźnica Żerechowska , położona w gminie Łęki Szlacheckie, w powiecie piotrkowskim. Miejscowość należy administracyjnie do sołectwa Trzepnica. Na koniec ubiegłego roku zameldowane były tu zaledwie dwie osoby, choć – jak wskazują lokalne władze – odbiór śm…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6184cd82-00bb-47d2-aaca-1c8b3f62c1e5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6184cd82-00bb-47d2-aaca-1c8b3f62c1e5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6184cd82-00bb-47d2-aaca-1c8b3f62c1e5"/>
+</item>
+<item>
+<title><![CDATA[ Najbogatsza emerytka w Polsce dostaje ponad 42 tys. zł miesięcznie. Ile musiała pracować? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najbogatsza-emerytka-w-polsce-dostaje-ponad-42-tys-zl-miesiecznie-ile-musiala-pracowac/BNqUGISAbQTBucHmthhG</link>
+<guid isPermaLink="false">49cd275d6dbabd8350188e5c00840fcb024b31a0</guid>
+<pubDate>Sat, 12 Sep 2026 06:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3d793624-beff-4fc2-80e5-10f6c4b1fdd7" alt="miniatura"/></p><p>Najwyższe świadczenie emerytalne wśród kobiet w Polsce otrzymuje seniorka z Bydgoszczy. Jej miesięczna emerytura przekracza 42 tys. zł brutto. Tak wysoka kwota jest efektem wyjątkowo długiego okresu aktywności zawodowej. Kobieta przepracowała łącznie 61 lat i zdecydowała się zakończyć pracę dopiero w wieku 81 lat. Dzięki temu przez lata odprowadzała składki, a jednocześnie krócej pobiera świadczen…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3d793624-beff-4fc2-80e5-10f6c4b1fdd7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3d793624-beff-4fc2-80e5-10f6c4b1fdd7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3d793624-beff-4fc2-80e5-10f6c4b1fdd7"/>
+</item>
 <item>
 <title><![CDATA[ Jak rozpoznać prawdziwego rydza? Oto 2 podstawowe sposoby dla amatorów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jak-rozpoznac-prawdziwego-rydza-oto-2-podstawowe-sposoby-dla-amatorow/Qvmv55gRoHoJ46kjK19k</link>
@@ -499,16 +519,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
-<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
-</item>
-<item>
 <title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
 <guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
@@ -517,6 +527,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
+</item>
+<item>
+<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
+<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -1989,16 +2009,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
-<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
-</item>
-<item>
 <title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
 <guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
@@ -2007,6 +2017,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
+<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -2419,16 +2439,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -2437,6 +2447,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -2929,16 +2949,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
-<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
-<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
-</item>
-<item>
 <title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
 <guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
@@ -2947,6 +2957,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
+</item>
+<item>
+<title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
+<guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenia dla całego województwa łódzkiego. Nadchodzący weekend przyniesie bardzo wysokie temperatury, a w wielu powiatach obowiązywać będzie alert drugiego stopnia. Prawdopodobieństwo wystąpienia upałów zostało oszacowane na 80 procent. Gorąca masa powietrza opanuje region już w sobotnie południe, a najtrudniejsze warunki wystąpią na połu…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a6dd8cf-bae6-4d7c-aecf-f2ad01d97aa7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a6dd8cf-bae6-4d7c-aecf-f2ad01d97aa7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1a6dd8cf-bae6-4d7c-aecf-f2ad01d97aa7"/>
-</item>
-<item>
-<title><![CDATA[ Rekordzista na DK91? Pijany 26-latek wjechał Nissanem do rowu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/rekordzista-na-dk91-pijany-26-latek-wjechal-nissanem-do-rowu/miKM1K1l3lQOQGkvPTQx</link>
-<guid isPermaLink="false">4d888b04f36c1f4c7a55db8fddea48a63c1af3d9</guid>
-<pubDate>Sun, 02 Aug 2026 13:03:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d5715c25-1c80-4de9-b31e-7ff0afcec356" alt="miniatura"/></p><p>Do zdarzenia doszło 30 lipca około godziny 13:15. 26-letni kierujący samochodem marki Nissan, jechał od miejscowości Rozprza w kierunku Piotrkowa Trybunalskiego i nie dostosował prędkości do warunków panujących na drodze. Mężczyzna stracił panowanie nad pojazdem i na wysokości 25 kilometra DK91 zjechał ze swojego pasa ruchu i wjechał do przydrożnego rowu. Przeprowadzone badanie stanu trzeźwości wy…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5715c25-1c80-4de9-b31e-7ff0afcec356" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5715c25-1c80-4de9-b31e-7ff0afcec356" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d5715c25-1c80-4de9-b31e-7ff0afcec356"/>
-</item>
-<item>
-<title><![CDATA[ Rajd 19-latka zakończony na drzewie. Przed policją udawał pasażera, ale... zapomniał o butach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/rajd-19-latka-zakonczony-na-drzewie-przed-policja-udawal-pasazera-ale-zapomnial-o-butach/dFdT9C82A2Hldo0P1t4R</link>
-<guid isPermaLink="false">8c67ef7d07426f14d57c77a23c7714f16c336270</guid>
-<pubDate>Sun, 02 Aug 2026 12:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d97b4988-4e53-435d-b65e-a951533b839c" alt="miniatura"/></p><p>Do zdarzenia doszło 30 lipca, około godziny 3:00, w miejscowości Baby. Z dotychczasowych ustaleń wynika, że 19-letni kierujący samochodem marki Honda Civic, z niewyjaśnionych oebcnie przyczyn zjechał z jezdni i uderzył w przydrożne drzewo. Badanie alkomatem wykazało u niego niemal 1,5 promila alkoholu w organizmie. Jak się okazuje, w wyniku zdarzenia, obrażeń ciała doznał podróżujący z nim 19-letn…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d97b4988-4e53-435d-b65e-a951533b839c" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d97b4988-4e53-435d-b65e-a951533b839c" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d97b4988-4e53-435d-b65e-a951533b839c"/>
 </item>
 </channel></rss>
