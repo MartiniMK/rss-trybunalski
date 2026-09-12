@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 11 Sep 2026 22:38:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 01:14:31 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Jak rozpoznać prawdziwego rydza? Oto 2 podstawowe sposoby dla amatorów ]]></title>
@@ -469,16 +469,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
-<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
-</item>
-<item>
 <title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
 <guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
@@ -487,6 +477,16 @@
 <enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
+</item>
+<item>
+<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
+<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -499,16 +499,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
-<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
-</item>
-<item>
 <title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
 <guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
@@ -517,6 +507,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
+</item>
+<item>
+<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
+<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -1419,16 +1419,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
-<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
 <guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
@@ -1437,6 +1427,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
+</item>
+<item>
+<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
+<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -1989,16 +1989,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -2007,6 +1997,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -2929,16 +2929,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -2947,6 +2937,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
