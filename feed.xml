@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 13 Sep 2026 06:06:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 11:48:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tyle zarabiają lekarze w piotrkowskim szpitalu. Oto stawki na poszczególnych stanowiskach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tyle-zarabiaja-w-piotrkowskim-szpitalu-oto-stawki-na-poszczegolnych-stanowiskach/OyrwHpcBftGK1nrtFnmZ</link>
+<guid isPermaLink="false">9953f26d39d5039ec53d51f7ce7a6fc93ba7b930</guid>
+<pubDate>Sun, 13 Sep 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3d7fde1e-74e5-4500-9003-fc57b67e27e3" alt="miniatura"/></p><p>Przedstawiamy szczegółowe zestawienie pensji lekarzy, pielęgniarek oraz pozostałego personelu medycznego. Porównujemy także dochody na etatach z kwotami, na jakie mogą liczyć osoby pracujące na tzw. kontraktach. Jak wygląda sytuacja w Szpitalu Wojewódzkim im. Mikołaja Kopernika w Piotrkowie Trybunalskim?</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3d7fde1e-74e5-4500-9003-fc57b67e27e3" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3d7fde1e-74e5-4500-9003-fc57b67e27e3" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3d7fde1e-74e5-4500-9003-fc57b67e27e3"/>
+</item>
 <item>
 <title><![CDATA[ Jubileuszowa edycja Nightskating w Piotrkowie Trybunalskim za nami. Był koncert Kubańczyka i nocny przejazd [ZDJĘCIA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jubileuszowa-edycja-nightskating-w-piotrkowie-trybunalskim-za-nami-byl-koncert-kubanczyka-i-nocny-przejazd-zdjecia/bubvFafrmIDNicoCR6EZ</link>
@@ -1809,16 +1819,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
-<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
-</item>
-<item>
 <title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
 <guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
@@ -1827,6 +1827,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
+</item>
+<item>
+<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
+<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -2489,16 +2499,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -2507,6 +2507,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e911042b-7f33-491e-8036-97557693cd11" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e911042b-7f33-491e-8036-97557693cd11" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e911042b-7f33-491e-8036-97557693cd11"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek w Piotrkowie. Motocyklista trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-motocyklista-trafil-do-szpitala/GPRbq6XU77tZVS5f95Ig</link>
-<guid isPermaLink="false">0aa7f2e561e9249a2ea058e1f1cc1f1757dd2212</guid>
-<pubDate>Mon, 03 Aug 2026 12:47:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/123752b9-fdab-45c4-b170-a72006ef5c3a" alt="miniatura"/></p><p>W poniedziałek, 3 sierpnia, około godziny 6:30 doszło do groźnego zdarzenia w Piotrkowie. Służby ruszyły na ulicę Dmowskiego. W wypadku uczestniczył motocykl i samochód. Policjanci ustalają okoliczności zdarzenia.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/123752b9-fdab-45c4-b170-a72006ef5c3a" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/123752b9-fdab-45c4-b170-a72006ef5c3a" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/123752b9-fdab-45c4-b170-a72006ef5c3a"/>
 </item>
 </channel></rss>
