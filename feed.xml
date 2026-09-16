@@ -6,18 +6,8 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 15 Sep 2026 22:15:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 01:29:05 +0000</lastBuildDate>
 <ttl>60</ttl>
-<item>
-<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
-<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
-</item>
 <item>
 <title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
@@ -27,6 +17,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
+</item>
+<item>
+<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
+<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -859,16 +859,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
-<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
-</item>
-<item>
 <title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
 <guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
@@ -877,6 +867,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
+</item>
+<item>
+<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
+<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -2379,16 +2379,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
-<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
-</item>
-<item>
 <title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
 <guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
@@ -2397,6 +2387,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
+<guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" alt="miniatura"/></p><p>Koło Łowieckie „Odyniec” w Piotrkowie Trybunalskim opublikowało kalendarz polowań zbiorowych na sezon 2026/2027 . W harmonogramie ujęto 15 terminów. Sezon ma rozpocząć się 5 września 2026 roku polowaniem na kaczki. Zakończenie sezonu polowań zbiorowych zaplanowano na 21 lutego 2027 roku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -2809,16 +2809,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -2827,6 +2817,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
