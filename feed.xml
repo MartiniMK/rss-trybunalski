@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 19 Sep 2026 20:45:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 23:05:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zakończenie sezonu motocyklowego w Piotrkowie - setki motocykli  na ulicach miasta ZDJĘCOA ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zakonczenie-sezonu-motocyklowego-w-piotrkowie-setki-motocykli-na-ulicach-miasta-zdjecoa/yjBkdIHInJNoIN0JhOhm</link>
+<guid isPermaLink="false">8e47c8a2f4357e427ae40f5a665e42898b9ceabf</guid>
+<pubDate>Sat, 19 Sep 2026 22:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/main-image-1200/3589e72d-6610-40a1-875f-6c0aae0a10e7" alt="miniatura"/></p><p>Imprezę rozpoczęła o godz. 16.00 parada motocykli i samochodów. Uczestnicy wyruszyli z terenu Wojewódzkiego Ośrodka Ruchu Drogowego w Piotrkowie Trybunalskim, a następnie przejechali ulicami miasta, kierując się w stronę parkingu przy amfiteatrze miejskim i Parku im. św. Jana Pawła II.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/main-image-1200/3589e72d-6610-40a1-875f-6c0aae0a10e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/main-image-1200/3589e72d-6610-40a1-875f-6c0aae0a10e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/main-image-1200/3589e72d-6610-40a1-875f-6c0aae0a10e7"/>
+</item>
 <item>
 <title><![CDATA[ LOTTO Superliga: Piotrkowianin zdeklasowany w Głogowie! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-zdeklasowany-w-glogowie/dvwYC2fiyPV7KGpOY9FW</link>
@@ -469,16 +479,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
-<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
-</item>
-<item>
 <title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
 <guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
@@ -487,6 +487,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
+</item>
+<item>
+<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
+<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -1349,16 +1359,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
-<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
-</item>
-<item>
 <title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
 <guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
@@ -1367,6 +1367,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
+</item>
+<item>
+<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
+<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -2589,16 +2599,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
-<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
-</item>
-<item>
 <title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
 <guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
@@ -2607,6 +2607,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
+</item>
+<item>
+<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
+<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -2839,16 +2849,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -2857,6 +2857,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -3269,16 +3279,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -3287,6 +3287,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3779,16 +3789,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/300376ce-7433-49eb-85c7-3e95a8f1fee2"/>
 </item>
 <item>
-<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
-<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
-<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
-</item>
-<item>
 <title><![CDATA[ Żółty i pomarańczowy stopień ostrzeżeń w województwie łódzkim. Służby ostrzegają ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zolty-i-pomaranczowy-stopien-ostrzezen-w-wojewodztwie-lodzkim-sluzby-ostrzegaja/XbBujPCQiRvHMMV5RBCM</link>
 <guid isPermaLink="false">d5f25ebef63267c694749e7f3a85680a5ddd1e1c</guid>
@@ -3797,6 +3797,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/43d91506-8c34-4707-af49-12695fc3c7af"/>
+</item>
+<item>
+<title><![CDATA[ Gwiazda disco polo zagra w naszym powiecie. Przed nami wielkie święto plonów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gwiazda-disco-polo-zagra-w-naszym-powiecie-przed-nami-gminne-swieto-plonow-w-aleksandrowie/Pi42nBH4PJpZ7vsSatzB</link>
+<guid isPermaLink="false">24fc4589e2e7bb1260370c8feeb7f26f38b38019</guid>
+<pubDate>Fri, 14 Aug 2026 13:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" alt="miniatura"/></p><p>Mieszkańcy gminy Aleksandrów oraz całego regionu już wkrótce spotkają się, by wspólnie podziękować za tegoroczne zbiory i świętować dożynki. Przed nami tradycyjny korowód, lokalne przysmaki, rozstrzygnięcia konkursów i potężna dawka muzycznej energii. Gwiazdą wieczoru będzie znany zespół disco polo.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/658dcd31-e3fd-43a0-ab38-b78e1e73cf64"/>
 </item>
 <item>
 <title><![CDATA[ Cztery łapy, wyjątkowe charaktery i mnóstwo emocji. Moszczenica zaprasza na wielkie święto psów! ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/e34863e5-2c06-437f-96ee-19a716f7f725"/>
-</item>
-<item>
-<title><![CDATA[ Akcja strażaków w naszym powiecie. Jedna osoba trafiła do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-strazakow-w-naszym-powiecie-jedna-osoba-trafila-do-szpitala/d1nJHcYjarQMFvjQnCCX</link>
-<guid isPermaLink="false">21d4e4cff5ae2e598fc8e77c3cc8cc4bcdbf3583</guid>
-<pubDate>Wed, 12 Aug 2026 13:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" alt="miniatura"/></p><p>Do pożaru doszło 12 sierpnia około godziny 1:00 w miejscowości Borowiec, w gminie Aleksandrów. Jak się okazało, ogień pojawił się w budynku gospodarczym. Na miejsce ruszyły służby. Zadysponowano łącznie 5 zastępów, w tym po 2 z KSRG OSP Dąbrowa nad Czarną i OSP Niewierszyn oraz jeden z PSP Piotrków Trybunalski.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/327ee04e-c65f-47df-8dce-34195861c28b"/>
 </item>
 </channel></rss>
