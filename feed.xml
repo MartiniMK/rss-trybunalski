@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 18 Sep 2026 23:23:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:31:22 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Wypadek na A1 w woj. łódzkim. Nie żyje motocyklista. Autostrada zablokowana w obu kierunkach [AKTUALIZACJA] ]]></title>
@@ -379,16 +379,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
-<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
-</item>
-<item>
 <title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
 <guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
@@ -397,6 +387,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
+</item>
+<item>
+<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
+<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -1259,16 +1259,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
-<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
-</item>
-<item>
 <title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
 <guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
@@ -1277,6 +1267,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
+</item>
+<item>
+<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
+<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
