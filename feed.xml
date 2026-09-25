@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:49:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 18:41:06 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Gdzie na rydze i kozie brody? Grzybiarze zdradzają najlepsze miejsca pod Piotrkowem i w woj. łódzkim ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-i-kozie-brody-grzybiarze-pokazuja-zbiory-z-okolic-piotrkowa-i-lodzkiego/uihW2oa6jaQuTM8YWtL3</link>
+<guid isPermaLink="false">a508701e97d52c09058adf6c03d4ff760c9cd663</guid>
+<pubDate>Fri, 25 Sep 2026 15:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/67495885-eea4-4d26-925d-1a915cf561ef" alt="miniatura"/></p><p>Kozie brody w gminie Sulejów, rydze w Blizinie, Bukowej i okolicach Poddębic, a do tego kosze podgrzybków i prawdziwków. Grzybiarze z województwa łódzkiego dzielą się efektami wrześniowych wypraw. Niektórzy wracają po godzinie z pełnymi wiadrami. Inni chodzą cały dzień, odwiedzając kilka lasów. Gdzie udało się znaleźć grzyby?</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/67495885-eea4-4d26-925d-1a915cf561ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/67495885-eea4-4d26-925d-1a915cf561ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/67495885-eea4-4d26-925d-1a915cf561ef"/>
+</item>
 <item>
 <title><![CDATA[ Wilki widziane w powiecie piotrkowskim. Służby apelują o zachowanie ostrożności ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wilki-widziane-w-powiecie-piotrkowskim-sluzby-apeluja-o-zachowanie-ostroznosci/rk9JxP0OtAcMH7zLVIpx</link>
@@ -1859,16 +1869,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
-<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
-</item>
-<item>
 <title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
 <guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
@@ -1877,6 +1877,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
+</item>
+<item>
+<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
+<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -3099,16 +3109,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
-<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
-</item>
-<item>
 <title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
 <guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
@@ -3117,6 +3117,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
+</item>
+<item>
+<title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
+<guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" alt="miniatura"/></p><p>Wielki remont podstawówki w Wolborzu dobiega końca, jednak wykończenie wnętrz opóźniło się o miesiąc z powodu trudnych warunków atmosferycznych minionej zimy. Na czas finału prac, uczniowie rozpoczną nowy rok szkolny w tymczasowych lokalizacjach.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -3779,16 +3789,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
-<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
-</item>
-<item>
 <title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
 <guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
@@ -3797,6 +3797,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
+<guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" alt="miniatura"/></p><p>Zatrudnienie w strukturach administracji rządowej od lat cieszy się sporym zainteresowaniem. Zapewnia ono nie tylko stabilne warunki oparte na przepisach prawa, lecz także atrakcyjne pensje i liczne świadczenia pozapłacowe. Wybierając etat w państwowej jednostce, można zyskać m.in . tzw. „trzynastkę” , dodatek za wysługę lat, nagrody jubileuszowe oraz dostęp do Pracowniczej Kasy Zapomogowo-Pożyczk…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/592cf34b-6d0a-4c39-9d1e-0cb6f5020cbb" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/592cf34b-6d0a-4c39-9d1e-0cb6f5020cbb" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/592cf34b-6d0a-4c39-9d1e-0cb6f5020cbb"/>
-</item>
-<item>
-<title><![CDATA[ Nowe zasady dla nauczycieli od 2027 r. Związki już zgłaszają zastrzeżenia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowe-zasady-dla-nauczycieli-od-2027-r-zwiazki-juz-zglaszaja-zastrzezenia/d8bDz8bNRlHk3nf2CuEx</link>
-<guid isPermaLink="false">a6dbe33f358d6970708b9ccb90886862b4aa2c00</guid>
-<pubDate>Mon, 17 Aug 2026 20:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/pulsgdanska/articles/image/caf3557d-1548-46bd-867a-b7196398084d" alt="miniatura"/></p><p>Ministerstwo Edukacji Narodowej chce zmienić sposób ustalania średniego wynagrodzenia nauczycieli rozpoczynających pracę w zawodzie. Projekt nowelizacji Karty Nauczyciela przewiduje podwyższenie wskaźnika używanego do obliczania ich średniej pensji ze 120 proc. do 122,7696 proc. kwoty bazowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/pulsgdanska/articles/image/caf3557d-1548-46bd-867a-b7196398084d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/pulsgdanska/articles/image/caf3557d-1548-46bd-867a-b7196398084d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/pulsgdanska/articles/image/caf3557d-1548-46bd-867a-b7196398084d"/>
 </item>
 </channel></rss>
