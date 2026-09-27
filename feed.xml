@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 27 Sep 2026 05:13:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 12:03:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pobiegli dla małej Neli. W Sulejowie odbył się wyjątkowy piknik charytatywny ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pobiegli-dla-malej-neli-w-sulejowie-odbyl-sie-wyjatkowy-piknik-charytatywny/Oi5IZHyXrgh7xkRXBQvH</link>
+<guid isPermaLink="false">17e7f0a76de54d7a4a6376e4d54833eec4debf41</guid>
+<pubDate>Sun, 27 Sep 2026 11:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8b968404-6f1b-4e8c-af9b-04ca56d06249" alt="miniatura"/></p><p>W sobotę, 27 września na terenie sulejowskiego Oddziału Zamiejscowego Centralnego Ośrodka Szkolenia Służby Więziennej w Kulach odbył się piknik sportowy „Biegniemy dla Neli”. Organizatorzy przygotowali wydarzenie, które miało nie tylko zachęcić do wspólnego biegania i aktywności, ale przede wszystkim zwrócić uwagę na sytuację małej mieszkanki regionu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8b968404-6f1b-4e8c-af9b-04ca56d06249" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8b968404-6f1b-4e8c-af9b-04ca56d06249" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8b968404-6f1b-4e8c-af9b-04ca56d06249"/>
+</item>
+<item>
+<title><![CDATA[ Dwie osoby ranne w wypadku pod Piotrkowem. Ciągnik rolniczy zderzył się z motorowerem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dwie-osoby-ranne-w-wypadku-pod-piotrkowem-ciagnik-rolniczy-zderzyl-sie-z-motorowerem/P4dYL1FBfZTodP2GqM8l</link>
+<guid isPermaLink="false">3f2394501d0b1240a6b503525c4af498446cfcbe</guid>
+<pubDate>Sun, 27 Sep 2026 10:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f4731b8f-eed9-4a28-b62c-75ba6614edad" alt="miniatura"/></p><p>Do wypadku doszło w sobotę, 26 września 2026 roku około godz. 14:00 w miejscowości Longinówka . Na drodze zderzyły się ciągnik rolniczy oraz motorower marki SYM Fiddle.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f4731b8f-eed9-4a28-b62c-75ba6614edad" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f4731b8f-eed9-4a28-b62c-75ba6614edad" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f4731b8f-eed9-4a28-b62c-75ba6614edad"/>
+</item>
+<item>
+<title><![CDATA[ Niezwykła posiadłość w woj. łódzkim szuka nowego właściciela. Sprzedający obniżył cenę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niezwykla-posiadlosc-w-woj-lodzkim-szuka-nowego-wlasciciela-sprzedajacy-obnizyl-cene/CgHfCNdEDTDMZf3RthOm</link>
+<guid isPermaLink="false">dee94e7f5f7a644e77a30493bc3acdee24cad955</guid>
+<pubDate>Sun, 27 Sep 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/80f38cb5-c052-499e-8b37-7a318e4497a0" alt="miniatura"/></p><p>Historia rezydencji sięga przełomu XIX i XX wieku. Wówczas dwór stanowił serce prężnie działającego folwarku, w którego skład wchodziła cała infrastruktura gospodarcza – w tym stajnia, spichlerz, kuźnia, a nawet gorzelnia. W przeszłości majątek znajdował się m.in. w rękach Zbigniewa Płończyńskiego, a w latach późniejszych gospodarowała tu rodzina Puławskich. Po zakończeniu II wojny światowej zabyt…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/80f38cb5-c052-499e-8b37-7a318e4497a0" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/80f38cb5-c052-499e-8b37-7a318e4497a0" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/80f38cb5-c052-499e-8b37-7a318e4497a0"/>
+</item>
 <item>
 <title><![CDATA[ LOTTO Superliga: Piotrkowianin ponownie tylko tłem dla rywala! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-ponownie-tylko-tlem-dla-rywala/ZRe6YNDEGLBORAl8ohtG</link>
@@ -1889,16 +1919,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
-<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
-</item>
-<item>
 <title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
 <guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
@@ -1907,6 +1927,16 @@
 <enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
+</item>
+<item>
+<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
+<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -3159,16 +3189,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
-<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
-</item>
-<item>
 <title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
 <guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
@@ -3177,6 +3197,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
+</item>
+<item>
+<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
+<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -3409,16 +3439,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -3427,6 +3447,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -3839,16 +3869,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b242df48-c26b-4fdc-85f5-9d16eb13c8dd"/>
 </item>
 <item>
-<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
-<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
-<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wysokie wynagrodzenia i długa lista dodatków ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wysokie-wynagrodzenia-i-dluga-lista-dodatkow/ZSkuJGvfUkMOnlq3ji2k</link>
 <guid isPermaLink="false">eeb47c6b9e3b22ede340c4f76f72e324d0f0f275</guid>
@@ -3857,6 +3877,16 @@
 <enclosure url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/belchatow/articles/image/07487339-380a-4654-a771-9a06232af1e0"/>
+</item>
+<item>
+<title><![CDATA[ Ogromne centrum otwarto przy A1 w Łódzkiem. Będzie kilkaset miejsc pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-centrum-otwarto-przy-a1-w-lodzkiem-bedzie-kilkaset-miejsc-pracy/pZI4Vj9ZPK4OIkzxyGgr</link>
+<guid isPermaLink="false">f5285e4389c8f7bf5908996615f747a2901abdd7</guid>
+<pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" alt="miniatura"/></p><p>W październiku ubiegłego roku gigant polskiego rynku e-commerce, marka Allegro, zainaugurował budowę centrum sortowania w Piotrkowie Trybunalskim. Inwestycja od początku miała kluczowe znaczenie strategiczne dla rozwoju siatki połączeń logistycznych firmy.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/62db367b-f554-470f-9cdd-167d51fa8278"/>
 </item>
 <item>
 <title><![CDATA[ Sieciówka znika z Piotrkowa. Działała tylko 5 miesięcy ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/86315dae-a12b-43d2-b355-f7f2cfad705a"/>
-</item>
-<item>
-<title><![CDATA[ Mieszkańcy doczekają się remontu? Urząd podał termin ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkancy-doczekaja-sie-remontu-urzad-podal-termin/kMnVn4tkMgF0Evr1muRA</link>
-<guid isPermaLink="false">70f9e80eea9c4dd359daac4f29271ca5dcd6a2bc</guid>
-<pubDate>Tue, 18 Aug 2026 12:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" alt="miniatura"/></p><p>Nie tak dawno informowaliśmy o planowanych pracach naprawczych przy ulicy Witosa, a w mieście oficjalnie zakończono już wielką przebudowę ulic Wolborskiej i Rakowskiej. W najbliższym czasie zmiany obejmą również ulice Żelazną, Kwiatową oraz Hortensji. Na swoją kolej od lat cierpliwie czekają także mieszkańcy ulicy Pawłowskiej, którym na co dzień doskwiera brak bezpiecznego chodnika i zły stan nawi…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c166402a-28fa-45ce-952f-860b520c6e9e"/>
-</item>
-<item>
-<title><![CDATA[ Darmowy taneczny wieczór przy muzyce na żywo. Trybunalski Dancing Swing ]]></title>
-<link>https://trybunalski.pl/wiadomosci/darmowy-taneczny-wieczor-przy-muzyce-na-zywo-trybunalski-dancing-swing/9VcX8gpztgKTrb2Fmm0F</link>
-<guid isPermaLink="false">a7c5e174dc3257b8753e526e34d0d156317b94f7</guid>
-<pubDate>Tue, 18 Aug 2026 12:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" alt="miniatura"/></p><p>W najbliższy piątek, 21 sierpnia 2026 roku, dziedziniec MOK-u wypełni się muzyką, tańcem i swingowymi rytmami. Trybunalski Dancing Swing będzie okazją, by spędzić jeden z ostatnich sierpniowych wieczorów na świeżym powietrzu w rytmie jazzowych przebojów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f6d54a5d-443c-4f1b-a213-15287ad3ea0b"/>
-</item>
-<item>
-<title><![CDATA[ Rusza długo wyczekiwana inwestycja w Dorotowie. Powstanie nowe centrum dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rusza-dlugo-wyczekiwana-inwestycja-w-dorotowie-powstanie-nowe-centrum-dla-mieszkancow/FtzCdBA9ku9rdARBe5JR</link>
-<guid isPermaLink="false">9da8b4ba5d67af3c97f96f431dc085b3b358a99c</guid>
-<pubDate>Tue, 18 Aug 2026 11:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/df0fc77c-396c-4a79-a1e5-e2c61af5bd3d" alt="miniatura"/></p><p>Umowę dotyczącą inwestycji Dorota Jankowska, burmistrz Sulejowa, podpisała z wykonawcą w poniedziałek, 3 sierpnia. Samorząd zapowiadał, że już następnego dnia chce przekazać firmie plac budowy, aby prace mogły rozpocząć się możliwie szybko.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/df0fc77c-396c-4a79-a1e5-e2c61af5bd3d" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/df0fc77c-396c-4a79-a1e5-e2c61af5bd3d" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/df0fc77c-396c-4a79-a1e5-e2c61af5bd3d"/>
 </item>
 </channel></rss>
