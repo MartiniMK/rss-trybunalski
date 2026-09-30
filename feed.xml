@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 30 Sep 2026 18:33:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 23:06:36 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek pod Piotrkowem. To kosztowny błąd kierowcy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-pod-piotrkowem-to-kosztowny-blad-kierowcy/x1QpsW31XjvE6ZYhXEvD</link>
+<guid isPermaLink="false">24926f0f4dc3f52c498eab784d46a2490ea26d63</guid>
+<pubDate>Wed, 30 Sep 2026 22:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" alt="miniatura"/></p><p>Do zdarzenia doszło w środę, 30 września około godz. 17:00. Na ulicy Piotrkowskiej w Rakowie Dużym zderzyły się dwa samochody osobowe. Na miejsce ruszyły służby. Jak się okazuje, kierujący samochodem osobowym marki Toyota, włączając się do ruchu, nie ustąpił pierwszeństwa jadącej prawidłowo 35-letniej kierującej samochodem osobowym marki Volkswagen. Wiadomo, jak zakończyło się zdarzenie.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758"/>
+</item>
 <item>
 <title><![CDATA[ Skażone mięso znanego producenta w Biedronce. GIS pokazała, które dokładnie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/skazone-mieso-znanego-producenta-w-biedronce-gis-pokazala-ktore-dokladnie/L5wAJSssMT1nAqHpSrzs</link>
@@ -1449,16 +1459,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
-<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
-</item>
-<item>
 <title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
 <guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
@@ -1467,6 +1467,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
+</item>
+<item>
+<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
+<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -3239,16 +3249,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 <item>
-<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
-<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
-<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w rachunkach za energię. Za prąd trzeba będzie płacić po nowemu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-rachunkach-za-energie-za-prad-trzeba-bedzie-placic-po-nowemu/g8XSqG0mPH8T2Q9sBehp</link>
 <guid isPermaLink="false">025d646bd9e11c87f6d00adbeb14f534e28b1ec6</guid>
@@ -3257,6 +3257,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/40bff327-0eae-4e83-9bed-c43ed8f41797"/>
+</item>
+<item>
+<title><![CDATA[ Nowy sklep w Piotrkowie. Trzy znane polskie marki w piotrkowskiej galerii ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-sklep-w-piotrkowie-trzy-znane-polskie-marki-w-piotrkowskiej-galerii/tCKSQc5Qt9ZeZqumVUe6</link>
+<guid isPermaLink="false">84fb4c4473fd6fcc498888eacc726ea951cf9e71</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" alt="miniatura"/></p><p>Do grona najemców Focus Mall w Piotrkowie Trybunalskim dołączają Vistula, Wólczanka oraz Bytom. Połączenie ich asortymentu w jednym lokalu ma być odpowiedzią na oczekiwania klientów poszukujących zarówno klasycznych, idealnie skrojonych garniturów, jak i eleganckich koszul, szykownych dodatków czy mody w stylu smart casual. Nowy salon zlokalizowano na parterze centrum handlowego, bezpośrednio napr…</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a15863a3-3b77-4ea7-8240-879fdb16e714"/>
 </item>
 <item>
 <title><![CDATA[ Kolejne F-35 już w bazie w Łasku. Samoloty wylądowały w Święto Lotnictwa Polskiego [ZDJĘCIA] ]]></title>
@@ -3809,16 +3819,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e52f0043-9d52-480c-a010-c68584eb17bd"/>
 </item>
 <item>
-<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
-<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
-<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
-</item>
-<item>
 <title><![CDATA[ Uwaga, polowania pod Piotrkowem! Sprawdź, kiedy lepiej nie wchodzić do lasów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/uwaga-polowania-pod-piotrkowem-sprawdz-kiedy-lepiej-nie-wchodzic-do-lasow/M0uSlwQ5tnRzpjOK7UXS</link>
 <guid isPermaLink="false">6267c1f70d256f2dcc8fb1e3f351124e103c31c1</guid>
@@ -3827,6 +3827,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c6f13739-7889-49a8-9bdb-820215058b16"/>
+</item>
+<item>
+<title><![CDATA[ Mieszkania piotrkowian zostaną wyremontowane. Sprawdź, które dokładnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mieszkania-piotrkowian-zostana-wyremontowane-sprawdz-ktore-dokladnie/bI7N5hbbtBzcqGJmOsCl</link>
+<guid isPermaLink="false">10f8312d74e96312c733f85c2d0e441076741261</guid>
+<pubDate>Mon, 24 Aug 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" alt="miniatura"/></p><p>Piotrków Trybunalski otrzymał łącznie ponad 1 mln 289 tys. zł z Funduszu Dopłat Banku Gospodarstwa Krajowego. Pieniądze pokryją część kosztów prac w 19 lokalach mieszkalnych znajdujących się w różnych częściach miasta.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b7081cff-3e21-4bda-b502-5eba854a22ad"/>
 </item>
 <item>
 <title><![CDATA[ Gigant e-commerce rekrutuje w Piotrkowie. Szukają specjalistów do nowego centrum przy S8 ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a51ad2a8-764d-410a-b131-15289fccf5f7" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a51ad2a8-764d-410a-b131-15289fccf5f7" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a51ad2a8-764d-410a-b131-15289fccf5f7"/>
-</item>
-<item>
-<title><![CDATA[ Pożegnanie wieloletniego proboszcza i wikariusza. W niedzielę uroczysta msza w Piotrkowie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pozegnanie-wieloletniego-proboszcza-i-wikariusza-w-niedziele-uroczysta-msza-w-piotrkowie/SRREdWzoMyN38C0dwz4y</link>
-<guid isPermaLink="false">df17b95817cd4c64d3a740b3560874c9a91024ce</guid>
-<pubDate>Fri, 21 Aug 2026 15:48:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/009ea3aa-ba0b-4435-bcbe-9f6fe1f4c624" alt="miniatura"/></p><p>Uroczysta msza święta rozpocznie się w niedzielę o godz. 9.30. Jej głównym celem będzie podziękowanie za wieloletnią posługę ks. kan. Stanisława Stępnia, pierwszego proboszcza parafii NMP Królowej Pokoju.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/009ea3aa-ba0b-4435-bcbe-9f6fe1f4c624" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/009ea3aa-ba0b-4435-bcbe-9f6fe1f4c624" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/009ea3aa-ba0b-4435-bcbe-9f6fe1f4c624"/>
 </item>
 </channel></rss>
