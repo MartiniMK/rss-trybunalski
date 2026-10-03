@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 03 Oct 2026 17:20:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:07:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Wypadek pod Piotrkowem. Służby w akcji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-pod-piotrkowem-sluzby-w-akcji/N4tqTOcN50Wyw0CRGV4Z</link>
+<guid isPermaLink="false">38260787494b57f25214862a8a2b5cf7ceec8d19</guid>
+<pubDate>Sat, 03 Oct 2026 21:39:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1de9285c-1449-4be6-9542-ee32f7a2d7b0" alt="miniatura"/></p><p>Do niebezpiecznego zdarzenia doszło w sobotę, 3 października, przed godziną 20:00. Na odcinku drogi krajowej nr 12 przechodzącym przez Korytnicę zderzyły się dwa samochody.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1de9285c-1449-4be6-9542-ee32f7a2d7b0" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1de9285c-1449-4be6-9542-ee32f7a2d7b0" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1de9285c-1449-4be6-9542-ee32f7a2d7b0"/>
+</item>
+<item>
+<title><![CDATA[ Dramat na placu zabaw w Piotrkowie. 6-latek trafił do Centrum Zdrowia Matki Polki ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramat-na-placu-zabaw-w-piotrkowie-6-latek-trafil-do-centrum-zdrowia-matki-polki/kWeam5RxUOrQnLM2POEC</link>
+<guid isPermaLink="false">4d62fce95b8d6610cc2c95748c1f61e8bb2cc9a9</guid>
+<pubDate>Sat, 03 Oct 2026 21:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4683a68a-9a98-4f18-8a65-a354e88bfa74" alt="miniatura"/></p><p>Dramatyczne sceny rozegrały się w sobotę, 3 października, na placu zabaw przy ulicy Barbórki w Piotrkowie Trybunalskim. Około 15:30 do strażaków wpłynęło zgłoszenie o dziecku, które włożyło dłoń w tryby napędzające karuzelę.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4683a68a-9a98-4f18-8a65-a354e88bfa74" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4683a68a-9a98-4f18-8a65-a354e88bfa74" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4683a68a-9a98-4f18-8a65-a354e88bfa74"/>
+</item>
+<item>
+<title><![CDATA[ Stopnie alarmowe w woj. łódzkim. Służby w stanie gotowości, jest apel do mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/stopnie-alarmowe-w-woj-lodzkim-sluzby-w-stanie-gotowosci-jest-apel-do-mieszkancow/NN6NTRBh5MDYW2BXFK53</link>
+<guid isPermaLink="false">b157e0a58098358745794b87bfc2e5002017f9be</guid>
+<pubDate>Sat, 03 Oct 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/611e7bde-56bb-4701-a5f5-783c051d54fc" alt="miniatura"/></p><p>Podwyższone stopnie alarmowe zostały wprowadzone na okres od 1 września do 30 listopada 2026 roku, do godz. 23:59. Zgodnie z zarządzeniami Prezesa Rady Ministrów na terenie całej Polski obowiązuje drugi stopień alarmowy BRAVO oraz drugi stopień BRAVO-CRP dotyczący cyberprzestrzeni.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/611e7bde-56bb-4701-a5f5-783c051d54fc" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/611e7bde-56bb-4701-a5f5-783c051d54fc" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/611e7bde-56bb-4701-a5f5-783c051d54fc"/>
+</item>
 <item>
 <title><![CDATA[ Okna można przestawić na "tryb zima". Zobacz, jak to zrobić i co to daje ]]></title>
 <link>https://trybunalski.pl/wiadomosci/okna-mozna-przestawic-na-tryb-zima-zobacz-jak-to-zrobic-i-co-to-daje/K6pyEK9PZShMeJne0CIH</link>
@@ -1789,16 +1819,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
-<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
-</item>
-<item>
 <title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
 <guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
@@ -1807,6 +1827,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
+</item>
+<item>
+<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
+<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -2629,16 +2659,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
-<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
-</item>
-<item>
 <title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
 <link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
 <guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
@@ -2647,6 +2667,16 @@
 <enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
+</item>
+<item>
+<title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
+<guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" alt="miniatura"/></p><p>Do wypadku doszło 8 września około godz. 8:00 na ul. Modrzewskiego, pomiędzy targowiskiem „Balcerek” a galerią Focus Mall.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -2659,16 +2689,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
-<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
-</item>
-<item>
 <title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
 <guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
@@ -2677,6 +2697,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
+</item>
+<item>
+<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
+<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -3899,16 +3929,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f942977f-017c-4056-9ed1-db799c2331f4"/>
 </item>
 <item>
-<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
-<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
-<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
-</item>
-<item>
 <title><![CDATA[ Do tej szkoły w powiecie uczniowie wrócą w październiku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/do-tej-szkoly-w-powiecie-uczniowie-wroca-w-pazdzierniku/BcHVFppYHJzF5FhBJaCV</link>
 <guid isPermaLink="false">572c392ccdca0d45c31ae9fd7cb00f1c459396cf</guid>
@@ -3917,6 +3937,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d317bafe-3a5a-42c4-a5c4-4a1eff99e041"/>
+</item>
+<item>
+<title><![CDATA[ Kolejne lampy LED w gminie Sulejów. Jaśniej  przy wjeździe do Białej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kolejne-lampy-led-w-gminie-sulejow-jasniej-przy-wjezdzie-do-bialej/DZFHHqaUa2HcBYZ1hqYb</link>
+<guid isPermaLink="false">a439c779dee351c268aedf8e7376fd1dd3d237e1</guid>
+<pubDate>Wed, 26 Aug 2026 13:24:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" alt="miniatura"/></p><p>Inwestycja została już zakończona, a zamontowane lampy służą mieszkańcom oraz osobom przejeżdżającym przez Białą. Łącznie przy wjeździe do miejscowości od strony Sulejowa stanęło 12 nowych punktów oświetleniowych.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9526dc2b-2031-45aa-93ac-6e428cbd7ed1"/>
 </item>
 <item>
 <title><![CDATA[ Podwyżka dla prezydenta Piotrkowa? Radni zdecydowali ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8e6c2b0-5306-4c29-a01a-407ea8d11757" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8e6c2b0-5306-4c29-a01a-407ea8d11757" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a8e6c2b0-5306-4c29-a01a-407ea8d11757"/>
-</item>
-<item>
-<title><![CDATA[ Brutalne zabójstwo kobiety na polu... młotkiem. Podejrzana 45-latka to mieszkanka powiatu piotrkowskiego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalne-zabojstwo-kobiety-na-polu-mlotkiem-podejrzana-45-latka-to-mieszkanka-powiatu-piotrkowskiego/NjeouBasFy3ZkZA3EvaL</link>
-<guid isPermaLink="false">39b4c4954ce6592fbf28d4be74ac8dce45893aea</guid>
-<pubDate>Tue, 25 Aug 2026 14:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/3c9934d7-cd1c-419c-a2aa-bf63f6c514b9" alt="miniatura"/></p><p>Do tragedii doszło w nocy z 3 na 4 sierpnia 2026 roku. Około godz. 1:00 policjanci z Zespołu Patrolowo-Interwencyjnego Komendy Powiatowej Policji w Przysusze otrzymali zgłoszenie dotyczące niepokojących odgłosów w gminie Klwów.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/3c9934d7-cd1c-419c-a2aa-bf63f6c514b9" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/3c9934d7-cd1c-419c-a2aa-bf63f6c514b9" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/3c9934d7-cd1c-419c-a2aa-bf63f6c514b9"/>
-</item>
-<item>
-<title><![CDATA[ Można stracić 800+ na dziecko. Ważny termin upływa 31 sierpnia ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mozna-stracic-800-na-dziecko-wazny-termin-uplywa-31-sierpnia/9aQkjKcMNud1NKevOWco</link>
-<guid isPermaLink="false">ad024e63c877f56e0313ca4e75607eb74d596f2b</guid>
-<pubDate>Tue, 25 Aug 2026 14:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/b75537b7-560c-4549-87a2-1469a5dcb921" alt="miniatura"/></p><p>Obowiązek dotyczy obywateli Ukrainy, którzy otrzymali numer PESEL ze statusem UKR bez przedstawienia ważnego dokumentu podróży. W wielu przypadkach chodzi o dzieci.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/b75537b7-560c-4549-87a2-1469a5dcb921" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/b75537b7-560c-4549-87a2-1469a5dcb921" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/b75537b7-560c-4549-87a2-1469a5dcb921"/>
-</item>
-<item>
-<title><![CDATA[ Dramatyczne sceny na torach. Policjanci z Piotrkowa pokazali film z akcji ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczne-sceny-na-torach-policjanci-z-piotrkowa-pokazali-film-z-akcji/pH3GJrRBnvOxey8Fz30K</link>
-<guid isPermaLink="false">2ef6386a72e59b3e6e334e8e26d49a1895903778</guid>
-<pubDate>Tue, 25 Aug 2026 13:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/db22fa95-5c9c-46dd-a87c-105707c3a4c2" alt="miniatura"/></p><p>Do niebezpiecznego zdarzenia doszło w poniedziałek, 24 sierpnia, około godziny 14:00. Dyżurny Komendy Miejskiej Policji w Piotrkowie Trybunalskim otrzymał wówczas niepokojące zgłoszenie, z którego wynikało, że w rejonie torowiska siedzi młody człowiek. Do akcji ruszył patrol policji.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db22fa95-5c9c-46dd-a87c-105707c3a4c2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db22fa95-5c9c-46dd-a87c-105707c3a4c2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db22fa95-5c9c-46dd-a87c-105707c3a4c2"/>
 </item>
 </channel></rss>
