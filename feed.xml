@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 07 Oct 2026 17:57:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 23:12:33 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ LOTTO Superliga Kobiet: Gol w ostatnich sekundach przesądził o zwycięstwie Piotrcovii w Kobierzycach! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-kobiet-gol-w-ostatnich-sekundach-przesadzil-o-zwyciestwie-piotrcovii-w-kobierzycach/4hwZyCh086DcVFuqzs31</link>
+<guid isPermaLink="false">327f334437eab855c410f7031c2983fe21b28f5d</guid>
+<pubDate>Wed, 07 Oct 2026 20:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" alt="miniatura"/></p><p>Podopieczne Horatiu Pasci do rywalizacji z „Kobierkami” przystąpiły trzeciego dnia po dwunastobramkowej porażce w Lublinie i cztery dni przed rewanżowym starciem z tym przeciwnikiem w drugiej rundzie eliminacji Ligi Europejskiej EHF. Nie tak miał wyglądać powrót na europejskie parkiety po kilkunastu latach przerwy, ale trzeba było o tym jak najszybciej zapomnieć.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0"/>
+</item>
 <item>
 <title><![CDATA[ Koniec placu to dopiero początek. Idzie rewolucja w egzaminach na prawo jazdy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/koniec-placu-to-dopiero-poczatek-idzie-rewolucja-w-egzaminach-na-prawo-jazdy/U6gikrWJJIWA9iDPlvB1</link>
@@ -3059,16 +3069,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
-<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
-</item>
-<item>
 <title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
 <guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
@@ -3077,6 +3077,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
+</item>
+<item>
+<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
+<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -3089,16 +3099,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
-<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
-<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
-</item>
-<item>
 <title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
 <guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
@@ -3107,6 +3107,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
+</item>
+<item>
+<title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
+<guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" alt="miniatura"/></p><p>Reprezentacja Ochotniczej Straży Pożarnej w Wolborzu osiągnęła bardzo dobry wynik podczas VII Wojewódzkich Zawodów Sportowo-Pożarniczych. Rywalizacja odbyła się na stadionie OSiR w Łowiczu. W zawodach wystąpiło 45 drużyn z całego województwa łódzkiego. Wśród nich było 23 zespoły męskie i 22 kobiece.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/78a7f27b-799e-4f2c-805b-307a981ce2c4" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/78a7f27b-799e-4f2c-805b-307a981ce2c4" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/78a7f27b-799e-4f2c-805b-307a981ce2c4"/>
-</item>
-<item>
-<title><![CDATA[ Kamil Majchrzak poznał rywali na US Open 2026! Kiedy i z kim pierwszy mecz Piotrkowianina? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/kamil-majchrzak-poznal-rywali-na-us-open-2026-kiedy-i-z-kim-pierwszy-mecz-piotrkowianina/cOOi3PE5gqCDSWW5mQyF</link>
-<guid isPermaLink="false">bf4d35e63354fed15d35ec3fd42aa8f9b14658b2</guid>
-<pubDate>Sat, 29 Aug 2026 09:53:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947" alt="miniatura"/></p><p>Po raz pierwszy 30-letniego reprezentanta Polski z Piotrkowa Trybunalskiego na kortach USTA Billie Jean King National Tennis Center, które są częścią legendarnego kompleksu sportowego Flushing Meadows–Corona Park w nowojorskiej dzielnicy Queens, zobaczymy już w niedzielę 30 czerwca o godzinie 17:00 czasu warszawskiego. Mecz Majchrzak – Medjedović będzie pierwszym spotkaniem dnia na korcie numer „1…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/52ebf117-f706-4d4c-87f5-b41ff786e947"/>
 </item>
 </channel></rss>
