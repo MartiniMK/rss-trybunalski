@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 10 Oct 2026 00:08:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 05:49:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ogromne wygrane w Lotto w naszym mieście. Stało się coś bardzo nietypowego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ogromne-wygrane-w-lotto-w-naszym-miescie-stalo-sie-cos-bardzo-nietypowego/0YPeJiOBG7rHpNt5V8bE</link>
+<guid isPermaLink="false">336d2c1810a5f01f5bfe07c4c780b40fb2c2cedf</guid>
+<pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/617f59a7-eb66-49c5-8b5c-cca005185e73" alt="miniatura"/></p><p>W ostatnich miesiącach w lokalnych kolekturach padła cała seria wysokich wygranych, a szczęśliwcy wzbogacili się o imponujące kwoty. Sprawdziliśmy, ile dokładnie pieniędzy trafiło do mieszkańców i w których miejscach kupiono zwycięskie kupony.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/617f59a7-eb66-49c5-8b5c-cca005185e73" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/617f59a7-eb66-49c5-8b5c-cca005185e73" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/617f59a7-eb66-49c5-8b5c-cca005185e73"/>
+</item>
+<item>
+<title><![CDATA[ Jak rozpoznać czy to na pewno rydz? Podajemy 2 bajecznie łatwe sposoby dla amatorów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jak-rozpoznac-czy-to-na-pewno-rydz-podajemy-2-bajecznie-latwe-sposoby-dla-amatorow/jwLudAN56FDGfinTwNbS</link>
+<guid isPermaLink="false">ace5a06b913b7a8a34c63b0f5b6f15748fde69a7</guid>
+<pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a9ee9be0-b432-4de3-a23b-fe6990f9950f" alt="miniatura"/></p><p>Mleczaj rydz należy do grzybów, na które zbieracze w polskich lasach czekają przez cały rok. Najczęściej wyrasta on w trawie, na polanach oraz skrajach lasów, zwłaszcza w bliskim sąsiedztwie sosen. W takich miejscach można natrafić na pojedyncze sztuki lub całe grupy tych okazów.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a9ee9be0-b432-4de3-a23b-fe6990f9950f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a9ee9be0-b432-4de3-a23b-fe6990f9950f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a9ee9be0-b432-4de3-a23b-fe6990f9950f"/>
+</item>
 <item>
 <title><![CDATA[ LOTTO Superliga: Piotrkowianin rywalizował z Ostrovią na inaugurację 6. kolejki! ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-rywalizowal-z-ostrovia-na-inauguracje-6-kolejki/HPhzNybPIDlfOhEaBek1</link>
@@ -153,7 +173,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Rodzice nie odbiorą swoich dzieci podczas alarmu.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Ogromne wygrane w Lotto w naszym mieście.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -1159,16 +1179,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -1177,6 +1187,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3389,16 +3409,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
-<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
-</item>
-<item>
 <title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
 <guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
@@ -3407,6 +3417,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
+</item>
+<item>
+<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
+<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/612b77e9-5e4a-4dd0-b36b-697406468654" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/612b77e9-5e4a-4dd0-b36b-697406468654" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/612b77e9-5e4a-4dd0-b36b-697406468654"/>
-</item>
-<item>
-<title><![CDATA[ Lotnisko w Łódzkiem zostanie rozbudowane. Podano, co dokładnie się zmieni ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nowa-inwestycja-lotnicza-w-lodzkiem-tak-zmieni-sie-funkcjonowanie-lotniska-w-piotrkowie/kd52rmYUBVniRUDOC8PB</link>
-<guid isPermaLink="false">76b59d81a66900ebdcec2af7b9680b76af248449</guid>
-<pubDate>Tue, 01 Sep 2026 11:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/9b686290-5aea-4759-a493-2293c05b4e33" alt="miniatura"/></p><p>Na lotnisku EPPT w Piotrkowie Trybunalskim trwa budowa nowej drogi kołowania DK-C . Podbudowa została już wykonana, a kolejnym etapem prac będzie położenie pierwszej warstwy nawierzchni asfaltowej.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b686290-5aea-4759-a493-2293c05b4e33" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b686290-5aea-4759-a493-2293c05b4e33" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/9b686290-5aea-4759-a493-2293c05b4e33"/>
-</item>
-<item>
-<title><![CDATA[ Pościg pod Piotrkowem. Padły strzały, poszukiwany uciekł do lasu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/poscig-pod-piotrkowem-padly-strzaly-poszukiwany-uciekl-do-lasu/EsLFX9LvKzirBvV5j2IU</link>
-<guid isPermaLink="false">8bad4ac9dbe50b7460867809ac9efb593814a852</guid>
-<pubDate>Tue, 01 Sep 2026 10:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/1ffd8216-6b7c-4d05-84ab-67c09fc3ab7f" alt="miniatura"/></p><p>Funkcjonariusze Wydziału Kryminalnego Komendy Miejskiej Policji w Piotrkowie Trybunalskim ustalili, że 28 sierpnia poszukiwany 26-latek będzie poruszał się drogą ekspresową S8 w kierunku miasta. Podczas prowadzonej obserwacji zauważyli samochód, którym jechał mężczyzna.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ffd8216-6b7c-4d05-84ab-67c09fc3ab7f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ffd8216-6b7c-4d05-84ab-67c09fc3ab7f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1ffd8216-6b7c-4d05-84ab-67c09fc3ab7f"/>
 </item>
 </channel></rss>
