@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 10 Oct 2026 17:56:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:41:58 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pilne! Dziś w nocy duża szansa za zorzę polarną. Czy możemy zobaczyć ją w woj. łódzkim? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pilne-dzis-w-nocy-duza-szansa-za-zorze-polarna-czy-mozemy-zobaczyc-ja-w-woj-lodzkim/Z6JX1B0pRjCGdlmg561D</link>
+<guid isPermaLink="false">c212262ac270e2095595cefdb1661ee4480e56e5</guid>
+<pubDate>Sat, 10 Oct 2026 20:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4b9a3cc2-adbe-441a-871a-5e9ad9808965" alt="miniatura"/></p><p>Satelity w punkcie L1, czyli 1,5 mln km od Ziemi, mierzą bardzo silne parametry po tym, jak kilka dni temu Słońce wysłało w stronę naszej planety obłok plazmy. Informację przekazał Karol Wójcicki na profilu "Z głową w gwiadach" . Jeśli te wskazania się utrzymają, w atmosferze będzie silna burza magnetyczna, a wywołana przez nią zorza ma realną szansę pojawić się nad Polską .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4b9a3cc2-adbe-441a-871a-5e9ad9808965" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4b9a3cc2-adbe-441a-871a-5e9ad9808965" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4b9a3cc2-adbe-441a-871a-5e9ad9808965"/>
+</item>
 <item>
 <title><![CDATA[ Tyle bierze Zenek za koncert w 2026 roku. Wiemy jaki rachunek dostała gmina od króla disco polo ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tyle-bierze-zenek-za-koncert-w-2026-roku-wiemy-jaki-rachunek-dostala-gmina-od-krola-disco-polo/q0KuyVUYd45fHYdkSkTH</link>
@@ -223,7 +233,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Tyle bierze Zenek za koncert w 2026 roku.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Pilne! Dziś w nocy duża szansa za zorzę polarną.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3429,16 +3439,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d3387843-207a-401d-b5c5-0959655fd2e2"/>
 </item>
 <item>
-<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
-<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
-</item>
-<item>
 <title><![CDATA[ Dziecko potrącone na przejeździe w Piotrkowie. Chłopiec trafił do szpitala ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dziecko-potracone-na-przejezdzie-w-piotrkowie-chlopiec-trafil-do-szpitala/E7RUQ2QSCtO2Qo4XHAdN</link>
 <guid isPermaLink="false">e91a87473bc6b9920bfe6142c6b7fae3bc2d7285</guid>
@@ -3447,6 +3447,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/1bca489d-46d0-42ea-b839-b7a5acc755f9"/>
+</item>
+<item>
+<title><![CDATA[ Archidiecezja łódzka odcięta od YouTube'a. Zaskakująca decyzja serwisu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/archidiecezja-lodzka-odcieta-od-youtube-zaskakujaca-decyzja-serwisu/PtfjMhcFg7K0btAnphWO</link>
+<guid isPermaLink="false">89ab7ef1477b2261a9f5f91d81c2b16bd8eb5298</guid>
+<pubDate>Tue, 08 Sep 2026 10:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" alt="miniatura"/></p><p>Jak poinformowała archidiecezja łódzka w swoich mediach społecznościowych, kanał archidiecezji na YouTube został usunięty przez administrację serwisu bez wiedzy i zgody jego twórców.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/tulodz/articles/image/9aab1218-a672-4d6a-b3d0-051cbc355a9f"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy świętowali podwójny jubileusz. To 500-lecie parafii ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9025c38-1925-4758-af98-c832370ed016" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9025c38-1925-4758-af98-c832370ed016" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/f9025c38-1925-4758-af98-c832370ed016"/>
-</item>
-<item>
-<title><![CDATA[ 87. rocznica obrony Szosy Piotrkowskiej. W Łódzkiem odbędzie się Piknik Obronny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/87-rocznica-obrony-szosy-piotrkowskiej-w-lodzkiem-odbedzie-sie-piknik-obronny/TOXNjXF2KGhDv3ShE1l4</link>
-<guid isPermaLink="false">9523d64dd9e95e609e24c0f34d2bce5feb289cae</guid>
-<pubDate>Tue, 01 Sep 2026 12:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5a263a04-8114-4314-8731-a8c80ca5de6e" alt="miniatura"/></p><p>Piknik odbędzie się 5 września w godzinach od 10:00 do 15:00 na terenie za parkiem linowym przy ulicy Belzackiej. Wejście na miejsce wydarzenia będzie możliwe od ulicy Czesława Niemena.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a263a04-8114-4314-8731-a8c80ca5de6e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a263a04-8114-4314-8731-a8c80ca5de6e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5a263a04-8114-4314-8731-a8c80ca5de6e"/>
 </item>
 </channel></rss>
