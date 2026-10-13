@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 13 Oct 2026 10:34:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 18:16:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Motorówka zablokowała autostradę A1 pod Łodzią! Niecodzienne zdarzenie i ogromne utrudnienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/motorowka-zablokowala-autostrade-a1-pod-lodzia-niecodzienne-zdarzenie-i-ogromne-utrudnienia/M7bgLUytCjfciPLLZORx</link>
+<guid isPermaLink="false">48cac29a39269f6befa16faea2d03aeeab36d914</guid>
+<pubDate>Tue, 13 Oct 2026 16:49:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/tulodz/articles/image/80f64d22-6839-4a6e-96ea-cea04ced4648" alt="miniatura"/></p><p>Do niecodziennego zdarzenia doszło we wtorek, 13 października, około godziny 10.55, na 304,8. kilometrze autostrady A1, w rejonie węzła Brzeziny.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/tulodz/articles/image/80f64d22-6839-4a6e-96ea-cea04ced4648" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/tulodz/articles/image/80f64d22-6839-4a6e-96ea-cea04ced4648" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/tulodz/articles/image/80f64d22-6839-4a6e-96ea-cea04ced4648"/>
+</item>
+<item>
+<title><![CDATA[ Słynny DJ w sutannie zagra w Polsce. Szykuje się pierwsze takie show w naszym województwie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/slynny-dj-w-sutannie-zagra-w-polsce-szykuje-sie-pierwsze-takie-show-w-naszym-wojewodztwie/WG5YmgG673UPKQIv96QJ</link>
+<guid isPermaLink="false">ad7afc20d176241315798282f58715acf292567b</guid>
+<pubDate>Tue, 13 Oct 2026 16:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1e7e1776-2100-411e-9332-2b94c14ca4f8" alt="miniatura"/></p><p>Przełomem w międzynarodowej karierze duchownego stał się występ w 2023 roku podczas Światowych Dni Młodzieży w Lizbonie. Zagrał wówczas muzyczny set przed publicznością liczącą około 1,5 miliona osób. Od tamtej pory pojawiał się na wydarzeniach muzyki elektronicznej w różnych częściach świata, w tym na Afterlife w Hï Ibiza, Medusa Festival w Hiszpanii czy Zamna Festival w Chile. Grał również w cha…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1e7e1776-2100-411e-9332-2b94c14ca4f8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1e7e1776-2100-411e-9332-2b94c14ca4f8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1e7e1776-2100-411e-9332-2b94c14ca4f8"/>
+</item>
+<item>
+<title><![CDATA[ Ataki w polskich szkołach. Zaskakujące działania  Biedronki i Smyka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ataki-w-polskich-szkolach-zaskakujace-dzialania-biedronki-i-smyka/W6Q81Ih2F4hPcZsvB3U1</link>
+<guid isPermaLink="false">45e9e3b85b187e32215ee13425c1a797e3d15387</guid>
+<pubDate>Tue, 13 Oct 2026 13:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/f5aaae09-151b-4257-b63e-b36ea6aa10eb" alt="miniatura"/></p><p>W związku z niedawnymi wydarzeniami w polskich szkołach niektóre sieci handlowe postanowiły zareagować i zmienić swój sezonowy asortyment. Jak informuje Radio dla Ciebie (RDC), chodzi o wybrane produkty halloweenowe, które mogą budzić niepokojące skojarzenia.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/f5aaae09-151b-4257-b63e-b36ea6aa10eb" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/f5aaae09-151b-4257-b63e-b36ea6aa10eb" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/f5aaae09-151b-4257-b63e-b36ea6aa10eb"/>
+</item>
 <item>
 <title><![CDATA[ Tragiczny finał poszukiwań 63-latka. Mężczyzna nie żyje ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-final-poszukiwan-63-latka-mezczyzna-nie-zyje/M9zMfoi4rfnvDJTGOpXn</link>
@@ -443,7 +473,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Tragiczny finał poszukiwań 63-latka.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Motorówka na środku autostrady A1. Dwa pasy zablokowane</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3679,16 +3709,6 @@
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/503bba09-c6cb-49ea-acf7-53dccbca94f3"/>
 </item>
 <item>
-<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
-<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
-<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
-</item>
-<item>
 <title><![CDATA[ OSP Wolbórz na podium. Druhowie wrócili z dwoma pucharami ]]></title>
 <link>https://trybunalski.pl/wiadomosci/osp-wolborz-na-podium-w-lowiczu-druhowie-wrocili-z-dwoma-pucharami/N7yYEAYT879XqJPcsAsL</link>
 <guid isPermaLink="false">7d5c28ffd154b4987a2c87ccb6e16771686dfd83</guid>
@@ -3697,6 +3717,16 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/d441463a-0da5-4b9d-bf0e-4de455b1c0f6"/>
+</item>
+<item>
+<title><![CDATA[ Nawigacja poprowadziła kierowcę hulajnogi wprost na autostradę A1. Tak miało być najszybciej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/jechal-hulajnoga-elektryczna-po-autostradzie-a1-tak-poprowadzila-go-nawigacja/MFAaGs7Og7oZnJKDUsGz</link>
+<guid isPermaLink="false">a1ec3ae9b116ccb4ec2c4a10a8d066acc38bc1da</guid>
+<pubDate>Tue, 08 Sep 2026 10:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 5 września około godz. 13:00 na wysokości Stobiecka Szlacheckiego w powiecie radomszczańskim. Policjanci patrolujący autostradę A1 dostrzegli na pasie awaryjnym mężczyznę poruszającego się hulajnogą elektryczną.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/2117faca-8596-4ab1-bdf7-7f241cf76dfe"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianka w ogólnopolskim konkursie 30+. Sprawdź, jak pomóc pięknej Andżelice ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/a54c420a-4967-40bd-9576-eedcda3087ad" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/a54c420a-4967-40bd-9576-eedcda3087ad" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/a54c420a-4967-40bd-9576-eedcda3087ad"/>
-</item>
-<item>
-<title><![CDATA[ Gwiazdy disco polo w naszym powiecie. Wiemy, kto wystąpi podczas dożynek ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gwiazdy-disco-polo-w-naszym-powiecie-wiemy-kto-wystapi-podczas-dozynek/ndblwGINprC9X6yAH6VE</link>
-<guid isPermaLink="false">64fd7fa8e5893765aee3e9625d38f47bd837a80b</guid>
-<pubDate>Thu, 03 Sep 2026 15:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/021e5b3d-703f-43e2-8670-a25c43624e40" alt="miniatura"/></p><p>Mieszkańcy gminy Moszcenica oraz goście z regionu już wkrótce zgromadzą się, by wspólnie podziękować za tegoroczne zbiory i docenić ciężką pracę rolników. Święto plonów będzie doskonałą okazją do pielęgnowania wieloletnich tradycji oraz integracji całej lokalnej społeczności. Znamy już program Dożynek Gminy Moszczenica 2026.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/021e5b3d-703f-43e2-8670-a25c43624e40" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/021e5b3d-703f-43e2-8670-a25c43624e40" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/021e5b3d-703f-43e2-8670-a25c43624e40"/>
-</item>
-<item>
-<title><![CDATA[ Urząd Miasta w Piotrkowie prowadzi rekrutację. Ile można zarobić? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzad-miasta-w-piotrkowie-prowadzi-rekrutacje-ile-mozna-zarobic/yMakfITP4hb0F07kqEjI</link>
-<guid isPermaLink="false">9840665443d3ad375e7d302d1480034e7f200437</guid>
-<pubDate>Thu, 03 Sep 2026 14:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4601cc36-0891-4459-9d33-cea97840a253" alt="miniatura"/></p><p>Prezydent Piotrkowa Trybunalskiego ogłosił nabór na stanowisko podinspektora lub podinspektorki do spraw wymiaru podatku od nieruchomości. Nowy pracownik zasili Referat Podatków i Opłat Lokalnych.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4601cc36-0891-4459-9d33-cea97840a253" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4601cc36-0891-4459-9d33-cea97840a253" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4601cc36-0891-4459-9d33-cea97840a253"/>
-</item>
-<item>
-<title><![CDATA[ Na sygnałach, by uratować chorą kobietę. Piotrkowscy policjanci pomogli mężczyźnie w dotarciu do matki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/na-sygnalach-by-uratowac-chora-kobiete-piotrkowscy-policjanci-pomogli-mezczyznie-w-dotarciu-do-matki/3ff07PWhcrM4qD3B9KWA</link>
-<guid isPermaLink="false">016a3979ab66ae13586fc17a08eb8059f255aa3b</guid>
-<pubDate>Thu, 03 Sep 2026 14:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/4a4ea84b-55ba-4b89-98ed-eeb429db90b2" alt="miniatura"/></p><p>Do niebezpiecznej sytuacji doszło 27 sierpnia 2026 roku około godziny 21:20–21:30 na terenie Piotrkowa Trybunalskiego. Mężczyzna dowiedział się, że jego mama bardzo źle się czuje, a jej życie może być zagrożone.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a4ea84b-55ba-4b89-98ed-eeb429db90b2" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a4ea84b-55ba-4b89-98ed-eeb429db90b2" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/4a4ea84b-55ba-4b89-98ed-eeb429db90b2"/>
 </item>
 </channel></rss>
