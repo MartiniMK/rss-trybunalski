@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 14 Oct 2026 10:14:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 16:02:54 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Złoty jubileusz "gierkówki". Droga, która zmieniła Polskę i motoryzację [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/zloty-jubileusz-gierkowki-droga-ktora-zmienila-polske-i-motoryzacje-zdjecia/cVW7N1NJosE4SFAPTrA6</link>
+<guid isPermaLink="false">6b46445ecdcf9a424ddf4c55f291966101f936a0</guid>
+<pubDate>Wed, 14 Oct 2026 17:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/566e5d6b-2a6d-4124-a0d2-13a3ebfe517c" alt="miniatura"/></p><p>"Gierkówka", czyli legendarna trasa, która przez kilkadziesiąt lat była jedyną dwupasmową drogą zbudowaną w Polsce, właśnie obchodziłaby 50-lecie. Droga nie doczekała jednak złotego jubileuszu. Zastąpiła ją autostrada A1, a słynna trasa z Warszawy na Śląsk przestała istnieć.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/566e5d6b-2a6d-4124-a0d2-13a3ebfe517c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/566e5d6b-2a6d-4124-a0d2-13a3ebfe517c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/566e5d6b-2a6d-4124-a0d2-13a3ebfe517c"/>
+</item>
+<item>
+<title><![CDATA[ Od tego czwartku zacznie się na stacjach paliw ]]></title>
+<link>https://trybunalski.pl/wiadomosci/od-tego-czwartku-zacznie-sie-na-stacjach-paliw/EALzKtnw95eV5RULq2uy</link>
+<guid isPermaLink="false">1ca8b4e921629c7f1ae65c8f4ac03915ad67d670</guid>
+<pubDate>Wed, 14 Oct 2026 16:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8200ce32-b230-4e4f-9850-e2c3fc4c4021" alt="miniatura"/></p><p>Kierowcy, którzy planują tankowanie w czwartek, 15 października, powinni zwrócić uwagę na nowe ceny maksymalne. Z obwieszczenia Ministra Energii wynika, że limity dla benzyny zostaną obniżone, natomiast w przypadku oleju napędowego nastąpi podwyżka.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8200ce32-b230-4e4f-9850-e2c3fc4c4021" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8200ce32-b230-4e4f-9850-e2c3fc4c4021" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8200ce32-b230-4e4f-9850-e2c3fc4c4021"/>
+</item>
+<item>
+<title><![CDATA[ Ważą się losy energetycznej stolicy Polski. PGE podpisała ważne porozumienie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/waza-sie-losy-energetycznej-stolicy-polski-pge-podpisala-wazne-porozumienie/gb17wq1gBR1Ugwit28Xv</link>
+<guid isPermaLink="false">c59f00fca16338963583a1e37529cd6ba7b324ea</guid>
+<pubDate>Wed, 14 Oct 2026 13:03:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/82a1267d-48f3-4912-bec7-a37f4e502c43" alt="miniatura"/></p><p>Najbliższa dekada zdecyduje czy zagłębie paliwowo-energetyczne w Bełchatowie... dostanie drugie życie. Kompleks PGE, którego sercem są Elektrownia Bełchatów i Kopalnia Węgla Brunatnego Bełchatów , musi przygotować się na prawidziwą rewolucję, a wraz z nim cały region. Wszystko za sprawą transformacji energetycznej i unijnej polityki "Zielonego Ładu". Odjeście od węgla oznacza bowiem systematyczne…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/82a1267d-48f3-4912-bec7-a37f4e502c43" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/82a1267d-48f3-4912-bec7-a37f4e502c43" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/82a1267d-48f3-4912-bec7-a37f4e502c43"/>
+</item>
 <item>
 <title><![CDATA[ Ważny komunikat dla mieszkańców woj. łódzkiego. Jest lista 6 kroków do wykonania w telefonie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wazny-komunikat-dla-mieszkancow-woj-lodzkiego-jest-lista-6-krokow-do-wykonania-w-telefonie/kAS3Z8cnPexr6enIdH1Y</link>
@@ -523,7 +553,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Ważny komunikat dla mieszkańców woj. łódzkiego.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Od tego czwartku nowe limity na stacjach paliw.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -1529,16 +1559,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -1547,6 +1567,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/90088173-9642-4163-a229-d76163a0a79f" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/90088173-9642-4163-a229-d76163a0a79f" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/90088173-9642-4163-a229-d76163a0a79f"/>
-</item>
-<item>
-<title><![CDATA[ Tu warto jechać na grzyby. Najlepsze miejsca w naszym regionie ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tu-warto-jechac-na-grzyby-najlepsze-miejsca-w-naszym-regionie/Mbt4b0XrapHY3J1EH8Ue</link>
-<guid isPermaLink="false">448b657fe2357d81d5d19fb4c8f96982fdd63902</guid>
-<pubDate>Fri, 04 Sep 2026 12:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/ac2be024-774b-450f-b44e-50f28855611e" alt="miniatura"/></p><p>Wędrówki w poszukiwaniu darów lasu dla wielu mieszkańców stały się coroczną tradycją. Nic dziwnego, w końcu grzyby od pokoleń zajmują ważne miejsce w polskiej kuchni. Choć pośród zbieraczy krąży przysłowie, że prawdziwy grzybiarz nigdy nie ujawnia swoich sekretnych ścieżek, w dyskusjach i relacjach mieszkańców województwa łódzkiego regularnie przewijają się pewne konkretne obszary. Sprawdzamy, co…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac2be024-774b-450f-b44e-50f28855611e" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac2be024-774b-450f-b44e-50f28855611e" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/ac2be024-774b-450f-b44e-50f28855611e"/>
-</item>
-<item>
-<title><![CDATA[ Dożynki Gminno-Parafialne w Przygłowie już w niedzielę. Będzie koncert zespołu Mejk i wieczorna zabawa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dozynki-gminno-parafialne-w-przyglowie-juz-w-niedziele-bedzie-koncert-zespolu-mejk-i-wieczorna-zabawa/HJL20aX7LWckZlYHRqxA</link>
-<guid isPermaLink="false">96afdd4ac3d54521cfba3aed454ea4cecf1d7ff4</guid>
-<pubDate>Fri, 04 Sep 2026 11:09:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/c7c78a3d-5193-47d9-ba8c-b64668877e30" alt="miniatura"/></p><p>Dożynki to wyjątkowa okazja, aby podziękować rolnikom za ich całoroczną pracę i zakończone żniwa. W tym roku gospodarzem gminnego święta będzie Przygłów, a wydarzenie odbędzie się na boisku OSP. Organizatorzy zapraszają mieszkańców gminy Sulejów oraz wszystkich gości do wspólnego świętowania.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7c78a3d-5193-47d9-ba8c-b64668877e30" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7c78a3d-5193-47d9-ba8c-b64668877e30" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/c7c78a3d-5193-47d9-ba8c-b64668877e30"/>
-</item>
-<item>
-<title><![CDATA[ Dożynki Powiatowo-Gminne w Czarnocinie 2026. O której wystąpią Piękni i Młodzi? [HARMONOGRAM] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dozynki-powiatowo-gminne-w-czarnocinie-2026-o-ktorej-wystapia-piekni-i-mlodzi-harmonogram/zls239uhKzXpENdqGXHr</link>
-<guid isPermaLink="false">7923b9a826ccff626cdb1aad6001ef8a6c930f25</guid>
-<pubDate>Fri, 04 Sep 2026 10:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/db15e6e6-f134-4be6-ba0e-76ab9931e182" alt="miniatura"/></p><p>Tegoroczne Dożynki Powiatowo-Gminne odbędą się w Czarnocinie. Już 5 września mieszkańcy powiatu piotrkowskiego zbiorą się, by podziękować za tegoroczne zbiory. Podczas wydarzenia nie zabraknie tradycyjnych obrzędów, jak i zabaw dla całych rodzin. Poznaliśmy już dożynkowy program.</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/db15e6e6-f134-4be6-ba0e-76ab9931e182" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/db15e6e6-f134-4be6-ba0e-76ab9931e182" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/db15e6e6-f134-4be6-ba0e-76ab9931e182"/>
 </item>
 </channel></rss>
