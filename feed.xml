@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:10:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 20:44:35 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
@@ -137,16 +137,6 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/f10347a9-32df-4159-8f3f-4f17c0d5dfd9" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/f10347a9-32df-4159-8f3f-4f17c0d5dfd9" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/f10347a9-32df-4159-8f3f-4f17c0d5dfd9"/>
-</item>
-<item>
-<title><![CDATA[ Pokazali prawdziwy hit na Wszystkich Świętych. Nie chodzi o białe kozaki ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pokazali-prawdziwy-hit-na-wszystkich-swietych-rewolucja-w-modzie-cmentarnej/1441raZOTBi7i6V03EMC</link>
-<guid isPermaLink="false">3f23712710b913d8d4f87f9e608403311b200274</guid>
-<pubDate>Sat, 17 Oct 2026 11:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c2143206-da67-43de-8c05-8b198c01a2d1" alt="miniatura"/></p><p>Do 1 listopada pozostały nieco ponad dwa tygodnie. To czas, kiedy wiele osób zaczyna porządkować nagrobki i zastanawiać się nad wyborem kwiatów oraz zniczy. Chociaż od lat najpopularniejszą dekoracją pozostają chryzantemy, tegoroczne inspiracje florystyczne pokazują, że nie trzeba ograniczać się wyłącznie do tradycyjnych rozwiązań.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c2143206-da67-43de-8c05-8b198c01a2d1" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c2143206-da67-43de-8c05-8b198c01a2d1" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c2143206-da67-43de-8c05-8b198c01a2d1"/>
 </item>
 <item>
 <title><![CDATA[ To jest grzyb droższy niż złoto, ale to nie koniec. Naukowcy są zafascynowani ]]></title>
@@ -3329,16 +3319,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
-<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
-</item>
-<item>
 <title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
 <guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
@@ -3347,6 +3327,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
+</item>
+<item>
+<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
+<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -4007,5 +3997,15 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/adb2f788-14d5-42b2-82de-b5ebc66bef65" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/adb2f788-14d5-42b2-82de-b5ebc66bef65" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/adb2f788-14d5-42b2-82de-b5ebc66bef65"/>
+</item>
+<item>
+<title><![CDATA[ Jedna osoba nie żyje, około dwudziestu rannych. Paraliż kolei - co z kursami z Piotrkowa? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koszmarny-wypadek-pociagu-sa-ranni-co-z-kursami-z-piotrkowa/9ADkKRUALUNVKjaw24wN</link>
+<guid isPermaLink="false">b3e2682151faa7ffbebfc4ea5d3d80d22f280678</guid>
+<pubDate>Wed, 09 Sep 2026 15:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/61d821b6-020a-40c3-8ae3-656d66391075" alt="miniatura"/></p><p>Według pierwszych informacji, w środę 9 września przed godz. 12:00 w okolicach Sokolników Mokrych, na linii kolejowej nr 22, doszło do zdarzenia pociągu IC 8220 „Koziołek” oraz samochodu ciężarowy znajdującego się na przejeździe kolejowym. W wyniku uderzenia doszło do wykolejenia i przewrócenia części składu. Na miejsce ruszyły służby, które wyjaśniają okoliczności wypadku.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/61d821b6-020a-40c3-8ae3-656d66391075" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/61d821b6-020a-40c3-8ae3-656d66391075" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/61d821b6-020a-40c3-8ae3-656d66391075"/>
 </item>
 </channel></rss>
