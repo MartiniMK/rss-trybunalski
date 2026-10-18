@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 18 Oct 2026 05:51:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 11:02:30 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ II i III stopień alarmowy w województwie łódzkim. Ważny apel służb do mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ii-i-iii-stopien-alarmowy-w-wojewodztwie-lodzkim-wazny-apel-sluzb-do-mieszkancow/lrHhRoEeQWtlilPvYyC4</link>
+<guid isPermaLink="false">9b9e33284230c0dc7c679febebd4a242ae6033af</guid>
+<pubDate>Sun, 18 Oct 2026 10:32:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ec5097a0-0ba4-4ae3-9a1d-188ffb6cb1ef" alt="miniatura"/></p><p>W województwie łódzkim nadal obowiązują drugi i trzeci stopień alarmowy. To konsekwencja decyzji premiera Donalda Tuska, który podpisał zarządzenia przedłużające obowiązywanie specjalnych środków bezpieczeństwa na terenie Polski.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ec5097a0-0ba4-4ae3-9a1d-188ffb6cb1ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ec5097a0-0ba4-4ae3-9a1d-188ffb6cb1ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ec5097a0-0ba4-4ae3-9a1d-188ffb6cb1ef"/>
+</item>
 <item>
 <title><![CDATA[ Groty, muzea, aquapark... ze zniżką w Łódzkiem. Pasażerowie ŁKA mogą zaoszczędzić ]]></title>
 <link>https://trybunalski.pl/wiadomosci/groty-muzea-aquapark-ze-znizka-w-lodzkiem-pasazerowie-lka-moga-zaoszczedzic/T4l1rQW2JcFEF9tB1b8o</link>
@@ -263,7 +273,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Groty, muzea, aquapark... ze zniżką w Łódzkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>II i III stopień alarmowy w województwie łódzkim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -903,7 +913,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Groty, muzea, aquapark... ze zniżką w Łódzkiem.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>II i III stopień alarmowy w województwie łódzkim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3269,16 +3279,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
-<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
-</item>
-<item>
 <title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
 <guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
@@ -3287,6 +3287,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
+</item>
+<item>
+<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
+<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/157cd9ee-1b9c-4585-909f-b68e6f1facd2" type="image/*"/>
 <media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/157cd9ee-1b9c-4585-909f-b68e6f1facd2" medium="image"/>
 <media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/157cd9ee-1b9c-4585-909f-b68e6f1facd2"/>
-</item>
-<item>
-<title><![CDATA[ Kierowcy żądali zmian na autostradach. Sprawą zajmują się już na najwyższym szczeblu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kierowcy-zadali-zmian-na-autostradach-sprawa-zajmuja-sie-juz-na-najwyzszym-szczeblu/4BHNBW3eurdoozxlF4cW</link>
-<guid isPermaLink="false">db0ce2ca3967919795df752a568292261e862384</guid>
-<pubDate>Wed, 09 Sep 2026 10:26:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/56fbf7c9-ee17-4dba-af47-ca8df3fde021" alt="miniatura"/></p><p>Obecnie o początku odcinkowego pomiaru prędkości informuje znak D-51a. Kierowca wie więc, że wjeżdża na fragment drogi objęty kontrolą, jednak sam znak nie pokazuje, jaka maksymalna prędkość obowiązuje na kontrolowanym odcinku. Informacja o ograniczeniu wynika z wcześniejszego oznakowania drogi. Problem pojawia się wtedy, gdy kierowca nie pamięta, jaki limit minął wcześniej albo nie jest pewien, c…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/56fbf7c9-ee17-4dba-af47-ca8df3fde021" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/56fbf7c9-ee17-4dba-af47-ca8df3fde021" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/56fbf7c9-ee17-4dba-af47-ca8df3fde021"/>
 </item>
 </channel></rss>
