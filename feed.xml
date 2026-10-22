@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Oct 2026 00:10:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 04:42:39 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowy ranking drożyzny w sklepach. Na szczycie to, co Polacy lubią najbardziej ]]></title>
@@ -229,16 +229,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -249,14 +239,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -267,6 +257,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2213,7 +2213,7 @@
 <link>https://trybunalski.pl/wiadomosci/sulejowska-szkola-pograzona-w-zalobie-zmarla-wieloletnia-nauczycielka/McBO0hQZS8ngq96Ny2iQ</link>
 <guid isPermaLink="false">6b36df85f64a8e1cd661bbe35b3bbee553e4af55</guid>
 <pubDate>Thu, 01 Oct 2026 09:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" alt="miniatura"/></p><p>We wtorek, 29 września Zespół Szkół Centrum Kształcenia Ustawicznego w Sulejowie przekazał smutne wieści. Zmarła pani Lilli Głowacka, wieloletnia nauczycielka biologii.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" alt="miniatura"/></p><p>This website trybunalski.pl/wiadomosci/sulejowska-szkola-pograzona-w-zalobie-zmarla-wieloletnia-nauczycielka/McBO0hQZS8ngq96Ny2iQ is currently offline. Cloudflare\'s Always Online™ shows a snapshot of this web page from the Internet Archive\'s Wayback Machine . To check for the live version, click Refresh .</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1"/>
@@ -2379,16 +2379,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5e73bc52-a901-4aa9-ab80-1ee5adba2562"/>
 </item>
 <item>
-<title><![CDATA[ W tych zawodach brakuje rąk do pracy. Kogo szukają w Piotrkowie i powiecie? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tych-zawodach-brakuje-rak-do-pracy-kogo-szukaja-w-piotrkowie-i-powiecie/ODIVDCh8Fb24phTmo7zU</link>
-<guid isPermaLink="false">1f5348e9c5a03d482f0b4323f430423e13f0e8bd</guid>
-<pubDate>Tue, 29 Sep 2026 15:25:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/579c329b-d553-4c47-809b-5d456f37fcb7" alt="miniatura"/></p><p>Według ekspertów niektóre zawody w naszym mieście uznane są za deficytowe. Oznacza to, że na rynku pracy jest znacznie większe zapotrzebowanie, niż liczba wykwalifikowanych kandydatów. O jakich profesjach mowa?</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/579c329b-d553-4c47-809b-5d456f37fcb7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/579c329b-d553-4c47-809b-5d456f37fcb7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/579c329b-d553-4c47-809b-5d456f37fcb7"/>
-</item>
-<item>
 <title><![CDATA[ Starostwo w Piotrkowie szuka pracownika. Jakie są zarobki i wymagania? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/starostwo-w-piotrkowie-szuka-pracownika-jakie-sa-zarobki-i-wymagania/hEfsggnJC389xDXMNqYK</link>
 <guid isPermaLink="false">94e59149d9a952ac5378288b10ab31fae08a72ca</guid>
@@ -2399,14 +2389,11 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c58f3b5a-56c6-4138-bc7c-0bb44e12f36e"/>
 </item>
 <item>
-<title><![CDATA[ Ceny paliw szybują w górę. Kierowcy mają sposób na oszczędności ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/ceny-paliw-szybuja-w-gore-kierowcy-maja-sposob-na-oszczednosci/lXjk7pQ5HxiCNFwaRCno ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ceny-paliw-szybuja-w-gore-kierowcy-maja-sposob-na-oszczednosci/lXjk7pQ5HxiCNFwaRCno</link>
 <guid isPermaLink="false">d9822b37390b40162391596101817e0102b62836</guid>
 <pubDate>Tue, 29 Sep 2026 13:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8881a85b-c684-4120-b6ec-a25606fdec30" alt="miniatura"/></p><p>Skoki cen na pylonach i drożejąca eksploatacja aut sprawiają, że każda wizyta na stacji benzynowej mocno obciąża domowy budżet. Zamiast godzić się z rosnącymi kosztami tankowania, kierowcy z naszego regionu wzięli sprawy w swoje ręce. Choć to sąsiedzi z Bełchatowa wyszli z inicjatywą i stworzyli internetową społeczność, Piotrkowianie również wykazują aktywność w sieci, dzieląc się doniesieniami o…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8881a85b-c684-4120-b6ec-a25606fdec30" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8881a85b-c684-4120-b6ec-a25606fdec30" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8881a85b-c684-4120-b6ec-a25606fdec30"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Wybudują schron w Piotrkowie Trybunalskim. Miasto zabezpiecza się na trudne czasy ]]></title>
