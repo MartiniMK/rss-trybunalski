@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 21 Oct 2026 20:14:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 00:10:19 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowy ranking drożyzny w sklepach. Na szczycie to, co Polacy lubią najbardziej ]]></title>
@@ -229,16 +229,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -247,6 +237,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
+</item>
+<item>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -309,16 +309,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -327,6 +317,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -2319,16 +2319,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -2337,6 +2327,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
