@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 22 Oct 2026 23:29:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:42:57 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Dwie manifestacje zderzyły się w centrum Piotrkowa. Czerwona kartka kontra dziecięcy płacz ]]></title>
@@ -379,16 +379,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -397,6 +387,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
+</item>
+<item>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -3829,16 +3829,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
-<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
-</item>
-<item>
 <title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
 <guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
@@ -3847,6 +3837,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
+</item>
+<item>
+<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
+<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
