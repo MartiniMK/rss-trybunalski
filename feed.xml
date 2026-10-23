@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 23 Oct 2026 04:42:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 10:05:35 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Detektyw Rutowski sprzedaje swój pałac. Podał cenę. Drogo? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/detektyw-rutowski-sprzedaje-swoj-palac-podal-cene-drogo/F6PrEwKBoxZx0YVkIJhw</link>
+<guid isPermaLink="false">736bbabe80aa432c374f7633dd52af4fa1a504a5</guid>
+<pubDate>Fri, 23 Oct 2026 11:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/feb79738-0b28-4941-8f5c-1a8e811e780c" alt="miniatura"/></p><p>Krzysztof Rutkowski, znany w całej Polsce detektyw i osobowość medialna, ponownie wystawił na sprzedaż zabytkowy kompleks pałacowo-parkowy w Szczepowie, niedaleko Głogowa, w województwie dolnośląskim. Posiadłość znajduje się na terenie gminy Żukowice, a jej historia sięga 1670 roku. Rutkowski został właścicielem nieruchomości w 2016 roku. To nie pierwsza próba znalezienia nabywcy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/feb79738-0b28-4941-8f5c-1a8e811e780c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/feb79738-0b28-4941-8f5c-1a8e811e780c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/feb79738-0b28-4941-8f5c-1a8e811e780c"/>
+</item>
+<item>
+<title><![CDATA[ Wojewoda zarządził - radny ma stracić mandat! Wszystko przez faktury ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wojewoda-zarzadzil-radny-ma-stracic-mandat-wszystko-przez-faktury/4IXUDsNU1i0R3zlGN9M9</link>
+<guid isPermaLink="false">4d9ae0ad64b376c0f9eae33afb1a16cc961e8848</guid>
+<pubDate>Fri, 23 Oct 2026 11:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0c891937-2421-4c4c-a473-65fc7503762c" alt="miniatura"/></p><p>Przypomnijmy, że w sierpniu 2026 roku do piotrkowskiego magistratu wpłynęło pismo z Łódzkiego Urzędu Wojewódzkiego. Wojewoda wezwała w nim radnych do podjęcia uchwały o stwierdzeniu wygaśnięcia mandatu Przemysława Winiarskiego, dając samorządowi 30 dni na reakcję. Podczas wrześniowej sesji projekt stosownej uchwały został jednak decyzją większości radnych zdjęty z porządku obrad. Zgodnie z wcześni…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0c891937-2421-4c4c-a473-65fc7503762c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0c891937-2421-4c4c-a473-65fc7503762c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0c891937-2421-4c4c-a473-65fc7503762c"/>
+</item>
+<item>
+<title><![CDATA[ Takiego wydarzenia w gminie Sulejów jeszcze nie było! Już w niedzielę wielkie święto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/takiego-wydarzenia-w-gminie-sulejow-jeszcze-nie-bylo-juz-w-niedziele-wielkie-swieto/DuJQbh0fLH55ixeV9Owq</link>
+<guid isPermaLink="false">6ffc2361bd70e5d4a045a177fb534e0c00aaf8f4</guid>
+<pubDate>Fri, 23 Oct 2026 08:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/28163c59-702e-4ab1-97d9-d6ca0813ee77" alt="miniatura"/></p><p>Hubertus to święto jeźdźców, myśliwych i leśników, obchodzone na cześć św. Huberta, którego wspomnienie przypada 3 listopada. W Polsce tradycja organizowania Hubertusów sięga XVIII wieku.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/28163c59-702e-4ab1-97d9-d6ca0813ee77" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/28163c59-702e-4ab1-97d9-d6ca0813ee77" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/28163c59-702e-4ab1-97d9-d6ca0813ee77"/>
+</item>
 <item>
 <title><![CDATA[ Dwie manifestacje zderzyły się w centrum Piotrkowa. Czerwona kartka kontra dziecięcy płacz ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dwie-manifestacje-zderzyly-sie-w-centrum-piotrkowa-czerwona-kartka-kontra-dzieciecy-placz/okuRamblyPYefjxPiCGt</link>
@@ -379,16 +409,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -397,6 +417,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -823,7 +853,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Dwie manifestacje zderzyły się w centrum Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Detektyw Rutowski sprzedaje swój pałac.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -1463,7 +1493,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Dwie manifestacje zderzyły się w centrum Piotrkowa.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Detektyw Rutowski sprzedaje swój pałac.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -2469,16 +2499,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -2487,6 +2507,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3829,16 +3859,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
-<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
-</item>
-<item>
 <title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
 <link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
 <guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
@@ -3847,6 +3867,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
+</item>
+<item>
+<title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
+<guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" alt="miniatura"/></p><p>Choć od kilku lat regularnie powraca temat rezygnacji ze zmian czasu, w Polsce nadal obowiązuje system, w którym dwa razy w roku przestawiamy zegarki. Najbliższa taka operacja czeka nas już jesienią.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/07913761-f789-4c36-8d5c-c6acb2c85e6f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/07913761-f789-4c36-8d5c-c6acb2c85e6f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/07913761-f789-4c36-8d5c-c6acb2c85e6f"/>
-</item>
-<item>
-<title><![CDATA[ Technologiczna rewolucja w naszym mieście. Co z wielkim kinem na Mediatece? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/technologiczna-rewolucja-w-naszym-miescie-co-z-wielkim-kinem-na-mediatece/1Ub41a2RZvu02aAENsjW</link>
-<guid isPermaLink="false">e8c75960d8ef18764982b6938fb6a75134fb3fea</guid>
-<pubDate>Mon, 14 Sep 2026 14:19:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/5421b344-79b4-46f8-bee0-154eac76b3ab" alt="miniatura"/></p><p>Jak informowaliśmy w listopadzie 2024 roku, Mediatekę 800-lecia czeka modernizacja technologiczna. Inwestycja zakłada montaż specjalnej folii ciekłokrystalicznej na południowej oraz zachodniej elewacji obiektu, co umożliwi wyświetlanie seansów kina plenerowego bezpośrednio na zewnętrznej ścianie budynku. To tylko część zapowiadanych zmian. Choć prace zostały już zainicjowane, mieszkańcy będą musie…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5421b344-79b4-46f8-bee0-154eac76b3ab" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5421b344-79b4-46f8-bee0-154eac76b3ab" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5421b344-79b4-46f8-bee0-154eac76b3ab"/>
-</item>
-<item>
-<title><![CDATA[ Polska rusza po surowce ukryte pod ziemią. Jest decyzja rządu. W grze są cenne metale ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-decyzja-rzadu-polska-rusza-po-surowce-ukryte-pod-ziemia-w-grze-sa-cenne-metale/QY20yoS4E4qSld4Pjogd</link>
-<guid isPermaLink="false">cdb3c05267eca5ea08efab4f7789603ca01d89cd</guid>
-<pubDate>Mon, 14 Sep 2026 14:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/df8617e9-2a25-419a-ada4-4fa9092e541f" alt="miniatura"/></p><p>2 września Rada Ministrów przyjęła uchwałę ustanawiającą Krajowy Program Poszukiwań Surowców Krytycznych . Jego wykonawcą będzie Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy. Program ma być realizowany do 2033 roku i kosztować dokładnie 185,698 mln zł . Pieniądze mają pochodzić z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/df8617e9-2a25-419a-ada4-4fa9092e541f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/df8617e9-2a25-419a-ada4-4fa9092e541f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/df8617e9-2a25-419a-ada4-4fa9092e541f"/>
-</item>
-<item>
-<title><![CDATA[ 35-latka dachowała pod Piotrkowem. Tyle wydmuchała [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/35-latka-dachowala-pod-piotrkowem-tyle-wydmuchala-zdjecia/QzU0drrAicEl3jUSC82b</link>
-<guid isPermaLink="false">b9a02926e6f5b9fca16003908fe83eb66b915aef</guid>
-<pubDate>Mon, 14 Sep 2026 12:42:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a848d743-6010-4482-b46e-8016986f16d6" alt="miniatura"/></p><p>Wszystko wydarzyło się w niedzielę, 13 września około godziny 12:00 w rejonie miejscowości Krężna. Jak wynikało ze zgłoszenia, doszło do dachowania samochodu osobowego marki Audi. Według ustaleń funkcjonariuszy pracujących na miejscu, za kierownicą Audi siedziała 35-letnia kobieta. Podczas badania stanu trzeźwości wyszło na jaw, co było prawdopodobną przyczyną utraty panowania nad pojazdem.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a848d743-6010-4482-b46e-8016986f16d6" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a848d743-6010-4482-b46e-8016986f16d6" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a848d743-6010-4482-b46e-8016986f16d6"/>
 </item>
 </channel></rss>
