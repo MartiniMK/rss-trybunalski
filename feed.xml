@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 23 Oct 2026 19:14:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:13:32 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Zmiana czasu, ale bez zmiany czasu. O co w ogóle chodzi z tym poniedziałkiem? ]]></title>
@@ -229,16 +229,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -247,6 +237,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -559,16 +559,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
-<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
-</item>
-<item>
 <title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
 <guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
@@ -577,6 +567,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
+</item>
+<item>
+<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
+<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
