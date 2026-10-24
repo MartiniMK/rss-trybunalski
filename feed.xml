@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 24 Oct 2026 17:33:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 21:33:30 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Koniec chodzenia do butelkomatów. Nareszcie ktoś to zakończył ]]></title>
@@ -299,16 +299,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -317,6 +307,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -549,16 +549,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -567,6 +557,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -629,16 +629,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -647,6 +637,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -3619,14 +3619,11 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fb9011c4-f7c3-4e5f-b5f7-1fa03edbff58"/>
 </item>
 <item>
-<title><![CDATA[ Jak odróżnić "szatana" od prawdziwka? Oto 3 proste sposoby dla amatorów ]]></title>
+<title><![CDATA[ https://trybunalski.pl/wiadomosci/jak-odroznic-szatana-od-prawdziwka-oto-3-proste-sposoby-dla-amatorow/290sfpRTX1Zc8cEFpZtt ]]></title>
 <link>https://trybunalski.pl/wiadomosci/jak-odroznic-szatana-od-prawdziwka-oto-3-proste-sposoby-dla-amatorow/290sfpRTX1Zc8cEFpZtt</link>
 <guid isPermaLink="false">839abb0c309a258417c57b7f5a21cb36703eae6d</guid>
 <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1db8a0bf-7306-4298-90e3-e0985c6f87b4" alt="miniatura"/></p><p>Sezon grzybowy przyciąga do lasów zarówno doświadczonych zbieraczy, jak i osoby, które dopiero uczą się rozpoznawania poszczególnych gatunków. Jedną z częstszych pomyłek może być zebranie goryczaka żółciowego zamiast borowika.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1db8a0bf-7306-4298-90e3-e0985c6f87b4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1db8a0bf-7306-4298-90e3-e0985c6f87b4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1db8a0bf-7306-4298-90e3-e0985c6f87b4"/>
+<description><![CDATA[ <p></p> ]]></description>
 </item>
 <item>
 <title><![CDATA[ Wypadek na A1 w woj. łódzkim. Nie żyje motocyklista. Autostrada zablokowana w obu kierunkach [AKTUALIZACJA] ]]></title>
