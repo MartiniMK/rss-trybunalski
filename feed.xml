@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 24 Oct 2026 04:30:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:35:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Drugi i trzeci stopień alarmowy w woj. łódzkim. Służby w gotowości, jest apel dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/drugi-i-trzeci-stopien-alarmowy-w-woj-lodzkim-sluzby-w-gotowosci-jest-apel-dla-mieszkancow/Mo1mMYILTOiQYpjMNqz8</link>
+<guid isPermaLink="false">7bf5ec698f51d6eb39e0f3d2962e2e22e7a10f86</guid>
+<pubDate>Sat, 24 Oct 2026 09:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/87024c02-e6d5-479c-bb78-7e867a74de5c" alt="miniatura"/></p><p>Reagowanie na niepokojące zdarzenia w miejscach publicznych pomaga policji i innym służbom w codziennej pracy. Mieszkańcy woj. łódzkiego powinni bacznie obserwować otoczenie.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/87024c02-e6d5-479c-bb78-7e867a74de5c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/87024c02-e6d5-479c-bb78-7e867a74de5c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/87024c02-e6d5-479c-bb78-7e867a74de5c"/>
+</item>
+<item>
+<title><![CDATA[ Poszli na grzyby i dostali po 2500zł mandatu. To przestroga dla innych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/poszli-na-grzyby-i-dostali-po-2500zl-mandatu-to-przestroga-dla-innych/9EEnN1nOomWczfED5eks</link>
+<guid isPermaLink="false">e22f7069fa906f4c0d9994cc6249a34eec489b50</guid>
+<pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ba1e432e-1905-4b36-b8ba-dae51dce596c" alt="miniatura"/></p><p>O tej niecodziennej interwencji poinformowała Komenda Miejska Policji w Piotrkowie Trybunalskim. W ciągu jednego dnia mundurowi skontrolowali dwóch grzybiarzy, którzy postanowili prowadzić pojazdy po alkoholu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ba1e432e-1905-4b36-b8ba-dae51dce596c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ba1e432e-1905-4b36-b8ba-dae51dce596c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ba1e432e-1905-4b36-b8ba-dae51dce596c"/>
+</item>
 <item>
 <title><![CDATA[ Pociągi zatrzymają się na godzinę. To niejedyna niedogodność ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pociagi-zatrzymaja-sie-na-godzine-to-niejedyna-niedogodnosc/lwwNg6iZa00yFfBNHojL</link>
@@ -239,16 +259,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -257,6 +267,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -569,16 +589,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -587,6 +597,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -933,7 +953,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Pociągi zatrzymają się na godzinę.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Drugi i trzeci stopień alarmowy w woj. łódzkim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -1573,7 +1593,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Pociągi zatrzymają się na godzinę.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Drugi i trzeci stopień alarmowy w woj. łódzkim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -2579,16 +2599,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -2597,6 +2607,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3939,16 +3959,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1659f645-42b6-482b-9820-b3527cc884a0"/>
 </item>
 <item>
-<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
-<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
-<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
-</item>
-<item>
 <title><![CDATA[ W tym roku zegarki cofamy wcześniej. Podano datę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/w-tym-roku-zegarki-cofamy-wczesniej-podano-date/taKdsMhAnGNIALfE3iiV</link>
 <guid isPermaLink="false">e3c2c1a3738c907a5cbd2f462db38f95a5e822ca</guid>
@@ -3957,6 +3967,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ab8dddc-9e3c-421a-bcac-82148ca83177"/>
+</item>
+<item>
+<title><![CDATA[ Coraz więcej wezwań od UFG. Kary dla kierowców są ogromne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/coraz-wiecej-wezwan-od-ufg-kary-dla-kierowcow-sa-ogromne/ikTWztdw1GmneGKEyKPN</link>
+<guid isPermaLink="false">871d0d3f2a955939a7f3110e5b1c85452906a488</guid>
+<pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" alt="miniatura"/></p><p>Skala kontroli obowiązkowego ubezpieczenia jest coraz większa. W 2025 roku Ubezpieczeniowy Fundusz Gwarancyjny wystawił około 448 tys. wezwań dotyczących braku OC komunikacyjnego i OC rolników. Rok wcześniej było ich około 351 tys. Co ważne, zdecydowana większość takich przypadków nie jest wykrywana podczas kontroli drogowej. Aż 96 proc. wezwań wystawiono na podstawie własnych ustaleń UFG. Fundusz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ddc64a4c-b192-4b96-98bd-05fbca9e814d"/>
 </item>
 <item>
 <title><![CDATA[ Reprezentant piotrkowskiego klubu Wicemistrzem Polski! Wielki sukces Juliana ]]></title>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/9328fa9e-b0a2-4d0d-967c-d52a299bda5f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/9328fa9e-b0a2-4d0d-967c-d52a299bda5f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/9328fa9e-b0a2-4d0d-967c-d52a299bda5f"/>
-</item>
-<item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/ybaBQMEHLIpQ62yOwjg4</link>
-<guid isPermaLink="false">edf3231d52d772b9694b0aa3a9657d373e56adb0</guid>
-<pubDate>Tue, 15 Sep 2026 14:30:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/69530695-020f-418b-990c-0c470357bae7" alt="miniatura"/></p><p>Praca w strukturach administracji rządowej od dawna cieszy się dużym zainteresowaniem. Gwarantuje ona nie tylko stabilne zatrudnienie w oparciu o przepisy prawa, ale też satysfakcjonujące zarobki i wiele dodatkowych udogodnień.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/69530695-020f-418b-990c-0c470357bae7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/69530695-020f-418b-990c-0c470357bae7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/69530695-020f-418b-990c-0c470357bae7"/>
-</item>
-<item>
-<title><![CDATA[ Padła rekordowa liczba zgłoszeń. W półfinale zobaczymy mieszkanki naszego miasta ]]></title>
-<link>https://trybunalski.pl/wiadomosci/padla-rekordowa-liczba-zgloszen-w-polfinale-zobaczymy-mieszkanki-naszego-miasta/CRSfzwXGm0D5qjcPvBEW</link>
-<guid isPermaLink="false">b3fa6f98331d180d1f85318f8aed18b3d644259e</guid>
-<pubDate>Tue, 15 Sep 2026 11:51:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b75db95b-cd45-40b9-9286-6253edbfb208" alt="miniatura"/></p><p>Przed nami półfinałowe zmagania w ramach tegorocznej edycji ogólnokrajowego konkursu Polska Miss. Po wstępnej selekcji organizatorzy zaprezentowali sylwetki uczestniczek, które powalczą o wejście do kolejnego etapu. O laury i tytuł najpiękniejszej Polki rywalizują pretendentki z różnych zakątków kraju, wyłonione w trzech osobnych kategoriach wiekowych: Polska Miss, Polska Miss Nastolatek oraz Pols…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b75db95b-cd45-40b9-9286-6253edbfb208" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b75db95b-cd45-40b9-9286-6253edbfb208" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b75db95b-cd45-40b9-9286-6253edbfb208"/>
 </item>
 </channel></rss>
