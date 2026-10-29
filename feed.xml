@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 29 Oct 2026 14:17:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 20:20:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Ważą się losy polskiej autostrady. Rząd rozważa radykalne rozwiązanie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/waza-sie-losy-polskiej-autostrady-rzad-rozwaza-radykalne-rozwiazanie/20W00d3P3hnB206vRFut</link>
+<guid isPermaLink="false">c4908cb14817629eb1d0f67ed6d9166534b7a793</guid>
+<pubDate>Thu, 29 Oct 2026 19:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ec8e2eea-ccc4-411f-b1f1-245d898a70a3" alt="miniatura"/></p><p>Za przejazd autem osobowym na odcinku autostrady A2 łączącym Nowy Tomyśl i Konin trzeba obecnie zapłacić 41 zł . Od września 2015 roku do września 2026 roku opłata dla tej kategorii pojazdów rosła z poziomu 17 zł , co stanowi wzrost o ponad 140 procent. Biorąc pod uwagę wszystkie kategorie pojazdów, skala podwyżek w tym dziesięcioletnim okresie zmieściła się w przedziale od około 141 do 145 procen…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ec8e2eea-ccc4-411f-b1f1-245d898a70a3" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ec8e2eea-ccc4-411f-b1f1-245d898a70a3" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ec8e2eea-ccc4-411f-b1f1-245d898a70a3"/>
+</item>
+<item>
+<title><![CDATA[ Ruszają kontrole na cmentarzach. Posypią się mandaty, ale nie od policji ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ruszaja-kontrole-na-cmentarzach-posypia-sie-mandaty-ale-nie-od-policji/5cRGtti8qcEpjVp5XaC6</link>
+<guid isPermaLink="false">ca1a976c0cf09a8c409e36f45e0250f123b18118</guid>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/c7f3117f-54aa-44f2-9ed0-51be512e1cf7" alt="miniatura"/></p><p>W całej Polsce trwa akcja „Stroisz 2026”, której celem jest przeciwdziałanie nielegalnemu pozyskiwaniu gałęzi drzew iglastych wykorzystywanych do przygotowywania dekoracji nagrobnych. Działania rozpoczęły się 19 października i potrwają do 31 października 2026 roku, czyli do ostatniego dnia przed Wszystkimi Świętymi.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/c7f3117f-54aa-44f2-9ed0-51be512e1cf7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/c7f3117f-54aa-44f2-9ed0-51be512e1cf7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/c7f3117f-54aa-44f2-9ed0-51be512e1cf7"/>
+</item>
+<item>
+<title><![CDATA[ Ceny gazu ostro w górę, co z rachunkami w Piotrkowie? Elektrociepłownia odpowiada ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ceny-gazu-ostro-w-gore-co-z-rachunkami-w-piotrkowie-elektrocieplownia-odpowiada/IfkeiRLngBE0uujIzvCn</link>
+<guid isPermaLink="false">e0e45e54e0f9b23c7669fce3598570ae2e5a872b</guid>
+<pubDate>Thu, 29 Oct 2026 15:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/d71627da-230e-4694-95ba-1882e2bd92fa" alt="miniatura"/></p><p>Napięta sytuacja geopolityczna i skoki cen na światowych giełdach surowców mocno dają o sobie znać. Wraz z nadejściem pierwszych chłodów powraca więc pytanie o bezpieczeństwo ciepłownicze Piotrkowian oraz to, czy w sezonie grzewczym grożą nam podwyżki rachunków. Ważny dla domowych budżetów temat w oficjalnej interpelacji poruszyła radna Marlena Wężyk-Głowacka. Przeanalizowaliśmy szczegółową odpowi…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d71627da-230e-4694-95ba-1882e2bd92fa" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d71627da-230e-4694-95ba-1882e2bd92fa" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d71627da-230e-4694-95ba-1882e2bd92fa"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków pozbywa się mieszkania... w Krakowie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-pozbywa-sie-mieszkania-w-krakowie/78HWT8rWsPhe0A9LTcAE</link>
@@ -789,16 +819,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -807,6 +827,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -1119,16 +1149,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
-<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
-</item>
-<item>
 <title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
 <guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
@@ -1137,6 +1157,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
+</item>
+<item>
+<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
+<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -1483,7 +1513,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Piotrków pozbywa się mieszkania... w Krakowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Ważą się losy polskiej autostrady.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -2123,7 +2153,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Piotrków pozbywa się mieszkania... w Krakowie</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Ważą się losy polskiej autostrady.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009"/>
-</item>
-<item>
-<title><![CDATA[ Egzaminy na prawo jazdy w woj. łódzkim znów droższe. Zapadła decyzja, znamy cenę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/egzaminy-na-prawo-jazdy-w-woj-lodzkim-znow-drozsze-zapadla-decyzja-znamy-cene/28lX3AqfxmNSmvsfXaip</link>
-<guid isPermaLink="false">3fae74241fae8717a2f3f6ad16489b0544fd61c9</guid>
-<pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8572b4fb-17aa-413d-885d-450630f4bfa7" alt="miniatura"/></p><p>Koszty zdobycia prawa jazdy rosną. Do ceny kursu, badań lekarskich czy ewentualnych dodatkowych godzin jazdy trzeba doliczyć opłatę za egzamin państwowy. W województwie łódzkim właśnie zdecydowano o jej podwyższeniu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8572b4fb-17aa-413d-885d-450630f4bfa7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8572b4fb-17aa-413d-885d-450630f4bfa7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8572b4fb-17aa-413d-885d-450630f4bfa7"/>
-</item>
-<item>
-<title><![CDATA[ Alert pogodowy dla woj. łódzkiego. Przed nami niespokojna noc, możliwe braki prądu ]]></title>
-<link>https://trybunalski.pl/wiadomosci/alert-pogodowy-dla-woj-lodzkiego-przed-nami-niespokojna-noc-mozliwe-braki-pradu/NsUbywGdQCIEFOls2FdP</link>
-<guid isPermaLink="false">c4c0d33d287ad399f5a25c6514c43bd5e3ecb313</guid>
-<pubDate>Sun, 20 Sep 2026 16:28:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7e653cab-5adc-4ebb-af48-d02d02831cec" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej opublikował w niedzielę, 20 września, zbiorcze ostrzeżenia meteorologiczne dla województwa łódzkiego. Synoptycy prognozują silny wiatr, którego porywy mogą osiągać około 80 km/h. Ale na tym nie koniec.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7e653cab-5adc-4ebb-af48-d02d02831cec" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7e653cab-5adc-4ebb-af48-d02d02831cec" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7e653cab-5adc-4ebb-af48-d02d02831cec"/>
-</item>
-<item>
-<title><![CDATA[ Ogromne wygrane w Lotto w naszym mieście. Stało się coś bardzo nietypowego ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromne-wygrane-w-lotto-w-naszym-miescie-stalo-sie-cos-bardzo-nietypowego/Nd7z7veIFLOE9yMozfma</link>
-<guid isPermaLink="false">daff137ef3a25373c17406fa5f54b889258e6113</guid>
-<pubDate>Sun, 20 Sep 2026 09:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/36c71498-cd14-4aa2-bde1-7546d78757b7" alt="miniatura"/></p><p>Choć zdobycie głównej wygranej w Lotto wymaga ogromnego szczęścia, Piotrkowianie nie mogą w tym roku narzekać na jego brak. Zaledwie w odstępie kilku dni na terenie miasta odnotowano aż dwa sukcesy, z których każdy przyniósł wygraną przekraczającą sto tysięcy złotych.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/36c71498-cd14-4aa2-bde1-7546d78757b7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/36c71498-cd14-4aa2-bde1-7546d78757b7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/36c71498-cd14-4aa2-bde1-7546d78757b7"/>
 </item>
 </channel></rss>
