@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 30 Oct 2026 00:58:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 07:10:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Urzędy w woj. łódzkim szukają pracowników. Wynagrodzenia sięgają 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-woj-lodzkim-szukaja-pracownikow-wynagrodzenia-siegaja-8-tys-zl/o7oBRiyUlO1BSCQRb1ve</link>
+<guid isPermaLink="false">d68f742107e30141515e1ff45f5aaed8d601a8d9</guid>
+<pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/fba2ed27-8edf-4c0a-9d4e-d68b6992d8a9" alt="miniatura"/></p><p>Szef Służby Cywilnej prowadzi rekrutację na 34 otwarte etaty w jednostkach państwowych na obszarze województwa łódzkiego. Poszukiwani są chętni do podjęcia pracy między innymi w urzędach skarbowych, inspekcjach weterynaryjnych oraz urzędach wojewódzkich. Na zatrudnionych czekają stabilne warunki w ramach umowy o pracę oraz rozbudowany pakiet dodatków. Wśród nich są trzynasta pensja, dodatek za wie…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/fba2ed27-8edf-4c0a-9d4e-d68b6992d8a9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/fba2ed27-8edf-4c0a-9d4e-d68b6992d8a9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fba2ed27-8edf-4c0a-9d4e-d68b6992d8a9"/>
+</item>
 <item>
 <title><![CDATA[ Ważą się losy polskiej autostrady. Rząd rozważa radykalne rozwiązanie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/waza-sie-losy-polskiej-autostrady-rzad-rozwaza-radykalne-rozwiazanie/20W00d3P3hnB206vRFut</link>
@@ -819,16 +829,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -837,6 +837,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -1513,7 +1523,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Ważą się losy polskiej autostrady.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Urzędy w woj. łódzkim szukają pracowników.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -2153,7 +2163,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Ważą się losy polskiej autostrady.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Urzędy w woj. łódzkim szukają pracowników.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3159,16 +3169,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
-<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
-</item>
-<item>
 <title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
 <guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
@@ -3177,6 +3177,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
+</item>
+<item>
+<title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
+<guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" alt="miniatura"/></p><p>Decyzja stanowi jeden z kluczowych etapów procesu transformacji terenów pogórniczych i realizacji długoterminowej strategii zagospodarowania obszarów po zakończeniu eksploatacji złoża.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ad3a690a-aca7-427c-aba2-59749b976812" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ad3a690a-aca7-427c-aba2-59749b976812" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ad3a690a-aca7-427c-aba2-59749b976812"/>
-</item>
-<item>
-<title><![CDATA[ Wulgarne napisy i przebite opony. Piotrkowianin wpadł przez charakterystyczny plecak ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wulgarne-napisy-i-przebite-opony-piotrkowianin-wpadl-przez-charakterystyczny-plecak/Szw54yeqWfeIx7nDJpwi</link>
-<guid isPermaLink="false">021dbb4de3f0a4ec9a04a0a0e5b8ea86dbdaa827</guid>
-<pubDate>Mon, 21 Sep 2026 08:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009" alt="miniatura"/></p><p>Do zdarzenia doszło 9 września 2026 roku, kilka minut po północy na jednej z posesji na terenie gminy Moszczenica. Uszkodzony został samochód marki Kia.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05084c0f-0679-4a99-9a85-251d8b217009"/>
 </item>
 </channel></rss>
