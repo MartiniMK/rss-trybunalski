@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 29 Oct 2026 20:20:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:58:10 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Ważą się losy polskiej autostrady. Rząd rozważa radykalne rozwiązanie ]]></title>
@@ -269,16 +269,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -287,6 +277,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
