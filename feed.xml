@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 31 Oct 2026 12:18:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 17:48:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Kryta pływalnia przy hali widowiskowo-sportowej w Bełchatowie ponownie otwarta ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pge-w-regionie/kryta-plywalnia-przy-hali-widowiskowo-sportowej-w-belchatowie-ponownie-otwarta/lnLqHlgoOYl7tpQxavxP</link>
+<guid isPermaLink="false">d41d24233aabef52d1a0ab1b510d4e250336643d</guid>
+<pubDate>Sat, 31 Oct 2026 18:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/25ca8ecb-3a9c-40fe-9b22-1a73e93399e2" alt="miniatura"/></p><p>Jedną z najważniejszych zmian jest zwiększenie liczby godzin dostępnych dla klientów indywidualnych. Pływalnia będzie czynna codziennie od godz. 8:00 do 21:00.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/25ca8ecb-3a9c-40fe-9b22-1a73e93399e2" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/25ca8ecb-3a9c-40fe-9b22-1a73e93399e2" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/25ca8ecb-3a9c-40fe-9b22-1a73e93399e2"/>
+</item>
+<item>
+<title><![CDATA[ Zbudowano ją jako kaplicę rodzinną. To klasycystyczna budowla na cmentarzu w Sulejowie.  [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/zbudowano-ja-jako-kaplice-rodzinna-to-klasycystyczna-budowla-na-cmentarzu-w-sulejowie-zdjecia/dQvUACCq3gvv6tREPzJq</link>
+<guid isPermaLink="false">4699d2fabdec9f76dedabb558f782e72e7f1de4b</guid>
+<pubDate>Sat, 31 Oct 2026 18:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" alt="miniatura"/></p><p>Rodzinną kaplicę grobową na cmentarzu w Sulejowie ufundował na początku XIX wieku Franciszek Więckowski. Kaplica wybudowana została w stylu klasycystycznym. Jej patronami zostali święci apostołowie Piotr i Paweł.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/e749bb1f-6d41-483a-af8b-79d58fdf0677"/>
+</item>
+<item>
+<title><![CDATA[ Łódzka IV Liga: Sensacyjne rozstrzygnięcie w meczu GKS-u Bełchatów z Concordią! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lodzka-iv-liga-sensacyjne-rozstrzygniecie-w-meczu-gks-u-belchatow-z-concordia/T20TRJPLXoxntpaIo21s</link>
+<guid isPermaLink="false">42d1a832ab87db88fdea7ba06e8591fa062b45da</guid>
+<pubDate>Sat, 31 Oct 2026 15:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/4951ff5e-0991-4776-901f-575094965116" alt="miniatura"/></p><p>Piłkarze z naszego miasta do sobotniej rywalizacji przystępowali jako jedenasty zespół w ligowej tabeli i bezpośrednio po wyjazdowej porażce ze Zjednoczonymi Stryków (1:5). Pomimo tego, „Brunatni” z 17 punktami na koncie byli i tak w zdecydowanie lepszej sytuacji od Concordii, która zajmowała przedostatnie miejsce w tabeli z bilansem 1 zwycięstwo, 1 remis i aż 12 porażek. Wobec tego to podopieczni…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/4951ff5e-0991-4776-901f-575094965116" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/4951ff5e-0991-4776-901f-575094965116" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/4951ff5e-0991-4776-901f-575094965116"/>
+</item>
 <item>
 <title><![CDATA[ Zapomniane cmentarze Piotrkowa. Niektóre znajdowały się w samym centrum miasta ]]></title>
 <link>https://trybunalski.pl/wiadomosci/zapomniane-cmentarze-piotrkowa-niektore-znajdowaly-sie-w-samym-centrum-miasta/spXW7m9lQCM25Mec0DmI</link>
@@ -449,16 +479,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
-<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
-</item>
-<item>
 <title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
 <guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
@@ -467,6 +487,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
+</item>
+<item>
+<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
+<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -1693,7 +1723,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Zabrali auta pijanym kierowcom, teraz je licytują.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Kryta pływalnia przy hali widowiskowo-sportowej w Bełchatowie ponownie otwarta</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -2333,7 +2363,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Zabrali auta pijanym kierowcom, teraz je licytują.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Kryta pływalnia przy hali widowiskowo-sportowej w Bełchatowie ponownie otwarta</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/063f5bb1-b48b-4f8d-99a1-4e87937ab3b9" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/063f5bb1-b48b-4f8d-99a1-4e87937ab3b9" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/063f5bb1-b48b-4f8d-99a1-4e87937ab3b9"/>
-</item>
-<item>
-<title><![CDATA[ Wiatr o mało nie doprowadził do tragedii. Błyskawiczna akcja strażaków na wieży kościoła ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wiatr-o-malo-nie-doprowadzil-do-tragedii-blyskawiczna-akcja-strazakow-na-wiezy-kosciola/VSnEwSqKiQGAlAdveP4n</link>
-<guid isPermaLink="false">28e10ef4aac47102bc212951b6864c5a6fe2d69d</guid>
-<pubDate>Wed, 23 Sep 2026 11:43:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/9b5fb8a9-bfb0-4ed4-98d9-3cb46d9854bd" alt="miniatura"/></p><p>Silne porywy wiatru doprowadziły do niebezpiecznego zdarzenia w centrum Rozprzy. We wtorek, 22 września około godziny 17:00, uszkodzeniu uległ jeden z elementów wieży kościelnej.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/9b5fb8a9-bfb0-4ed4-98d9-3cb46d9854bd" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/9b5fb8a9-bfb0-4ed4-98d9-3cb46d9854bd" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/9b5fb8a9-bfb0-4ed4-98d9-3cb46d9854bd"/>
-</item>
-<item>
-<title><![CDATA[ Piotrkowska szkoła pogrążona w żałobie. Zmarła wieloletnia dyrektorka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piotrkowska-szkola-pograzona-w-zalobie-zmarla-wieloletnia-dyrektorka/k8AxWEibu05XpAOFVslm</link>
-<guid isPermaLink="false">8941b1f5e2ca2e7bef98ef38f78039dd683081f5</guid>
-<pubDate>Wed, 23 Sep 2026 10:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/691e0ac1-481a-445d-adcd-74ac58ea462b" alt="miniatura"/></p><p>We wtorek, 22 września, Zespół Szkół Ponadpodstawowych numer 4 w Piotrkowie Trybunalskim przekazał smutne wieści. Zmarła pani Irena Rakoczy, wieloletnia dyrektorka placówki. Szkoła we wzruszającym wpisie pożegnała cenioną nauczycielkę.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/691e0ac1-481a-445d-adcd-74ac58ea462b" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/691e0ac1-481a-445d-adcd-74ac58ea462b" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/691e0ac1-481a-445d-adcd-74ac58ea462b"/>
-</item>
-<item>
-<title><![CDATA[ Ogromny huk jak z armaty w powiecie piotrkowskim. Jest pilny komunikat służb ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ogromny-huk-jak-z-armaty-nad-wojewodztwem-lodzkim-jest-pilny-komunikat-sluzb/Xa8OJodfxnihGWAx2qGl</link>
-<guid isPermaLink="false">2072ef81209f8ecc64d0c2e03d34a6a52c9c9f60</guid>
-<pubDate>Wed, 23 Sep 2026 08:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/fedc8ff2-6f2b-413b-8a51-3359b5bef527" alt="miniatura"/></p><p>Około godziny 7:15 w naszym powiecie było słychać dwa następujące po sobie głośne huki. Dźwięk był na tyle głośny, że postawił część mieszkańców na równe nogi. Niektórzy porównywali go nawet do huku wystrzałów z armaty i mówili o drgających szybach okien.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/fedc8ff2-6f2b-413b-8a51-3359b5bef527" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/fedc8ff2-6f2b-413b-8a51-3359b5bef527" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/fedc8ff2-6f2b-413b-8a51-3359b5bef527"/>
 </item>
 </channel></rss>
