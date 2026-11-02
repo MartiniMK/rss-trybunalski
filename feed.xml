@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 02 Nov 2026 15:42:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:35:04 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Polacy omijają ZUS i biorą sprawy w swoje ręce. Ponad pół miliona takich przypadków ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polacy-omijaja-zus-i-biora-sprawy-w-swoje-rece-ponad-pol-miliona-takich-przypadkow/fcc63aCv16jsTNYIgAIn</link>
+<guid isPermaLink="false">79f2db8f37ebd1c81469acff3c0c6af92666b68c</guid>
+<pubDate>Mon, 02 Nov 2026 18:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/8ccb54ac-86ba-418a-9fec-643693f61b4c" alt="miniatura"/></p><p>Zaświadczenia z Zakładu Ubezpieczeń Społecznych są potrzebne w wielu codziennych sytuacjach. Bank może wymagać potwierdzenia wysokości świadczenia przy rozpatrywaniu wniosku kredytowego, a urząd dokumentów dotyczących ubezpieczenia lub odprowadzanych składek. Podobne zaświadczenia bywają niezbędne przy ubieganiu się o dotacje czy świadczenia socjalne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/8ccb54ac-86ba-418a-9fec-643693f61b4c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/8ccb54ac-86ba-418a-9fec-643693f61b4c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/8ccb54ac-86ba-418a-9fec-643693f61b4c"/>
+</item>
 <item>
 <title><![CDATA[ Wyjechał z Piotrkowa na mecz i zaginął. Zrozpaczeni bliscy proszą o pomoc ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wyjechal-z-piotrkowa-na-mecz-i-zaginal-zrozpaczeni-bliscy-prosza-o-pomoc/QIvwflD78tkaqKT8t7zR</link>
@@ -19,14 +29,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/180af58f-c036-4d89-9bd4-f8b22cf90a2a"/>
 </item>
 <item>
-<title><![CDATA[ Zaginęła 15-letnia Amelia z Piotrkowa. Policja udostępniła wizerunek ]]></title>
+<title><![CDATA[ Zaginęła 15-letnia Amelia z Piotrkowa. Policja udostępniła wizerunek [AKTUALIZACJA] ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-15-letnia-amelia-z-piotrkowa-policja-udostepnila-wizerunek/ek8TEmXwrKtpWtagYL4P</link>
 <guid isPermaLink="false">7c57c3aa52c8fbcff9c959eb9e922938de5baa4d</guid>
 <pubDate>Mon, 02 Nov 2026 15:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/703429ac-ea50-4255-a180-0a0ff3caec7b" alt="miniatura"/></p><p>Komenda Miejska Policji w Piotrkowie Twrt54rybunalskim poinformowała o zaginięciu 15-letniej Amelii Rakoczy, mieszkanki miasta. Dziewczyna opuściła dom 31 października 2026 roku około godziny 17:00. Od tamtej pory nie nawiązała kontaktu z najbliższymi, a jej miejsce pobytu pozostaje nieznane.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/703429ac-ea50-4255-a180-0a0ff3caec7b" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/703429ac-ea50-4255-a180-0a0ff3caec7b" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/703429ac-ea50-4255-a180-0a0ff3caec7b"/>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/68435962-f914-4c27-8e53-4f877a46588e" alt="miniatura"/></p><p>Komenda Miejska Policji w Piotrkowie Twrt54rybunalskim poinformowała o zaginięciu 15-letniej mieszkanki miasta. Dziewczyna opuściła dom 31 października 2026 roku około godziny 17:00. Od tamtej pory nie nawiązała kontaktu z najbliższymi, a jej miejsce pobytu pozostaje nieznane.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/68435962-f914-4c27-8e53-4f877a46588e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/68435962-f914-4c27-8e53-4f877a46588e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/68435962-f914-4c27-8e53-4f877a46588e"/>
 </item>
 <item>
 <title><![CDATA[ Z Piotrkowa szybciej na Lubelszczyznę i Podkarpacie. Jest ostateczna decyzja ]]></title>
@@ -1259,16 +1269,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -1277,6 +1277,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -1953,7 +1963,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wyjechał z Piotrkowa na mecz i zaginął.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Omijają chodzenie do ZUS i biorą sprawy w swoje ręce.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -2593,7 +2603,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wyjechał z Piotrkowa na mecz i zaginął.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Omijają chodzenie do ZUS i biorą sprawy w swoje ręce.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3599,16 +3609,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
-<guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" alt="miniatura"/></p><p>Sprawa ma swój początek w kwietniu 2025 roku, podczas nadzwyczajnej sesji Rady Miasta Piotrkowa Trybunalskiego dotyczącej planowanego Centrum Integracji Cudzoziemców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
-</item>
-<item>
 <title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
 <guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
@@ -3617,6 +3617,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
+</item>
+<item>
+<title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
+<guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" alt="miniatura"/></p><p>Sprawa ma swój początek w kwietniu 2025 roku, podczas nadzwyczajnej sesji Rady Miasta Piotrkowa Trybunalskiego dotyczącej planowanego Centrum Integracji Cudzoziemców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/2779f3a1-2503-49c7-b561-40181fd0b539" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/2779f3a1-2503-49c7-b561-40181fd0b539" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/2779f3a1-2503-49c7-b561-40181fd0b539"/>
-</item>
-<item>
-<title><![CDATA[ Za kilka dni rewolucja w Lidlu. Nowe zasady w systemie kaucyjnym ]]></title>
-<link>https://trybunalski.pl/wiadomosci/za-kilka-dni-rewolucja-w-lidlu-nowe-zasady-w-systemie-kaucyjnym/o08JYvQJvjwIOLJXJTyQ</link>
-<guid isPermaLink="false">cb4148dd84cc23f037e75e3ed5bf8f1412a5e95d</guid>
-<pubDate>Fri, 25 Sep 2026 14:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/babcb4db-fd67-4f87-a18c-5af86ac8d657" alt="miniatura"/></p><p>Od października Lidl Polska zmieni termin ważności bonów wydawanych przez butelkomaty. Obecnie taki kupon można wykorzystać przez 30 dni. Po zmianach jego ważność zostanie wydłużona do 100 dni. Oznacza to, że klienci będą mieli ponad trzy miesiące na zrealizowanie bonu po oddaniu opakowań. Jak informuje Portal Spożywczy, przedstawiciele Lidla przekonują, że decyzja nie jest efektem licznych skarg…</p> ]]></description>
-<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/babcb4db-fd67-4f87-a18c-5af86ac8d657" type="image/*"/>
-<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/babcb4db-fd67-4f87-a18c-5af86ac8d657" medium="image"/>
-<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/babcb4db-fd67-4f87-a18c-5af86ac8d657"/>
 </item>
 </channel></rss>
