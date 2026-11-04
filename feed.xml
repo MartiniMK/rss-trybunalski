@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 03 Nov 2026 21:07:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:21:37 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ LOTTO Superliga Kobiet: Zmiana lidera tabeli po meczu Piotrcovii w Lublinie! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-kobiet-zmiana-lidera-tabeli-po-meczu-piotrcovii-w-lublinie/bhI8HihCArFbrU9MRSnU</link>
+<guid isPermaLink="false">7339df0684fda39a003d28b1ea1dc6f8e0cb9ce2</guid>
+<pubDate>Tue, 03 Nov 2026 22:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/71ca6bbf-19c1-4e9f-98cb-5944e3d3b0ae" alt="miniatura"/></p><p>Piłkarki ręczne Piotrcovii do rywalizacji w stolicy Lubelszczyzny przystępowały jako niepokonany lider wyścigu o mistrzostwo Polski, ale pomimo odniesienie kompletu sześćiu zwycięstw nie były faworytem wtorkowej konfrontacji.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/71ca6bbf-19c1-4e9f-98cb-5944e3d3b0ae" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/71ca6bbf-19c1-4e9f-98cb-5944e3d3b0ae" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/71ca6bbf-19c1-4e9f-98cb-5944e3d3b0ae"/>
+</item>
 <item>
 <title><![CDATA[ Miejska spółka w Piotrkowie szuka pracownika. Ile można zarobić? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miejska-spolka-w-piotrkowie-szuka-pracownika-ile-mozna-zarobic/XQh3CDRIME4rWt2CFgRW</link>
@@ -139,16 +149,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
-<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
-</item>
-<item>
 <title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
 <guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
@@ -157,6 +157,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
+</item>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
+<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -1709,16 +1719,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -1727,6 +1727,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
+</item>
+<item>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -2153,7 +2163,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Miejska spółka w Piotrkowie szuka pracownika.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Piotrcovia straciła fotel lidera Lotto Superligi!</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -2793,7 +2803,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Miejska spółka w Piotrkowie szuka pracownika.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Piotrcovia straciła fotel lidera Lotto Superligi!</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3799,16 +3809,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 <item>
-<title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
-<guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
-<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" alt="miniatura"/></p><p>Sprawa ma swój początek w kwietniu 2025 roku, podczas nadzwyczajnej sesji Rady Miasta Piotrkowa Trybunalskiego dotyczącej planowanego Centrum Integracji Cudzoziemców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
-</item>
-<item>
 <title><![CDATA[ Rekultywacja Pola Bełchatów - jest decyzja określająca przyszłość wyrobiska ]]></title>
 <link>https://trybunalski.pl/wiadomosci/pge-w-regionie/rekultywacja-pola-belchatow-jest-decyzja-okreslajaca-przyszlosc-wyrobiska/iK2vSyjtIxIGqp8qUJgf</link>
 <guid isPermaLink="false">f49f99a70927edb71b9f7b600160c745e3b27dde</guid>
@@ -3817,6 +3817,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f1099f4-a0cb-473e-95c4-f8341af6f0e7"/>
+</item>
+<item>
+<title><![CDATA[ Wiceprezydent Piotrkowa kontra mieszkaniec miasta. Włodarz chce zapłaty 100 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wiceprezydent-piotrkowa-kontra-mieszkaniec-miasta-wlodarz-chce-zaplaty-100-tysiecy-zlotych/PvjXMG53aTrTLoA4SiUJ</link>
+<guid isPermaLink="false">2243306ba54e663f53739bc0e57b22b4970d063a</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" alt="miniatura"/></p><p>Sprawa ma swój początek w kwietniu 2025 roku, podczas nadzwyczajnej sesji Rady Miasta Piotrkowa Trybunalskiego dotyczącej planowanego Centrum Integracji Cudzoziemców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e034af98-d17e-4ae7-8e2a-a55903fee9ed"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ccfd7da2-048b-4ccc-8ef5-68dca44d16e0" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ccfd7da2-048b-4ccc-8ef5-68dca44d16e0" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ccfd7da2-048b-4ccc-8ef5-68dca44d16e0"/>
-</item>
-<item>
-<title><![CDATA[ Chcą zatrudnić ludzi od upiększania miasta? W Piotrkowie będzie ładniej? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/chca-zatrudnic-ludzi-od-upiekszania-miasta-w-piotrkowie-bedzie-ladniej/HgO7Qv8ewEve23lppHir</link>
-<guid isPermaLink="false">e72e41bd1d718aba7e0313ccc41c51a36c7020bc</guid>
-<pubDate>Mon, 28 Sep 2026 15:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ec6f9a57-8054-41e5-a012-422f1ebf02fe" alt="miniatura"/></p><p>Na łamach naszego portalu kilkukrotnie podejmowaliśmy temat wandalizmu na terenie Piotrkowa Trybunalskiego. Od zdemolowanych wiat przystankowych, przez bohomazy na ścianach budynków, aż po zniszczone stanowisko serwisowe dla rowerów. Usuwanie skutków tych zachowań generuje dodatkowe koszty i choć za niszczenie wspólnego mienia grozi do 5 lat więzienia, problem nie znika.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ec6f9a57-8054-41e5-a012-422f1ebf02fe" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ec6f9a57-8054-41e5-a012-422f1ebf02fe" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ec6f9a57-8054-41e5-a012-422f1ebf02fe"/>
 </item>
 </channel></rss>
