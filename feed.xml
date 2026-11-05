@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 05 Nov 2026 15:30:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 22:04:03 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Top 30 najpopularniejszych nazwisk w Piotrkowie. Czy miasto różni się od reszty Polski? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/top-30-najpopularniejszych-nazwisk-w-piotrkowie-czy-miasto-rozni-sie-od-reszty-polski/wGLJsO9pRwOdqDyh4GPD</link>
+<guid isPermaLink="false">38f0a48bd40b9ec9affb7ab956313151a27bfe63</guid>
+<pubDate>Thu, 05 Nov 2026 18:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/03c2fecc-9295-44b1-bc24-cdc443738348" alt="miniatura"/></p><p>Wśród 30 najpopularniejszych nazwisk w Piotrkowie są w większości takie, jakie występują w całeym kraju. Leżący w środkowej Polsce Piotrków Trybunalski nie odbiega bowiem zbytnio od charakterystyki mieszkańców, jaką mają miasta na Mazowszu w Małopolsce czy w Świętokrzyskiem.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/03c2fecc-9295-44b1-bc24-cdc443738348" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/03c2fecc-9295-44b1-bc24-cdc443738348" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/03c2fecc-9295-44b1-bc24-cdc443738348"/>
+</item>
 <item>
 <title><![CDATA[ Piotrków kontra betonoza. Ile zieleni przybyło w 2026 roku? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/piotrkow-kontra-betonoza-ile-zieleni-przybylo-w-2026-roku/vQ4Ajl0TpTC66CGLz7d0</link>
@@ -349,16 +359,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
-<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
-</item>
-<item>
 <title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
 <guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
@@ -367,6 +367,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
+</item>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
+<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -1939,16 +1949,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
-</item>
-<item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
 <guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
@@ -1957,6 +1957,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2363,7 +2373,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Piotrków wśród miast z najmniejszym wzrostem liczby mieszkańców.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Top 30 najpopularniejszych nazwisk w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3003,7 +3013,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Piotrków wśród miast z najmniejszym wzrostem liczby mieszkańców.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Top 30 najpopularniejszych nazwisk w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6dd610ea-2673-4c6d-be0a-f39fd1c6751b" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6dd610ea-2673-4c6d-be0a-f39fd1c6751b" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6dd610ea-2673-4c6d-be0a-f39fd1c6751b"/>
-</item>
-<item>
-<title><![CDATA[ Kasa dla klubów sportowych w Łódzkiem. Na liście także nasze miasto i powiat ]]></title>
-<link>https://trybunalski.pl/wiadomosci/kasa-dla-klubow-sportowych-w-lodzkiem-na-liscie-takze-nasze-miasto-i-powiat/p8zSDxALdL6O5kEtUeqH</link>
-<guid isPermaLink="false">a21528160eee52d9e0610777f7b9de87a4db3df5</guid>
-<pubDate>Wed, 30 Sep 2026 11:15:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560" alt="miniatura"/></p><p>We wtorek, 29 września poznaliśmy listę klubów sportowych, które otrzymały środki na swój rozwój. Urząd Marszałkowski rozstrzygnął właśnie program dotacyjny „Trenuj w Łódzkiem”, wspierający zakup nowoczesnego sprzętu, kompletów odzieży oraz akcesoriów treningowych. Łączny budżet wsparcia w skali całego województwa przekroczył milion złotych, a zastrzyk gotówki trafi także do organizacji reprezentu…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb012dc-2239-4f95-a588-bacb4f119560"/>
 </item>
 </channel></rss>
