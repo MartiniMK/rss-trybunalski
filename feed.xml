@@ -6,10 +6,20 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Nov 2026 18:04:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 23:10:00 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ Tysiące bezrobotnych w Piotrkowie. Miasto w czołówce województwa ]]></title>
+<title><![CDATA[ Action przebija promocją wszystko. 55 złotych, a inni mają prawie po 200 zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/action-przebija-promocja-wszystko-55-zlotych-a-inni-maja-prawie-po-200-zl/KIauu9fyz0sU1qQaNcdc</link>
+<guid isPermaLink="false">7882421f93a866fc27775248fae8f852275c95c6</guid>
+<pubDate>Fri, 06 Nov 2026 20:40:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/693db549-d48e-4873-86ba-27c97c3709df" alt="miniatura"/></p><p>Sieć Action rozszerzyła asortyment o dwa warianty perfum marki DKNY (Donna Karan New York). Produkty oferowane są w cenie około 55 złotych za flakon o pojemności 50 ml. To szczególnie interesująca oferta w zestawieniu z cenami w innych drogeriach. Jak informuje portal Boop, te same warianty zapachowe w Rossmannie mają cenę regularną wynoszącą 199 złotych.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/693db549-d48e-4873-86ba-27c97c3709df" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/693db549-d48e-4873-86ba-27c97c3709df" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/693db549-d48e-4873-86ba-27c97c3709df"/>
+</item>
+<item>
+<title><![CDATA[ Tysiące bezrobotnych w Piotrkowie. Jak wypadamy na tle całego województwa? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/tysiace-bezrobotnych-w-piotrkowie-miasto-w-czolowce-wojewodztwa/l4BNRLmYQDAhiGpPG14q</link>
 <guid isPermaLink="false">f116ed93e4a5f07026874ca131703d884b157d50</guid>
 <pubDate>Fri, 06 Nov 2026 15:30:00 +0000</pubDate>
@@ -77,16 +87,6 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dff6d681-0744-4e66-a376-50cf47ff931b" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dff6d681-0744-4e66-a376-50cf47ff931b" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dff6d681-0744-4e66-a376-50cf47ff931b"/>
-</item>
-<item>
-<title><![CDATA[ Młotowiertarka w Castoramie za 1 zł. Normalnie kosztuje ponad 200 zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mlotowiertarka-w-castoramie-za-1-zl-normalnie-kosztuje-ponad-200-zl/o9HPT94WNbQqF7uQ2x7W</link>
-<guid isPermaLink="false">325def1afbdaf70b560ad4a18762f724740c875f</guid>
-<pubDate>Fri, 06 Nov 2026 09:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/d774f1f2-46a0-425f-afcd-18d983dbd6fb" alt="miniatura"/></p><p>Od 4 listopada 2026 roku w Castoramie obowiązuje nowa promocja na elektronarzędzia. Klienci, którzy spełnią określone warunki, mogą kupić młotowiertarkę Mac Allister SDS+ 750 W za zaledwie 1 zł. Standardowa cena tego urządzenia wynosi 208 zł, co oznacza oszczędność 207 zł na samej młotowiertarce.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d774f1f2-46a0-425f-afcd-18d983dbd6fb" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d774f1f2-46a0-425f-afcd-18d983dbd6fb" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d774f1f2-46a0-425f-afcd-18d983dbd6fb"/>
 </item>
 <item>
 <title><![CDATA[ Urząd miasta w Piotrkowie szuka pracownika. Jakie są zarobki? ]]></title>
@@ -1239,16 +1239,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -1257,6 +1247,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -1789,16 +1789,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -1807,6 +1797,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2039,16 +2039,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -2059,14 +2049,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -2077,6 +2067,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2119,16 +2119,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -2137,6 +2127,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -2483,7 +2483,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Nowe zasady w opłatach za prąd.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Action przebija promocją wszystko.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3123,7 +3123,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Nowe zasady w opłatach za prąd.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Action przebija promocją wszystko.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
