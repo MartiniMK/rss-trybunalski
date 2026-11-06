@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:50:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 18:04:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Tysiące bezrobotnych w Piotrkowie. Miasto w czołówce województwa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tysiace-bezrobotnych-w-piotrkowie-miasto-w-czolowce-wojewodztwa/l4BNRLmYQDAhiGpPG14q</link>
+<guid isPermaLink="false">f116ed93e4a5f07026874ca131703d884b157d50</guid>
+<pubDate>Fri, 06 Nov 2026 15:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c841a226-ec21-4385-a056-d75579ee3615" alt="miniatura"/></p><p>Sytuacja na rynku pracy nie budzi optymizmu kandydatów. Chociaż ogólna stopa bezrobocia utrzymuje się na podobnym poziomie, najnowsze zestawienie pokazuje spore różnice w poszczególnych powiatach. Sprawdziliśmy, jak na tym tle wypada Piotrków Trybunalski i okoliczne gminy oraz kogo poszukują lokalni pracodawcy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c841a226-ec21-4385-a056-d75579ee3615" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c841a226-ec21-4385-a056-d75579ee3615" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c841a226-ec21-4385-a056-d75579ee3615"/>
+</item>
+<item>
+<title><![CDATA[ Wracają trudne warunki w Łódzkiem. Wydano komunikat dla całego województwa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wracaja-trudne-warunki-w-lodzkiem-wydano-komunikat-dla-calego-wojewodztwa/FS7cBu9nVPt6284eoFtM</link>
+<guid isPermaLink="false">a5460c6b4c5317273b9fa4716d2002395305c119</guid>
+<pubDate>Fri, 06 Nov 2026 12:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f0810b06-de15-4468-a623-61656f27c5b7" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał zbiorcze ostrzeżenie pierwszego stopnia przed gęstą mgłą, które objęło wszystkie 24 powiaty województwa łódzkiego, w tym Piotrków Trybunalski, powiat piotrkowski, bełchatowski, tomaszowski, opoczyński oraz radomszczański.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f0810b06-de15-4468-a623-61656f27c5b7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f0810b06-de15-4468-a623-61656f27c5b7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f0810b06-de15-4468-a623-61656f27c5b7"/>
+</item>
+<item>
+<title><![CDATA[ Allegro rekrutuje w naszym mieście. Jakie wymagania trzeba spełnić? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/allegro-rekrutuje-w-naszym-miescie-jakie-wymagania-trzeba-spelnic/iUh9bHI6R0oXGOvPTdJQ</link>
+<guid isPermaLink="false">08806f1058ab785ad94c8ddd8d45a44249ab266a</guid>
+<pubDate>Fri, 06 Nov 2026 12:11:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/fd43a09d-c9a6-4dfd-8c3a-991c59b512da" alt="miniatura"/></p><p>Gigant e-commerce, firma Allegro, prowadzi rekrutację do swojego centrum logistycznego przy trasie S8 w Piotrkowie Trybunalskim. Na oficjalnej stronie pojawiły się cztery nowe oferty pracy, obejmujące stanowiska fizyczne, operacyjne oraz menedżerskie. Sprawdzamy szczegóły naboru.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/fd43a09d-c9a6-4dfd-8c3a-991c59b512da" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/fd43a09d-c9a6-4dfd-8c3a-991c59b512da" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fd43a09d-c9a6-4dfd-8c3a-991c59b512da"/>
+</item>
 <item>
 <title><![CDATA[ Wielka akcja dla kierowców. Nie trzeba nawet płacić ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/wielka-akcja-dla-kierowcow-nie-trzeba-nawet-placic/GhjpIorVBidJ2493BorF</link>
@@ -27,6 +57,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/76f6a790-3d49-4b40-b221-b1e60ea7d6bc" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/76f6a790-3d49-4b40-b221-b1e60ea7d6bc" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/76f6a790-3d49-4b40-b221-b1e60ea7d6bc"/>
+</item>
+<item>
+<title><![CDATA[ Śmiertelny wypadek w Łódzkiem. Nie żyje 31-letni kierowca quada ]]></title>
+<link>https://trybunalski.pl/wiadomosci/smiertelny-wypadek-w-lodzkiem-nie-zyje-31-letni-kierowca-quada/kv1UQUGE0cKyNhT2cfeR</link>
+<guid isPermaLink="false">add23167add7d2894303226fc0346f46e7359702</guid>
+<pubDate>Fri, 06 Nov 2026 11:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/eeb64469-9e74-435a-ae7a-3787726999ed" alt="miniatura"/></p><p>Zgłoszenie o wypadku wpłynęło do dyżurnego Komendy Powiatowej Policji w Łasku w czwartek, 5 listopada około godz. 16.45. Na miejsce pojechali funkcjonariusze z komisariatu w Widawie oraz łaskiej drogówki.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/eeb64469-9e74-435a-ae7a-3787726999ed" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/eeb64469-9e74-435a-ae7a-3787726999ed" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/eeb64469-9e74-435a-ae7a-3787726999ed"/>
 </item>
 <item>
 <title><![CDATA[ Piotrkowianin mistrzem świata. Bartosz Sokalski zdobył cztery medale ]]></title>
@@ -429,16 +469,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
-<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
-</item>
-<item>
 <title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
 <guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
@@ -447,6 +477,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
+<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -1199,16 +1239,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
-<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
-</item>
-<item>
 <title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
 <guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
@@ -1217,6 +1247,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
+</item>
+<item>
+<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
+<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -1749,16 +1789,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -1767,6 +1797,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -1999,16 +2039,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -2019,14 +2049,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -2037,6 +2067,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2079,16 +2119,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
-<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
-</item>
-<item>
 <title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
 <guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
@@ -2097,6 +2127,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
+</item>
+<item>
+<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
+<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -2443,7 +2483,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Nalot służb na sklep w regionie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Nowe zasady w opłatach za prąd.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3083,7 +3123,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Nalot służb na sklep w regionie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Nowe zasady w opłatach za prąd.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3967,45 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f"/>
-</item>
-<item>
-<title><![CDATA[ 10-letnia piotrkowianka wicemistrzynią Polski. Kornelia zdobyła srebro w woltyżerce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/10-letnia-piotrkowianka-wicemistrzynia-polski-kornelia-zdobyla-srebro-w-woltyzerce/cONln5v8kvsvV7NqkD6y</link>
-<guid isPermaLink="false">fde1c22f4693cfc915d1fea43482222df74e68a0</guid>
-<pubDate>Thu, 01 Oct 2026 10:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2df9eb31-4788-48bb-afdd-6af29de3c128" alt="miniatura"/></p><p>Młoda piotrkowianka rywalizowała w kategorii MP Dzieci – dziewczęta w wieku 7–13 lat . W finałowej klasyfikacji uzyskała 6,962 punktu , co dało jej drugie miejsce i tytuł wicemistrzyni Polski .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2df9eb31-4788-48bb-afdd-6af29de3c128" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2df9eb31-4788-48bb-afdd-6af29de3c128" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2df9eb31-4788-48bb-afdd-6af29de3c128"/>
-</item>
-<item>
-<title><![CDATA[ Sulejowska szkoła pogrążona w żałobie. Zmarła wieloletnia nauczycielka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sulejowska-szkola-pograzona-w-zalobie-zmarla-wieloletnia-nauczycielka/McBO0hQZS8ngq96Ny2iQ</link>
-<guid isPermaLink="false">6b36df85f64a8e1cd661bbe35b3bbee553e4af55</guid>
-<pubDate>Thu, 01 Oct 2026 09:58:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" alt="miniatura"/></p><p>We wtorek, 29 września Zespół Szkół Centrum Kształcenia Ustawicznego w Sulejowie przekazał smutne wieści. Zmarła pani Lilli Głowacka, wieloletnia nauczycielka biologii.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2dac75a8-9d34-48ca-9c69-5786380956e1"/>
-</item>
-<item>
-<title><![CDATA[ Zaginęła 15-latka. Piotrkowska policja prosi o pomoc w poszukiwaniach [AKTUALIZACJA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-15-letnia-amelia-piotrkowska-policja-prosi-o-pomoc-w-poszukiwaniach/8nFcpN6GKvI0SsTwjVB7</link>
-<guid isPermaLink="false">43952c19e8b3f559ae68208bba52307212875276</guid>
-<pubDate>Thu, 01 Oct 2026 08:29:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b3245364-9922-4f28-b329-0ed40c0debdf" alt="miniatura"/></p><p>Komenda Miejska Policji w Piotrkowie Trybunalskim opublikowała komunikat dotyczący zaginięcia 15-latki . Policjanci prowadzą poszukiwania i proszą o pomoc wszystkie osoby, które mogą wiedzieć, gdzie obecnie przebywa nastolatka.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b3245364-9922-4f28-b329-0ed40c0debdf" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b3245364-9922-4f28-b329-0ed40c0debdf" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b3245364-9922-4f28-b329-0ed40c0debdf"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek pod Piotrkowem. To kosztowny błąd kierowcy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-pod-piotrkowem-to-kosztowny-blad-kierowcy/x1QpsW31XjvE6ZYhXEvD</link>
-<guid isPermaLink="false">24926f0f4dc3f52c498eab784d46a2490ea26d63</guid>
-<pubDate>Wed, 30 Sep 2026 22:06:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" alt="miniatura"/></p><p>Do zdarzenia doszło w środę, 30 września około godz. 17:00. Na ulicy Piotrkowskiej w Rakowie Dużym zderzyły się dwa samochody osobowe. Na miejsce ruszyły służby. Jak się okazuje, kierujący samochodem osobowym marki Toyota, włączając się do ruchu, nie ustąpił pierwszeństwa jadącej prawidłowo 35-letniej kierującej samochodem osobowym marki Volkswagen. Wiadomo, jak zakończyło się zdarzenie.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5a8b2e12-189a-4791-8633-f8335ef75758"/>
 </item>
 </channel></rss>
