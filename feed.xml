@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 07 Nov 2026 16:28:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 20:57:38 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pilny komunikat dla użytkowników mObywatela. Mogą być problemy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pilny-komunikat-dla-uzytkownikow-mobywatela-moga-byc-problemy/eB7jYZxTgDTTL3sEa2o3</link>
+<guid isPermaLink="false">cce27f0a5658063b4667757d1154407bb3c80a1d</guid>
+<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2ec9c6a3-8961-4935-882a-4d2ea2340d4b" alt="miniatura"/></p><p>W sobotę, 7 listopada 2026 roku, od godziny 21:00 do północy, zaplanowano prace techniczne, które mogą wpłynąć na funkcjonowanie aplikacji mObywatel oraz strony internetowej mObywatel.gov.pl.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2ec9c6a3-8961-4935-882a-4d2ea2340d4b" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2ec9c6a3-8961-4935-882a-4d2ea2340d4b" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2ec9c6a3-8961-4935-882a-4d2ea2340d4b"/>
+</item>
+<item>
+<title><![CDATA[ Wielka zabawa na „Słoneczku”. Piotrkowskie Morsy oficjalnie rozpoczęły nowy sezon [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-zabawa-na-sloneczku-piotrkowskie-morsy-oficjalnie-rozpoczely-nowy-sezon-zdjecia/rOb1UHmNjhZvKQyptuAO</link>
+<guid isPermaLink="false">3bf90cf26b2e7e4ee85f5ddebfb34c1be10141e0</guid>
+<pubDate>Sat, 07 Nov 2026 19:12:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0462aeec-c4a4-4576-a3ec-b52bcb2372e2" alt="miniatura"/></p><p>Sobotnie popołudnie nad piotrkowskim zbiornikiem przebiegło pod znakiem świetnej zabawy i sporej dawki adrenaliny. Miłośnicy morsowania zaczęli gromadzić się na plaży około godziny 16:00. Na miejscu panowała świetna atmosfera. Nie brakowało uśmiechów, głośnej muzyki oraz wzajemnego dopingu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0462aeec-c4a4-4576-a3ec-b52bcb2372e2" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0462aeec-c4a4-4576-a3ec-b52bcb2372e2" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0462aeec-c4a4-4576-a3ec-b52bcb2372e2"/>
+</item>
 <item>
 <title><![CDATA[ Wiemy ile bierze Zenek za koncert w 2026 roku. Taki rachunek dostała gmina od króla disco polo ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wiemy-ile-bierze-zenek-za-koncert-w-2026-roku-taki-rachunek-dostala-gmina-od-krola-disco-polo/zpy3LL2GLemu4AfR4EHE</link>
@@ -509,16 +529,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
-<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
-</item>
-<item>
 <title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
 <guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
@@ -527,6 +537,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
+</item>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
+<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -1829,16 +1849,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -1847,6 +1857,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2099,16 +2119,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
-</item>
-<item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
 <guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
@@ -2117,6 +2127,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2523,7 +2543,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wiemy ile bierze Zenek za koncert w 2026 roku.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Pilny komunikat dla użytkowników mObywatela.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3163,7 +3183,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wiemy ile bierze Zenek za koncert w 2026 roku.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Pilny komunikat dla użytkowników mObywatela.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c9aedd15-e82e-4c82-9a7a-02089a56bfe5" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c9aedd15-e82e-4c82-9a7a-02089a56bfe5" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c9aedd15-e82e-4c82-9a7a-02089a56bfe5"/>
-</item>
-<item>
-<title><![CDATA[ W bazie w Łasku coraz więcej F-35. Właśnie wylądował najnowszy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/w-bazie-w-lasku-coraz-wiecej-f-35-wlasnie-wyladowal-najnowszy/TEjRcOiDchLYJ32dkliW</link>
-<guid isPermaLink="false">281ff305b070cffcd0fb1e5f6ecd1c16d1393c9f</guid>
-<pubDate>Thu, 01 Oct 2026 17:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/97126622-1a4f-40a6-97b5-bb1d837752e3" alt="miniatura"/></p><p>Polska dysponuje już dziewięcioma samolotami wielozadaniowymi F-35 „Husarz”. Do maszyn, które przylatywały do bazy w Łasku w maju i sierpniu właśnie dołączyła kolejna. Docelowo w polskich siłach powietrznych mają służyć 32 samoloty. Wszystkie będą stacjonować w łaskiej bazie.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/97126622-1a4f-40a6-97b5-bb1d837752e3" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/97126622-1a4f-40a6-97b5-bb1d837752e3" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/97126622-1a4f-40a6-97b5-bb1d837752e3"/>
-</item>
-<item>
-<title><![CDATA[ Ważna informacja dla właścicieli czworonogów z Piotrkowa. Ruszył bezpłatny program ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wazna-informacja-dla-wlascicieli-czworonogow-z-piotrkowa-ruszyl-bezplatny-program/TAG2eqE4FgC8JEi2YYEg</link>
-<guid isPermaLink="false">a6b4ad8b1a1448e8bc1c929b93626b5a6dd4d584</guid>
-<pubDate>Thu, 01 Oct 2026 14:46:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0f1cb75e-6595-4696-80e7-aedccc973451" alt="miniatura"/></p><p>Z programu mogą skorzystać mieszkańcy Piotrkowa Trybunalskiego, którzy są właścicielami psów lub kotów . Warunkiem jest posiadanie książeczki zdrowia zwierzęcia. W przypadku psa wymagana jest także aktualna szczepionka przeciwko wściekliźnie. Właściciel musi również wyrazić zgodę na elektroniczne oznakowanie zwierzęcia.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0f1cb75e-6595-4696-80e7-aedccc973451" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0f1cb75e-6595-4696-80e7-aedccc973451" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0f1cb75e-6595-4696-80e7-aedccc973451"/>
 </item>
 </channel></rss>
