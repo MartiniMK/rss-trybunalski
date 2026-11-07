@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 07 Nov 2026 02:53:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 10:03:20 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Udrażniali rury i znaleźli to w kanalizacji. Jest ważny apel do mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/udrazniali-rury-i-znalezli-to-w-kanalizacji-jest-wazny-apel-do-mieszkancow/K4lYRmGi4XgQpfz3E2vF</link>
+<guid isPermaLink="false">f1979eba8a9e6b32ecf4ecc9aeba4d192d45cc34</guid>
+<pubDate>Sat, 07 Nov 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/6327212f-592d-415c-86dd-7080530c637a" alt="miniatura"/></p><p>Ekipy techniczne udrażniające kanalizacje wciąż odnotowują liczne przypadki awarii sieci, których bezpośrednią przyczyną okazuje się niewłaściwe użytkowanie toalet. Do odpływów masowo trafiają przedmioty, które blokują przepływ nieczystości i doprowadzają do awarii całego systemu. Usuwanie takich usterek bywa skomplikowane i wyjątkowo kosztowne, dlatego wystosowano apel do mieszkańców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6327212f-592d-415c-86dd-7080530c637a" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6327212f-592d-415c-86dd-7080530c637a" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6327212f-592d-415c-86dd-7080530c637a"/>
+</item>
 <item>
 <title><![CDATA[ Action przebija promocją wszystko. 55 złotych, a inni mają prawie po 200 zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/action-przebija-promocja-wszystko-55-zlotych-a-inni-maja-prawie-po-200-zl/KIauu9fyz0sU1qQaNcdc</link>
@@ -469,16 +479,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
-<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
-</item>
-<item>
 <title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
 <guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
@@ -487,6 +487,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
+<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -1239,16 +1249,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -1257,6 +1257,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -1789,16 +1799,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -1807,6 +1807,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2039,16 +2049,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -2059,14 +2059,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -2077,6 +2077,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2483,7 +2493,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Action przebija promocją wszystko.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Udrażniali rury i znaleźli to w kanalizacji.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3123,7 +3133,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Action przebija promocją wszystko.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Udrażniali rury i znaleźli to w kanalizacji.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5b180a91-6d1e-4994-b139-2362eaddf089" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5b180a91-6d1e-4994-b139-2362eaddf089" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5b180a91-6d1e-4994-b139-2362eaddf089"/>
-</item>
-<item>
-<title><![CDATA[ Rada w Piotrkowie zakończyła kadencję. Podsumowali lata pracy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rada-w-piotrkowie-zakonczyla-kadencje-podsumowali-lata-pracy/u1ofiK5VBRp18fZ5n7RL</link>
-<guid isPermaLink="false">a20d8197ade4b46a1693b9f89b3b61391e55c160</guid>
-<pubDate>Thu, 01 Oct 2026 11:02:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f" alt="miniatura"/></p><p>Zakończyła się kadencja Młodzieżowej Rady Miasta w Piotrkowie Trybunalskim . Ostatnia uroczysta sesja odbyła się w środowe popołudnie, 30 września, w Urzędzie Miasta. Podczas spotkania podsumowano kończące się dwa lata pracy młodych radnych.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/06807f8a-aa0b-42d2-be78-ed7fee27c03f"/>
 </item>
 </channel></rss>
