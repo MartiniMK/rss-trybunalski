@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 08 Nov 2026 07:18:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 15:09:31 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Każdy ma wiedzieć, gdzie się ukryć. Powstał specjalny system, jest apel do obywateli ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kazdy-ma-wiedziec-gdzie-sie-ukryc-powstal-specjalny-system-jest-apel-do-obywateli/we4iDoaUVayQWJ0ux3aP</link>
+<guid isPermaLink="false">a477a9e625718eabd1b3ea2e4eb67d60077fb4c0</guid>
+<pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/34acabe2-a91b-4560-8a34-19c3bdebd4d6" alt="miniatura"/></p><p>Od 2 listopada 2026 roku Polacy mogą pobierać na swoje telefony aplikację „Gdzie się ukryć PL”. To narzędzie opracowane przez Państwową Straż Pożarną, którego zadaniem jest ułatwienie odnalezienia najbliższego miejsca tymczasowego schronienia w przypadku zagrożenia. W bazie aplikacji znajduje się już ponad 88 tysięcy punktów schronienia, które według danych MSWiA mogą pomieścić łącznie około 24 mi…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/34acabe2-a91b-4560-8a34-19c3bdebd4d6" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/34acabe2-a91b-4560-8a34-19c3bdebd4d6" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34acabe2-a91b-4560-8a34-19c3bdebd4d6"/>
+</item>
+<item>
+<title><![CDATA[ Groźny pożar i wybuch butli z gazem w Gorzkowicach. W ogniu stanął garaż i samochód ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/grozny-pozar-i-wybuch-butli-z-gazem-w-gorzkowicach-w-ogniu-stanal-garaz-i-samochod/wWdaNAedCoECqEZWYhWl</link>
+<guid isPermaLink="false">b45442a570eb5e515608ea8a961684d0edfa6948</guid>
+<pubDate>Sun, 08 Nov 2026 11:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/eb8e9e40-25e3-4dbc-9db4-a726ba2bab69" alt="miniatura"/></p><p>8 listopada o 4:35 do dyżurnego stanowiska kierowania wpłynęło zgłoszenie o pożarze na terenie jednej z prywatnych posesji w Gorzkowicach. Na miejsce ruszyli strażacy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/eb8e9e40-25e3-4dbc-9db4-a726ba2bab69" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/eb8e9e40-25e3-4dbc-9db4-a726ba2bab69" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/eb8e9e40-25e3-4dbc-9db4-a726ba2bab69"/>
+</item>
+<item>
+<title><![CDATA[ Nocny pożar w gminie Wolbórz. W akcji sześć zastępów straży pożarnej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/nocny-pozar-w-gminie-wolborz-w-akcji-szesc-zastepow-strazy-pozarnej/AHDoJKgLp73Qs1Z44l7G</link>
+<guid isPermaLink="false">842f8f9ea7e8f9278929d65781cad9217ee3cfbf</guid>
+<pubDate>Sun, 08 Nov 2026 11:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f1e00688-f488-42ff-a449-38d1e125a2fc" alt="miniatura"/></p><p>Zgłoszenie o pojawieniu się ognia wpłynęło do stanowiska kierowania Państwowej Straży Pożarnej w sobotni wieczór, 7 listopada, dokładnie o godzinie 22:17. Na miejsce natychmiast zadysponowano służby ratunkowe.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f1e00688-f488-42ff-a449-38d1e125a2fc" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f1e00688-f488-42ff-a449-38d1e125a2fc" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f1e00688-f488-42ff-a449-38d1e125a2fc"/>
+</item>
 <item>
 <title><![CDATA[ Ogromne wygrane w Lotto w naszym mieście. Stało się coś bardzo nietypowego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/ogromne-wygrane-w-lotto-w-naszym-miescie-stalo-sie-cos-bardzo-nietypowego/czFIqi3TQ1uUsFeqziWJ</link>
@@ -1869,16 +1899,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -1887,6 +1907,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2199,16 +2229,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -2217,6 +2237,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -2563,7 +2593,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Ogromne wygrane w Lotto w naszym mieście.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Każdy ma wiedzieć, gdzie się ukryć.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3203,7 +3233,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Ogromne wygrane w Lotto w naszym mieście.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Każdy ma wiedzieć, gdzie się ukryć.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1482a1a1-6272-45c7-a979-efeaf85b4b29" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1482a1a1-6272-45c7-a979-efeaf85b4b29" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1482a1a1-6272-45c7-a979-efeaf85b4b29"/>
-</item>
-<item>
-<title><![CDATA[ Wypadek pod Piotrkowem. 39-latek trafił do szpitala [ZDJĘCIA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-pod-piotrkowem-39-latek-trafil-do-szpitala-zdjecia/ndgr2uAGRPRBWwzrvata</link>
-<guid isPermaLink="false">85d217f8d6eb13f95b6b076cb8858185f3dfb827</guid>
-<pubDate>Fri, 02 Oct 2026 10:16:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/63e498d3-e7a5-4e3e-8bae-b770c2ab1fb9" alt="miniatura"/></p><p>W piątek, 2 października, w godzinach porannych doszło do zderzenia dwóch pojazdów na DK74 w Gomulinie. Jak się okazuje, był to wypadek z udziałem osobówki oraz samochodu ciężarowego. Zgłoszenie wpłynęło do służb o 5:54.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/63e498d3-e7a5-4e3e-8bae-b770c2ab1fb9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/63e498d3-e7a5-4e3e-8bae-b770c2ab1fb9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/63e498d3-e7a5-4e3e-8bae-b770c2ab1fb9"/>
-</item>
-<item>
-<title><![CDATA[ Prace na linii kolejowej nr 1. Jest informacja dla mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/prace-na-linii-kolejowej-nr-1-jest-informacja-dla-mieszkancow/PryHIfMkEk1s8d50pNDE</link>
-<guid isPermaLink="false">10655cd0e472d7d13e1dae672f422dd0b2109f29</guid>
-<pubDate>Fri, 02 Oct 2026 09:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ce2b9fc9-3da0-44ca-909b-f48461ab4455" alt="miniatura"/></p><p>Prace są realizowane w ramach modernizacji linii kolejowej nr 1 na odcinku Koluszki – Częstochowa. Jak wynika z oficjalnego komunikatu wykonawcy, konieczne jest przeprowadzenie prac polegających na szlifowaniu szyn.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ce2b9fc9-3da0-44ca-909b-f48461ab4455" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ce2b9fc9-3da0-44ca-909b-f48461ab4455" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ce2b9fc9-3da0-44ca-909b-f48461ab4455"/>
-</item>
-<item>
-<title><![CDATA[ Pożar tartaku w Skotnikach, pod Piotrkowem. Straty są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-tartaku-w-skotnikach-pod-piotrkowem-straty-sa-ogromne/W1vMiBRnne8HIgsISZY2</link>
-<guid isPermaLink="false">d7b7e21b0b4fa38c64447d1e8b0f305ab9633a14</guid>
-<pubDate>Fri, 02 Oct 2026 08:31:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/312171aa-46d2-4514-87b9-791955a252d6" alt="miniatura"/></p><p>Zgłoszenie o pożarze wpłynęło do stanowiska kierowania Komendanta Miejskiego Państwowej Straży Pożarnej w Piotrkowie Trybunalskim w czwartek, 1 października o godz. 20:46. Na miejsce wysłano strażaków zawodowych i ochotników.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/312171aa-46d2-4514-87b9-791955a252d6" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/312171aa-46d2-4514-87b9-791955a252d6" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/312171aa-46d2-4514-87b9-791955a252d6"/>
 </item>
 </channel></rss>
