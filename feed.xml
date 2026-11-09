@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 08 Nov 2026 23:47:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:05:54 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Nowa fabryka w Łódzkiem da 200 miejsc pracy. Sprawdzamy, ile zapłacą za godzinę? ]]></title>
@@ -2169,16 +2169,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -2189,14 +2179,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -2207,6 +2197,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
