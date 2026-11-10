@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 10 Nov 2026 00:19:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 08:23:27 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Zaginęła 39-letnia Anna. Policja apeluje o pomoc w poszukiwaniach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/zaginela-39-letnia-anna-policja-apeluje-o-pomoc-w-poszukiwaniach/Kz1NCOEcSr6PyIvOEAe9</link>
+<guid isPermaLink="false">f313d982a5274a2e7d3df028fec580a0878c9f41</guid>
+<pubDate>Tue, 10 Nov 2026 09:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/150d140b-c81a-4736-b7ef-1b049093086d" alt="miniatura"/></p><p>Opoczyńscy policjanci prowadzą działania mające na celu odnalezienie 39-letniej Anny Chrobak. Kobieta ma 172 cm wzrostu oraz ciemnoblond włosy sięgające ramion. Jej znakiem szczególnym są ślady po oparzeniu widoczne na lewej dłoni.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/150d140b-c81a-4736-b7ef-1b049093086d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/150d140b-c81a-4736-b7ef-1b049093086d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/150d140b-c81a-4736-b7ef-1b049093086d"/>
+</item>
+<item>
+<title><![CDATA[ Wyłączenia prądu w Łódzkiem. Lista utrudnień ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wylaczenia-pradu-w-lodzkiem-lista-utrudnien/Am1Bvq9k78ecdYQQRqde</link>
+<guid isPermaLink="false">a756f575b8cd23a5a331640e7e5ee1889fcc5aac</guid>
+<pubDate>Tue, 10 Nov 2026 09:01:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1acb721d-f3dc-4f47-8aa1-79b42b84d156" alt="miniatura"/></p><p>Numery: 56 dz. 268/9 dz. 296/3</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1acb721d-f3dc-4f47-8aa1-79b42b84d156" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1acb721d-f3dc-4f47-8aa1-79b42b84d156" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1acb721d-f3dc-4f47-8aa1-79b42b84d156"/>
+</item>
 <item>
 <title><![CDATA[ Wielki finał zawodów samochodowych w Piotrkowie. Miejsca rozeszły się w błyskawicznie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielki-final-zawodow-samochodowych-w-piotrkowie-miejsca-rozeszly-sie-w-blyskawicznie/69dOtgRmZE2pvOsgTm9J</link>
@@ -2279,16 +2299,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -2297,6 +2307,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
+</item>
+<item>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -2359,16 +2379,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
-<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
-</item>
-<item>
 <title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
 <guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
@@ -2377,6 +2387,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
+</item>
+<item>
+<title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
+<guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" alt="miniatura"/></p><p>„Prawdziwy grzybiarz nie zdradza swoich miejscówek”, to porzekadło od lat doskonale znają wszyscy miłośnicy chodzenia po lasach. Nie każdy jest jednak tak tajemniczy. Sporo osób prężnie działa na grupach na Facebooku, gdzie chwalą się swoimi zbiorami i wskazują orientacyjne rejony, w których udało się je zebrać. Najczęściej wskazówki są jednak mało dokładne. Tutaj z pomocą przychodzą eksperci.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -2723,7 +2743,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wielki finał zawodów samochodowych w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wyłączenia prądu w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3363,7 +3383,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wielki finał zawodów samochodowych w Piotrkowie.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wyłączenia prądu w powiecie piotrkowskim.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d8c92270-d02b-4628-ad54-c4a06e68a11b" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d8c92270-d02b-4628-ad54-c4a06e68a11b" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d8c92270-d02b-4628-ad54-c4a06e68a11b"/>
-</item>
-<item>
-<title><![CDATA[ Środowiskowy Dom Samopomocy w Piotrkowie z dofinansowaniem. Będzie remont i nowy sprzęt ]]></title>
-<link>https://trybunalski.pl/wiadomosci/srodowiskowy-dom-samopomocy-w-piotrkowie-z-dofinansowaniem-bedzie-remont-i-nowy-sprzet/6rOL7dwK8iO5sXI7dn66</link>
-<guid isPermaLink="false">dec327560d2452c814178f364c0ce63ed018c77d</guid>
-<pubDate>Sat, 03 Oct 2026 13:27:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b2e70bc0-466c-4dce-9011-38d37b1b59ab" alt="miniatura"/></p><p>Środowiskowy Dom Samopomocy przy ulicy Dmowskiego w Piotrkowie otrzyma 206 800 zł z łódzkiego oddziału Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych . Środki mają zostać przeznaczone na remont oraz wyposażenie placówki. Cała inwestycja ma kosztować 258 500 zł. Brakująca część zostanie pokryta z budżetu miasta.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b2e70bc0-466c-4dce-9011-38d37b1b59ab" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b2e70bc0-466c-4dce-9011-38d37b1b59ab" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b2e70bc0-466c-4dce-9011-38d37b1b59ab"/>
-</item>
-<item>
-<title><![CDATA[ Prace drogowe trwają. Kierowcy proszeni o ostrożność ]]></title>
-<link>https://trybunalski.pl/wiadomosci/prace-drogowe-trwaja-kierowcy-proszeni-o-ostroznosc/jZJG9MKvTtyuxdLpfFSF</link>
-<guid isPermaLink="false">a3762f7cf3512069e77768e02897078a5ea0e3a0</guid>
-<pubDate>Sat, 03 Oct 2026 13:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8420be50-aa05-4576-b580-eb9f8aaa4f40" alt="miniatura"/></p><p>W miejscowości Krosno trwają prace na drodze powiatowej. Obecnie prowadzone są roboty związane z układaniem warstwy asfaltowej na remontowanym odcinku . To jeden z etapów przebudowy realizowanej w tej miejscowości.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8420be50-aa05-4576-b580-eb9f8aaa4f40" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8420be50-aa05-4576-b580-eb9f8aaa4f40" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8420be50-aa05-4576-b580-eb9f8aaa4f40"/>
 </item>
 </channel></rss>
