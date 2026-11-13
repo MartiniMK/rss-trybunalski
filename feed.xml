@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Nov 2026 16:16:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:38:39 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Dramatyczny wypadek w Piotrkowie. Zderzyły się trzy pojazdy, cztery osoby ranne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczny-wypadek-w-piotrkowie-zderzyly-sie-trzy-pojazdy-cztery-osoby-ranne/zgxxXh9rCf9qhKR85I3j</link>
+<guid isPermaLink="false">d571fa8ab489e039e01838cd8f0152097ba27fe0</guid>
+<pubDate>Fri, 13 Nov 2026 20:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" alt="miniatura"/></p><p>Do zdarzenia doszło w piątek, 13 listopada, w godzinach wieczornych na ul. Rakowskiej w Piotrkowie. Na miejsce ruszyły służby, w tym łącznie pięć zespołów ratownictwa medycznego, zastępy straży pożarnej oraz policja.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd"/>
+</item>
+<item>
+<title><![CDATA[ Dramatyczny początek weekendu w regionie. Kobieta zginęła pod kołami samochodu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dramatyczny-poczatek-weekendu-w-regionie-kobieta-zginela-pod-kolami-samochodu/oddNkS78H1i0IpS5S2r8</link>
+<guid isPermaLink="false">972dfdc10afc675f2a901bbd2f46ae82b71c03a1</guid>
+<pubDate>Fri, 13 Nov 2026 20:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" alt="miniatura"/></p><p>Funkcjonariusze policji przekazali informację, że pierwsze ze zdarzeń miało miejsce około godziny 17 na ulicy Mościckiego w miejscowości Spała.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436"/>
+</item>
+<item>
+<title><![CDATA[ Poważny wypadek w powiecie piotrkowskim. Samochód potrącił rowerzystę, na miejsce ruszył LPR ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/powazny-wypadek-w-powiecie-piotrkowskim-samochod-potracil-rowerzyste-na-miejsce-ruszyl-lpr/1ULkAzgz4A4gwFqDcCbD</link>
+<guid isPermaLink="false">b707652d35937b12e64986a9e3372b56499c1c92</guid>
+<pubDate>Fri, 13 Nov 2026 17:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" alt="miniatura"/></p><p>Do wypadku doszło w piątek, 13 listopada około godziny 16:25 na 19. kilometrze drogi wojewódzkiej nr 742 w gminie Ręczno. Zderzyły się tam samochód osobowy oraz rowerzysta.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65"/>
+</item>
 <item>
 <title><![CDATA[ Wielka gwiazda na Jarmarku! Właśnie to ogłosili– pod sceną szykują się tłumy ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wielka-gwiazda-na-jarmarku-wlasnie-to-oglosili-pod-scena-szykuja-sie-tlumy/6vxqfYfNaPVLpNZfskEq</link>
@@ -2519,16 +2549,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -2537,6 +2557,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2769,16 +2799,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -2789,14 +2809,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -2807,6 +2827,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -3213,7 +3243,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Przełom na Zalewie Sulejowskim?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Dramatyczny wypadek w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3853,7 +3883,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Przełom na Zalewie Sulejowskim?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Dramatyczny wypadek w Piotrkowie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a04a8061-5744-46c1-adf8-5d97e68a399b" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a04a8061-5744-46c1-adf8-5d97e68a399b" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a04a8061-5744-46c1-adf8-5d97e68a399b"/>
-</item>
-<item>
-<title><![CDATA[ Uwaga, polowania w naszym powiecie! Sprawdź wykaz miejscowości i daty [LISTA] ]]></title>
-<link>https://trybunalski.pl/wiadomosci/uwaga-polowania-w-naszym-powiecie-sprawdz-wykaz-miejscowosci-i-daty-lista/aLucLzJbwUFz7FSaOaWV</link>
-<guid isPermaLink="false">f323e51b286227d186936a07914c812da80b1a69</guid>
-<pubDate>Thu, 08 Oct 2026 09:57:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/9c2f9926-8bbb-41d5-b7eb-6e4d661aba13" alt="miniatura"/></p><p>Wszystkie zaplanowane polowania zbiorowe będą odbywać się w godzinach od 8:00 do 15:00 . W tych terminach mieszkańcy oraz turyści powinni zachować szczególną ostrożność i powstrzymać się od wchodzenia na opisywane tereny leśne i polne .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/9c2f9926-8bbb-41d5-b7eb-6e4d661aba13" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/9c2f9926-8bbb-41d5-b7eb-6e4d661aba13" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/9c2f9926-8bbb-41d5-b7eb-6e4d661aba13"/>
-</item>
-<item>
-<title><![CDATA[ S12 coraz bliżej. Jest kolejny krok w sprawie trasy ważnej dla Sulejowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/s12-coraz-blizej-jest-kolejny-krok-w-sprawie-trasy-waznej-dla-sulejowa/Rkz7PW2lhhlzgkqHZWKw</link>
-<guid isPermaLink="false">6faf1b18f87da441c34694dfe85b907fc927b1e5</guid>
-<pubDate>Thu, 08 Oct 2026 08:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b16e6872-7b81-4a5d-b89f-e67e453e3ba9" alt="miniatura"/></p><p>Generalna Dyrekcja Dróg Krajowych i Autostrad prowadzi postępowanie dotyczące wykonania robót geologicznych oraz przygotowania dokumentacji geologiczno-inżynierskiej dla przyszłej S12 na odcinku Piotrków Trybunalski – węzeł Kozenin, do około 33,8 km trasy.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b16e6872-7b81-4a5d-b89f-e67e453e3ba9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b16e6872-7b81-4a5d-b89f-e67e453e3ba9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b16e6872-7b81-4a5d-b89f-e67e453e3ba9"/>
-</item>
-<item>
-<title><![CDATA[ LOTTO Superliga Kobiet: Gol w ostatnich sekundach przesądził o zwycięstwie Piotrcovii w Kobierzycach! ]]></title>
-<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-kobiet-gol-w-ostatnich-sekundach-przesadzil-o-zwyciestwie-piotrcovii-w-kobierzycach/4hwZyCh086DcVFuqzs31</link>
-<guid isPermaLink="false">327f334437eab855c410f7031c2983fe21b28f5d</guid>
-<pubDate>Wed, 07 Oct 2026 20:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" alt="miniatura"/></p><p>Podopieczne Horatiu Pasci do rywalizacji z „Kobierkami” przystąpiły trzeciego dnia po dwunastobramkowej porażce w Lublinie i cztery dni przed rewanżowym starciem z tym przeciwnikiem w drugiej rundzie eliminacji Ligi Europejskiej EHF. Nie tak miał wyglądać powrót na europejskie parkiety po kilkunastu latach przerwy, ale trzeba było o tym jak najszybciej zapomnieć.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/924bef28-5be7-49fb-9cf7-ecd83d9dafb0"/>
 </item>
 </channel></rss>
