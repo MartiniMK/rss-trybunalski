@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:17:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 00:15:53 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ LOTTO Superliga Kobiet: Piotrcovia zmierzyła się z mistrzem Polski! Wynik bez zaskoczenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-kobiet-piotrcovia-zmierzyla-sie-z-mistrzem-polski-wynik-bez-zaskoczenia/YatPjKkPEbFOamiTpQvH</link>
+<guid isPermaLink="false">f02490827aa57e64cc1134e234fe31f48d7a6218</guid>
+<pubDate>Thu, 12 Nov 2026 20:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" alt="miniatura"/></p><p>Czwartkowy pojedynek podopiecznych trenera Horatiu Pasci z „Miedziowymi” był nie tylko starciem brązowych medalistek poprzedniego sezonu z drużyną mistrza Polski, która dzierży ten tytuł nieprzerwanie od 2021 roku, ale również starciem drugiego i trzeciego zespołu w tabeli bieżącego sezonu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5"/>
+</item>
 <item>
 <title><![CDATA[ NBP puszcza nowe 50 zł w obieg. Nie będzie już na nich Kazimierza Wielkiego ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nbp-puszcza-nowe-50-zl-w-obieg-nie-bedzie-juz-na-nich-kazimierza-wielkiego/XTNsrqNqtgFMzvVBw4tb</link>
@@ -149,16 +159,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
-<guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" alt="miniatura"/></p><p>Czajnik elektryczny działa bardzo krótko, ale w trakcie podgrzewania wody pobiera dużą moc. Dzienny pobór energii na poziomie 0,6 kWh kosztuje około 62 groszy . W skali roku przekłada się to na wydatek blisko 228 zł . Ostateczne koszty wynikają z wybranego modelu, sposobu eksploatacji sprzętu oraz obowiązującej ceny prądu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
-</item>
-<item>
 <title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
 <guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
@@ -167,6 +167,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
+</item>
+<item>
+<title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
+<guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" alt="miniatura"/></p><p>Czajnik elektryczny działa bardzo krótko, ale w trakcie podgrzewania wody pobiera dużą moc. Dzienny pobór energii na poziomie 0,6 kWh kosztuje około 62 groszy . W skali roku przekłada się to na wydatek blisko 228 zł . Ostateczne koszty wynikają z wybranego modelu, sposobu eksploatacji sprzętu oraz obowiązującej ceny prądu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -1839,16 +1849,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -1857,6 +1857,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -2639,16 +2649,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -2657,6 +2657,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
+</item>
+<item>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -3083,7 +3093,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>NBP puszcza nowe 50 zł w obieg.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Piotrcovia zmierzyła się z mistrzem Polski!</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3723,7 +3733,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>NBP puszcza nowe 50 zł w obieg.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Piotrcovia zmierzyła się z mistrzem Polski!</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/e023e6cf-872d-40e6-afe3-678fa83a9d22" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/e023e6cf-872d-40e6-afe3-678fa83a9d22" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/e023e6cf-872d-40e6-afe3-678fa83a9d22"/>
-</item>
-<item>
-<title><![CDATA[ Pożar w lesie pod Piotrkowem. Interweniowali strażacy ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/pozar-w-lesie-pod-piotrkowem-interweniowali-strazacy/PhkKsCkcZENrq7edvnCW</link>
-<guid isPermaLink="false">32cc9a6121b41c9d456cc7b6b35ecc2e6edd8837</guid>
-<pubDate>Tue, 06 Oct 2026 15:35:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/36e13000-4a67-49d3-8856-20e74258b72f" alt="miniatura"/></p><p>Zgłoszenie o pożarze wpłynęło do służb we wtorek, 6 października o godzinie 10:16. Ogień pojawił się w lesie w miejscowości Kozierogi.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/36e13000-4a67-49d3-8856-20e74258b72f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/36e13000-4a67-49d3-8856-20e74258b72f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/36e13000-4a67-49d3-8856-20e74258b72f"/>
 </item>
 </channel></rss>
