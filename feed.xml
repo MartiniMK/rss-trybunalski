@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 14 Nov 2026 17:07:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 21:32:01 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Służby w gotowości i apel do mieszkańców. Stopnie alarmowe w woj. łódzkim na minimum 2 tygodnie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sluzby-w-gotowosci-i-apel-do-mieszkancow-stopnie-alarmowe-w-woj-lodzkim-na-minimum-2-tygodnie/s5HF8r3XHojLDV8nJTco</link>
+<guid isPermaLink="false">cb08e3d6cab1e660dad8cd774f9c536d743ea9f0</guid>
+<pubDate>Sat, 14 Nov 2026 18:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3e3fd3ce-89ee-492c-9408-a252d8094349" alt="miniatura"/></p><p>W przypadku zauważenia w miejscu publicznym bezpańskiego plecaka, porzuconej torby lub pakunku, a także osób zachowujących się w podejrzany sposób, należy niezwłocznie poinformować odpowiednie służby, dzwoniąc pod numer alarmowy 112 . Do 30 listopada na terenie całego kraju obowiązują podwyższone środki ostrożności.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3e3fd3ce-89ee-492c-9408-a252d8094349" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3e3fd3ce-89ee-492c-9408-a252d8094349" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3e3fd3ce-89ee-492c-9408-a252d8094349"/>
+</item>
 <item>
 <title><![CDATA[ 800 plus za wychowanie dorosłych dzieci. Zapadła decyzja w sprawie pieniędzy dla seniorów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/800-plus-za-wychowanie-doroslych-dzieci-zapadla-decyzja-w-sprawie-pieniedzy-dla-seniorow/WrQXDQjA2rua5esH5hz0</link>
@@ -1279,16 +1289,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
-<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
-</item>
-<item>
 <title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
 <guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
@@ -1297,6 +1297,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
+<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -2049,16 +2059,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -2067,6 +2067,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -2869,16 +2879,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
-</item>
-<item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
 <guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
@@ -2887,6 +2887,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -2929,16 +2939,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
-<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
-</item>
-<item>
 <title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
 <guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
@@ -2947,6 +2947,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
+</item>
+<item>
+<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
+<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
@@ -3293,7 +3303,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wychowali dzieci bez 500 plus, teraz chcieli rekompensaty. Jest decyzja</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Drugi i trzeci stopień alarmowy w woj. łódzkim nadal obowiązują.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3933,7 +3943,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wychowali dzieci bez 500 plus, teraz chcieli rekompensaty. Jest decyzja</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Drugi i trzeci stopień alarmowy w woj. łódzkim nadal obowiązują.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/2dac47ac-62fc-4f50-884e-d6bc27a3e771" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/2dac47ac-62fc-4f50-884e-d6bc27a3e771" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/2dac47ac-62fc-4f50-884e-d6bc27a3e771"/>
-</item>
-<item>
-<title><![CDATA[ Chodzi o życie i zdrowie mieszkańców. Strażacy ostrzegają Piotrkowian ]]></title>
-<link>https://trybunalski.pl/wiadomosci/chodzi-o-zycie-i-zdrowie-mieszkancow-strazacy-ostrzegaja-piotrkowian/WLBTuJqBZBSuAZW3nDIf</link>
-<guid isPermaLink="false">95966b193a1cbf2b98fb9041c31c2a8f0f4cadaa</guid>
-<pubDate>Thu, 08 Oct 2026 12:05:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b93ee60d-b257-4932-a1c7-c5494de5d9c3" alt="miniatura"/></p><p>Tlenek węgla wraz z nadejściem chłodniejszych dni znów staje się ogromnym zagrożeniem w naszych domach i mieszkaniach. Aby zapobiec tragediom i uświadomić mieszkańców o powadze problemu, Komenda Miejska Państwowej Straży Pożarnej w Piotrkowie Trybunalskim organizuje specjalne wydarzenie w ramach akcji „Czad i Ogień. Obudź czujność – 2026”.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b93ee60d-b257-4932-a1c7-c5494de5d9c3" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b93ee60d-b257-4932-a1c7-c5494de5d9c3" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b93ee60d-b257-4932-a1c7-c5494de5d9c3"/>
 </item>
 </channel></rss>
