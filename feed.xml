@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 15 Nov 2026 17:07:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 21:49:26 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ NBP wypuszcza nowe 10zł. Nie będzie już na nich Mieszka I ]]></title>
@@ -389,16 +389,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
-<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
-</item>
-<item>
 <title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
 <guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
@@ -407,6 +397,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
+</item>
+<item>
+<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
+<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -2079,16 +2079,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
-<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
-</item>
-<item>
 <title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
 <guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
@@ -2097,6 +2087,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
+</item>
+<item>
+<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
+<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
