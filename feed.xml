@@ -6,17 +6,27 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Mon, 16 Nov 2026 01:58:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 09:36:54 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
-<title><![CDATA[ NBP wypuszcza nowe 10zł. Nie będzie już na nich Mieszka I ]]></title>
-<link>https://trybunalski.pl/wiadomosci/nbp-wypuszcza-nowe-10zl-nie-bedzie-juz-na-nich-mieszka-i/x249PZi5PJIG9A86tVSb</link>
-<guid isPermaLink="false">024594a8ba78b4e0cbfb640696d91ac30fc8480e</guid>
-<pubDate>Sun, 15 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0bc6da0a-af22-42bb-b3f3-896f97fc3050" alt="miniatura"/></p><p>Nową monetę kolekcjonerską o nominale 10 zł można kupić w cenie 350 zł w oficjalnym sklepie internetowym Kolekcjoner NBP oraz we wszystkich oddziałach okręgowych Narodowego Banku Polskiego. Dystrybucja rozpoczęła się 28 października 2026 roku . Jak podaje portal eZdunska.pl , ta emisja została przygotowana z myślą o zbieraczach oraz miłośnikach historii, a nie do zastąpienia używanych na co dzień…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0bc6da0a-af22-42bb-b3f3-896f97fc3050" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0bc6da0a-af22-42bb-b3f3-896f97fc3050" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0bc6da0a-af22-42bb-b3f3-896f97fc3050"/>
+<title><![CDATA[ Wrócili do tradycji sprzed lat, o której wielu już zapomniało. Tak wyglądało spotkanie w naszym powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wrocili-do-tradycji-sprzed-lat-o-ktorej-wielu-juz-zapomnialo-tak-wygladalo-spotkanie-w-naszym-powiecie/rJVE5s0iXhCnozDyCh0B</link>
+<guid isPermaLink="false">958134b8d1e675fced6c5411e7372c4a27f9eb64</guid>
+<pubDate>Mon, 16 Nov 2026 10:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" alt="miniatura"/></p><p>14 listopada 2026 roku w Żarnowicy, w gminie Wolbórz, odbyło się tradycyjne darcie pierza . Spotkanie przygotowały członkinie Koła Gospodyń Wiejskich w Żarnowicy, któremu przewodniczy Kamila Szost.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b"/>
+</item>
+<item>
+<title><![CDATA[ Czy ZUS bezprawnie pomniejszył wypłaty seniorom? Wyrok otwiera nową drogę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-zus-bezprawnie-pomniejszyl-wyplaty-seniorom-wyrok-otwiera-nowa-droge/I2xL7ctTAFPlQZFzyitt</link>
+<guid isPermaLink="false">34b0c7806610a50db08fd73479c4b46133a4dcdc</guid>
+<pubDate>Mon, 16 Nov 2026 09:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" alt="miniatura"/></p><p>Spór prawny z Zakładem Ubezpieczeń Społecznych ciągnął się przez 18 lat w przypadku 74-letniego emerytowanego górnika z Jaworzna . Mężczyzna przepracował wiele lat w zawodzie górnika na terenie Polski, po czym przez kolejne 25 lat wykonywał tę samą pracę na Węgrzech. Starania o przyznanie emerytury górniczej podjął w 2007 roku , jednak w następnych latach napotkał poważne trudności przy ustalaniu…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7"/>
 </item>
 <item>
 <title><![CDATA[ Zamontują kamery i wagi. Nowy system sprawdzi mieszkańców ]]></title>
@@ -389,16 +399,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
-<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
-</item>
-<item>
 <title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
 <guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
@@ -407,6 +407,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
+</item>
+<item>
+<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
+<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -2629,16 +2639,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -2647,6 +2647,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -2879,16 +2889,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -2899,14 +2899,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
@@ -2917,6 +2917,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -3323,7 +3333,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>NBP puszcza nowe 10zł w obieg.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Wrócili do tradycji sprzed lat, o której wielu już zapomniało.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3963,7 +3973,7 @@
 <link>https://trybunalski.pl/wiadomosci/internetowy-challenge-i-krwawy-piatek-w-szkolach-policja-wydala-pilny-komunikat/dqVmdyCkzkPIYukqenOT</link>
 <guid isPermaLink="false">81d6bffed625745b285eca99e4301b2e4261f010</guid>
 <pubDate>Fri, 09 Oct 2026 08:59:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>NBP puszcza nowe 10zł w obieg.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" alt="miniatura"/></p><p>Wrócili do tradycji sprzed lat, o której wielu już zapomniało.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/85e0c5aa-525e-4c19-aab5-54543c150ce4"/>
@@ -3997,15 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5ccb4e9f-94db-4df4-bdf3-620922e818b5" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5ccb4e9f-94db-4df4-bdf3-620922e818b5" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5ccb4e9f-94db-4df4-bdf3-620922e818b5"/>
-</item>
-<item>
-<title><![CDATA[ Śmieciowa rewolucja w mieście. Będą kamery i wagi na śmieciarkach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/smieciowa-rewolucja-w-miescie-beda-kamery-i-wagi-na-smieciarkach/APviUBU8v7oCSs2pIKHo</link>
-<guid isPermaLink="false">81f1c7e22604a69f105ae22e0a2c2a751f8e8409</guid>
-<pubDate>Thu, 08 Oct 2026 15:24:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8f6260fc-9940-4ad4-806d-df0dbcfbcb2a" alt="miniatura"/></p><p>Według zapowiedzi system gospodarki odpadami w Piotrkowie Trybunalskim przejdzie sporą rewolucję. Urząd Miasta ogłosił przetarg na odbiór i zagospodarowanie śmieci od mieszkańców na kolejne trzy lata. Wśród wymogów znalazły się m.in. wagi i monitoring. O rosnących kosztach i planach na przyszłość mówiła podczas wrześniowej sesji rady miasta wiceprezydentka Katarzyna Pabich-Gaj.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8f6260fc-9940-4ad4-806d-df0dbcfbcb2a" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8f6260fc-9940-4ad4-806d-df0dbcfbcb2a" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8f6260fc-9940-4ad4-806d-df0dbcfbcb2a"/>
 </item>
 </channel></rss>
