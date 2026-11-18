@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 17 Nov 2026 22:19:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 04:19:40 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Narodowy Bank Polski puszcza nowe 10 zł w obieg. Tym razem bez Mieszka I ]]></title>
@@ -3209,16 +3209,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/377a9a8a-a6b1-4cad-8a45-63ef09f7f2d5"/>
 </item>
 <item>
-<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
-<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
-<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
-</item>
-<item>
 <title><![CDATA[ Gdzie na rydze w naszym powiecie i regionie? Stworzono specjalną mapę ]]></title>
 <link>https://trybunalski.pl/wiadomosci/gdzie-na-rydze-w-naszym-powiecie-i-regionie-stworzono-specjalna-mape/Y9qNjyk4nED9Lew7kZmD</link>
 <guid isPermaLink="false">a259cbce28f1921731e9e9000e2ba8d2d5de9f78</guid>
@@ -3227,6 +3217,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/68fc98b9-03d7-42ca-a4b6-bddbe316f09e"/>
+</item>
+<item>
+<title><![CDATA[ Dobra wiadomość dla pasażerów z woj. łódzkiego. Od grudnia więcej pociągów do Zakopanego, Katowic i Krakowa ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dobra-wiadomosc-dla-pasazerow-z-woj-lodzkiego-od-grudnia-wiecej-pociagow-do-zakopanego-katowic-i-krakowa/AT2JLZ3Yq7fhSpVbNqTr</link>
+<guid isPermaLink="false">a54f545e56ac110db02a5b76420a15539a905e53</guid>
+<pubDate>Mon, 19 Oct 2026 12:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" alt="miniatura"/></p><p>PKP Intercity poinformowało o nowym rozkładzie, który zacznie obowiązywać od 13 grudnia. Sprawdziliśmy, co dokładnie przygotował przewoźnik i jak nowe połączenia wpłyną na codzienne oraz weekendowe podróże m.in. z piotrkowskiego dworca.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/662961b6-7871-4489-8675-c78408b03266"/>
 </item>
 <item>
 <title><![CDATA[ Będą wyłączać prąd w woj. łódzkim. Podali listę miejscowości i daty ]]></title>
