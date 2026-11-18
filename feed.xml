@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Nov 2026 13:59:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 22:00:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W Łodzi się udało, a u nas nie. Manufaktura przy Sulejowskiej bez pomysłu [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/w-lodzi-sie-udalo-a-u-nas-nie-manufaktura-przy-sulejowskiej-bez-pomyslu-zdjecia/7xOX1PrGs9GtsgFqVYrD</link>
+<guid isPermaLink="false">04a9b8803d3c23186c195bb69b5f14082dc18c93</guid>
+<pubDate>Wed, 18 Nov 2026 22:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" alt="miniatura"/></p><p>Budynek przy ul. Sulejowskiej w Piotrkowie Trybunalskim na pierwszy rzut oka przypomina zabudowania słynnej łódzkiej Manufaktury. Centrum handlowe w Łodzi powstało w pofabrycznych zabudowaniach, ale w Piotrkowie to samo się nie udało. Obiekt Piotrkowskiej Manufaktury nadal czeka na swoją szansę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd"/>
+</item>
+<item>
+<title><![CDATA[ Ogłosili nową listę ogromnych przecen w Dino. Zaczynają już od jutra ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oglosili-nowa-liste-ogromnych-przecen-w-dino-zaczynaja-juz-od-jutra/SYxvAdpg0C3dPlLAJFny</link>
+<guid isPermaLink="false">4115fd6b4399f197c0bc19afa1d0fba0466fe802</guid>
+<pubDate>Wed, 18 Nov 2026 21:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" alt="miniatura"/></p><p>Osoby uzupełniające domowe zapasy w marketach sieci Dino od 18 listopada 2026 roku zapłacą mniej za podstawowe artykuły spożywcze z działu nabiałowego. Oferta ta obowiązuje we wszystkich sklepach do 24 listopada 2026 roku.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8"/>
+</item>
+<item>
+<title><![CDATA[ Nowa jakość mieszkań w Piotrkowie. Trwają prace ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-jakosc-mieszkan-w-piotrkowie-trwaja-prace/JjyVGk5Ll4PIKqyijnwZ</link>
+<guid isPermaLink="false">c88f3e435bae8799649d160067d142d2fb8ab926</guid>
+<pubDate>Wed, 18 Nov 2026 18:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" alt="miniatura"/></p><p>Prace obejmują budynki przy ul. Cisowej 25 i 25a. Łączna kwota przyznanego wsparcia wynosi 1 192 515 zł, z czego 834 759 zł stanowi dotacja, a pozostałe 357 756 zł to preferencyjne pożyczki. Decyzję o przyznaniu środków zarząd WFOŚiGW w Łodzi podjął 12 listopada.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51"/>
+</item>
 <item>
 <title><![CDATA[ Nowa magistrala wodociągowa w Sulejowie. Ma ograniczyć uciążliwe awarie ]]></title>
 <link>https://trybunalski.pl/wiadomosci/nowa-magistrala-wodociagowa-w-sulejowie-ma-ograniczyc-uciazliwe-awarie/FIUHzYSOHy2f1UcL1PO2</link>
@@ -33,7 +63,7 @@
 <link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
 <guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
 <pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Popularny napój dla dzieci pod lupą UOKiK. Znany producent usłyszał zarzuty</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>W Łodzi się udało w Piotrkowie nie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
@@ -1599,16 +1629,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
-<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
-</item>
-<item>
 <title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
 <guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
@@ -1617,6 +1637,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
+<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -2369,16 +2399,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -2387,6 +2407,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -3189,16 +3219,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
-</item>
-<item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
 <guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
@@ -3207,6 +3227,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -3613,7 +3643,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Popularny napój dla dzieci pod lupą UOKiK. Znany producent usłyszał zarzuty</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>W Łodzi się udało w Piotrkowie nie.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3977,35 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c1be7d77-2aca-4181-a792-cc9686a5836c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c1be7d77-2aca-4181-a792-cc9686a5836c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c1be7d77-2aca-4181-a792-cc9686a5836c"/>
-</item>
-<item>
-<title><![CDATA[ Jest w wielu domach a zżera prądu tyle co ponad 60 lodówek ]]></title>
-<link>https://trybunalski.pl/wiadomosci/jest-w-wielu-domach-a-zzera-pradu-tyle-co-ponad-60-lodowek/lgIpECiEIqHoAkubdN38</link>
-<guid isPermaLink="false">9a251f7199b54facc4cc56808effcf2b8b2acd34</guid>
-<pubDate>Sun, 11 Oct 2026 13:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e2f6d608-a7dd-4df6-80a4-7cd21848dba1" alt="miniatura"/></p><p>Wysokość rachunków za energię zależy nie tylko od liczby urządzeń elektrycznych, ale przede wszystkim od ich mocy i czasu użytkowania. Niektóre sprzęty działają przez całą dobę, inne włączamy zaledwie na kilkanaście minut. Nie oznacza to jednak, że te drugie zawsze są tańsze w eksploatacji. Dobrym przykładem jest lodówka. Choć pozostaje podłączona do prądu przez 24 godziny na dobę, jej sprężarka p…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e2f6d608-a7dd-4df6-80a4-7cd21848dba1" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e2f6d608-a7dd-4df6-80a4-7cd21848dba1" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e2f6d608-a7dd-4df6-80a4-7cd21848dba1"/>
-</item>
-<item>
-<title><![CDATA[ Zderzenie dwóch samochodów pod Piotrkowem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/zderzenie-dwoch-samochodow-pod-piotrkowem/s1kA9uHuHGNQT7VDXjZl</link>
-<guid isPermaLink="false">30adb4697c9df474977cdc3590851db8e6441fa1</guid>
-<pubDate>Sun, 11 Oct 2026 11:49:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/d54b5223-30a8-474b-acca-e62996bda9eb" alt="miniatura"/></p><p>Do zdarzenia doszło w sobotę, 10 października na skrzyżowaniu w miejscowości Polichno w powiecie piotrkowskim. Uczestniczyły w nim Renault oraz Audi.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d54b5223-30a8-474b-acca-e62996bda9eb" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d54b5223-30a8-474b-acca-e62996bda9eb" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d54b5223-30a8-474b-acca-e62996bda9eb"/>
-</item>
-<item>
-<title><![CDATA[ W Piotrkowie grasuje złodziej. Policja publikuje wizerunek mężczyzny ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/w-piotrkowie-grasuje-zlodziej-policja-publikuje-wizerunek-mezczyzny/luGbIBVm05uP4eP8Jl3A</link>
-<guid isPermaLink="false">e2edc64390a461fea54c17e4d047320ea2ffd620</guid>
-<pubDate>Sun, 11 Oct 2026 11:44:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4d148cc7-979d-476f-99af-435151032750" alt="miniatura"/></p><p>Funkcjonariusze Wydziału Dochodzeniowo-Śledczego Komendy Miejskiej Policji w Piotrkowie Trybunalskim prowadzą postępowanie dotyczące kradzieży, do której doszło 27 czerwca 2026 roku. Zdarzenie miało miejsce w jednym ze sklepów znajdujących się w galerii handlowej w Piotrkowie.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4d148cc7-979d-476f-99af-435151032750" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4d148cc7-979d-476f-99af-435151032750" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4d148cc7-979d-476f-99af-435151032750"/>
 </item>
 </channel></rss>
