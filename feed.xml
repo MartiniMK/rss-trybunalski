@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Nov 2026 21:38:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 03:08:37 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ Miasto rozwodników i singli? Piotrków Trybunalski przoduje w statystykach ]]></title>
@@ -49,6 +49,36 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5bb7a427-a4e8-4aab-9b21-e65870ede52e"/>
 </item>
 <item>
+<title><![CDATA[ Szukają statystów w Łódzkiem. Ile można zarobić w najnowszej produkcji Jana Holoubka ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szukaja-statystow-w-lodzkiem-ile-mozna-zarobic-w-najnowszej-produkcji-jana-holoubka/Ukb3SK1OicRFoy4V6FYL</link>
+<guid isPermaLink="false">0f54505f018530270c33636a0f6cb63c65a66e77</guid>
+<pubDate>Thu, 19 Nov 2026 13:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/cf6b43ef-117c-4b52-aba4-c61182521de5" alt="miniatura"/></p><p>Ruszyły poszukiwania statystów z Łodzi i okolic do nowego serialu fabularnego „Skóry” w reżyserii Jana Holoubka oraz Kaspra Bajona. Agencja MKM Studio zaprasza kobiety i mężczyzn do udziału w największej scenie całej produkcji, którą będzie szalony koncert rockowy. Sprawdź, jak się zgłosić i ile można zrobić.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/cf6b43ef-117c-4b52-aba4-c61182521de5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/cf6b43ef-117c-4b52-aba4-c61182521de5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/cf6b43ef-117c-4b52-aba4-c61182521de5"/>
+</item>
+<item>
+<title><![CDATA[ Świąteczny hit już jest w Action. W tym roku za niecałe 18 zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swiateczny-hit-juz-jest-w-action-w-tym-roku-za-niecale-18-zl/fL8w1P7TYlTvswHSDiAW</link>
+<guid isPermaLink="false">092ce5c9a635391934cfea4085432bd2d3a48d7e</guid>
+<pubDate>Thu, 19 Nov 2026 12:50:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/edb0432d-e1b7-43f0-9c7e-35afbe8f47cc" alt="miniatura"/></p><p>Przygotowania do Bożego Narodzenia to nie tylko kupowanie prezentów i planowanie świątecznego menu. Wiele osób szuka również dekoracji, które wprowadzą do mieszkania odpowiedni nastrój.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/edb0432d-e1b7-43f0-9c7e-35afbe8f47cc" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/edb0432d-e1b7-43f0-9c7e-35afbe8f47cc" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/edb0432d-e1b7-43f0-9c7e-35afbe8f47cc"/>
+</item>
+<item>
+<title><![CDATA[ Piesi w Piotrkowie będą lepiej widoczni po zmroku. Sprawdź, na których ulicach staną nowe lampy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piesi-w-piotrkowie-beda-lepiej-widoczni-po-zmroku-sprawdz-na-ktorych-ulicach-stana-nowe-lampy/eP4SHnyqz90csD94oMMx</link>
+<guid isPermaLink="false">f84b17e37824ca8869c341d20dbaed899bcc779a</guid>
+<pubDate>Thu, 19 Nov 2026 12:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3ff182b0-3c66-4a38-8a4c-3a7c5ee275af" alt="miniatura"/></p><p>W Piotrkowie Trybunalskim prace nad doświetleniem przejścia prowadzone są przy ulicy Dmowskiego. Wcześniej dodatkowe oświetlenie zamontowano przy cmentarzu oraz na ulicach Spacerowej, Granicznej i Jerozolimskiej.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3ff182b0-3c66-4a38-8a4c-3a7c5ee275af" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3ff182b0-3c66-4a38-8a4c-3a7c5ee275af" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3ff182b0-3c66-4a38-8a4c-3a7c5ee275af"/>
+</item>
+<item>
 <title><![CDATA[ Praca w miejskiej spółce w Piotrkowie. Jakie stawiają wymagania? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/praca-w-miejskiej-spolce-w-piotrkowie-jakie-stawiaja-wymagania/9Plb4uGtv7jXZKjdurFM</link>
 <guid isPermaLink="false">0a1375be248dea3545f0b7f2e6a4ab1894ca5dbf</guid>
@@ -57,6 +87,726 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ec168736-bd0c-4fa6-9279-9e726e9a4fba" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ec168736-bd0c-4fa6-9279-9e726e9a4fba" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ec168736-bd0c-4fa6-9279-9e726e9a4fba"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska prokuratura nadzoruje głośne śledztwo. Zatrzymania po akcji „INFERNO” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-prokuratura-nadzoruje-glosne-sledztwo-zatrzymania-po-akcji-inferno/TsvSU2ieDDv9YSVljGOb</link>
+<guid isPermaLink="false">c8580349a0c4de93078ac9ee388da90e658ae0f9</guid>
+<pubDate>Thu, 19 Nov 2026 11:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7559af10-75ec-4994-8f39-3f4ec022e1d5" alt="miniatura"/></p><p>Prokuratura Okręgowa w Piotrkowie Trybunalskim nadzoruje sprawę dotyczącą posiadania oraz udostępniania w sieci materiałów pornograficznych z udziałem dzieci. Zebranie dowodów i namierzenie podejrzanych powierzono policjantom z radomskiego zarządu Centralnego Biura Zwalczania Cyberprzestępczości. Efektem są kolejne zatrzymania po ogólnopolskiej akcji „INFERNO”.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7559af10-75ec-4994-8f39-3f4ec022e1d5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7559af10-75ec-4994-8f39-3f4ec022e1d5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7559af10-75ec-4994-8f39-3f4ec022e1d5"/>
+</item>
+<item>
+<title><![CDATA[ Ciężarówka uderzyła w bariery na A1. Ogromne utrudnienia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/ciezarowka-uderzyla-w-bariery-na-a1-ogromne-utrudnienia/znM24EdJRWI00KFmOQ6o</link>
+<guid isPermaLink="false">b9cac64393656493169d2f186796e9d9741f0f59</guid>
+<pubDate>Thu, 19 Nov 2026 10:51:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/55153405-7427-40aa-8595-9c5bcdabd209" alt="miniatura"/></p><p>Do zdarzenia doszło na wysokości około 350. kilometra autostrady A1, w rejonie miejscowości Twardosławice, na jezdni w kierunku Łodzi.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/55153405-7427-40aa-8595-9c5bcdabd209" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/55153405-7427-40aa-8595-9c5bcdabd209" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/55153405-7427-40aa-8595-9c5bcdabd209"/>
+</item>
+<item>
+<title><![CDATA[ Odeszli w ostatnim czasie. Pogrzeby w Piotrkowie [NEKROLOGI] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/odeszli-w-ostatnim-czasie-pogrzeby-w-piotrkowie-nekrologi/PpYx5SJ8LhZDFpHkw4Ko</link>
+<guid isPermaLink="false">a0eec9ed6a337cc7f4d45a3ed79fe919ed8aba8a</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/73b7a49c-b640-4e05-bcfd-eff22c564419" alt="miniatura"/></p><p>Msza święta żałobna oraz uroczystości pogrzebowe odbędą się 19 listopada 2026 roku o godz. 12:30 w kaplicy cmentarnej w Piotrkowie Trybunalskim.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/73b7a49c-b640-4e05-bcfd-eff22c564419" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/73b7a49c-b640-4e05-bcfd-eff22c564419" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/73b7a49c-b640-4e05-bcfd-eff22c564419"/>
+</item>
+<item>
+<title><![CDATA[ Tragiczny wypadek w Łódzkiem. Volkswagen uderzył w drzewo, nie żyje mężczyzna ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/tragiczny-wypadek-w-lodzkiem-volkswagen-uderzyl-w-drzewo-nie-zyje-mezczyzna/AItRXWzWKsWyuhgcK1Y2</link>
+<guid isPermaLink="false">93e4877482374084f0748e6bb7396e36a36dee2a</guid>
+<pubDate>Thu, 19 Nov 2026 10:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/93b001ad-45b3-4702-80f4-08e62baeb152" alt="miniatura"/></p><p>Do zdarzenia doszło około godziny 13:30 w miejscowości Soczówki w gminie Żarnów, w powiecie opoczyńskim. Zgłoszenie o wypadku wpłynęło do straży pożarnej, a na miejsce skierowano służby ratunkowe.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/93b001ad-45b3-4702-80f4-08e62baeb152" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/93b001ad-45b3-4702-80f4-08e62baeb152" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/93b001ad-45b3-4702-80f4-08e62baeb152"/>
+</item>
+<item>
+<title><![CDATA[ Zielona woda i walka z awarią w Piotrkowie. Są nowe informacje dla mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zielona-woda-i-walka-z-awaria-w-piotrkowie-sa-nowe-informacje-dla-mieszkancow/VQb5l8hk6BhBsF3XTbdO</link>
+<guid isPermaLink="false">ff24eea961d1ec3977f25f9895d5904fa6e8bd9e</guid>
+<pubDate>Thu, 19 Nov 2026 10:19:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2b815119-130f-4907-a16b-4fe3412f6f4a" alt="miniatura"/></p><p>W środę, 18 listopada, o godzinie 8:00 rano Elektrociepłownia wstrzymała dostawy ciepła oraz ciepłej wody użytkowej w budynkach mieszkalnych i usługowych przy ulicach Tuwima, Gałczyńskiego, Nałkowskiej, Kostromskiej oraz Energetyków (chodzi o węzły cieplne zasilane z komory K-6). Powodem była kolejna już w tym roku awaria sieci w rejonie ul. Dmowskiego 37, na terenie Bazaru Piotrków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2b815119-130f-4907-a16b-4fe3412f6f4a" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2b815119-130f-4907-a16b-4fe3412f6f4a" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2b815119-130f-4907-a16b-4fe3412f6f4a"/>
+</item>
+<item>
+<title><![CDATA[ Dramatyczne zdarzenie w pustostanie w Piotrkowie. Na pomoc ruszyły służby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczne-zdarzenie-w-pustostanie-w-piotrkowie-na-pomoc-ruszyly-sluzby/KHmUlVt57MxM17EDYIZw</link>
+<guid isPermaLink="false">e2d846f959ec6b7d66c58a0bd9e25cda8727fe53</guid>
+<pubDate>Thu, 19 Nov 2026 10:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/02a8c2d8-a653-4fcf-8d53-036d4166bda7" alt="miniatura"/></p><p>Do zdarzenia doszło w środę, 18 listopada. Funkcjonariusze V Kompanii Oddziału Prewencji Policji w Łodzi, pełniący służbę na terenie Piotrkowa Trybunalskiego, sprawdzali miejsca, w których mogą przebywać osoby w kryzysie bezdomności.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/02a8c2d8-a653-4fcf-8d53-036d4166bda7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/02a8c2d8-a653-4fcf-8d53-036d4166bda7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/02a8c2d8-a653-4fcf-8d53-036d4166bda7"/>
+</item>
+<item>
+<title><![CDATA[ Awaria wodociągu w Sulejowie. Mieszkańcy bez wody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/awaria-wodociagu-w-sulejowie-mieszkancy-bez-wody/saQk7fQHaWC6FkCzRp6x</link>
+<guid isPermaLink="false">0b3a2829715ae3d87b172771c4f3dc99850b64aa</guid>
+<pubDate>Thu, 19 Nov 2026 10:06:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/d1f157a1-d053-4018-a913-48903e0306eb" alt="miniatura"/></p><p>Jak poinformował Urząd Miejski w Sulejowie, pracownicy Miejskiego Zarządu Komunalnego prowadzą prace związane z usuwaniem awarii magistrali wodociągowej w obrębie ulicy Koneckiej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d1f157a1-d053-4018-a913-48903e0306eb" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d1f157a1-d053-4018-a913-48903e0306eb" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d1f157a1-d053-4018-a913-48903e0306eb"/>
+</item>
+<item>
+<title><![CDATA[ Ważny dzień dla najmłodszych! Pierwszoklasiści w Piotrkowie złożyli uroczyste ślubowanie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wazny-dzien-dla-najmlodszych-pierwszoklasisci-w-piotrkowie-zlozyli-uroczyste-slubowanie/hDhzmlMjmSgnmpP8vTmV</link>
+<guid isPermaLink="false">d95a0e38077b67662896cec5ec4e93d7ae573ba0</guid>
+<pubDate>Thu, 19 Nov 2026 09:29:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/983a5811-4e0a-4829-8509-edc8bc37b7d2" alt="miniatura"/></p><p>W środę 18 listopada ponad 30 dzieci z dwóch pierwszych klas Szkoły Podstawowej nr 8 im. Emilii Plater w Piotrkowie Trybunalskim złożyło uroczyste ślubowanie . Przyrzekły być dobrymi uczniami i dbać o dobre imię szkoły, a dyrektorka Monika Merk pasowała je na uczniów. Wcześniej pierwszoklasiści śpiewali i recytowali wiersze przed publicznością.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/983a5811-4e0a-4829-8509-edc8bc37b7d2" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/983a5811-4e0a-4829-8509-edc8bc37b7d2" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/983a5811-4e0a-4829-8509-edc8bc37b7d2"/>
+</item>
+<item>
+<title><![CDATA[ Uwaga kierowcy, będą zabierać prawo jazdy. Nowe prawo wchodzi już 21 listopada ]]></title>
+<link>https://trybunalski.pl/wiadomosci/uwaga-kierowcy-beda-zabierac-prawo-jazdy-nowe-prawo-wchodzi-juz-21-listopada/iE0SHHcbfN7kOOzibYc1</link>
+<guid isPermaLink="false">0c0175d563c49b7d1d6056d1575cf55b6a296c32</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/24842c45-5df7-451d-96e9-ea6138f8baed" alt="miniatura"/></p><p>Od soboty, 21 listopada 2026 roku, zaczną obowiązywać przepisy zaostrzające kary za wykroczenia popełniane na przejazdach kolejowych.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/24842c45-5df7-451d-96e9-ea6138f8baed" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/24842c45-5df7-451d-96e9-ea6138f8baed" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/24842c45-5df7-451d-96e9-ea6138f8baed"/>
+</item>
+<item>
+<title><![CDATA[ W Łodzi się udało, a u nas nie. Manufaktura przy Sulejowskiej bez pomysłu [ZDJĘCIA] ]]></title>
+<link>https://trybunalski.pl/wiadomosci/historia/w-lodzi-sie-udalo-a-u-nas-nie-manufaktura-przy-sulejowskiej-bez-pomyslu-zdjecia/7xOX1PrGs9GtsgFqVYrD</link>
+<guid isPermaLink="false">04a9b8803d3c23186c195bb69b5f14082dc18c93</guid>
+<pubDate>Wed, 18 Nov 2026 22:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" alt="miniatura"/></p><p>Budynek przy ul. Sulejowskiej w Piotrkowie Trybunalskim na pierwszy rzut oka przypomina zabudowania słynnej łódzkiej Manufaktury. Centrum handlowe w Łodzi powstało w pofabrycznych zabudowaniach, ale w Piotrkowie to samo się nie udało. Obiekt Piotrkowskiej Manufaktury nadal czeka na swoją szansę.</p> ]]></description>
+<enclosure url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" type="image/*"/>
+<media:content url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd" medium="image"/>
+<media:thumbnail url="https://static.ddbelchatow.pl/trybunalski/articles/image/5e258361-eaf5-4f91-a7a1-15fc296cc9dd"/>
+</item>
+<item>
+<title><![CDATA[ Ogłosili nową listę ogromnych przecen w Dino. Zaczynają już od jutra ]]></title>
+<link>https://trybunalski.pl/wiadomosci/oglosili-nowa-liste-ogromnych-przecen-w-dino-zaczynaja-juz-od-jutra/SYxvAdpg0C3dPlLAJFny</link>
+<guid isPermaLink="false">4115fd6b4399f197c0bc19afa1d0fba0466fe802</guid>
+<pubDate>Wed, 18 Nov 2026 21:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" alt="miniatura"/></p><p>Osoby uzupełniające domowe zapasy w marketach sieci Dino od 18 listopada 2026 roku zapłacą mniej za podstawowe artykuły spożywcze z działu nabiałowego. Oferta ta obowiązuje we wszystkich sklepach do 24 listopada 2026 roku.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/97009069-f676-4042-aeb5-d0cd35a588e8"/>
+</item>
+<item>
+<title><![CDATA[ Nowa jakość mieszkań w Piotrkowie. Trwają prace ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-jakosc-mieszkan-w-piotrkowie-trwaja-prace/JjyVGk5Ll4PIKqyijnwZ</link>
+<guid isPermaLink="false">c88f3e435bae8799649d160067d142d2fb8ab926</guid>
+<pubDate>Wed, 18 Nov 2026 18:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" alt="miniatura"/></p><p>Prace obejmują budynki przy ul. Cisowej 25 i 25a. Łączna kwota przyznanego wsparcia wynosi 1 192 515 zł, z czego 834 759 zł stanowi dotacja, a pozostałe 357 756 zł to preferencyjne pożyczki. Decyzję o przyznaniu środków zarząd WFOŚiGW w Łodzi podjął 12 listopada.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e40cc46d-d047-4db6-bdcb-c84ac97cfc51"/>
+</item>
+<item>
+<title><![CDATA[ Nowa magistrala wodociągowa w Sulejowie. Ma ograniczyć uciążliwe awarie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowa-magistrala-wodociagowa-w-sulejowie-ma-ograniczyc-uciazliwe-awarie/FIUHzYSOHy2f1UcL1PO2</link>
+<guid isPermaLink="false">d0cf74d64697ba6443f522a50515120dde882555</guid>
+<pubDate>Wed, 18 Nov 2026 10:21:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1a6b8e88-7a10-492c-8d94-e0c2428fb261" alt="miniatura"/></p><p>Umowę dotyczącą przebudowy magistrali wodociągowej podpisano 10 listopada. Inwestycja obejmie budowę nowego odcinka sieci od ujęcia Barbara, przez ulicę Garncarską, aż do ulicy Rynek.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1a6b8e88-7a10-492c-8d94-e0c2428fb261" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1a6b8e88-7a10-492c-8d94-e0c2428fb261" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1a6b8e88-7a10-492c-8d94-e0c2428fb261"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowska rada w nowym składzie. Kto otrzymał mandat? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowska-rada-w-nowym-skladzie-kto-otrzymal-mandat/tzoIx0EtpH0byt86qAYo</link>
+<guid isPermaLink="false">f4e010818c0afa412e987c3af575574d5ade08b1</guid>
+<pubDate>Wed, 18 Nov 2026 09:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7237bde9-01fb-4606-80ac-f2bf4eab874e" alt="miniatura"/></p><p>Wybory do Młodzieżowej Rady Miasta Piotrkowa Trybunalskiego odbyły się 29 października 2026 roku. Wybrani przedstawiciele młodzieży będą pełnić swoje funkcje przez najbliższe dwa lata, w kadencji 2026–2028.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7237bde9-01fb-4606-80ac-f2bf4eab874e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7237bde9-01fb-4606-80ac-f2bf4eab874e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7237bde9-01fb-4606-80ac-f2bf4eab874e"/>
+</item>
+<item>
+<title><![CDATA[ Pojechał do Piotrkowa i przepadł. Policja szuka zaginionego - opublikowano zdjęcie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
+<guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
+<pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Groźne zdarzenie w Piotrkowie.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
+</item>
+<item>
+<title><![CDATA[ „Szatan z Piotrkowa” na Netflixie. Dziś premiera serialu o jednej z najgłośniejszych zbrodni w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/szatan-z-piotrkowa-na-netflixie-dzis-premiera-serialu-o-jednej-z-najglosniejszych-zbrodni-w-polsce/mwESVmaD3sMhElqGqBn5</link>
+<guid isPermaLink="false">07993733eb9382085721ae886b416bbe91bd54cf</guid>
+<pubDate>Wed, 18 Nov 2026 09:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3c62493b-fd96-4398-99f8-8671171ec7bd" alt="miniatura"/></p><p>Sprawa, która przed blisko czterema dekadami wstrząsnęła Piotrkowem Trybunalskim i całą Polską, stała się inspiracją dla nowej produkcji Netflixa. Serial „Prawo bestii” wyreżyserował Kasper Bajon, który wspólnie z Anną Kasińską odpowiada również za scenariusz.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3c62493b-fd96-4398-99f8-8671171ec7bd" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3c62493b-fd96-4398-99f8-8671171ec7bd" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3c62493b-fd96-4398-99f8-8671171ec7bd"/>
+</item>
+<item>
+<title><![CDATA[ Piotrkowianka w nokautach „The Voice of Poland”. Zaśpiewała wielki przebój Arethy Franklin ]]></title>
+<link>https://trybunalski.pl/wiadomosci/piotrkowianka-w-nokautach-the-voice-of-poland-zaspiewala-wielki-przeboj-arethy-franklin/Z6qe4X9wFGQei2wwELIV</link>
+<guid isPermaLink="false">60dccd84f90f2ffac2085b20f28cf99409ee3b0c</guid>
+<pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e161f163-c9bd-478c-ad30-248654fecacd" alt="miniatura"/></p><p>O pierwszym występie Marysi Majewskiej informowaliśmy już w październiku. Piotrkowianka pojawiła się na scenie „The Voice of Poland” 10 października, wykonując utwór „Dreams” z repertuaru zespołu The Cranberries. Jej interpretacja przekonała Edytę Bartosiewicz, która odwróciła fotel i zaprosiła wokalistkę do swojej drużyny.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e161f163-c9bd-478c-ad30-248654fecacd" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e161f163-c9bd-478c-ad30-248654fecacd" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e161f163-c9bd-478c-ad30-248654fecacd"/>
+</item>
+<item>
+<title><![CDATA[ Grzegorz Lorek pozbył się majątku. Poseł z Piotrkowa został z niczym? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/grzegorz-lorek-pozbyl-sie-majatku-posel-z-piotrkowa-zostal-z-niczym/8tO3bEzBZNd2E5TH4Oyz</link>
+<guid isPermaLink="false">0efce06135bd23162714a33a5dfe97d6ed875cf8</guid>
+<pubDate>Tue, 17 Nov 2026 17:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/908d35b4-98aa-47f9-87f4-ee177cea66ac" alt="miniatura"/></p><p>Poseł Grzegorz Lorek zasłynął niedawną woltą polityczną, gdy najpierw przyłączył się do stowarzyszenia Mateusza Morawieckiego, a potem nagle wrócił do Prawa i Sprawiedliwości. Gdy zajrzeć do jego oświadczenia majątkowego parlamentarzysty za 2025 rok, robi się jeszcze dziwniej.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/908d35b4-98aa-47f9-87f4-ee177cea66ac" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/908d35b4-98aa-47f9-87f4-ee177cea66ac" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/908d35b4-98aa-47f9-87f4-ee177cea66ac"/>
+</item>
+<item>
+<title><![CDATA[ Zielona woda w mieście. Część mieszkańców zostanie bez ogrzewania i ciepłej wody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zielona-woda-w-miescie-czesc-mieszkancow-zostanie-bez-ogrzewania-i-cieplej-wody/2cyy3SWIEFEjjNWqN7gF</link>
+<guid isPermaLink="false">b11c7b7584251e936cbca7865317e78cc109410e</guid>
+<pubDate>Tue, 17 Nov 2026 15:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/841db2e1-e55a-4e81-bc75-444086994a63" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa Trybunalskiego mogą zauważyć wodę o intensywnym, zielono-żółtym zabarwieniu. Jak tłumaczy piotrkowska Elektrociepłownia, nie jest to powód do niepokoju, lecz efekt prowadzonego w sezonie grzewczym 2026/2027 programu monitorowania szczelności systemu. Woda krążąca w miejskich rurach barwiona jest bezpieczną fluoresceiną, która pozwala błyskawicznie wykryć nawet niewielkie niesz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/841db2e1-e55a-4e81-bc75-444086994a63" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/841db2e1-e55a-4e81-bc75-444086994a63" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/841db2e1-e55a-4e81-bc75-444086994a63"/>
+</item>
+<item>
+<title><![CDATA[ W weekend wrócisz do miasta zupełnie za darmo. Ogłosili specjalną akcję dla podróżnych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-weekend-wrocisz-do-miasta-zupelnie-za-darmo-oglosili-specjalna-akcje-dla-podroznych/THph9mXnCkiSkUJrMP2y</link>
+<guid isPermaLink="false">202184851cdb9b6896a6088f698ef16f7c88e22f</guid>
+<pubDate>Tue, 17 Nov 2026 14:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/fee3f9fe-e9e8-46c6-a7db-78d489c78744" alt="miniatura"/></p><p>W dniach 20–22 listopada mieszkańcy Piotrkowa zyskają okazję do darmowego powrotu do domu pociągiem. Wszystko za sprawą Łódzkich Targów Książki, które odbędą się na dworcu Łódź Fabryczna. Jak dokładnie skorzystać z bezpłatnego powrotu?</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/fee3f9fe-e9e8-46c6-a7db-78d489c78744" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/fee3f9fe-e9e8-46c6-a7db-78d489c78744" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fee3f9fe-e9e8-46c6-a7db-78d489c78744"/>
+</item>
+<item>
+<title><![CDATA[ W którym miejscu Polski mężczyźni żyją najkrócej? Nasz region w TOP 10 najgorszych wyników ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-ktorym-miejscu-polski-mezczyzni-zyja-najkrocej-nasz-region-w-top-10-najgorszych-wynikow/XinT9YlUPwGBQOuVkTvC</link>
+<guid isPermaLink="false">8af69dfc0c4d6517c639eed70b200943b733c09a</guid>
+<pubDate>Tue, 17 Nov 2026 13:59:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/9af3394e-50be-4f47-be03-6c404a6dd94b" alt="miniatura"/></p><p>Jak wyglądają najnowsze dane dotyczące trwania życia w 2025 roku opracowane przez Główny Urząd Statystyczny? Autorzy raportu przyjrzeli się temu, ile przeciętnie lat życia mają przed sobą mieszkańcy poszczególnych województw oraz regionów . Co ciekawe, bardzo słabo w tym zestawieniu wypadł podregion piotrkowski, który znalazł się w ogólnopolskiej czołówce pod kątem najniższej prognozowanej długośc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/9af3394e-50be-4f47-be03-6c404a6dd94b" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/9af3394e-50be-4f47-be03-6c404a6dd94b" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/9af3394e-50be-4f47-be03-6c404a6dd94b"/>
+</item>
+<item>
+<title><![CDATA[ Praca w Piotrkowie Trybunalskim. Sprawdź aktualne oferty zatrudnienia i ile można zarobić ]]></title>
+<link>https://trybunalski.pl/wiadomosci/praca-w-piotrkowie-trybunalskim-sprawdz-aktualne-oferty-zatrudnienia-i-ile-mozna-zarobic/UWOa58fkHB9NvAFmEfai</link>
+<guid isPermaLink="false">b3d59d6fbc13cb9ce89f128defc77a1dab6f817b</guid>
+<pubDate>Tue, 17 Nov 2026 13:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/6a5da12a-48a6-40f3-b226-83f8f72a8045" alt="miniatura"/></p><p>Wynagrodzenie: od 4950 do 6000 zł brutto miesięcznie</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6a5da12a-48a6-40f3-b226-83f8f72a8045" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6a5da12a-48a6-40f3-b226-83f8f72a8045" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6a5da12a-48a6-40f3-b226-83f8f72a8045"/>
+</item>
+<item>
+<title><![CDATA[ Nielegalne rajdy i dzikie wysypiska śmieci? Mieszkańcy wskazali policji konkretne miejsca ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nielegalne-rajdy-i-dzikie-wysypiska-smieci-mieszkancy-wskazali-policji-konkretne-miejsca/366b07l8YOIGCClHjGGb</link>
+<guid isPermaLink="false">282b3845f1a3beedb1ff697cce814b3026b318ac</guid>
+<pubDate>Tue, 17 Nov 2026 12:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7bd297b2-5d48-4a9b-8d72-333978022283" alt="miniatura"/></p><p>Krajowa Mapa Zagrożeń Bezpieczeństwa to narzędzie ułatwiające komunikację z mundurowymi. System, dostępny na stronie internetowej policji, pozwala na w pełni anonimowe zgłaszanie problemów, jakie mieszkańcy obserwują na ulicach miast. Każdy sygnał naniesiony na mapę trafia do funkcjonariuszy, którzy mają obowiązek zweryfikować zgłoszenie, a w razie potwierdzenia zagrożenia, podjąć skuteczną interw…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7bd297b2-5d48-4a9b-8d72-333978022283" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7bd297b2-5d48-4a9b-8d72-333978022283" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7bd297b2-5d48-4a9b-8d72-333978022283"/>
+</item>
+<item>
+<title><![CDATA[ Nietypowa akcja w kopalni pod Piotrkowem. Dwie osoby z zarzutami ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/nietypowa-akcja-w-kopalni-pod-piotrkowem-dwie-osoby-z-zarzutami/hMPtkXJn2RUqBdOOHzQq</link>
+<guid isPermaLink="false">6986e19e3c8e04d66d77a9eea42b430796d3b17d</guid>
+<pubDate>Tue, 17 Nov 2026 11:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ff10955d-9aae-4697-909b-895437569654" alt="miniatura"/></p><p>Do zdarzenia doszło na terenie kopalni piasku położonej w kompleksie leśnym pomiędzy Mierzynem a Tomawą. Kilka minut po północy 12 listopada piotrkowscy wywiadowcy otrzymali zgłoszenie o ujęciu mężczyzny podejrzewanego o próbę kradzieży paliwa z koparki.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ff10955d-9aae-4697-909b-895437569654" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ff10955d-9aae-4697-909b-895437569654" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ff10955d-9aae-4697-909b-895437569654"/>
+</item>
+<item>
+<title><![CDATA[ Pierwszy taki sklep w województwie łódzkim. Szukają pracowników ]]></title>
+<link>https://trybunalski.pl/wiadomosci/pierwszy-taki-sklep-w-wojewodztwie-lodzkim-szukaja-pracownikow/aG91AE213d5adsTNUF1E</link>
+<guid isPermaLink="false">10890b346f6d1ad272c925af360d17da2c24d3fd</guid>
+<pubDate>Tue, 17 Nov 2026 10:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1080886b-026f-4bad-b5ef-065f346dcc8d" alt="miniatura"/></p><p>5 listopada w piotrkowskiej galerii Focus Mall otworzył się pierwszy w województwie łódzkim sklep marki ShockPrice. Jak się okazuje, sieć wciąż prowadzi rekrutację do swojego zespołu. Sprawdziliśmy, kogo poszukuje i jakie warunki oferuje.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1080886b-026f-4bad-b5ef-065f346dcc8d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1080886b-026f-4bad-b5ef-065f346dcc8d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1080886b-026f-4bad-b5ef-065f346dcc8d"/>
+</item>
+<item>
+<title><![CDATA[ Ile bierze Skolim za koncert w 2026 roku? Wiemy, jaki rachunek wystawił gminie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ile-bierze-skolim-za-koncert-w-2026-roku-wiemy-jaki-rachunek-wystawil-gminie/f2qbSWTutAkYZmoOBVcC</link>
+<guid isPermaLink="false">55a58e85fa2033d23f52b1fe781d670ab7caa322</guid>
+<pubDate>Tue, 17 Nov 2026 09:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/d862c875-560f-4be3-a37d-b5e956fd41de" alt="miniatura"/></p><p>Konrad Skolimowski przyznawał wcześniej, że pieniądze uzyskiwane z koncertów trafiają do wspólnej puli, z której następnie rozliczana jest cała ekipa. Wokalista znany publiczności jako Skolim współpracuje na co dzień z menedżerem Wojciechem Wonerem. W skład zespołu koncertowego wchodzą również muzycy znani jako Luxon i Velson. Kwoty wymieniane w kontraktach dotyczą całościowego programu artystyczn…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/d862c875-560f-4be3-a37d-b5e956fd41de" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/d862c875-560f-4be3-a37d-b5e956fd41de" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d862c875-560f-4be3-a37d-b5e956fd41de"/>
+</item>
+<item>
+<title><![CDATA[ Chcą zebrać 100 tysięcy podpisów. "Czegoś takiego w Polsce jeszcze nie było" ]]></title>
+<link>https://trybunalski.pl/wiadomosci/chca-zebrac-100-tysiecy-podpisow-czegos-takiego-w-polsce-jeszcze-nie-bylo/lQNOBUSoGoGOkqqnCitY</link>
+<guid isPermaLink="false">0b148171f61b2f1df4babfe58e887b264116fabe</guid>
+<pubDate>Mon, 16 Nov 2026 21:17:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/25bdc21d-d87a-4594-a2d4-fdf667435957" alt="miniatura"/></p><p>Kopalnia Węgla Brunatnego Bełchatów już w najbliższych tygodniach sczerpie ostatnią tonę węgla z Pola Bełchatów. Przez kolejną dekadę surowiec będzie jeszcze wydobywany z sąsiedniej odkrywki Szczerców. Koniec ery węgla w Bełchatowie wydaje się więc nieunikniony, co potwierdza plan transformacji energetycznej, która zakłada, że ostatnie z bloków energetycznych w Elektrowni Bełchatów zostaną wyłączo…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/25bdc21d-d87a-4594-a2d4-fdf667435957" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/25bdc21d-d87a-4594-a2d4-fdf667435957" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/25bdc21d-d87a-4594-a2d4-fdf667435957"/>
+</item>
+<item>
+<title><![CDATA[ Dwa listy gończe za 52-latkiem z Piotrkowa. Policjanci zabezpieczyli drogi ucieczki ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dwa-listy-goncze-za-52-latkiem-z-piotrkowa-policjanci-zabezpieczyli-drogi-ucieczki/DCHAGjbrSwHFsLUl2hsQ</link>
+<guid isPermaLink="false">b4e474aacdb9b3000f98a519cf7b3ccd718c76cf</guid>
+<pubDate>Mon, 16 Nov 2026 18:26:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dc0e78e1-ead2-4be4-ade4-6dcfe15dccb2" alt="miniatura"/></p><p>Do zatrzymania doszło 13 listopada 2026 roku. Funkcjonariusze Wydziału Kryminalnego Komendy Miejskiej Policji w Piotrkowie Trybunalskim ustalili, gdzie może przebywać 52-latek, który ukrywał się przed wymiarem sprawiedliwości.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dc0e78e1-ead2-4be4-ade4-6dcfe15dccb2" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dc0e78e1-ead2-4be4-ade4-6dcfe15dccb2" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dc0e78e1-ead2-4be4-ade4-6dcfe15dccb2"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek w Piotrkowie. Pijany kierowca staranował inny pojazd i zwiał ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/wypadek-w-piotrkowie-pijany-kierowca-staranowal-inny-pojazd-i-zwial/yXSJmDNeJwNNNZwDkvPb</link>
+<guid isPermaLink="false">086fdadea898671e980dd21388b677c24a580605</guid>
+<pubDate>Mon, 16 Nov 2026 18:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/35ca3706-d0e2-441e-a2b0-07d8acba30ca" alt="miniatura"/></p><p>Do zdarzenia doszło 12 listopada około godziny 7:40 na rondzie u zbiegu ulic Dmowskiego i Kostromskiej w Piotrkowie Trybunalskim. Patrolujący miasto funkcjonariusze Wydziału Wywiadowczego zauważyli czerwony zderzak leżący przed przejściem dla pieszych. Gdy zawrócili, dostrzegli Opla Merivę bez przedniego zderzaka, który właśnie wjeżdżał na pobliski parking.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/35ca3706-d0e2-441e-a2b0-07d8acba30ca" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/35ca3706-d0e2-441e-a2b0-07d8acba30ca" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/35ca3706-d0e2-441e-a2b0-07d8acba30ca"/>
+</item>
+<item>
+<title><![CDATA[ Koniec horroru mieszkańców w powiecie piotrkowskim? Ruszyła wyczekiwana inwestycja ]]></title>
+<link>https://trybunalski.pl/wiadomosci/koniec-horroru-mieszkancow-w-powiecie-piotrkowskim-ruszyla-wyczekiwana-inwestycja/NdZdFzQx243xuCAXOzoh</link>
+<guid isPermaLink="false">3fef356ac79faa1a9edcfac98cd5ec2008cf3f0a</guid>
+<pubDate>Mon, 16 Nov 2026 15:28:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3143d177-18ec-41d4-9044-f96f9e9512fc" alt="miniatura"/></p><p>Od lat mieszkańcy Koła żyją w cyfrowej izolacji, która w kryzysowych chwilach staje się dla nich ogromnym zagrożeniem. W naszym reportażu pokazywaliśmy, jak brak zasięgu zmusza ich do szukania pojedynczych „kresek” sygnału w wyznaczonych miejscach na posesjach i stania w bezruchu podczas każdej rozmowy. Problem jest szczególnie dotkliwy przy nagłych zdarzeniach, jak choćby wtedy, gdy zerwana linia…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3143d177-18ec-41d4-9044-f96f9e9512fc" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3143d177-18ec-41d4-9044-f96f9e9512fc" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3143d177-18ec-41d4-9044-f96f9e9512fc"/>
+</item>
+<item>
+<title><![CDATA[ Czy w Piotrkowie jest coraz mniej bezpiecznie? Strażnicy odchodzą ze służby ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-w-piotrkowie-jest-coraz-mniej-bezpiecznie-straznicy-odchodza-ze-sluzby/BxKDaTqfO6tuUY8qgHFF</link>
+<guid isPermaLink="false">af1be630f0db5fe7723aed2da02155a3d4a12426</guid>
+<pubDate>Mon, 16 Nov 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/13985e43-f551-4c94-8ea8-13bf126c910b" alt="miniatura"/></p><p>Liczba strażników miejskich w Piotrkowie Trybunalskim systematycznie malała na przestrzeni ostatnich kilkunastu lat. W 2010 roku podstawowy zespół liczył 25 funkcjonariuszy, osiem lat później było ich już tylko 17, natomiast obecnie pozostało 10. Oznacza to spadek o 60 procent w porównaniu z 2010 rokiem.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/13985e43-f551-4c94-8ea8-13bf126c910b" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/13985e43-f551-4c94-8ea8-13bf126c910b" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/13985e43-f551-4c94-8ea8-13bf126c910b"/>
+</item>
+<item>
+<title><![CDATA[ Urząd w Piotrkowie szuka pracownika. Zarobki sięgają niemal 8 tysięcy złotych ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzad-w-piotrkowie-szuka-pracownika-zarobki-siegaja-niemal-8-tysiecy-zlotych/v8IspbBAweBZQQK8DP0g</link>
+<guid isPermaLink="false">0d81f2133cd6a6e99fb392964e64ffc4f9c8e2e0</guid>
+<pubDate>Mon, 16 Nov 2026 13:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f359cf10-d0dc-4e42-be34-ac72f1e4285d" alt="miniatura"/></p><p>Oferta dotyczy pracy na stanowisku inspektora weterynaryjnego/inspektorki weterynaryjnej d o spraw: bezpieczeństwa żywności w siedzibie urzędu przy ulicy Rzemieślniczej 26 w Piotrkowie Trybunalskim, choć wiąże się również z wyjazdami służbowymi w teren. Nowy pracownik będzie odpowiedzialny za szeroki zakres zadań związanych z bezpieczeństwem żywności i nadzorem weterynaryjnym. Do jego obowiązków n…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f359cf10-d0dc-4e42-be34-ac72f1e4285d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f359cf10-d0dc-4e42-be34-ac72f1e4285d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f359cf10-d0dc-4e42-be34-ac72f1e4285d"/>
+</item>
+<item>
+<title><![CDATA[ Wielka rewolucja w piotrkowskich szkołach. Uczniowie już testują sztuczną inteligencję ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-rewolucja-w-piotrkowskich-szkolach-uczniowie-juz-testuja-sztuczna-inteligencje/uA9vor5gFrf3qE9snQxw</link>
+<guid isPermaLink="false">1c45d2203f8b10c45871a6f1891c31410e93d843</guid>
+<pubDate>Mon, 16 Nov 2026 13:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a1225b47-154d-47c9-9984-8ab64055e880" alt="miniatura"/></p><p>W piotrkowskich szkołach powstaje 28 pracowni AI i STEM . Miasto podpisało umowę, na mocy której Ministerstwo Cyfryzacji nieodpłatnie przekazuje placówkom sprzęt i oprogramowanie o wartości blisko 2 mln zł. Część pracowni już działa, a w pozostałych trwa dostarczanie i uruchamianie wyposażenia.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a1225b47-154d-47c9-9984-8ab64055e880" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a1225b47-154d-47c9-9984-8ab64055e880" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a1225b47-154d-47c9-9984-8ab64055e880"/>
+</item>
+<item>
+<title><![CDATA[ Nie będzie prądu w Piotrkowie i okolicy. Sprawdź, gdzie i kiedy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/liczne-braki-pradu-w-piotrkowie-i-okolicy-pelna-lista-utrudnien/Q2FnzxCgKFQAk8vIidwf</link>
+<guid isPermaLink="false">88d6df2b5b285dca5382f8080ed50827ab4609c6</guid>
+<pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/eaeced1f-902e-48ba-82a4-f77c0d472f78" alt="miniatura"/></p><p>Ulica: ul. Tadeusza Kościuszki</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/eaeced1f-902e-48ba-82a4-f77c0d472f78" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/eaeced1f-902e-48ba-82a4-f77c0d472f78" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/eaeced1f-902e-48ba-82a4-f77c0d472f78"/>
+</item>
+<item>
+<title><![CDATA[ 43-latek wjechał prosto w słup w Piotrkowie. Tak się tłumaczył ]]></title>
+<link>https://trybunalski.pl/wiadomosci/43-latek-wjechal-prosto-w-slup-w-piotrkowie-tak-sie-tlumaczyl/l6DOfxqDzRDQHx0R3ll2</link>
+<guid isPermaLink="false">6ee58f7209f807150f68d700877f1817403a0ae9</guid>
+<pubDate>Mon, 16 Nov 2026 12:07:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/5a1739fe-7ea3-4feb-9821-3e478047991e" alt="miniatura"/></p><p>Do groźnego zdarzenia doszło w niedzielę, 15 listopada 2026 roku ok. 15:00. Na ul. Ludowej w Piotrkowie samochód uderzył w słup. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5a1739fe-7ea3-4feb-9821-3e478047991e" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5a1739fe-7ea3-4feb-9821-3e478047991e" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5a1739fe-7ea3-4feb-9821-3e478047991e"/>
+</item>
+<item>
+<title><![CDATA[ Mercedes wbił się w restaurację. Prawie 80-letni kierowca pomylił gaz z hamulcem? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/luksusowy-mercedes-prawie-wpadl-do-restauracji-na-miejsce-ruszyly-sluzby/0H8iEKDnVPndthZHjWi8</link>
+<guid isPermaLink="false">316ec456c71d907848b61833cdfa5c1404b853bc</guid>
+<pubDate>Mon, 16 Nov 2026 11:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/310a311b-f685-40bd-a136-5d374e4adad3" alt="miniatura"/></p><p>Do zdarzenia doszło w niedzielę, 15 listopada 2026 roku, w miejscowości Korytnica. Służby ratunkowe otrzymały zgłoszenie o samochodzie osobowym, który uderzył w jeden z tamtejszych budynków. Kierowca Mercedesa najprawdopodobniej pomylił pedał gazu z hamulcem.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/310a311b-f685-40bd-a136-5d374e4adad3" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/310a311b-f685-40bd-a136-5d374e4adad3" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/310a311b-f685-40bd-a136-5d374e4adad3"/>
+</item>
+<item>
+<title><![CDATA[ Ruszyły wielkie obniżki w Dino. Nawet 50% w dół - sprawdzamy co najtaniej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ruszyly-wielkie-obnizki-w-dino-nawet-50-w-dol-sprawdzamy-co-najtaniej/vDo3m2BjATvITpOPaGkb</link>
+<guid isPermaLink="false">b8e29981d2fb194475b7bc0b0147b9da9d95064f</guid>
+<pubDate>Mon, 16 Nov 2026 11:31:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/3c276de4-2ca5-46ae-a527-67c3abaaa2f9" alt="miniatura"/></p><p>W sklepach sieci Dino poszczególne obniżki cen kończą się w trzech różnych terminach. Przed wizytą w markecie trzeba sprawdzić czas trwania konkretnych okazji.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/3c276de4-2ca5-46ae-a527-67c3abaaa2f9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/3c276de4-2ca5-46ae-a527-67c3abaaa2f9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/3c276de4-2ca5-46ae-a527-67c3abaaa2f9"/>
+</item>
+<item>
+<title><![CDATA[ Strażacy z naszego powiatu pogrążeni w żałobie. Żegnają wieloletnią dyrektor OSP ]]></title>
+<link>https://trybunalski.pl/wiadomosci/strazacy-z-naszego-powiatu-pograzeni-w-zalobie-zegnaja-wieloletnia-dyrektor-osp/veI6OE2rTALae5HiYcCy</link>
+<guid isPermaLink="false">db38d694e975f7a5dc293a9586fe0287edc077a6</guid>
+<pubDate>Mon, 16 Nov 2026 11:08:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c886e962-b891-4960-a03f-6151463baaf5" alt="miniatura"/></p><p>Wiadomość o nagłym i tragicznym odejściu druhny Małgorzaty Pawlik wywołała głęboki smutek i niedowierzanie w szeregach ochotniczych straży pożarnych w całym regionie. Przez długie lata była filarem struktur wojewódzkich Związku Ochotniczych Straży Pożarnych RP województwa łódzkiego, na co dzień dbając o sprawne funkcjonowanie jednostek i wspierając druhów w ich służbie.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c886e962-b891-4960-a03f-6151463baaf5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c886e962-b891-4960-a03f-6151463baaf5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c886e962-b891-4960-a03f-6151463baaf5"/>
+</item>
+<item>
+<title><![CDATA[ Akcja służb w Piotrkowie. W ręce policjantów wpadł 44-latek ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/akcja-sluzb-w-piotrkowie-w-rece-policjantow-wpadl-44-latek/nRSdS9aFvTfY796fa5w5</link>
+<guid isPermaLink="false">298139c75ee09c7280b97ba614ed205c47f1031b</guid>
+<pubDate>Mon, 16 Nov 2026 10:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/cc67e721-5d79-4f31-8b30-33dc480a1861" alt="miniatura"/></p><p>Dyżurny Komendy Miejskiej Policji w Piotrkowie Trybunalskim otrzymał w czwartek, 12 listopada przed godziną 20:00 zgłoszenie dotyczące agresywnie zachowującego się klienta jednego ze sklepów wielkopowierzchniowych. Mężczyzna miał zakłócać spokój i kierować wyzwiska pod adresem innych osób przebywających w placówce.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/cc67e721-5d79-4f31-8b30-33dc480a1861" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/cc67e721-5d79-4f31-8b30-33dc480a1861" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/cc67e721-5d79-4f31-8b30-33dc480a1861"/>
+</item>
+<item>
+<title><![CDATA[ Wrócili do tradycji sprzed lat, o której wielu już zapomniało. Tak wyglądało spotkanie w naszym powiecie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wrocili-do-tradycji-sprzed-lat-o-ktorej-wielu-juz-zapomnialo-tak-wygladalo-spotkanie-w-naszym-powiecie/rJVE5s0iXhCnozDyCh0B</link>
+<guid isPermaLink="false">958134b8d1e675fced6c5411e7372c4a27f9eb64</guid>
+<pubDate>Mon, 16 Nov 2026 10:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" alt="miniatura"/></p><p>14 listopada 2026 roku w Żarnowicy, w gminie Wolbórz, odbyło się tradycyjne darcie pierza . Spotkanie przygotowały członkinie Koła Gospodyń Wiejskich w Żarnowicy, któremu przewodniczy Kamila Szost.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/a0dc0ff7-3ea4-4138-b018-c0f7dbcd9b1b"/>
+</item>
+<item>
+<title><![CDATA[ Czy ZUS bezprawnie pomniejszył wypłaty seniorom? Wyrok otwiera nową drogę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-zus-bezprawnie-pomniejszyl-wyplaty-seniorom-wyrok-otwiera-nowa-droge/I2xL7ctTAFPlQZFzyitt</link>
+<guid isPermaLink="false">34b0c7806610a50db08fd73479c4b46133a4dcdc</guid>
+<pubDate>Mon, 16 Nov 2026 09:14:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" alt="miniatura"/></p><p>Spór prawny z Zakładem Ubezpieczeń Społecznych ciągnął się przez 18 lat w przypadku 74-letniego emerytowanego górnika z Jaworzna . Mężczyzna przepracował wiele lat w zawodzie górnika na terenie Polski, po czym przez kolejne 25 lat wykonywał tę samą pracę na Węgrzech. Starania o przyznanie emerytury górniczej podjął w 2007 roku , jednak w następnych latach napotkał poważne trudności przy ustalaniu…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4b9798bd-41d5-4c10-96d5-ece48263fad7"/>
+</item>
+<item>
+<title><![CDATA[ Była posłanka z okręgu piotrkowskiego kontra państwowy gigant. Wydano już wyrok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/byla-poslanka-kontra-panstwowy-gigant-sad-wydal-wyrok/dlNANwqH93xBJ0404F9F</link>
+<guid isPermaLink="false">60ea54a7cd3b40819285176565ab023caa43147f</guid>
+<pubDate>Mon, 16 Nov 2026 08:49:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/91ae5680-ad6f-4bb5-847f-4f39f3329422" alt="miniatura"/></p><p>Była posłanka z okręgu piotrkowskiego - Małgorzata Janowska funkcję dyrektora ekonomiczno-finansowego w Elektrowni Bełchatów pełniła od grudnia 2021 roku. Zwolniona z pracy została w czerwcu 2024 roku, po zmianie kierownictwa koncernu PGE GiEK, gdy kilka miesięcy po wyborach parlamentarnych rozpoczęły się zmiany w spółkach Skarbu Państwa. Warto jednak przypomnieć, że Janowska stanowisko piastowała…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/91ae5680-ad6f-4bb5-847f-4f39f3329422" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/91ae5680-ad6f-4bb5-847f-4f39f3329422" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/91ae5680-ad6f-4bb5-847f-4f39f3329422"/>
+</item>
+<item>
+<title><![CDATA[ Zamontują kamery i wagi. Nowy system sprawdzi mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zamontuja-kamery-i-wagi-nowy-system-sprawdzi-mieszkancow/RYd3cBWvr9eDUNgOODj1</link>
+<guid isPermaLink="false">7b7d371d1f022d50e58bf38762325f60e019d065</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8ca36bde-2fe1-4f1f-a6b0-f58c0ebf7922" alt="miniatura"/></p><p>Według zapowiedzi system gospodarki odpadami w Piotrkowie Trybunalskim przejdzie sporą rewolucję. Urząd Miasta ogłosił przetarg na odbiór i zagospodarowanie śmieci od mieszkańców na kolejne trzy lata. Wśród wymogów znalazły się m.in. wagi i monitoring. O rosnących kosztach i planach na przyszłość mówiła podczas wrześniowej sesji rady miasta wiceprezydentka Katarzyna Pabich-Gaj.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8ca36bde-2fe1-4f1f-a6b0-f58c0ebf7922" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8ca36bde-2fe1-4f1f-a6b0-f58c0ebf7922" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8ca36bde-2fe1-4f1f-a6b0-f58c0ebf7922"/>
+</item>
+<item>
+<title><![CDATA[ Wszyscy w Polsce zapłacą więcej? Podali już stawki na 2027 rok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-zaplacimy-wiecej-za-abonament-rtv-sprawdzamy-oplaty-i-zwolnienia/iSD9jiUNOz2H4e9ictff</link>
+<guid isPermaLink="false">6efd86d11bfcdd00a8740dbe16c9ec6628cbb838</guid>
+<pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ec6a54c9-acf0-4ebe-bae6-008e55e49cfc" alt="miniatura"/></p><p>Osoby pobierające rentę socjalną oraz bezrobotni zaliczają się do szerokiego grona obywateli zwolnionych z wnoszenia opłat abonamentowych. Przepisy stanowią jasne wytyczne dotyczące podmiotów objętych pełnymi ulgami.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ec6a54c9-acf0-4ebe-bae6-008e55e49cfc" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ec6a54c9-acf0-4ebe-bae6-008e55e49cfc" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ec6a54c9-acf0-4ebe-bae6-008e55e49cfc"/>
+</item>
+<item>
+<title><![CDATA[ 800 plus za wychowanie dorosłych dzieci. Zapadła decyzja w sprawie pieniędzy dla seniorów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/800-plus-za-wychowanie-doroslych-dzieci-zapadla-decyzja-w-sprawie-pieniedzy-dla-seniorow/WrQXDQjA2rua5esH5hz0</link>
+<guid isPermaLink="false">a05e254219fc8e2ffc9f5a3676dd1308a261a2d4</guid>
+<pubDate>Sat, 14 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/e69bbb8b-fdca-43da-94b7-999e60e4131a" alt="miniatura"/></p><p>Autor petycji skierowanej do Senatu z 18 maja 2025 roku przekonywał parlamentarzystów, że seniorzy wychowujący dorosłych obywateli również powinni być objęci państwową pomocą finansową. Wnioskodawca argumentował, że osoby, które wychowały dzisiejszych pracowników oraz podatników w Polsce, zasługują na wsparcie ze strony państwa. Propozycja zakładała zmianę ustawy o pomocy państwa w wychowywaniu dz…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/e69bbb8b-fdca-43da-94b7-999e60e4131a" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/e69bbb8b-fdca-43da-94b7-999e60e4131a" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/e69bbb8b-fdca-43da-94b7-999e60e4131a"/>
+</item>
+<item>
+<title><![CDATA[ LOTTO Superliga: Piotrkowianin zagrał z liderem! Sensacji w Płocku nie było ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-zagral-z-liderem-sensacji-w-plocku-nie-bylo/Qf3qjVWHKIlJfg9DJ1zF</link>
+<guid isPermaLink="false">061605c572c95e0997448b906cdd29d4016b43c2</guid>
+<pubDate>Sat, 14 Nov 2026 16:38:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/952ddb31-12ae-4030-a29c-71f408311ff5" alt="miniatura"/></p><p>Piłkarze ręczni z Piotrkowa Trybunalskiego do wyjazdowej rywalizacji z krajowym potentatem przystępowali jako najsłabszy zespół w całej stawce. Podopieczni trenera Ivo Vavry po ośmiu seriach gier mieli na koncie komplet ośmiu porażek i zerowy dorobek punktowy. Dla porównania, „Nafciarze” przewodzili stawce z kompletem 24 punktów na koncie.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/952ddb31-12ae-4030-a29c-71f408311ff5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/952ddb31-12ae-4030-a29c-71f408311ff5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/952ddb31-12ae-4030-a29c-71f408311ff5"/>
+</item>
+<item>
+<title><![CDATA[ W Rossmannie klon Armaniego za 19,99 zł. Oryginał jest prawie po 300 zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-rossmannie-klon-armaniego-za-1999-zl-oryginal-jest-prawie-po-300-zl/uMQkeX1eJenVk1DZf70m</link>
+<guid isPermaLink="false">a091351dba1c7418646ed9cfa2298732120c3259</guid>
+<pubDate>Sat, 14 Nov 2026 13:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/5aa76c25-55c8-4dc3-9f09-64fcde76b420" alt="miniatura"/></p><p>Zakup wody toaletowej na chłodniejsze dni nie wymaga wydawania kilkuset złotych. W ofercie drogerii Rossmann znalazła się męska woda toaletowa La Rive Heroic Man o pojemności 100 ml. Jej dotychczasowa regularna cena wynosiła 27,99 zł, a w ramach promocji kosztuje 19,99 zł . Zapach skierowany jest do klientów poszukujących wyrazistych i ciepłych nut aromatycznych.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/5aa76c25-55c8-4dc3-9f09-64fcde76b420" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/5aa76c25-55c8-4dc3-9f09-64fcde76b420" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/5aa76c25-55c8-4dc3-9f09-64fcde76b420"/>
+</item>
+<item>
+<title><![CDATA[ W Łódzkiem powstaje nowy park handlowy. Będą nowe sklepy i miejsca pracy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-lodzkiem-powstaje-nowy-park-handlowy-beda-nowe-sklepy-i-miejsca-pracy/g0GN5IXiUkxNViwn3feo</link>
+<guid isPermaLink="false">69de2d24e5ec4b7ba9b02d4193e112ed463da3c1</guid>
+<pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f5d28eb7-5fc9-4ad2-a40b-6903bc68c851" alt="miniatura"/></p><p>Najnowsze informacje z placu budowy przy Al. Sikorskiego w Piotrkowie Trybunalskim pokazują, że roboty idą pełną parą zarówno wewnątrz, jak i na zewnątrz budynków. Generalny wykonawca PA NOVA S.A. poinformował o zachodzących zmianach.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f5d28eb7-5fc9-4ad2-a40b-6903bc68c851" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f5d28eb7-5fc9-4ad2-a40b-6903bc68c851" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f5d28eb7-5fc9-4ad2-a40b-6903bc68c851"/>
+</item>
+<item>
+<title><![CDATA[ Ile bierze Zenek za występ w 2026 roku? Wiemy jaki rachunek wystawił gminie ]]></title>
+<link>https://trybunalski.pl/wiadomosci/ile-bierze-zenek-za-wystep-w-2026-roku-wiemy-jaki-rachunek-wystawil-gminie/BKL1sL9Grtg7WzS78uMM</link>
+<guid isPermaLink="false">0b152c6ccb846d57f77e32dc76d1434bdb0d6753</guid>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/6c1aa266-4cc5-4fc3-8737-c4ca45d83853" alt="miniatura"/></p><p>Mieszkańcy gminy Grabica w powiecie piotrkowskim wzięli udział w lokalnym wydarzeniu plenerowym, podczas którego zaprezentowała się jedna z najbardziej znanych postaci polskiej sceny tanecznej. Podczas edycji Święta Gminy Grabica, która odbyła się w niedzielę, 17 maja, na scenie wystąpił Zenek Martyniuk razem z zespołem Akcent. Samorządowe władze i organizatorzy zapewnili uczestnikom szeroki progr…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6c1aa266-4cc5-4fc3-8737-c4ca45d83853" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6c1aa266-4cc5-4fc3-8737-c4ca45d83853" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6c1aa266-4cc5-4fc3-8737-c4ca45d83853"/>
+</item>
+<item>
+<title><![CDATA[ Dramatyczny wypadek w Piotrkowie. Zderzyły się trzy pojazdy, cztery osoby ranne ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczny-wypadek-w-piotrkowie-zderzyly-sie-trzy-pojazdy-cztery-osoby-ranne/zgxxXh9rCf9qhKR85I3j</link>
+<guid isPermaLink="false">d571fa8ab489e039e01838cd8f0152097ba27fe0</guid>
+<pubDate>Fri, 13 Nov 2026 20:33:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" alt="miniatura"/></p><p>Do zdarzenia doszło w piątek, 13 listopada, w godzinach wieczornych na ul. Rakowskiej w Piotrkowie. Na miejsce ruszyły służby, w tym łącznie pięć zespołów ratownictwa medycznego, zastępy straży pożarnej oraz policja.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/eb44ded0-d2ac-4282-859c-8011cf2059dd"/>
+</item>
+<item>
+<title><![CDATA[ Dramatyczny początek weekendu w regionie. Kobieta zginęła pod kołami samochodu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dramatyczny-poczatek-weekendu-w-regionie-kobieta-zginela-pod-kolami-samochodu/oddNkS78H1i0IpS5S2r8</link>
+<guid isPermaLink="false">972dfdc10afc675f2a901bbd2f46ae82b71c03a1</guid>
+<pubDate>Fri, 13 Nov 2026 20:05:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" alt="miniatura"/></p><p>Funkcjonariusze policji przekazali informację, że pierwsze ze zdarzeń miało miejsce około godziny 17 na ulicy Mościckiego w miejscowości Spała.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/732ce42a-8438-451b-92cf-440ae7364436"/>
+</item>
+<item>
+<title><![CDATA[ Poważny wypadek w powiecie piotrkowskim. Samochód potrącił rowerzystę, na miejsce ruszył LPR ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/powazny-wypadek-w-powiecie-piotrkowskim-samochod-potracil-rowerzyste-na-miejsce-ruszyl-lpr/1ULkAzgz4A4gwFqDcCbD</link>
+<guid isPermaLink="false">b707652d35937b12e64986a9e3372b56499c1c92</guid>
+<pubDate>Fri, 13 Nov 2026 17:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" alt="miniatura"/></p><p>Do wypadku doszło w piątek, 13 listopada około godziny 16:25 na 19. kilometrze drogi wojewódzkiej nr 742 w gminie Ręczno. Zderzyły się tam samochód osobowy oraz rowerzysta.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c76ba558-e4a5-4044-bd9b-938ac7a41f65"/>
+</item>
+<item>
+<title><![CDATA[ Wielka gwiazda na Jarmarku! Właśnie to ogłosili– pod sceną szykują się tłumy ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wielka-gwiazda-na-jarmarku-wlasnie-to-oglosili-pod-scena-szykuja-sie-tlumy/6vxqfYfNaPVLpNZfskEq</link>
+<guid isPermaLink="false">f1aad950376c40ab1d3a0da3d7e3528610c56bbe</guid>
+<pubDate>Fri, 13 Nov 2026 16:22:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/6615a02a-cc18-4122-af7d-d1674b1c7132" alt="miniatura"/></p><p>Już w weekend 5–6 grudnia 2026 roku powiat piotrkowski ponownie stanie się sercem świątecznej magii za sprawą wydarzenia „Światło nad Pilicą”. Impreza, która w ubiegłym roku przyciągnęła rekordową liczbę około 60 tysięcy osób, po raz kolejny zamieni historyczny kompleks w bajkową krainę pełną tysięcy świateł.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/6615a02a-cc18-4122-af7d-d1674b1c7132" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/6615a02a-cc18-4122-af7d-d1674b1c7132" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/6615a02a-cc18-4122-af7d-d1674b1c7132"/>
+</item>
+<item>
+<title><![CDATA[ Przełom na Zalewie Sulejowskim? Eksperci pokazali, co będzie dalej ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przelom-na-zalewie-sulejowskim-eksperci-pokazali-co-bedzie-dalej/cozpQWZd8Cf26Z2pxEtO</link>
+<guid isPermaLink="false">11936dea24648181ba11e33f6bd924807ce4844c</guid>
+<pubDate>Fri, 13 Nov 2026 15:43:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/ba813735-7b00-43fe-b30b-d021fb26c74c" alt="miniatura"/></p><p>Zalew Sulejowski od ponad pół wieku przyciąga pokolenia mieszkańców regionu, ale w ostatnich miesiącach zamiast wakacyjnego raju przypomina wysychające rozlewisko. Choć lato już za nami, niski poziom wody w zbiorniku wciąż budzi niepokój, a zwykły jesienny deszcz nie wystarczy, by odwrócić tę sytuację. Wody Polskie wyjaśniają, jak susza hydrologiczna wpływa na rzeki i zbiorniki retencyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/ba813735-7b00-43fe-b30b-d021fb26c74c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/ba813735-7b00-43fe-b30b-d021fb26c74c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/ba813735-7b00-43fe-b30b-d021fb26c74c"/>
+</item>
+<item>
+<title><![CDATA[ Seria kradzieży w Piotrkowie. 20-latek może posiedzieć nawet 5 lat ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/perfumy-za-6000-zl-ktore-nie-pachna-juz-wolnoscia/BlYJQrETSHIlOleJQbuz</link>
+<guid isPermaLink="false">b2788478451c682fba4845055bb3af6694a1d517</guid>
+<pubDate>Fri, 13 Nov 2026 15:37:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/318c7334-5cdb-47a5-b61a-e6d0809c8fb6" alt="miniatura"/></p><p>Do Komendy Miejskiej Policji w Piotrkowie Trybunalskim zgłosił się mężczyzna, który poinformował o serii kradzieży artykułów kosmetycznych w miejskich drogeriach. Z policyjnych ustaleń wynika, że przestępczy rajd trwał od 2 do 10 listopada 2026 roku. Złodziej działał regularnie, a jego łupem padły wyłącznie markowe perfumy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/318c7334-5cdb-47a5-b61a-e6d0809c8fb6" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/318c7334-5cdb-47a5-b61a-e6d0809c8fb6" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/318c7334-5cdb-47a5-b61a-e6d0809c8fb6"/>
+</item>
+<item>
+<title><![CDATA[ Kto nie przyjdzie z wnioskiem, straci pieniądze i lata stażu. Tłumy ruszyły do ZUS ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kto-nie-przyjdzie-z-wnioskiem-straci-pieniadze-i-lata-stazu-tlumy-ruszyly-do-zus/tXFUoE0NAkBStAzKUZ3B</link>
+<guid isPermaLink="false">b015dea48f711c39359ff4f7a7ac9010f7372633</guid>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f6d18bd7-a00b-4763-a825-904b9fae02fb" alt="miniatura"/></p><p>„Dziennik Gazeta Prawna” poinformował, że do Zakładu Ubezpieczeń Społecznych trafiło prawie 900 tysięcy wniosków od ubezpieczonych, którzy chcą potwierdzić swoje dodatkowe okresy aktywności zawodowej. ZUS zdążył już wydać ponad 1,6 miliona zaświadczeń . Liczba przekazanych dokumentów przewyższa liczbę złożonych pism, ponieważ po złożeniu pojedynczego formularza urzędnicy mogą wystawić ubezpieczone…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f6d18bd7-a00b-4763-a825-904b9fae02fb" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f6d18bd7-a00b-4763-a825-904b9fae02fb" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f6d18bd7-a00b-4763-a825-904b9fae02fb"/>
+</item>
+<item>
+<title><![CDATA[ Najpierw weszły przyczepione zakrętki, a teraz to. Będą kolejne zamiany w plastikowych butelkach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/najpierw-weszly-przyczepione-zakretki-a-teraz-to-beda-kolejne-zamiany-w-plastikowych-butelkach/HX9F1jJLktMd7irL9g8b</link>
+<guid isPermaLink="false">1bf485e5de6260b8eb4a158f711ddab163595d9d</guid>
+<pubDate>Fri, 13 Nov 2026 14:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/fb43bbef-11ba-45ac-9dfb-ecd7f6af7359" alt="miniatura"/></p><p>Zmieniające się opakowania napojów wpływają na codzienne zakupy robione przez mieszkańców Piotrkowa Trybunalskiego oraz okolicznych miejscowości. Osoby kupujące soki, wody i inne napoje widzą te przeobrażenia bezpośrednio na sklepowych półkach. Wcześniej zakrętkę po otwarciu można było całkowicie zdjąć z szyjki. Obecnie w większości butelek plastikowa nakrętka zostaje przytwierdzona na stałe.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/fb43bbef-11ba-45ac-9dfb-ecd7f6af7359" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/fb43bbef-11ba-45ac-9dfb-ecd7f6af7359" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fb43bbef-11ba-45ac-9dfb-ecd7f6af7359"/>
+</item>
+<item>
+<title><![CDATA[ Trwa rekrutacja do pracy w energetycznym gigancie. Kto ma szansę na etat? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/trwa-rekrutacja-do-pracy-w-energetycznym-gigancie-kto-ma-szanse-na-etat/ueJvvunATmlhSrrynzdi</link>
+<guid isPermaLink="false">663a84e5ff69e6f998c1c2825238761cc28fc231</guid>
+<pubDate>Fri, 13 Nov 2026 14:16:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/334ba5b7-068e-4017-a7b0-d3959abe5fd5" alt="miniatura"/></p><p>W dziale sprzątania obiektów Elektrowni Bełchatów, zlokalizowanych na obszarze miejscowości Wola Grzymalina oraz Rogowiec, wolne etatowe stanowisko sprzątaczki przygotowała spółka MegaSerwis. Kandydatki ubiegające się o to zatrudnienie muszą legitymować się wykształceniem podstawowym. Wymogiem stawianym przed aplikującymi jest brak przeciwwskazań zdrowotnych do wykonywania pracy fizycznej oraz bra…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/334ba5b7-068e-4017-a7b0-d3959abe5fd5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/334ba5b7-068e-4017-a7b0-d3959abe5fd5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/334ba5b7-068e-4017-a7b0-d3959abe5fd5"/>
+</item>
+<item>
+<title><![CDATA[ Nowy ranking jakości życia w polskich miastach. Piotrków wyprzedził Bełchatów i Tomaszów? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowy-ranking-jakosci-zycia-w-polskich-miastach-piotrkow-wyprzedzil-belchatow-i-tomaszow/818FQ7PyiYLUjbMi4GEt</link>
+<guid isPermaLink="false">621cdae64f8b76a8dfe632cdd918866d82131ba8</guid>
+<pubDate>Fri, 13 Nov 2026 13:53:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b298c9c8-5caf-454c-88d8-7e49371bfc30" alt="miniatura"/></p><p>Sprawdzamy, jak według twardych danych żyje się w Piotrkowie Trybunalskim na tle innych miast województwa łódzkiego. W zestawieniu przygotowanym przez serwis MiastoRank pod lupę wzięto jakość życia w 199 miejscowościach w całej Polsce .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b298c9c8-5caf-454c-88d8-7e49371bfc30" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b298c9c8-5caf-454c-88d8-7e49371bfc30" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b298c9c8-5caf-454c-88d8-7e49371bfc30"/>
+</item>
+<item>
+<title><![CDATA[ Zagrają jak w „Jednym z dziesięciu”, a w nagrodę popłyną w rejs. Uczniowie z Piotrkowa i powiatu w wielkim finale ]]></title>
+<link>https://trybunalski.pl/wiadomosci/zagraja-jak-w-jednym-z-dziesieciu-a-w-nagrode-poplyna-w-rejs-uczniowie-z-piotrkowa-i-powiatu-w-wielkim-finale/zdthYdyV2RPrCw5vulmi</link>
+<guid isPermaLink="false">fa1dcfb98167101e4b8096d4dc8bd10455eda186</guid>
+<pubDate>Fri, 13 Nov 2026 12:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/116967e3-8e7e-48a3-a8d0-643b809f426d" alt="miniatura"/></p><p>Uczniowie z Piotrkowa Trybunalskiego oraz Wolborza stają przed szansą na wygranie zagranicznej podróży marzeń dla całej swojej klasy. Już 30 listopada w łódzkim Klubie Wytwórnia odbędzie się wielki finał wojewódzkiego konkursu wiedzy o Unii Europejskiej. Stawką rywalizacji, w której weźmie udział kilkuset uczestników i kibiców z całego regionu, jest tygodniowy rejs po Morzu Śródziemnym.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/116967e3-8e7e-48a3-a8d0-643b809f426d" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/116967e3-8e7e-48a3-a8d0-643b809f426d" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/116967e3-8e7e-48a3-a8d0-643b809f426d"/>
+</item>
+<item>
+<title><![CDATA[ Dramatyczny finał spotkania w Piotrkowie. Pobili 46-latkę, a jej telefon oddali do lombardu ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dramatyczny-final-spotkania-w-piotrkowie-pobili-46-latke-a-jej-telefon-oddali-do-lombardu/Qbw0WeoCyd9n9gyIkCSF</link>
+<guid isPermaLink="false">b233c0b2c194afad65412ae976d105c3c08ffc5d</guid>
+<pubDate>Fri, 13 Nov 2026 10:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1db8892d-762d-4aed-92fd-2b218212697c" alt="miniatura"/></p><p>9 listopada 2026 roku po godzinie 20:00 do Komendy Miejskiej Policji w Piotrkowie Trybunalskim zgłosiła się 46-letnia kobieta, która poinformowała, że została pobita, a jej telefon skradziony. Z jej relacji wynikało, że 30 października po godzinie 14:00 przebywała w mieszkaniu swojej znajomej. Spotkanie zamieniło się w horror, gdy do lokum przyszli kobieta i mężczyzna.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1db8892d-762d-4aed-92fd-2b218212697c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1db8892d-762d-4aed-92fd-2b218212697c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1db8892d-762d-4aed-92fd-2b218212697c"/>
+</item>
+<item>
+<title><![CDATA[ Jarmark bożonarodzeniowy w Piotrkowie. Co pojawi się na stoiskach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/jarmark-bozonarodzeniowy-w-rynku-trybunalskim-mok-szuka-wystawcow/ZiTw9eITxXVMcTd3isJE</link>
+<guid isPermaLink="false">34d54b0189792904ff5c8280e03fbaaa0b25a465</guid>
+<pubDate>Fri, 13 Nov 2026 10:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/19c3c638-e9c6-4634-ab41-430d6b5edc7c" alt="miniatura"/></p><p>Jarmark bożonarodzeniowy odbędzie się 13 grudnia od 10 do 18 w Rynku Trybunalskim na piotrkowskiej starówce. Miejski Ośrodek Kultury zaprasza do udziału wystawców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/19c3c638-e9c6-4634-ab41-430d6b5edc7c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/19c3c638-e9c6-4634-ab41-430d6b5edc7c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/19c3c638-e9c6-4634-ab41-430d6b5edc7c"/>
+</item>
+<item>
+<title><![CDATA[ Awaria przejazdu w Piotrkowie. Szlabany są podniesione ]]></title>
+<link>https://trybunalski.pl/wiadomosci/awaria-przejazdu-w-piotrkowie-szlabany-sa-podniesione/MrudaI7UtZzd4TvTIBsI</link>
+<guid isPermaLink="false">7c440b5207c1a15f5fddb8cd93a9f7c342c336a2</guid>
+<pubDate>Fri, 13 Nov 2026 10:30:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8eca3e37-53f9-4c47-9e84-a050c8217f65" alt="miniatura"/></p><p>Usterka na przejeździe kolejowym przy ulicy Rolniczej trwa od 8 listopada . Przejazd oznaczono tabliczkami „Sygnalizacja uszkodzona”.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8eca3e37-53f9-4c47-9e84-a050c8217f65" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8eca3e37-53f9-4c47-9e84-a050c8217f65" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8eca3e37-53f9-4c47-9e84-a050c8217f65"/>
+</item>
+<item>
+<title><![CDATA[ Nowe konstrukcje przy autostradach. GDDKiA wyjaśnia, po co to stawiają ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nowe-konstrukcje-przy-autostradach-gddkia-wyjasnia-po-co-to-stawiaja/ulD6Qy3VYqnNuwjZ7I2t</link>
+<guid isPermaLink="false">2765323fa6f7eee42f1a92eb4fb3e361d6f70f5e</guid>
+<pubDate>Fri, 13 Nov 2026 09:09:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/03c06679-7472-4663-aa9d-8c6ee4cdf87a" alt="miniatura"/></p><p>Na Miejscach Obsługi Podróżnych (MOP) wzdłuż polskich autostrad i dróg ekspresowych można zauważyć coraz więcej charakterystycznych stalowych podestów. Konstrukcje wyposażone są w schody, barierki ochronne i platformy znajdujące się kilka metrów nad ziemią. Ich przeznaczenie jest związane z bezpieczeństwem na drogach, szczególnie w okresie jesienno-zimowym.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/03c06679-7472-4663-aa9d-8c6ee4cdf87a" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/03c06679-7472-4663-aa9d-8c6ee4cdf87a" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/03c06679-7472-4663-aa9d-8c6ee4cdf87a"/>
+</item>
+<item>
+<title><![CDATA[ LOTTO Superliga Kobiet: Piotrcovia zmierzyła się z mistrzem Polski! Wynik bez zaskoczenia ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-kobiet-piotrcovia-zmierzyla-sie-z-mistrzem-polski-wynik-bez-zaskoczenia/YatPjKkPEbFOamiTpQvH</link>
+<guid isPermaLink="false">f02490827aa57e64cc1134e234fe31f48d7a6218</guid>
+<pubDate>Thu, 12 Nov 2026 20:10:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" alt="miniatura"/></p><p>Czwartkowy pojedynek podopiecznych trenera Horatiu Pasci z „Miedziowymi” był nie tylko starciem brązowych medalistek poprzedniego sezonu z drużyną mistrza Polski, która dzierży ten tytuł nieprzerwanie od 2021 roku, ale również starciem drugiego i trzeciego zespołu w tabeli bieżącego sezonu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/361a3275-0442-4189-995d-52c51b659ec5"/>
+</item>
+<item>
+<title><![CDATA[ NBP puszcza nowe 50 zł w obieg. Nie będzie już na nich Kazimierza Wielkiego ]]></title>
+<link>https://trybunalski.pl/wiadomosci/nbp-puszcza-nowe-50-zl-w-obieg-nie-bedzie-juz-na-nich-kazimierza-wielkiego/XTNsrqNqtgFMzvVBw4tb</link>
+<guid isPermaLink="false">1714bef411c16c31261a9decc9d8150e6afd91cd</guid>
+<pubDate>Thu, 12 Nov 2026 18:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/1516b4db-bf5a-48b7-992d-73b28a0cbe03" alt="miniatura"/></p><p>Codzienne zakupy w sklepach nadal będziemy robić zwykłymi papierowymi pieniędzmi. Zapowiedziany przez Narodowy Bank Polski walor o nominale 50 złotych to moneta kolekcjonerska, która jest prawnym środkiem płatniczym, ale od papierowego odpowiednika różni się wykonaniem i przeznaczeniem.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/1516b4db-bf5a-48b7-992d-73b28a0cbe03" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/1516b4db-bf5a-48b7-992d-73b28a0cbe03" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/1516b4db-bf5a-48b7-992d-73b28a0cbe03"/>
+</item>
+<item>
+<title><![CDATA[ Wchodzi nowe obowiązkowe wyposażenie w samochodach. Znamy datę ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wchodzi-nowe-obowiazkowe-wyposazenie-w-samochodach-znamy-date/iJQu35QrWDXju2C2m7tv</link>
+<guid isPermaLink="false">bebde5d1f12562288021b4b2e4941382fe63e5de</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/e5025861-2242-4c7d-8804-790dc0a6bb75" alt="miniatura"/></p><p>Ministerstwo Infrastruktury przygotowało projekt nowelizacji rozporządzenia dotyczącego warunków technicznych pojazdów oraz ich niezbędnego wyposażenia. Zmiany mają rozszerzyć listę przedmiotów, które muszą znajdować się w samochodach osobowych. Chodzi o apteczkę pierwszej pomocy, która obecnie nie jest obowiązkowym wyposażeniem większości samochodów osobowych w Polsce.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/e5025861-2242-4c7d-8804-790dc0a6bb75" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/e5025861-2242-4c7d-8804-790dc0a6bb75" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/e5025861-2242-4c7d-8804-790dc0a6bb75"/>
+</item>
+<item>
+<title><![CDATA[ Polski gigant rekrutuje w naszym mieście. Sprawdź, kogo szukają i ile można zarobić ]]></title>
+<link>https://trybunalski.pl/wiadomosci/polski-gigant-rekrutuje-w-naszym-miescie-sprawdz-kogo-szukaja-i-ile-mozna-zarobic/ZeJPSyuC5L9tThZNLoIj</link>
+<guid isPermaLink="false">30f28ff92111f5d5e055457ff03595b1bdc591d9</guid>
+<pubDate>Thu, 12 Nov 2026 15:27:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2b30ff40-2d4c-4361-825f-fa5b65ebba93" alt="miniatura"/></p><p>Firma Allegro poszukuje pracowników do piotrkowskiego magazynu kurierskiego oraz sortowni przy ul. Logistycznej. Sprawdzamy, jakie oferty są dostępne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2b30ff40-2d4c-4361-825f-fa5b65ebba93" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2b30ff40-2d4c-4361-825f-fa5b65ebba93" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2b30ff40-2d4c-4361-825f-fa5b65ebba93"/>
+</item>
+<item>
+<title><![CDATA[ Niezwykła inicjatywa strażaków z regionu. Dzieci napisały już listy do Świętego Mikołaja ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niezwykla-inicjatywa-strazakow-z-naszego-powiatu-dzieci-napisaly-juz-listy-do-swietego-mikolaja/CmboCl4BhDcszPNKa69o</link>
+<guid isPermaLink="false">5fc58b6e4ecb59ac7533e30c3d6dbcd5b5907234</guid>
+<pubDate>Thu, 12 Nov 2026 14:23:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/5b60a78f-3436-4765-9bdd-4db6c35be9a6" alt="miniatura"/></p><p>Strażacy z Ochotniczej Straży Pożarnej w Rożniatowicach ponownie łączą siły, by wywołać uśmiech na twarzach dzieci. Druhowie zapraszają mieszkańców powiatu i okolic do udziału w szóstej edycji mikołajkowej zbiórki darów dla wychowanków Domu Dziecka w Piotrkowie Trybunalskim . Co więcej, każdy darczyńca może spełnić konkretne marzenie zapisane w liście do Mikołaja.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/5b60a78f-3436-4765-9bdd-4db6c35be9a6" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/5b60a78f-3436-4765-9bdd-4db6c35be9a6" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/5b60a78f-3436-4765-9bdd-4db6c35be9a6"/>
+</item>
+<item>
+<title><![CDATA[ Chcesz żeby zoperował Cię robot? Szpital zaprasza na konsultacje ]]></title>
+<link>https://trybunalski.pl/wiadomosci/chcesz-zeby-zoperowal-cie-robot-szpital-zaprasza-na-konsultacje/i312Ht2xkypVDPvAygMj</link>
+<guid isPermaLink="false">2a379268e91c99243e0cd3f3a8a086e41ba15e0a</guid>
+<pubDate>Thu, 12 Nov 2026 13:34:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/11/articles/image/0348a676-3289-4456-b516-90fca4dce6da" alt="miniatura"/></p><p>Na konsultację w Szpitalu Kopernika w Łodzi mogą zgłosić się pacjenci z całego województwa, u których rozpoznano chorobę nowotworową lub zmianę wymagającą operacji. Nie muszą sami oceniać, czy możliwy jest zabieg z użyciem robota .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/11/articles/image/0348a676-3289-4456-b516-90fca4dce6da" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/11/articles/image/0348a676-3289-4456-b516-90fca4dce6da" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/11/articles/image/0348a676-3289-4456-b516-90fca4dce6da"/>
+</item>
+<item>
+<title><![CDATA[ Triumf zawodnika z Piotrkowa. Został mistrzem świata ]]></title>
+<link>https://trybunalski.pl/wiadomosci/sport/triumf-zawodnika-z-piotrkowa-zostal-mistrzem-swiata/GuctqIb7I5hbGrKMA90P</link>
+<guid isPermaLink="false">bf76d7c69ac389b1368ad487599a4cf4239b1a05</guid>
+<pubDate>Thu, 12 Nov 2026 12:57:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7d2fbcb5-7ef0-4b4a-8406-6d6420df7680" alt="miniatura"/></p><p>Mistrzostwa Świata organizacji ISKA (International Sport Kickboxing Association) odbywały się w dniach od 5 do 8 listopada 2026 roku w kompleksie sportowym w Aranjuez. Na matach i ringach pod Madrytem rywalizowali najlepsi zawodnicy z kilkudziesięciu krajów, jednak w swojej kategorii wagowej i formule bezapelacyjnie najlepszy okazał się reprezentant Piotrkowa Trybunalskiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7d2fbcb5-7ef0-4b4a-8406-6d6420df7680" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7d2fbcb5-7ef0-4b4a-8406-6d6420df7680" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7d2fbcb5-7ef0-4b4a-8406-6d6420df7680"/>
+</item>
+<item>
+<title><![CDATA[ 50-latek wpadł podczas kontroli pod Piotrkowem. Miał trzy dożywotnie zakazy, a to nie koniec ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/50-latek-wpadl-podczas-kontroli-pod-piotrkowem-mial-trzy-dozywotnie-zakazy-a-to-nie-koniec/B3lz7ojVjYMSbNtdxpYS</link>
+<guid isPermaLink="false">9fb49934bc24d6f86adc6109c40d5d53e3743d10</guid>
+<pubDate>Thu, 12 Nov 2026 12:45:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/2129181a-6c62-4294-b432-9e0a4f8f5644" alt="miniatura"/></p><p>Wszystko wydarzyło się 10 listopada na terenie Lubanowa w gminie Grabica. Funkcjonariusze Wydziału Ruchu Drogowego prowadzili tam statyczny pomiar prędkości. Około 9:40 zauważyli samochód osobowy marki Opel, którego kierujący poruszał się w kierunku Grabicy i przekraczał dozwoloną prędkość o 19 km/h. Dodatkowo pojazd nie miał włączonych przednich świateł mijania, dlatego też policjanci zatrzymali…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2129181a-6c62-4294-b432-9e0a4f8f5644" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2129181a-6c62-4294-b432-9e0a4f8f5644" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2129181a-6c62-4294-b432-9e0a4f8f5644"/>
 </item>
 <item>
 <title><![CDATA[ Uwaga kierowcy, rusza wielka akcja policji. Potrwa cały tydzień ]]></title>
@@ -1819,16 +2569,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
-<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
-</item>
-<item>
 <title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
 <link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
 <guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
@@ -1837,6 +2577,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
+</item>
+<item>
+<title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
+<guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" alt="miniatura"/></p><p>Grupa polskich samolotów F-35 liczy już dziesięć sztuk. Najnowszy jej członek wylądował w 32 Bazie Lotnictwa Taktycznego w Łasku 27 października. Jak zapowiada dowództwo bazy, wkrótce dołączy do pozostałych, z którymi będzie realizować zadania operacyjne.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
