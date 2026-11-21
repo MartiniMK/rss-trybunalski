@@ -6,8 +6,28 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 21 Nov 2026 01:30:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 09:44:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Odcinkowe pomiary długie na 50 km. Na horyzoncie zmiany na autostradach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/odcinkowe-pomiary-dlugie-na-50-km-na-horyzoncie-zmiany-na-autostradach/71KMUqkUs036lCyQeGpv</link>
+<guid isPermaLink="false">7fed470e3a7b13c7e0c67c50c4d09de663176bf2</guid>
+<pubDate>Sat, 21 Nov 2026 10:13:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/621a0c57-9f55-4fda-8309-f821d48fea09" alt="miniatura"/></p><p>Na autostradzie A1 funkcjonuje obecnie najdłuższy stały odcinkowy pomiar prędkości w Polsce, którego długość wynosi około 19 kilometrów. Z kolei na autostradzie A2 między Łodzią a Warszawą zaplanowano jeszcze większy system obejmujący od 20 do 48 kilometrów trasy, co ma bezpośredni związek z prowadzonymi w tym miejscu pracami drogowymi.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/621a0c57-9f55-4fda-8309-f821d48fea09" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/621a0c57-9f55-4fda-8309-f821d48fea09" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/621a0c57-9f55-4fda-8309-f821d48fea09"/>
+</item>
+<item>
+<title><![CDATA[ Przełomowa inwestycja w Łódzkiem. To koniec „białych plam”? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/przelomowa-inwestycja-w-lodzkiem-to-koniec-bialych-plam/vrWdUUo0ktb9iKIkSfHG</link>
+<guid isPermaLink="false">3e6b42dcdf76d277a883ac7b8d2e347782fb9420</guid>
+<pubDate>Sat, 21 Nov 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f14d09cb-4c0e-4641-b6cd-7e854b0e02d7" alt="miniatura"/></p><p>Od lat mieszkańcy Koła żyją w cyfrowej izolacji, która w kryzysowych chwilach staje się dla nich ogromnym zagrożeniem. W naszym reportażu pokazywaliśmy, jak brak zasięgu zmusza ich do szukania pojedynczych „kresek” sygnału w wyznaczonych miejscach na posesjach i stania w bezruchu podczas każdej rozmowy. Problem jest szczególnie dotkliwy przy nagłych zdarzeniach, jak choćby wtedy, gdy zerwana linia…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f14d09cb-4c0e-4641-b6cd-7e854b0e02d7" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f14d09cb-4c0e-4641-b6cd-7e854b0e02d7" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f14d09cb-4c0e-4641-b6cd-7e854b0e02d7"/>
+</item>
 <item>
 <title><![CDATA[ LOTTO Superliga: Piotrkowianin zmieciony z parkietu! Klęska w Hali Relax ]]></title>
 <link>https://trybunalski.pl/wiadomosci/sport/lotto-superliga-piotrkowianin-zmieciony-z-parkietu-kleska-w-hali-relax/fppdgT3gdjWz19G8MmzR</link>
@@ -383,7 +403,7 @@
 <link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
 <guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
 <pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Piotrkowianin zmieciony z parkietu!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Odcinkowe pomiary długie na 50 km?</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
@@ -1029,16 +1049,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
-<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
-</item>
-<item>
 <title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
 <guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
@@ -1047,6 +1057,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
+</item>
+<item>
+<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
+<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -2719,16 +2739,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
-<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
-</item>
-<item>
 <title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
 <guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
@@ -2737,6 +2747,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
+</item>
+<item>
+<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
+<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -3269,16 +3289,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -3287,6 +3297,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -3519,16 +3539,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
-<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
-<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
-</item>
-<item>
 <title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
 <link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
 <guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
@@ -3539,14 +3549,14 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
-<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
-<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+<title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
+<link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
+<guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" alt="miniatura"/></p><p>Administracja rządowa w województwie łódzkim poszukuje nowych pracowników do struktur państwowych , oferując wakaty w urzędach wojewódzkich, inspekcjach weterynaryjnych i nie tylko. Na zatrudnionych czeka stabilna posada, a także szeroki pakiet benefitów, w tym dodatkowe roczne wynagrodzenie w postaci trzynastki, dodatki za wieloletnią pracę, nagrody jubileuszowe, a także rozbudowany system wsparc…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
 </item>
 <item>
 <title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
@@ -3557,6 +3567,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
+</item>
+<item>
+<title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
+<link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
+<guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" alt="miniatura"/></p><p>Wśród jedenastu nagrodzonych nauczycieli i dyrektorów z całego regionu aż dwa wyróżnienia trafiły do rąk przedstawicieli piotrkowskich placówek oświatowych prowadzonych przez Samorząd Województwa Łódzkiego.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
@@ -3963,7 +3983,7 @@
 <link>https://trybunalski.pl/wiadomosci/dojdzie-do-paralizu-sklepow-dino-strajk-generalny-w-newralgicznym-terminie/zHEIjmbJsiVFMvX4al77</link>
 <guid isPermaLink="false">e1534c106012435c877a0e46c0b864987bf76f0e</guid>
 <pubDate>Thu, 15 Oct 2026 17:13:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Piotrkowianin zmieciony z parkietu!</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" alt="miniatura"/></p><p>Odcinkowe pomiary długie na 50 km?</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/235b576e-8d8b-4662-8a9a-b6d5aa9a8f2e"/>
@@ -3987,25 +4007,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/469d7604-f14f-426c-9270-8245aa1d4344" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/469d7604-f14f-426c-9270-8245aa1d4344" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/469d7604-f14f-426c-9270-8245aa1d4344"/>
-</item>
-<item>
-<title><![CDATA[ Piorun uderzył w dom i wywołał pożar. Straty są ogromne, trwa zbiórka ]]></title>
-<link>https://trybunalski.pl/wiadomosci/piorun-uderzyl-w-dom-i-wywolal-pozar-straty-sa-ogromne-trwa-zbiorka/a7sSmgUX1dqzW3VhFtZc</link>
-<guid isPermaLink="false">a3314276c8caedc60d9779be457ed03f28251e1c</guid>
-<pubDate>Thu, 15 Oct 2026 15:40:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/f6a70a14-ee71-44c7-866d-7bfa66d7ef9a" alt="miniatura"/></p><p>Do dramatycznych wydarzeń doszło w nocy z 9 na 10 września. Podczas burzy piorun uderzył w budynek mieszkalny, w którym mieszkała pani Marta wraz z rodziną. Chwilę później dach stanął w płomieniach.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/f6a70a14-ee71-44c7-866d-7bfa66d7ef9a" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/f6a70a14-ee71-44c7-866d-7bfa66d7ef9a" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/f6a70a14-ee71-44c7-866d-7bfa66d7ef9a"/>
-</item>
-<item>
-<title><![CDATA[ Komunikat dla mieszkańców Łódzkiego. Chodzi o bezpieczeństwo ]]></title>
-<link>https://trybunalski.pl/wiadomosci/komunikat-dla-mieszkancow-lodzkiego-chodzi-o-bezpieczenstwo/xflZQcKyE75yjg9No8O2</link>
-<guid isPermaLink="false">e056c8d1f9d2a8bfc05a5f03ccb29814690f5c70</guid>
-<pubDate>Thu, 15 Oct 2026 12:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/4ea61641-483b-45fe-a3eb-f411475ad35b" alt="miniatura"/></p><p>Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenie pierwszego stopnia, które objęło aż 21 powiatów w województwie łódzkim. Alert obowiązuje od godziny 22:00 w czwartek, 15 października, do godziny 09:00 w piątek, 16 października. Synoptycy szacują prawdopodobieństwo wystąpienia niebezpiecznego zjawiska na 80 procent, a służby apelują o ostrożność.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/4ea61641-483b-45fe-a3eb-f411475ad35b" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/belchatow/articles/image/4ea61641-483b-45fe-a3eb-f411475ad35b" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/4ea61641-483b-45fe-a3eb-f411475ad35b"/>
 </item>
 </channel></rss>
