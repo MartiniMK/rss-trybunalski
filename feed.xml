@@ -6,7 +6,7 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 20 Nov 2026 20:07:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 01:30:42 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title><![CDATA[ LOTTO Superliga: Piotrkowianin zmieciony z parkietu! Klęska w Hali Relax ]]></title>
@@ -1029,16 +1029,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
-<link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
-<guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" alt="miniatura"/></p><p>Czajnik elektryczny działa bardzo krótko, ale w trakcie podgrzewania wody pobiera dużą moc. Dzienny pobór energii na poziomie 0,6 kWh kosztuje około 62 groszy . W skali roku przekłada się to na wydatek blisko 228 zł . Ostateczne koszty wynikają z wybranego modelu, sposobu eksploatacji sprzętu oraz obowiązującej ceny prądu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
-</item>
-<item>
 <title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
 <link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
 <guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
@@ -1047,6 +1037,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
+</item>
+<item>
+<title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
+<link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
+<guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" alt="miniatura"/></p><p>Czajnik elektryczny działa bardzo krótko, ale w trakcie podgrzewania wody pobiera dużą moc. Dzienny pobór energii na poziomie 0,6 kWh kosztuje około 62 groszy . W skali roku przekłada się to na wydatek blisko 228 zł . Ostateczne koszty wynikają z wybranego modelu, sposobu eksploatacji sprzętu oraz obowiązującej ceny prądu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -1949,16 +1949,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
-<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
-<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
-</item>
-<item>
 <title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
 <link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
 <guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
@@ -1967,6 +1957,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
+</item>
+<item>
+<title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
+<guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" alt="miniatura"/></p><p>W poniedziałek, 2 listopada około godziny 14:30 doszło do groźnie wyglądającego zdarzenia. Na rondzie u zbiegu ulic Logistycznej i Spedycyjnej w Piotrkowie, samochód ciężarowy wylądował na boku. Na miejsce ruszyły służby.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -3269,16 +3269,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -3287,6 +3277,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -3539,16 +3539,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
-<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
-<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
-<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
-</item>
-<item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dyrektorzy-z-piotrkowa-wsrod-najlepszych-w-regionie-odebrali-nagrody/kI2NVsuKuEgiC3dBmoLW</link>
 <guid isPermaLink="false">a456439dc68ed12df993c370c384631c7115cac0</guid>
@@ -3557,6 +3547,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/be9a9e14-7e63-4a56-b932-e5d58b335f0c"/>
+</item>
+<item>
+<title><![CDATA[ GIS ostrzega! Skażone mięso trafiło na póki do sklepów w Polsce ]]></title>
+<link>https://trybunalski.pl/wiadomosci/gis-ostrzega-skazone-mieso-trafilo-na-poki-do-sklepow-w-polsce/MwWKSGji6f51arAzBSVJ</link>
+<guid isPermaLink="false">b5116c2f4826a3cd3af5bed482f387f75e6f280a</guid>
+<pubDate>Mon, 19 Oct 2026 14:56:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" alt="miniatura"/></p><p>Główny Inspektorat Sanitarny poinformował 19 października 2026 roku o wykryciu bakterii Listeria monocytogenes w jednej z partii salami produkowanego przez firmę Bell Polska. Nieprawidłowości stwierdzono podczas urzędowych kontroli prowadzonych przez Inspekcję Weterynaryjną.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/894f6552-3c92-41ce-85af-2a2ae17fe3ef"/>
 </item>
 <item>
 <title><![CDATA[ Piękności z naszego miasta powalczą o wielki finał! Dwie reprezentantki w ścisłym gronie Polska Miss 2026 ]]></title>
