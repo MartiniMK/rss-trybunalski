@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sun, 22 Nov 2026 03:14:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 11:20:26 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ W naszym powiecie ktoś wygrał prawie 200 mln zł! Najwyższe wygrane w Lotto ]]></title>
+<link>https://trybunalski.pl/wiadomosci/w-naszym-powiecie-ktos-wygral-prawie-200-mln-zl-najwyzsze-wygrane-w-lotto/NsI3OboZgWXGuFn4Z8xk</link>
+<guid isPermaLink="false">1cd8014459a50c48348640f270d41c07c29c84ec</guid>
+<pubDate>Sun, 22 Nov 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/8571fc31-6dd4-4269-b306-629a2e5d9ca2" alt="miniatura"/></p><p>O wielkich wygranych w grach liczbowych słyszał każdy – raz padają w dużych miastach, innym razem w niewielkich miejscowościach, zawsze rozpalając wyobraźnię graczy i osób, które z ciekawością śledzą losowania. Najczęściej emocje wzbudza klasyczne Lotto, od lat nazywane „grą milionerów”. To tam kumulacje potrafią sięgać kilkunastu, a nawet kilkudziesięciu milionów złotych, a zdobycie „szóstki” sta…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/8571fc31-6dd4-4269-b306-629a2e5d9ca2" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/8571fc31-6dd4-4269-b306-629a2e5d9ca2" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/8571fc31-6dd4-4269-b306-629a2e5d9ca2"/>
+</item>
 <item>
 <title><![CDATA[ Czołówka pod Piotrkowem. 19-latek zasnął za kierownicą ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/czolowka-pod-piotrkowem-19-latek-zasnal-za-kierownica/R5AeMUs3SiGCJasoWc6T</link>
@@ -37,16 +47,6 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c96d035d-2c42-4f67-980a-9bafc0656cef" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c96d035d-2c42-4f67-980a-9bafc0656cef" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c96d035d-2c42-4f67-980a-9bafc0656cef"/>
-</item>
-<item>
-<title><![CDATA[ Ile Skolim bierze za minutę koncertu? Gminy pokazały faktury, kwoty są ogromne ]]></title>
-<link>https://trybunalski.pl/wiadomosci/ile-skolim-bierze-za-minute-koncertu-gminy-pokazaly-faktury-kwoty-sa-ogromne/VgUC7ygpVUAfApKJVRru</link>
-<guid isPermaLink="false">3633308ebcd43c2f2645b8dd107822e647d0d060</guid>
-<pubDate>Sat, 21 Nov 2026 15:33:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/af67e859-c037-48ac-ab27-086c724721b4" alt="miniatura"/></p><p>Konrad Skolimowski, znany szerzej jako Skolim, od kilku lat należy do czołówki najpopularniejszych wykonawców muzyki tanecznej w Polsce. Jego przebój „Wyglądasz idealnie” zdobył ogromną popularność, a kolejne utwory regularnie osiągają miliony odtworzeń.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/af67e859-c037-48ac-ab27-086c724721b4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/af67e859-c037-48ac-ab27-086c724721b4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/af67e859-c037-48ac-ab27-086c724721b4"/>
 </item>
 <item>
 <title><![CDATA[ Kto nie przyjdzie z wnioskiem, straci pieniądze i lata stażu. Tłumy ruszyły do ZUS ]]></title>
@@ -453,7 +453,7 @@
 <link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
 <guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
 <pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Masz akt notarialny? To nie wystarczy.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>W naszym powiecie ktoś wygrał prawie 200 mln zł!</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
@@ -1099,16 +1099,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/48d013ea-0b87-42ad-95ed-3e50256d236d"/>
 </item>
 <item>
-<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
-<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
-<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
-</item>
-<item>
 <title><![CDATA[ To zżera prądu tyle co ponad 60 lodówek. Jest w wielu domach ]]></title>
 <link>https://trybunalski.pl/wiadomosci/to-zzera-pradu-tyle-co-ponad-60-lodowek-jest-w-wielu-domach/vRk29Vb0fgFtvQesJ4AA</link>
 <guid isPermaLink="false">c09dc80d0194acf0b604cd49e2889f07024fa718</guid>
@@ -1117,6 +1107,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/321517bc-0a9c-4997-ac3e-f913c9834e63"/>
+</item>
+<item>
+<title><![CDATA[ Niesamowite znalezisko w naszym województwie. Prawie 1000 - letni skarb niczym z „Władcy Pierścieni” ]]></title>
+<link>https://trybunalski.pl/wiadomosci/niesamowite-znalezisko-w-naszym-wojewodztwie-prawie-1000-letni-skarb-niczym-z-wladcy-pierscieni/SXRgHV5LpAynvQgPRgvy</link>
+<guid isPermaLink="false">e7e247819945ed89137921959f266abeeee10453</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" alt="miniatura"/></p><p>Salomea z Bergu, będąca drugą żoną Bolesława III Krzywoustego, po śmierci męża w 1138 roku związała się z Łęczycą . Miejscowość ta stanowiła wówczas ważny ośrodek jej władzy. Z tą postacią wiąże się potoczna nazwa zabytku odkrytego w województwie łódzkim, określanego jako „pierścień księżnej Salomei”. Przypuszczano, że srebrna ozdoba mogła należeć do samej księżnej lub osoby z jej najbliższego oto…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/05f4b38a-5fd3-4058-994a-ab562c1c09af"/>
 </item>
 <item>
 <title><![CDATA[ Święto Niepodległości 2026 w Piotrkowie Trybunalskim. Tłumy mieszkańców na obchodach 11 listopada ZDJĘCIA ]]></title>
@@ -3339,16 +3339,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
-<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
-<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
-</item>
-<item>
 <title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
 <link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
 <guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
@@ -3357,6 +3347,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
+</item>
+<item>
+<title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
+<link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
+<guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" alt="miniatura"/></p><p>Zmiany w strukturze organizacyjnej Samodzielnego Szpitala Wojewódzkiego im. Mikołaja Kopernika w Piotrkowie Trybunalskim były przedmiotem obrad Sejmiku Województwa Łódzkiego. Radni zajęli się uchwałą dotyczącą nadania placówce nowego statutu.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -3589,16 +3589,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/d821f6e7-f440-4b92-81df-4d52b0fb4b8b"/>
 </item>
 <item>
-<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
-<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
-<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
-<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
-</item>
-<item>
 <title><![CDATA[ Urzędy w Łódzkiem szukają pracowników. Wynagrodzenia sięgają blisko 8 tys. zł ]]></title>
 <link>https://trybunalski.pl/wiadomosci/urzedy-w-lodzkiem-szukaja-pracownikow-wynagrodzenia-siegaja-blisko-8-tys-zl/nTWmiDi2DGLTybq6ioyV</link>
 <guid isPermaLink="false">6bf3fa679abf038ac9bcddc7a72c7936187424c4</guid>
@@ -3607,6 +3597,16 @@
 <enclosure url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/dcc7be8e-eb92-4739-9a56-d6ee17e5199f"/>
+</item>
+<item>
+<title><![CDATA[ Amstaff Gacuś pogryzł 7-latka w Piotrkowie. Wiemy, co stało się z psem ]]></title>
+<link>https://trybunalski.pl/wiadomosci/amstaff-pogryzl-7-latka-w-piotrkowie-wiemy-co-stalo-sie-z-psem/xpcjdIWHv0arL0IQDmxz</link>
+<guid isPermaLink="false">c3bf0932c42ffdffd34a09adfc8abf789f66cd21</guid>
+<pubDate>Mon, 19 Oct 2026 15:20:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" alt="miniatura"/></p><p>Przypomnijmy. Do zdarzenia doszło 22 sierpnia 2026 roku w jednym z bloków przy ulicy Modrzewskiego w Piotrkowie Trybunalskim. Siedmioletni chłopiec wracał do mieszkania, kiedy został zaatakowany przez psa rasy American Staffordshire Terrier. Dziecko doznało licznych obrażeń ciała i zostało przewiezione do szpitala.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/db22979b-f79e-440a-b55e-3f9da81009c9"/>
 </item>
 <item>
 <title><![CDATA[ Dyrektorzy z Piotrkowa wśród najlepszych w regionie! Odebrali nagrody ]]></title>
