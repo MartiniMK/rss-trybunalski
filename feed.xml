@@ -6,8 +6,18 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 27 Nov 2026 00:00:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:19:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Pilne! Wypadek na A1 pod Piotrkowem. Autostrada całkowicie zablokowana! ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/pilne-wypadek-na-a1-pod-piotrkowem-autostrada-calkowicie-zablokowana/tcBRIYcbJWCExj0BQhfm</link>
+<guid isPermaLink="false">5ccab41445770c4008b18324011f055e4daed80e</guid>
+<pubDate>Fri, 27 Nov 2026 07:58:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7ce8a0fd-085e-4247-90e0-91d22fb8e35a" alt="miniatura"/></p><p>W piątek, 27 listopada, przed godziną 8:00 piotrkowska policja poinformowała o zdarzeniu drogowym na autostradzie A1 na wysokości miejscowości Sierosław. Do zderzenia doszło na jezdni prowadzącej w kierunku Gdańska.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7ce8a0fd-085e-4247-90e0-91d22fb8e35a" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7ce8a0fd-085e-4247-90e0-91d22fb8e35a" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7ce8a0fd-085e-4247-90e0-91d22fb8e35a"/>
+</item>
 <item>
 <title><![CDATA[ Robisz to zimą, przed wyjazdem do pracy? Możesz dostać wysoki mandat ]]></title>
 <link>https://trybunalski.pl/wiadomosci/robisz-to-zima-przed-wyjazdem-do-pracy-mozesz-dostac-wysoki-mandat/9Bi2qOL4JKUtitIVuJFG</link>
@@ -29,16 +39,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/39df2beb-7753-4dde-ab04-2387ef8e900b"/>
 </item>
 <item>
-<title><![CDATA[ Myśleli, że wszystko zniknie w toalecie. W gminie mają poważny problem, jest apel do mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mysleli-ze-wszystko-zniknie-w-toalecie-w-gminie-maja-powazny-problem-jest-apel-do-mieszkancow/lsDBny8QG7HmdGHA1oSA</link>
-<guid isPermaLink="false">72a34ecd4a5cb939e114310f32bc347cdd232936</guid>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" alt="miniatura"/></p><p>Zatkane rury, uszkodzone urządzenia i konieczność przeprowadzania kosztownych napraw. Z takimi problemami musi mierzyć się Przedsiębiorstwo Komunalne w Moszczenicy. Jak wynika z opublikowanego przez spółkę komunikatu, do poważnych awarii sieci kanalizacyjnej przyczyniają się sami użytkownicy.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f"/>
-</item>
-<item>
 <title><![CDATA[ Polska ma już 12 maszyn F-35. Najnowsze przyleciały do Łasku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polska-ma-juz-12-maszyn-f-35-najnowsze-przylecialy-do-lasku/KStD4dYuP584ql7GZvOg</link>
 <guid isPermaLink="false">acd2b90a95194df9e091ec13fcf21ecd0cfeef83</guid>
@@ -47,6 +47,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992"/>
+</item>
+<item>
+<title><![CDATA[ Myśleli, że wszystko zniknie w toalecie. W gminie mają poważny problem, jest apel do mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mysleli-ze-wszystko-zniknie-w-toalecie-w-gminie-maja-powazny-problem-jest-apel-do-mieszkancow/lsDBny8QG7HmdGHA1oSA</link>
+<guid isPermaLink="false">72a34ecd4a5cb939e114310f32bc347cdd232936</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" alt="miniatura"/></p><p>Zatkane rury, uszkodzone urządzenia i konieczność przeprowadzania kosztownych napraw. Z takimi problemami musi mierzyć się Przedsiębiorstwo Komunalne w Moszczenicy. Jak wynika z opublikowanego przez spółkę komunikatu, do poważnych awarii sieci kanalizacyjnej przyczyniają się sami użytkownicy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f"/>
 </item>
 <item>
 <title><![CDATA[ Ruszają kontrole w gminach. Co dokładnie będą sprawdzać? ]]></title>
@@ -993,7 +1003,7 @@
 <link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
 <guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
 <pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Robisz to zimą, przed wyjazdem do pracy?</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Pilne! Wypadek na A1 pod Piotrkowem.</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
@@ -2559,16 +2569,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
-<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
-</item>
-<item>
 <title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
 <guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
@@ -2577,6 +2577,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
+</item>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
+<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -3329,16 +3339,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/a0b51960-953e-4270-b12b-0d64acae707f"/>
 </item>
 <item>
-<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
-<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
-<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
-</item>
-<item>
 <title><![CDATA[ Dziesiąty F-35 już w bazie w Łasku. Następne będą lądować do końca roku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/dziesiaty-f-35-juz-w-bazie-w-lasku-nastepne-beda-ladowac-do-konca-roku/oXucLSbrhTI0UtPfxjof</link>
 <guid isPermaLink="false">44cb5c98c0b156770da53213de9c54eaee522956</guid>
@@ -3347,6 +3347,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/65f6b1a4-2781-4f0c-8d58-c0d7077121b8"/>
+</item>
+<item>
+<title><![CDATA[ Między promocją z marketu a pracą artystyczną. Co Piotrkowianie kładą dziś na grobach? ]]></title>
+<link>https://trybunalski.pl/wiadomosci/miedzy-promocja-z-marketu-a-praca-artystyczna-co-piotrkowianie-klada-dzis-na-grobach/A6AIYNpSmC3RfdJuhcoQ</link>
+<guid isPermaLink="false">ca455b975a6ed86933e7a2e94155c1016027cdad</guid>
+<pubDate>Tue, 27 Oct 2026 16:04:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" alt="miniatura"/></p><p>Na kilka dni przed 1 listopada handel przy cmentarzu powoli nabiera tempa. Sprzedawcy oferują bogaty asortyment – od klasycznych wkładów i kwiatów, po nowoczesne oświetlenie solarne oraz luksusowe, indywidualnie projektowane stroiki. Zapytaliśmy, jak wygląda sprzedaż i czy marketowe oferty wypierają małych przedsiębiorców.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/aa2d6e2e-b83d-4127-b9ab-d69e12f39939"/>
 </item>
 <item>
 <title><![CDATA[ Mieszkańcy pokazali, na co ich stać. Strażacy wywieźli prawie 10 ton! ]]></title>
@@ -3879,16 +3889,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/86d70d0f-eea5-4eb7-983d-f94e4d52cd79"/>
 </item>
 <item>
-<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
-<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
-<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
-</item>
-<item>
 <title><![CDATA[ Rewolucja w szpitalu w woj. łódzkim. Powstaną nowe pracownie, poradnia i pododdział ]]></title>
 <link>https://trybunalski.pl/wiadomosci/rewolucja-w-szpitalu-w-woj-lodzkim-powstana-nowe-pracownie-poradnia-i-pododdzial/BCvsgJUG51Bh8SMcNoge</link>
 <guid isPermaLink="false">ef56769762cd85eba936ec452a58e4d796320577</guid>
@@ -3897,6 +3897,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/c3b0a027-75f4-4d3b-b0e5-d5a5cd15be38"/>
+</item>
+<item>
+<title><![CDATA[ Dym w internacie w powiecie piotrkowskim. Ewakuowano młodzież i personel ]]></title>
+<link>https://trybunalski.pl/wiadomosci/na-sygnale/dym-w-internacie-w-powiecie-piotrkowskim-ewakuowano-mlodziez-i-personel/jdEArdu4l2IVqNtgDypo</link>
+<guid isPermaLink="false">4a1ae91f5276f27db663b46a75bbe852d47e4a1a</guid>
+<pubDate>Thu, 22 Oct 2026 09:55:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" alt="miniatura"/></p><p>W środę, 21 października w internacie Zespołu Szkół Centrum Kształcenia Ustawicznego im. Andrzeja Frycza Modrzewskiego w Wolborzu przeprowadzono ćwiczenia ewakuacyjne z udziałem strażaków.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4cbcccc4-26bc-4930-82a7-439ae8216364"/>
 </item>
 <item>
 <title><![CDATA[ Od dzisiaj w woj. łódzkim rusza akcja policyjna. Będą odbierać dowody rejestracyjne, mandaty do 3 tys. zł ]]></title>
@@ -3987,15 +3997,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/310ceb78-615b-4369-9712-322f0149d696" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/310ceb78-615b-4369-9712-322f0149d696" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/310ceb78-615b-4369-9712-322f0149d696"/>
-</item>
-<item>
-<title><![CDATA[ Tłumy kobiet w ZUS. Kto pracujący przed 1999 rokiem musi złożyć dokumenty? ]]></title>
-<link>https://trybunalski.pl/wiadomosci/tlumy-kobiet-w-zus-kto-pracujacy-przed-1999-rokiem-musi-zlozyc-dokumenty/LA89IF9NRDKrnQoQOrMV</link>
-<guid isPermaLink="false">f12d6c4b0912533400ace5938b2a1ddd20372487</guid>
-<pubDate>Wed, 21 Oct 2026 08:22:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/b0337805-6ef3-4403-9dc2-31001ad32dfd" alt="miniatura"/></p><p>W placówkach Zakładu Ubezpieczeń Społecznych pojawia się coraz więcej pytań dotyczących ponownego przeliczania emerytur. Szczególnie zainteresowane są kobiety, które przed 1 stycznia 1999 roku pracowały zawodowo, korzystały z urlopów wychowawczych lub sprawowały opiekę nad dziećmi. Wątpliwości dotyczą przede wszystkim kapitału początkowego, czyli wartości składek emerytalnych ustalanej za okresy u…</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/b0337805-6ef3-4403-9dc2-31001ad32dfd" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/b0337805-6ef3-4403-9dc2-31001ad32dfd" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/b0337805-6ef3-4403-9dc2-31001ad32dfd"/>
 </item>
 </channel></rss>
