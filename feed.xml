@@ -6,8 +6,38 @@
 <description>Automatyczny RSS z kategorii Wiadomości portalu Trybunalski.pl.</description>
 <atom:link rel="self" type="application/rss+xml" href="https://MartiniMK.github.io/rss-trybunalski/feed.xml?v=4"/>
 <language>pl-PL</language>
-<lastBuildDate>Sat, 28 Nov 2026 02:05:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 10:17:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title><![CDATA[ Czy jutro, 29 listopada, jest niedziela handlowa? Sprawdź, które sklepy będą otwarte ]]></title>
+<link>https://trybunalski.pl/wiadomosci/czy-jutro-29-listopada-jest-niedziela-handlowa-sprawdz-ktore-sklepy-beda-otwarte/17A0oLrCpqzsZME2YJ36</link>
+<guid isPermaLink="false">69ed9ea20bb5e810b0c2792a5f6792f5a76b5997</guid>
+<pubDate>Sat, 28 Nov 2026 10:42:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ezdunska/articles/image/1f9246ab-55b2-47f4-8d2f-d0b248a3ccf0" alt="miniatura"/></p><p>Osoby, które planowały większe zakupy na zakończenie listopada, powinny wcześniej sprawdzić kalendarz handlowy. Niedziela 29 listopada 2026 roku jest niedzielą niehandlową. Oznacza to, że większość dużych sklepów, supermarketów i galerii handlowych pozostanie zamknięta.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/1f9246ab-55b2-47f4-8d2f-d0b248a3ccf0" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/ezdunska/articles/image/1f9246ab-55b2-47f4-8d2f-d0b248a3ccf0" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/1f9246ab-55b2-47f4-8d2f-d0b248a3ccf0"/>
+</item>
+<item>
+<title><![CDATA[ Kobiety dostaną wezwania wojskowe. Podano roczniki i zawody na 2027 rok ]]></title>
+<link>https://trybunalski.pl/wiadomosci/kobiety-dostana-wezwania-wojskowe-podano-roczniki-i-zawody-na-2027-rok/AGq3vXCZPvj4uBdoeRm1</link>
+<guid isPermaLink="false">b9d7a8432cd6f3ec9bf72cf946f2bc5e9c8562ae</guid>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/belchatow/articles/image/9f0d8e79-c651-44f4-9c3a-95a9952b8ace" alt="miniatura"/></p><p>Przyszłoroczna kwalifikacja wojskowa ma objąć około 245 tys. osób. Przed komisjami będą musieli stawić się nie tylko mężczyźni, ale również kobiety posiadające umiejętności i kwalifikacje przydatne Siłom Zbrojnym RP.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/belchatow/articles/image/9f0d8e79-c651-44f4-9c3a-95a9952b8ace" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/belchatow/articles/image/9f0d8e79-c651-44f4-9c3a-95a9952b8ace" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/belchatow/articles/image/9f0d8e79-c651-44f4-9c3a-95a9952b8ace"/>
+</item>
+<item>
+<title><![CDATA[ Tyle bierze Maryla Rodowicz za koncert w 2026 r. Wiemy, jaki rachunek dostała gmina ]]></title>
+<link>https://trybunalski.pl/wiadomosci/tyle-bierze-maryla-rodowicz-za-koncert-w-2026-r-wiemy-jaki-rachunek-dostala-gmina/Th2tuafVMbKN1ZJvow7Z</link>
+<guid isPermaLink="false">6b66dc3896474a577341bfbc338ab69c806ff9ce</guid>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/fa367dd8-5f2c-4568-ada8-0bca59a31e54" alt="miniatura"/></p><p>Organizacja dużych imprez plenerowych z roku na rok staje się dla samorządów coraz poważniejszym obciążeniem budżetowym. Przekonała się o tym gmina Bełchatów, w której tegoroczne dożynki – zorganizowane w Domiechowicach – okazały się najdroższą edycją w ostatnich latach. Z danych udostępnionych przez Gminny Ośrodek Kultury oraz Centrum Sportu i Promocji wynika, że wydatki na wydarzenie wzrosły bli…</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/fa367dd8-5f2c-4568-ada8-0bca59a31e54" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/fa367dd8-5f2c-4568-ada8-0bca59a31e54" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/fa367dd8-5f2c-4568-ada8-0bca59a31e54"/>
+</item>
 <item>
 <title><![CDATA[ Stopnie alarmowe w woj. łódzkim i całej Polsce. Premier podjął decyzję, służby apelują do mieszkańców ]]></title>
 <link>https://trybunalski.pl/wiadomosci/stopnie-alarmowe-w-woj-lodzkim-i-calej-polsce-premier-podjal-decyzje-sluzby-apeluja-do-mieszkancow/Xj9XjlEUtYKgILr1NLun</link>
@@ -189,16 +219,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/39df2beb-7753-4dde-ab04-2387ef8e900b"/>
 </item>
 <item>
-<title><![CDATA[ Myśleli, że wszystko zniknie w toalecie. W gminie mają poważny problem, jest apel do mieszkańców ]]></title>
-<link>https://trybunalski.pl/wiadomosci/mysleli-ze-wszystko-zniknie-w-toalecie-w-gminie-maja-powazny-problem-jest-apel-do-mieszkancow/lsDBny8QG7HmdGHA1oSA</link>
-<guid isPermaLink="false">72a34ecd4a5cb939e114310f32bc347cdd232936</guid>
-<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" alt="miniatura"/></p><p>Zatkane rury, uszkodzone urządzenia i konieczność przeprowadzania kosztownych napraw. Z takimi problemami musi mierzyć się Przedsiębiorstwo Komunalne w Moszczenicy. Jak wynika z opublikowanego przez spółkę komunikatu, do poważnych awarii sieci kanalizacyjnej przyczyniają się sami użytkownicy.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f"/>
-</item>
-<item>
 <title><![CDATA[ Polska ma już 12 maszyn F-35. Najnowsze przyleciały do Łasku ]]></title>
 <link>https://trybunalski.pl/wiadomosci/polska-ma-juz-12-maszyn-f-35-najnowsze-przylecialy-do-lasku/KStD4dYuP584ql7GZvOg</link>
 <guid isPermaLink="false">acd2b90a95194df9e091ec13fcf21ecd0cfeef83</guid>
@@ -207,6 +227,16 @@
 <enclosure url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ezdunska/articles/image/8ca89057-93c6-420a-9fef-67d60ecf2992"/>
+</item>
+<item>
+<title><![CDATA[ Myśleli, że wszystko zniknie w toalecie. W gminie mają poważny problem, jest apel do mieszkańców ]]></title>
+<link>https://trybunalski.pl/wiadomosci/mysleli-ze-wszystko-zniknie-w-toalecie-w-gminie-maja-powazny-problem-jest-apel-do-mieszkancow/lsDBny8QG7HmdGHA1oSA</link>
+<guid isPermaLink="false">72a34ecd4a5cb939e114310f32bc347cdd232936</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" alt="miniatura"/></p><p>Zatkane rury, uszkodzone urządzenia i konieczność przeprowadzania kosztownych napraw. Z takimi problemami musi mierzyć się Przedsiębiorstwo Komunalne w Moszczenicy. Jak wynika z opublikowanego przez spółkę komunikatu, do poważnych awarii sieci kanalizacyjnej przyczyniają się sami użytkownicy.</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/4ca2c5ae-ef80-4cb8-9fa2-60fa9165105f"/>
 </item>
 <item>
 <title><![CDATA[ Ruszają kontrole w gminach. Co dokładnie będą sprawdzać? ]]></title>
@@ -1153,7 +1183,7 @@
 <link>https://trybunalski.pl/wiadomosci/pojechal-z-zelowa-do-piotrkowa-i-przepadl-policja-szuka-zaginionego/QmiZVFhqoA0ZhwCsSmBh</link>
 <guid isPermaLink="false">af82cc8382ef05743401832ab5523fe1dd087d76</guid>
 <pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Stopnie alarmowe w woj. łódzkim i całej Polsce.</p> ]]></description>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" alt="miniatura"/></p><p>Czy jutro 29 listopada, jest niedziela handlowa?</p> ]]></description>
 <enclosure url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/ddzelow/articles/image/ff90cb30-e845-4695-8e4a-14de15c4da69"/>
@@ -2719,16 +2749,6 @@
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/34499583-448d-4b29-bd02-d211cd6a23f5"/>
 </item>
 <item>
-<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
-<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
-<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
-<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
-</item>
-<item>
 <title><![CDATA[ Wypadek na rondzie w Piotrkowie. Ciężarówka przewróciła się na bok ]]></title>
 <link>https://trybunalski.pl/wiadomosci/wypadek-na-rondzie-w-piotrkowie-ciezarowka-przewrocila-sie-na-bok/6AZJRyQvVgyuFtWkqhgO</link>
 <guid isPermaLink="false">f7080bd65b74e0f3f297e3577cf02d338dcbcf52</guid>
@@ -2737,6 +2757,16 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/dad44402-57bf-4d60-ae05-88936583e826"/>
+</item>
+<item>
+<title><![CDATA[ Święto Niepodległości w Piotrkowie Trybunalskim. Program obchodów ]]></title>
+<link>https://trybunalski.pl/wiadomosci/swieto-niepodleglosci-w-piotrkowie-trybunalskim-program-obchodow/Gr6VHQxqOCZ3imJOGLAl</link>
+<guid isPermaLink="false">5792640152595f9503bc9b57d07e8a7f82630d49</guid>
+<pubDate>Tue, 03 Nov 2026 10:41:00 +0000</pubDate>
+<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" alt="miniatura"/></p><p>Obchody 108. rocznicy odzyskania przez Polskę niepodległości w Piotrkowie Trybunalskim rozpoczną się 11 listopada o godzinie 10 mszą świętą w intencji Ojczyzny. O godzinie 11 na Placu Kościuszki odbędą się oficjalne uroczystości w asyście Kompanii Honorowej 25. Brygady Kawalerii Powietrznej .</p> ]]></description>
+<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" type="image/*"/>
+<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4" medium="image"/>
+<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/0148ec0d-8342-4565-bd80-79563c124fc4"/>
 </item>
 <item>
 <title><![CDATA[ „Szybcy i wściekli” na ulicach Piotrkowa. Do akcji wkroczyła policja ]]></title>
@@ -3967,35 +3997,5 @@
 <enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/2fbeddae-e2ab-40cb-bfaa-d46cda263573" type="image/*"/>
 <media:content url="https://static.trybunalski.pl/trybunalski/articles/image/2fbeddae-e2ab-40cb-bfaa-d46cda263573" medium="image"/>
 <media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/2fbeddae-e2ab-40cb-bfaa-d46cda263573"/>
-</item>
-<item>
-<title><![CDATA[ Pierwszy taki festiwal w Piotrkowie. Nowe wydarzenie w mieście już wkrótce ]]></title>
-<link>https://trybunalski.pl/wiadomosci/pierwszy-taki-festiwal-w-piotrkowie-nowe-wydarzenie-w-miescie-juz-wkrotce/w5bZybzrgXu8eT7hlmV8</link>
-<guid isPermaLink="false">cde0dcd887d8481b51da1acda2da2eb1741a8cb0</guid>
-<pubDate>Thu, 22 Oct 2026 12:56:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/16120fab-edaf-4629-bd03-55151b148988" alt="miniatura"/></p><p>Mieszkańcy Piotrkowa będą mieli okazję do wspólnego spędzania czasu podczas pierwszego w naszym mieście Festiwalu Jesieni. Poznaliśmy szczegóły wydarzenia. Szykuje się poczęstunek, fotobudka i modowe widowisko, a to nie wszystko.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/16120fab-edaf-4629-bd03-55151b148988" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/16120fab-edaf-4629-bd03-55151b148988" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/16120fab-edaf-4629-bd03-55151b148988"/>
-</item>
-<item>
-<title><![CDATA[ Brutalny rozbój w woj. łódzkim. Napastnicy bili 29-latka pałkami, mieli też siekierę ]]></title>
-<link>https://trybunalski.pl/wiadomosci/na-sygnale/brutalny-rozboj-w-woj-lodzkim-napastnicy-bili-29-latka-palkami-mieli-tez-siekiere/8CKk6pyEIL6RdTmG9xmc</link>
-<guid isPermaLink="false">2e23a8d0abd5d4c6102396d368d9a13f1c89b745</guid>
-<pubDate>Thu, 22 Oct 2026 12:37:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/cbb958e4-8ab1-4fbd-afe7-23d96c75b050" alt="miniatura"/></p><p>Do zdarzenia doszło wieczorem 17 października 2026 roku przed jedną z kamienic w centrum Radomska. Grupa mężczyzn zaatakowała 29-latka, przewróciła go na ziemię i zaczęła bić. Napastnicy używali między innymi pałki teleskopowej.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/cbb958e4-8ab1-4fbd-afe7-23d96c75b050" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/cbb958e4-8ab1-4fbd-afe7-23d96c75b050" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/cbb958e4-8ab1-4fbd-afe7-23d96c75b050"/>
-</item>
-<item>
-<title><![CDATA[ Odmładzają stare miasto. Będą nowe mieszkania i nie tylko ]]></title>
-<link>https://trybunalski.pl/wiadomosci/miliony-zlotych-trafia-do-piotrkowa-zyska-wiele-rodzin/rT1SmXwj7aboHkrkdDmq</link>
-<guid isPermaLink="false">e782aedb912167d65edc729624d4f9bd9f4aeb57</guid>
-<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-<description><![CDATA[ <p><img src="https://static.trybunalski.pl/trybunalski/articles/image/7fb54140-7305-4467-9be6-2188b9151b53" alt="miniatura"/></p><p>Pieniądze zostaną przeznaczone na drugi etap projektu „Młode Stare Miasto w Piotrkowie Trybunalskim”. Obejmuje on budynki przy ulicy Jerozolimskiej 12 oraz Grodzkiej 1 i 3. Łączna wartość przedsięwzięcia przekracza 32 mln zł, z czego ponad 22,7 mln zł stanowi dofinansowanie ze środków unijnych.</p> ]]></description>
-<enclosure url="https://static.trybunalski.pl/trybunalski/articles/image/7fb54140-7305-4467-9be6-2188b9151b53" type="image/*"/>
-<media:content url="https://static.trybunalski.pl/trybunalski/articles/image/7fb54140-7305-4467-9be6-2188b9151b53" medium="image"/>
-<media:thumbnail url="https://static.trybunalski.pl/trybunalski/articles/image/7fb54140-7305-4467-9be6-2188b9151b53"/>
 </item>
 </channel></rss>
